@@ -1,0 +1,585 @@
+C:\Users\Norman\Documents\GitHub\ADCAS\ADCAS 0.4\bin\Debug\ADCAS.exe.config
+C:\Users\Norman\Documents\GitHub\ADCAS\ADCAS 0.4\bin\Debug\Aceros.accdb
+C:\Users\Norman\Documents\GitHub\ADCAS\ADCAS 0.4\bin\Debug\Secciones W.accdb
+C:\Users\Norman\Documents\GitHub\ADCAS\ADCAS 0.4\bin\Debug\ADCAS.exe
+C:\Users\Norman\Documents\GitHub\ADCAS\ADCAS 0.4\bin\Debug\ADCAS.pdb
+C:\Users\Norman\Documents\GitHub\ADCAS\ADCAS 0.4\bin\Debug\ADCAS.xml
+C:\Users\Norman\Documents\GitHub\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.Aceros.resources
+C:\Users\Norman\Documents\GitHub\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Norman\Documents\GitHub\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.ADCAS.resources
+C:\Users\Norman\Documents\GitHub\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.Secciones.resources
+C:\Users\Norman\Documents\GitHub\ADCAS\ADCAS 0.4\obj\Debug\ADCAS.vbproj.GenerateResource.Cache
+C:\Users\Norman\Documents\GitHub\ADCAS\ADCAS 0.4\obj\Debug\ADCAS.exe
+C:\Users\Norman\Documents\GitHub\ADCAS\ADCAS 0.4\obj\Debug\ADCAS.xml
+C:\Users\Norman\Documents\GitHub\ADCAS\ADCAS 0.4\obj\Debug\ADCAS.pdb
+C:\Users\JOEL\Documents\GitHub\ADCAS2\ADCAS 0.4\bin\Debug\ADCAS.exe.config
+C:\Users\JOEL\Documents\GitHub\ADCAS2\ADCAS 0.4\obj\Debug\ADCAS.exe
+C:\Users\JOEL\Documents\GitHub\ADCAS2\ADCAS 0.4\obj\Debug\ADCAS.xml
+C:\Users\JOEL\Documents\GitHub\ADCAS2\ADCAS 0.4\obj\Debug\ADCAS.pdb
+C:\Users\JOEL\Documents\GitHub\ADCAS2\ADCAS 0.4\bin\Debug\Aceros.accdb
+C:\Users\JOEL\Documents\GitHub\ADCAS2\ADCAS 0.4\bin\Debug\Secciones W.accdb
+C:\Users\JOEL\Documents\GitHub\ADCAS2\ADCAS 0.4\bin\Debug\ADCAS.exe
+C:\Users\JOEL\Documents\GitHub\ADCAS2\ADCAS 0.4\bin\Debug\ADCAS.pdb
+C:\Users\JOEL\Documents\GitHub\ADCAS2\ADCAS 0.4\bin\Debug\ADCAS.xml
+C:\Users\JOEL\Documents\GitHub\ADCAS2\ADCAS 0.4\obj\Debug\WindowsApplication1.Aceros.resources
+C:\Users\JOEL\Documents\GitHub\ADCAS2\ADCAS 0.4\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\JOEL\Documents\GitHub\ADCAS2\ADCAS 0.4\obj\Debug\WindowsApplication1.ADCAS.resources
+C:\Users\JOEL\Documents\GitHub\ADCAS2\ADCAS 0.4\obj\Debug\WindowsApplication1.Secciones.resources
+C:\Users\JOEL\Documents\GitHub\ADCAS2\ADCAS 0.4\obj\Debug\ADCAS.vbproj.GenerateResource.Cache
+C:\Users\Norman\Desktop\ADCAS2-Conexiones-FR2\ADCAS 0.4\bin\Debug\ADCAS.exe.config
+C:\Users\Norman\Desktop\ADCAS2-Conexiones-FR2\ADCAS 0.4\obj\Debug\ADCAS.exe
+C:\Users\Norman\Desktop\ADCAS2-Conexiones-FR2\ADCAS 0.4\obj\Debug\ADCAS.xml
+C:\Users\Norman\Desktop\ADCAS2-Conexiones-FR2\ADCAS 0.4\obj\Debug\ADCAS.pdb
+C:\Users\JOEL\Documents\GitHub\ADCAS2\ADCAS 0.4\bin\Debug\Pernos.accdb
+F:\ADCAS RESPALDO\ADCAS2\ADCAS 0.4\bin\Debug\ADCAS.exe.config
+F:\ADCAS RESPALDO\ADCAS2\ADCAS 0.4\obj\Debug\ADCAS.exe
+F:\ADCAS RESPALDO\ADCAS2\ADCAS 0.4\obj\Debug\ADCAS.xml
+F:\ADCAS RESPALDO\ADCAS2\ADCAS 0.4\obj\Debug\ADCAS.pdb
+F:\ADCAS RESPALDO\ADCAS2\ADCAS 0.4\bin\Debug\Aceros.accdb
+F:\ADCAS RESPALDO\ADCAS2\ADCAS 0.4\bin\Debug\Secciones W.accdb
+F:\ADCAS RESPALDO\ADCAS2\ADCAS 0.4\bin\Debug\Pernos.accdb
+F:\ADCAS RESPALDO\ADCAS2\ADCAS 0.4\bin\Debug\Secciones R.accdb
+F:\ADCAS RESPALDO\ADCAS2\ADCAS 0.4\bin\Debug\ADCAS.exe
+F:\ADCAS RESPALDO\ADCAS2\ADCAS 0.4\bin\Debug\ADCAS.pdb
+F:\ADCAS RESPALDO\ADCAS2\ADCAS 0.4\bin\Debug\ADCAS.xml
+F:\ADCAS RESPALDO\ADCAS2\ADCAS 0.4\obj\Debug\WindowsApplication1.Aceros.resources
+F:\ADCAS RESPALDO\ADCAS2\ADCAS 0.4\obj\Debug\WindowsApplication1.AceroBR.resources
+F:\ADCAS RESPALDO\ADCAS2\ADCAS 0.4\obj\Debug\WindowsApplication1.BRsecc.resources
+F:\ADCAS RESPALDO\ADCAS2\ADCAS 0.4\obj\Debug\WindowsApplication1.Resources.resources
+F:\ADCAS RESPALDO\ADCAS2\ADCAS 0.4\obj\Debug\WindowsApplication1.ADCAS.resources
+F:\ADCAS RESPALDO\ADCAS2\ADCAS 0.4\obj\Debug\WindowsApplication1.Secciones.resources
+F:\ADCAS RESPALDO\ADCAS2\ADCAS 0.4\obj\Debug\ADCAS.vbproj.GenerateResource.Cache
+C:\Users\JOEL\Documents\GitHub\ADCAS2\ADCAS 0.4\bin\Debug\EncroachmentDB.accdb
+C:\Users\JOEL\Documents\GitHub\ADCAS2\ADCAS 0.4\obj\Debug\WindowsApplication1.SplashScreen1.resources
+C:\Users\JOEL\Documents\GitHub\ADCAS2\ADCAS 0.4\obj\Debug\WindowsApplication1.AboutBox1.resources
+C:\Users\JOEL\Google Drive\ADCAS2\ADCAS 0.4\bin\Debug\ADCAS.exe.config
+C:\Users\JOEL\Google Drive\ADCAS2\ADCAS 0.4\obj\Debug\ADCAS.exe
+C:\Users\JOEL\Google Drive\ADCAS2\ADCAS 0.4\obj\Debug\ADCAS.xml
+C:\Users\JOEL\Google Drive\ADCAS2\ADCAS 0.4\obj\Debug\ADCAS.pdb
+C:\Users\JOEL\Google Drive\ADCAS2\ADCAS 0.4\bin\Debug\Aceros.accdb
+C:\Users\JOEL\Google Drive\ADCAS2\ADCAS 0.4\bin\Debug\EncroachmentDB.accdb
+C:\Users\JOEL\Google Drive\ADCAS2\ADCAS 0.4\bin\Debug\Secciones W.accdb
+C:\Users\JOEL\Google Drive\ADCAS2\ADCAS 0.4\bin\Debug\Pernos.accdb
+C:\Users\JOEL\Google Drive\ADCAS2\ADCAS 0.4\bin\Debug\Secciones R.accdb
+C:\Users\JOEL\Google Drive\ADCAS2\ADCAS 0.4\bin\Debug\ADCAS.exe
+C:\Users\JOEL\Google Drive\ADCAS2\ADCAS 0.4\bin\Debug\ADCAS.pdb
+C:\Users\JOEL\Google Drive\ADCAS2\ADCAS 0.4\bin\Debug\ADCAS.xml
+C:\Users\JOEL\Google Drive\ADCAS2\ADCAS 0.4\obj\Debug\WindowsApplication1.AboutBox1.resources
+C:\Users\JOEL\Google Drive\ADCAS2\ADCAS 0.4\obj\Debug\WindowsApplication1.Aceros.resources
+C:\Users\JOEL\Google Drive\ADCAS2\ADCAS 0.4\obj\Debug\WindowsApplication1.AceroBR.resources
+C:\Users\JOEL\Google Drive\ADCAS2\ADCAS 0.4\obj\Debug\WindowsApplication1.BRsecc.resources
+C:\Users\JOEL\Google Drive\ADCAS2\ADCAS 0.4\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\JOEL\Google Drive\ADCAS2\ADCAS 0.4\obj\Debug\WindowsApplication1.ADCAS.resources
+C:\Users\JOEL\Google Drive\ADCAS2\ADCAS 0.4\obj\Debug\WindowsApplication1.Secciones.resources
+C:\Users\JOEL\Google Drive\ADCAS2\ADCAS 0.4\obj\Debug\WindowsApplication1.SplashScreen1.resources
+C:\Users\JOEL\Google Drive\ADCAS2\ADCAS 0.4\obj\Debug\ADCAS.vbproj.GenerateResource.Cache
+C:\Users\Norman\Desktop\ADCAS2-Conexiones-FR6\ADCAS 0.4\bin\Debug\ADCAS.exe.config
+C:\Users\Norman\Desktop\ADCAS2-Conexiones-FR6\ADCAS 0.4\obj\Debug\ADCAS.exe
+C:\Users\Norman\Desktop\ADCAS2-Conexiones-FR6\ADCAS 0.4\obj\Debug\ADCAS.xml
+C:\Users\Norman\Desktop\ADCAS2-Conexiones-FR6\ADCAS 0.4\obj\Debug\ADCAS.pdb
+C:\Users\Norman\Desktop\ADCAS2-Conexiones-FR6\ADCAS 0.4\obj\Debug\WindowsApplication1.AboutBox1.resources
+C:\Users\Norman\Desktop\ADCAS2-Conexiones-FR6\ADCAS 0.4\obj\Debug\WindowsApplication1.Aceros.resources
+C:\Users\Norman\Desktop\ADCAS2-Conexiones-FR6\ADCAS 0.4\obj\Debug\WindowsApplication1.BRsecc2.resources
+C:\Users\Norman\Desktop\ADCAS2-Conexiones-FR6\ADCAS 0.4\obj\Debug\WindowsApplication1.AceroBR2.resources
+C:\Users\Norman\Desktop\ADCAS2-Conexiones-FR6\ADCAS 0.4\obj\Debug\WindowsApplication1.BRAcero.resources
+C:\Users\Norman\Desktop\ADCAS2-Conexiones-FR6\ADCAS 0.4\obj\Debug\WindowsApplication1.Carriostre.resources
+C:\Users\Norman\Desktop\ADCAS2-Conexiones-FR6\ADCAS 0.4\obj\Debug\WindowsApplication1.Carriostre2.resources
+C:\Users\Norman\Desktop\ADCAS2-Conexiones-FR6\ADCAS 0.4\obj\Debug\WindowsApplication1.Cviga.resources
+C:\Users\Norman\Desktop\ADCAS2-Conexiones-FR6\ADCAS 0.4\obj\Debug\WindowsApplication1.SeccBR.resources
+C:\Users\Norman\Desktop\ADCAS2-Conexiones-FR6\ADCAS 0.4\obj\Debug\WindowsApplication1.ADCAS.resources
+C:\Users\Norman\Desktop\ADCAS2-Conexiones-FR6\ADCAS 0.4\obj\Debug\WindowsApplication1.Secciones.resources
+C:\Users\Norman\Desktop\ADCAS2-Conexiones-FR6\ADCAS 0.4\obj\Debug\WindowsApplication1.SplashScreen1.resources
+C:\Users\Norman\Desktop\ADCAS2-Conexiones-FR6\ADCAS 0.4\obj\Debug\ADCAS.vbproj.GenerateResource.Cache
+C:\Users\Norman\Desktop\ADCAS2-Conexiones-FR6\ADCAS 0.4\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Norman\Desktop\ADCAS2-Conexiones-FR6\ADCAS 0.4\bin\Debug\Aceros.accdb
+C:\Users\Norman\Desktop\ADCAS2-Conexiones-FR6\ADCAS 0.4\bin\Debug\EncroachmentDB.accdb
+C:\Users\Norman\Desktop\ADCAS2-Conexiones-FR6\ADCAS 0.4\bin\Debug\Secciones W.accdb
+C:\Users\Norman\Desktop\ADCAS2-Conexiones-FR6\ADCAS 0.4\bin\Debug\Pernos.accdb
+C:\Users\Norman\Desktop\ADCAS2-Conexiones-FR6\ADCAS 0.4\bin\Debug\ADCAS.exe
+C:\Users\Norman\Desktop\ADCAS2-Conexiones-FR6\ADCAS 0.4\bin\Debug\ADCAS.pdb
+C:\Users\Norman\Desktop\ADCAS2-Conexiones-FR6\ADCAS 0.4\bin\Debug\ADCAS.xml
+C:\Users\Norman\Documents\Monografía\ADCAS\ADCAS 0.4\bin\Debug\ADCAS.exe.config
+C:\Users\Norman\Documents\Monografía\ADCAS\ADCAS 0.4\obj\Debug\ADCAS.exe
+C:\Users\Norman\Documents\Monografía\ADCAS\ADCAS 0.4\obj\Debug\ADCAS.xml
+C:\Users\Norman\Documents\Monografía\ADCAS\ADCAS 0.4\obj\Debug\ADCAS.pdb
+C:\Users\Norman\Documents\Monografía\ADCAS\ADCAS 0.4\bin\Debug\Aceros.accdb
+C:\Users\Norman\Documents\Monografía\ADCAS\ADCAS 0.4\bin\Debug\EncroachmentDB.accdb
+C:\Users\Norman\Documents\Monografía\ADCAS\ADCAS 0.4\bin\Debug\Secciones W.accdb
+C:\Users\Norman\Documents\Monografía\ADCAS\ADCAS 0.4\bin\Debug\Pernos.accdb
+C:\Users\Norman\Documents\Monografía\ADCAS\ADCAS 0.4\bin\Debug\ADCAS.exe
+C:\Users\Norman\Documents\Monografía\ADCAS\ADCAS 0.4\bin\Debug\ADCAS.pdb
+C:\Users\Norman\Documents\Monografía\ADCAS\ADCAS 0.4\bin\Debug\ADCAS.xml
+C:\Users\Norman\Documents\Monografía\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.AboutBox1.resources
+C:\Users\Norman\Documents\Monografía\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.Aceros.resources
+C:\Users\Norman\Documents\Monografía\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.BRsecc2.resources
+C:\Users\Norman\Documents\Monografía\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.AceroBR2.resources
+C:\Users\Norman\Documents\Monografía\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.BRAcero.resources
+C:\Users\Norman\Documents\Monografía\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.SeccBR.resources
+C:\Users\Norman\Documents\Monografía\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Norman\Documents\Monografía\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.ADCAS.resources
+C:\Users\Norman\Documents\Monografía\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.Secciones.resources
+C:\Users\Norman\Documents\Monografía\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.SplashScreen1.resources
+C:\Users\Norman\Documents\Monografía\ADCAS\ADCAS 0.4\obj\Debug\ADCAS.vbproj.GenerateResource.Cache
+C:\Users\Joel\Documents\GitHub\ADCAS2\ADCAS 0.4\obj\Debug\WindowsApplication1.BRsecc2.resources
+C:\Users\Joel\Documents\GitHub\ADCAS2\ADCAS 0.4\obj\Debug\WindowsApplication1.AceroBR2.resources
+C:\Users\Joel\Documents\GitHub\ADCAS2\ADCAS 0.4\obj\Debug\WindowsApplication1.BRAcero.resources
+C:\Users\Joel\Documents\GitHub\ADCAS2\ADCAS 0.4\obj\Debug\WindowsApplication1.Carriostre.resources
+C:\Users\Joel\Documents\GitHub\ADCAS2\ADCAS 0.4\obj\Debug\WindowsApplication1.Carriostre2.resources
+C:\Users\Joel\Documents\GitHub\ADCAS2\ADCAS 0.4\obj\Debug\WindowsApplication1.Cviga.resources
+C:\Users\Joel\Documents\GitHub\ADCAS2\ADCAS 0.4\obj\Debug\WindowsApplication1.SeccBR.resources
+C:\Users\Joel\Documents\GitHub\ADCAS2\ADCAS 0.4\obj\Debug\WindowsApplication1.OpcionesDiseño.resources
+C:\Users\Joel\Documents\GitHub\ADCAS2\ADCAS 0.4\obj\Debug\WindowsApplication1.AlturasEntrepiso.resources
+C:\Users\Joel\Documents\GitHub\ADCAS2-NuevoADCAS_definitivo\ADCAS 0.4\bin\Debug\ADCAS.exe.config
+C:\Users\Joel\Documents\GitHub\ADCAS2-NuevoADCAS_definitivo\ADCAS 0.4\obj\Debug\ADCAS.exe
+C:\Users\Joel\Documents\GitHub\ADCAS2-NuevoADCAS_definitivo\ADCAS 0.4\obj\Debug\ADCAS.xml
+C:\Users\Joel\Documents\GitHub\ADCAS2-NuevoADCAS_definitivo\ADCAS 0.4\obj\Debug\ADCAS.pdb
+C:\Users\Joel\Documents\GitHub\ADCAS_definitivo\ADCAS 0.4\bin\Debug\ADCAS.exe.config
+C:\Users\Joel\Documents\GitHub\ADCAS_definitivo\ADCAS 0.4\obj\Debug\ADCAS.exe
+C:\Users\Joel\Documents\GitHub\ADCAS_definitivo\ADCAS 0.4\obj\Debug\ADCAS.xml
+C:\Users\Joel\Documents\GitHub\ADCAS_definitivo\ADCAS 0.4\obj\Debug\ADCAS.pdb
+C:\Users\Joel\Documents\GitHub\ADCAS_definitivo\ADCAS 0.4\obj\Debug\WindowsApplication1.AboutBox1.resources
+C:\Users\Joel\Documents\GitHub\ADCAS_definitivo\ADCAS 0.4\obj\Debug\WindowsApplication1.Aceros.resources
+C:\Users\Joel\Documents\GitHub\ADCAS_definitivo\ADCAS 0.4\obj\Debug\WindowsApplication1.AlturasEntrepiso.resources
+C:\Users\Joel\Documents\GitHub\ADCAS_definitivo\ADCAS 0.4\obj\Debug\WindowsApplication1.BRsecc2.resources
+C:\Users\Joel\Documents\GitHub\ADCAS_definitivo\ADCAS 0.4\obj\Debug\WindowsApplication1.AceroBR2.resources
+C:\Users\Joel\Documents\GitHub\ADCAS_definitivo\ADCAS 0.4\obj\Debug\WindowsApplication1.BRAcero.resources
+C:\Users\Joel\Documents\GitHub\ADCAS_definitivo\ADCAS 0.4\obj\Debug\WindowsApplication1.Carriostre.resources
+C:\Users\Joel\Documents\GitHub\ADCAS_definitivo\ADCAS 0.4\obj\Debug\WindowsApplication1.Carriostre2.resources
+C:\Users\Joel\Documents\GitHub\ADCAS_definitivo\ADCAS 0.4\obj\Debug\WindowsApplication1.Cviga.resources
+C:\Users\Joel\Documents\GitHub\ADCAS_definitivo\ADCAS 0.4\obj\Debug\WindowsApplication1.MgDialog.resources
+C:\Users\Joel\Documents\GitHub\ADCAS_definitivo\ADCAS 0.4\obj\Debug\WindowsApplication1.OpcionesDiseño.resources
+C:\Users\Joel\Documents\GitHub\ADCAS_definitivo\ADCAS 0.4\obj\Debug\WindowsApplication1.SeccBR.resources
+C:\Users\Joel\Documents\GitHub\ADCAS_definitivo\ADCAS 0.4\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Joel\Documents\GitHub\ADCAS_definitivo\ADCAS 0.4\obj\Debug\WindowsApplication1.ADCAS.resources
+C:\Users\Joel\Documents\GitHub\ADCAS_definitivo\ADCAS 0.4\obj\Debug\WindowsApplication1.Secciones.resources
+C:\Users\Joel\Documents\GitHub\ADCAS_definitivo\ADCAS 0.4\obj\Debug\WindowsApplication1.SplashScreen1.resources
+C:\Users\Joel\Documents\GitHub\ADCAS_definitivo\ADCAS 0.4\obj\Debug\ADCAS.vbproj.GenerateResource.Cache
+C:\Users\Joel\Documents\GitHub\ADCAS_definitivo\ADCAS 0.4\bin\Debug\Aceros.accdb
+C:\Users\Joel\Documents\GitHub\ADCAS_definitivo\ADCAS 0.4\bin\Debug\EncroachmentDB.accdb
+C:\Users\Joel\Documents\GitHub\ADCAS_definitivo\ADCAS 0.4\bin\Debug\Secciones W.accdb
+C:\Users\Joel\Documents\GitHub\ADCAS_definitivo\ADCAS 0.4\bin\Debug\Pernos.accdb
+C:\Users\Joel\Documents\GitHub\ADCAS_definitivo\ADCAS 0.4\bin\Debug\ADCAS.exe
+C:\Users\Joel\Documents\GitHub\ADCAS_definitivo\ADCAS 0.4\bin\Debug\ADCAS.pdb
+C:\Users\Joel\Documents\GitHub\ADCAS_definitivo\ADCAS 0.4\bin\Debug\ADCAS.xml
+C:\Users\Joel\Documents\GitHub\ADCAS_definitivo\ADCAS 0.4\obj\Debug\WindowsApplication1.PanelZone.resources
+C:\Users\Joel\Documents\GitHub\ADCAS_definitivo\ADCAS 0.4\obj\Debug\WindowsApplication1.MomentoMpc.resources
+C:\Users\Joel\Documents\GitHub\ADCAS_definitivo\ADCAS 0.4\obj\Debug\WindowsApplication1.AnchoPlcont.resources
+C:\Users\Joel\Documents\GitHub\ADCAS_definitivo\ADCAS 0.4\obj\Debug\WindowsApplication1.PatinReducido.resources
+C:\Users\Norman\Documents\Monografía\ADCAS_definitivo-master\ADCAS 0.4\bin\Debug\ADCAS.exe.config
+C:\Users\Norman\Documents\Monografía\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\ADCAS.exe
+C:\Users\Norman\Documents\Monografía\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\ADCAS.xml
+C:\Users\Norman\Documents\Monografía\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\ADCAS.pdb
+C:\Users\Norman\Documents\Monografía\ADCAS_definitivo-master\ADCAS 0.4\bin\Debug\Aceros.accdb
+C:\Users\Norman\Documents\Monografía\ADCAS_definitivo-master\ADCAS 0.4\bin\Debug\EncroachmentDB.accdb
+C:\Users\Norman\Documents\Monografía\ADCAS_definitivo-master\ADCAS 0.4\bin\Debug\Secciones W.accdb
+C:\Users\Norman\Documents\Monografía\ADCAS_definitivo-master\ADCAS 0.4\bin\Debug\Pernos.accdb
+C:\Users\Norman\Documents\Monografía\ADCAS_definitivo-master\ADCAS 0.4\bin\Debug\ADCAS.exe
+C:\Users\Norman\Documents\Monografía\ADCAS_definitivo-master\ADCAS 0.4\bin\Debug\ADCAS.pdb
+C:\Users\Norman\Documents\Monografía\ADCAS_definitivo-master\ADCAS 0.4\bin\Debug\ADCAS.xml
+C:\Users\Norman\Documents\Monografía\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.AboutBox1.resources
+C:\Users\Norman\Documents\Monografía\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.Aceros.resources
+C:\Users\Norman\Documents\Monografía\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.AlturasEntrepiso.resources
+C:\Users\Norman\Documents\Monografía\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.AnchoPlcont.resources
+C:\Users\Norman\Documents\Monografía\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.BRsecc2.resources
+C:\Users\Norman\Documents\Monografía\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.AceroBR2.resources
+C:\Users\Norman\Documents\Monografía\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.BRAcero.resources
+C:\Users\Norman\Documents\Monografía\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.Carriostre.resources
+C:\Users\Norman\Documents\Monografía\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.Carriostre2.resources
+C:\Users\Norman\Documents\Monografía\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.Cviga.resources
+C:\Users\Norman\Documents\Monografía\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.MgDialog.resources
+C:\Users\Norman\Documents\Monografía\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.MomentoMpc.resources
+C:\Users\Norman\Documents\Monografía\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.OpcionesDiseño.resources
+C:\Users\Norman\Documents\Monografía\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.PanelZone.resources
+C:\Users\Norman\Documents\Monografía\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.PatinReducido.resources
+C:\Users\Norman\Documents\Monografía\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.SeccBR.resources
+C:\Users\Norman\Documents\Monografía\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Norman\Documents\Monografía\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.ADCAS.resources
+C:\Users\Norman\Documents\Monografía\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.Secciones.resources
+C:\Users\Norman\Documents\Monografía\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.SplashScreen1.resources
+C:\Users\Norman\Documents\Monografía\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\ADCAS.vbproj.GenerateResource.Cache
+C:\Users\Norman\Documents\Monografía\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.BrSecc.resources
+C:\Users\Norman\Documents\Monografía\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.AceroBr.resources
+E:\Monografía\ADCAS_definitivo-master\ADCAS 0.4\bin\Debug\ADCAS.exe.config
+E:\Monografía\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\ADCAS.exe
+E:\Monografía\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\ADCAS.xml
+E:\Monografía\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\ADCAS.pdb
+C:\Users\alberto sevilla\Documents\Norman\Monografía\ADCAS_definitivo-master\ADCAS 0.4\bin\Debug\ADCAS.exe.config
+C:\Users\alberto sevilla\Documents\Norman\Monografía\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\ADCAS.exe
+C:\Users\alberto sevilla\Documents\Norman\Monografía\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\ADCAS.xml
+C:\Users\alberto sevilla\Documents\Norman\Monografía\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\ADCAS.pdb
+C:\Users\alberto sevilla\Documents\Norman\Monografía\ADCAS_definitivo-master\ADCAS 0.4\bin\Debug\Aceros.accdb
+C:\Users\alberto sevilla\Documents\Norman\Monografía\ADCAS_definitivo-master\ADCAS 0.4\bin\Debug\EncroachmentDB.accdb
+C:\Users\alberto sevilla\Documents\Norman\Monografía\ADCAS_definitivo-master\ADCAS 0.4\bin\Debug\Secciones W.accdb
+C:\Users\alberto sevilla\Documents\Norman\Monografía\ADCAS_definitivo-master\ADCAS 0.4\bin\Debug\Pernos.accdb
+C:\Users\alberto sevilla\Documents\Norman\Monografía\ADCAS_definitivo-master\ADCAS 0.4\bin\Debug\ADCAS.exe
+C:\Users\alberto sevilla\Documents\Norman\Monografía\ADCAS_definitivo-master\ADCAS 0.4\bin\Debug\ADCAS.pdb
+C:\Users\alberto sevilla\Documents\Norman\Monografía\ADCAS_definitivo-master\ADCAS 0.4\bin\Debug\ADCAS.xml
+C:\Users\alberto sevilla\Documents\Norman\Monografía\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.AboutBox1.resources
+C:\Users\alberto sevilla\Documents\Norman\Monografía\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.Aceros.resources
+C:\Users\alberto sevilla\Documents\Norman\Monografía\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.AceroBr.resources
+C:\Users\alberto sevilla\Documents\Norman\Monografía\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.AlturasEntrepiso.resources
+C:\Users\alberto sevilla\Documents\Norman\Monografía\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.AnchoPlcont.resources
+C:\Users\alberto sevilla\Documents\Norman\Monografía\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.BrSecc.resources
+C:\Users\alberto sevilla\Documents\Norman\Monografía\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.BRsecc2.resources
+C:\Users\alberto sevilla\Documents\Norman\Monografía\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.AceroBR2.resources
+C:\Users\alberto sevilla\Documents\Norman\Monografía\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.BRAcero.resources
+C:\Users\alberto sevilla\Documents\Norman\Monografía\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.Carriostre.resources
+C:\Users\alberto sevilla\Documents\Norman\Monografía\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.Carriostre2.resources
+C:\Users\alberto sevilla\Documents\Norman\Monografía\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.Cviga.resources
+C:\Users\alberto sevilla\Documents\Norman\Monografía\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.MgDialog.resources
+C:\Users\alberto sevilla\Documents\Norman\Monografía\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.MomentoMpc.resources
+C:\Users\alberto sevilla\Documents\Norman\Monografía\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.OpcionesDiseño.resources
+C:\Users\alberto sevilla\Documents\Norman\Monografía\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.PanelZone.resources
+C:\Users\alberto sevilla\Documents\Norman\Monografía\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.PatinReducido.resources
+C:\Users\alberto sevilla\Documents\Norman\Monografía\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.SeccBR.resources
+C:\Users\alberto sevilla\Documents\Norman\Monografía\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\alberto sevilla\Documents\Norman\Monografía\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.ADCAS.resources
+C:\Users\alberto sevilla\Documents\Norman\Monografía\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.Secciones.resources
+C:\Users\alberto sevilla\Documents\Norman\Monografía\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.SplashScreen1.resources
+C:\Users\alberto sevilla\Documents\Norman\Monografía\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\ADCAS.vbproj.GenerateResource.Cache
+E:\ADCAS_definitivo-master\ADCAS 0.4\bin\Debug\ADCAS.exe.config
+E:\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\ADCAS.exe
+E:\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\ADCAS.xml
+E:\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\ADCAS.pdb
+E:\ADCAS_definitivo-master\ADCAS 0.4\bin\Debug\Aceros.accdb
+E:\ADCAS_definitivo-master\ADCAS 0.4\bin\Debug\EncroachmentDB.accdb
+E:\ADCAS_definitivo-master\ADCAS 0.4\bin\Debug\Secciones W.accdb
+E:\ADCAS_definitivo-master\ADCAS 0.4\bin\Debug\Pernos.accdb
+E:\ADCAS_definitivo-master\ADCAS 0.4\bin\Debug\ADCAS.exe
+E:\ADCAS_definitivo-master\ADCAS 0.4\bin\Debug\ADCAS.pdb
+E:\ADCAS_definitivo-master\ADCAS 0.4\bin\Debug\ADCAS.xml
+E:\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.AboutBox1.resources
+E:\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.Aceros.resources
+E:\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.AceroBr.resources
+E:\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.AlturasEntrepiso.resources
+E:\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.AnchoPlcont.resources
+E:\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.BrSecc.resources
+E:\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.BRsecc2.resources
+E:\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.AceroBR2.resources
+E:\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.BRAcero.resources
+E:\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.Carriostre.resources
+E:\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.Carriostre2.resources
+E:\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.Cviga.resources
+E:\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.MgDialog.resources
+E:\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.MomentoMpc.resources
+E:\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.OpcionesDiseño.resources
+E:\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.PanelZone.resources
+E:\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.PatinReducido.resources
+E:\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.SeccBR.resources
+E:\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.Resources.resources
+E:\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.ADCAS.resources
+E:\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.Secciones.resources
+E:\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.SplashScreen1.resources
+E:\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\ADCAS.vbproj.GenerateResource.Cache
+C:\Users\Norman\Documents\ADCAS_definitivo-master\ADCAS 0.4\bin\Debug\ADCAS.exe.config
+C:\Users\Norman\Documents\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\ADCAS.exe
+C:\Users\Norman\Documents\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\ADCAS.xml
+C:\Users\Norman\Documents\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\ADCAS.pdb
+C:\Users\Norman\Documents\ADCAS_definitivo-master\ADCAS 0.4\bin\Debug\Aceros.accdb
+C:\Users\Norman\Documents\ADCAS_definitivo-master\ADCAS 0.4\bin\Debug\EncroachmentDB.accdb
+C:\Users\Norman\Documents\ADCAS_definitivo-master\ADCAS 0.4\bin\Debug\Secciones W.accdb
+C:\Users\Norman\Documents\ADCAS_definitivo-master\ADCAS 0.4\bin\Debug\Pernos.accdb
+C:\Users\Norman\Documents\ADCAS_definitivo-master\ADCAS 0.4\bin\Debug\ADCAS.exe
+C:\Users\Norman\Documents\ADCAS_definitivo-master\ADCAS 0.4\bin\Debug\ADCAS.pdb
+C:\Users\Norman\Documents\ADCAS_definitivo-master\ADCAS 0.4\bin\Debug\ADCAS.xml
+C:\Users\Norman\Documents\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.AboutBox1.resources
+C:\Users\Norman\Documents\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.Aceros.resources
+C:\Users\Norman\Documents\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.AceroBr.resources
+C:\Users\Norman\Documents\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.AlturasEntrepiso.resources
+C:\Users\Norman\Documents\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.AnchoPlcont.resources
+C:\Users\Norman\Documents\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.BrSecc.resources
+C:\Users\Norman\Documents\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.BRsecc2.resources
+C:\Users\Norman\Documents\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.AceroBR2.resources
+C:\Users\Norman\Documents\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.BRAcero.resources
+C:\Users\Norman\Documents\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.Carriostre.resources
+C:\Users\Norman\Documents\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.Carriostre2.resources
+C:\Users\Norman\Documents\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.Cviga.resources
+C:\Users\Norman\Documents\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.MgDialog.resources
+C:\Users\Norman\Documents\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.MomentoMpc.resources
+C:\Users\Norman\Documents\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.OpcionesDiseño.resources
+C:\Users\Norman\Documents\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.PanelZone.resources
+C:\Users\Norman\Documents\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.PatinReducido.resources
+C:\Users\Norman\Documents\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.SeccBR.resources
+C:\Users\Norman\Documents\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Norman\Documents\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.ADCAS.resources
+C:\Users\Norman\Documents\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.Secciones.resources
+C:\Users\Norman\Documents\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\WindowsApplication1.SplashScreen1.resources
+C:\Users\Norman\Documents\ADCAS_definitivo-master\ADCAS 0.4\obj\Debug\ADCAS.vbproj.GenerateResource.Cache
+C:\Users\Norman\Documents\GitHub\ADCAS2\ADCAS 0.4\bin\Debug\Aceros.accdb
+C:\Users\Norman\Documents\GitHub\ADCAS2\ADCAS 0.4\bin\Debug\EncroachmentDB.accdb
+C:\Users\Norman\Documents\GitHub\ADCAS2\ADCAS 0.4\bin\Debug\Secciones W.accdb
+C:\Users\Norman\Documents\GitHub\ADCAS2\ADCAS 0.4\bin\Debug\Pernos.accdb
+C:\Users\Norman\Documents\GitHub\ADCAS2\ADCAS 0.4\bin\Debug\ADCAS.exe.config
+C:\Users\Norman\Documents\GitHub\ADCAS2\ADCAS 0.4\bin\Debug\ADCAS.exe
+C:\Users\Norman\Documents\GitHub\ADCAS2\ADCAS 0.4\bin\Debug\ADCAS.pdb
+C:\Users\Norman\Documents\GitHub\ADCAS2\ADCAS 0.4\bin\Debug\ADCAS.xml
+C:\Users\Norman\Documents\GitHub\ADCAS2\ADCAS 0.4\obj\Debug\WindowsApplication1.AboutBox1.resources
+C:\Users\Norman\Documents\GitHub\ADCAS2\ADCAS 0.4\obj\Debug\WindowsApplication1.Aceros.resources
+C:\Users\Norman\Documents\GitHub\ADCAS2\ADCAS 0.4\obj\Debug\WindowsApplication1.AceroBr.resources
+C:\Users\Norman\Documents\GitHub\ADCAS2\ADCAS 0.4\obj\Debug\WindowsApplication1.AceroBr3.resources
+C:\Users\Norman\Documents\GitHub\ADCAS2\ADCAS 0.4\obj\Debug\WindowsApplication1.AlturasEntrepiso.resources
+C:\Users\Norman\Documents\GitHub\ADCAS2\ADCAS 0.4\obj\Debug\WindowsApplication1.AnchoPlcont.resources
+C:\Users\Norman\Documents\GitHub\ADCAS2\ADCAS 0.4\obj\Debug\WindowsApplication1.BrSecc.resources
+C:\Users\Norman\Documents\GitHub\ADCAS2\ADCAS 0.4\obj\Debug\WindowsApplication1.BRsecc2.resources
+C:\Users\Norman\Documents\GitHub\ADCAS2\ADCAS 0.4\obj\Debug\WindowsApplication1.AceroBR2.resources
+C:\Users\Norman\Documents\GitHub\ADCAS2\ADCAS 0.4\obj\Debug\WindowsApplication1.BRAcero.resources
+C:\Users\Norman\Documents\GitHub\ADCAS2\ADCAS 0.4\obj\Debug\WindowsApplication1.BrSecc3.resources
+C:\Users\Norman\Documents\GitHub\ADCAS2\ADCAS 0.4\obj\Debug\WindowsApplication1.Carriostre.resources
+C:\Users\Norman\Documents\GitHub\ADCAS2\ADCAS 0.4\obj\Debug\WindowsApplication1.Carriostre2.resources
+C:\Users\Norman\Documents\GitHub\ADCAS2\ADCAS 0.4\obj\Debug\WindowsApplication1.Cviga.resources
+C:\Users\Norman\Documents\GitHub\ADCAS2\ADCAS 0.4\obj\Debug\WindowsApplication1.MgDialog.resources
+C:\Users\Norman\Documents\GitHub\ADCAS2\ADCAS 0.4\obj\Debug\WindowsApplication1.MomentoMpc.resources
+C:\Users\Norman\Documents\GitHub\ADCAS2\ADCAS 0.4\obj\Debug\WindowsApplication1.OpcionesDiseño.resources
+C:\Users\Norman\Documents\GitHub\ADCAS2\ADCAS 0.4\obj\Debug\WindowsApplication1.PanelZone.resources
+C:\Users\Norman\Documents\GitHub\ADCAS2\ADCAS 0.4\obj\Debug\WindowsApplication1.PatinReducido.resources
+C:\Users\Norman\Documents\GitHub\ADCAS2\ADCAS 0.4\obj\Debug\WindowsApplication1.SeccBR.resources
+C:\Users\Norman\Documents\GitHub\ADCAS2\ADCAS 0.4\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Norman\Documents\GitHub\ADCAS2\ADCAS 0.4\obj\Debug\WindowsApplication1.ADCAS.resources
+C:\Users\Norman\Documents\GitHub\ADCAS2\ADCAS 0.4\obj\Debug\WindowsApplication1.Secciones.resources
+C:\Users\Norman\Documents\GitHub\ADCAS2\ADCAS 0.4\obj\Debug\WindowsApplication1.SplashScreen1.resources
+C:\Users\Norman\Documents\GitHub\ADCAS2\ADCAS 0.4\obj\Debug\ADCAS.vbproj.GenerateResource.Cache
+C:\Users\Norman\Documents\GitHub\ADCAS2\ADCAS 0.4\obj\Debug\ADCAS.exe
+C:\Users\Norman\Documents\GitHub\ADCAS2\ADCAS 0.4\obj\Debug\ADCAS.xml
+C:\Users\Norman\Documents\GitHub\ADCAS2\ADCAS 0.4\obj\Debug\ADCAS.pdb
+E:\ADCAS\ADCAS 0.4\bin\Debug\ADCAS.exe.config
+E:\ADCAS\ADCAS 0.4\obj\Debug\ADCAS.exe
+E:\ADCAS\ADCAS 0.4\obj\Debug\ADCAS.xml
+E:\ADCAS\ADCAS 0.4\obj\Debug\ADCAS.pdb
+E:\ADCAS\ADCAS 0.4\bin\Debug\Aceros.accdb
+E:\ADCAS\ADCAS 0.4\bin\Debug\EncroachmentDB.accdb
+E:\ADCAS\ADCAS 0.4\bin\Debug\Secciones W.accdb
+E:\ADCAS\ADCAS 0.4\bin\Debug\Pernos.accdb
+E:\ADCAS\ADCAS 0.4\bin\Debug\ADCAS.exe
+E:\ADCAS\ADCAS 0.4\bin\Debug\ADCAS.pdb
+E:\ADCAS\ADCAS 0.4\bin\Debug\ADCAS.xml
+E:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.AboutBox1.resources
+E:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.Aceros.resources
+E:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.AceroBr.resources
+E:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.AceroBr3.resources
+E:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.AlturasEntrepiso.resources
+E:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.AnchoPlcont.resources
+E:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.BrSecc.resources
+E:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.BRsecc2.resources
+E:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.AceroBR2.resources
+E:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.BRAcero.resources
+E:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.BrSecc3.resources
+E:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.Carriostre.resources
+E:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.Carriostre2.resources
+E:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.Cviga.resources
+E:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.MgDialog.resources
+E:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.MomentoMpc.resources
+E:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.OpcionesDiseño.resources
+E:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.PanelZone.resources
+E:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.PatinReducido.resources
+E:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.SeccBR.resources
+E:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.Resources.resources
+E:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.ADCAS.resources
+E:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.Secciones.resources
+E:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.SplashScreen1.resources
+E:\ADCAS\ADCAS 0.4\obj\Debug\ADCAS.vbproj.GenerateResource.Cache
+J:\ADCAS\ADCAS 0.4\bin\Debug\Aceros.accdb
+J:\ADCAS\ADCAS 0.4\bin\Debug\EncroachmentDB.accdb
+J:\ADCAS\ADCAS 0.4\bin\Debug\Secciones W.accdb
+J:\ADCAS\ADCAS 0.4\bin\Debug\Pernos.accdb
+J:\ADCAS\ADCAS 0.4\bin\Debug\ADCAS.exe.config
+J:\ADCAS\ADCAS 0.4\bin\Debug\ADCAS.exe
+J:\ADCAS\ADCAS 0.4\bin\Debug\ADCAS.pdb
+J:\ADCAS\ADCAS 0.4\bin\Debug\ADCAS.xml
+J:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.AboutBox1.resources
+J:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.Aceros.resources
+J:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.AceroBr.resources
+J:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.AceroBr3.resources
+J:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.AlturasEntrepiso.resources
+J:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.AnchoPlcont.resources
+J:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.BrSecc.resources
+J:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.BRsecc2.resources
+J:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.AceroBR2.resources
+J:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.BRAcero.resources
+J:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.BrSecc3.resources
+J:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.Carriostre.resources
+J:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.Carriostre2.resources
+J:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.Cviga.resources
+J:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.MgDialog.resources
+J:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.MomentoMpc.resources
+J:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.OpcionesDiseño.resources
+J:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.PanelZone.resources
+J:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.PatinReducido.resources
+J:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.SeccBR.resources
+J:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.Resources.resources
+J:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.ADCAS.resources
+J:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.Secciones.resources
+J:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.SplashScreen1.resources
+J:\ADCAS\ADCAS 0.4\obj\Debug\ADCAS.vbproj.GenerateResource.Cache
+J:\ADCAS\ADCAS 0.4\obj\Debug\ADCAS.exe
+J:\ADCAS\ADCAS 0.4\obj\Debug\ADCAS.xml
+J:\ADCAS\ADCAS 0.4\obj\Debug\ADCAS.pdb
+C:\Users\Norman\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.AboutBox1.resources
+C:\Users\Norman\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.Aceros.resources
+C:\Users\Norman\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.AceroBr.resources
+C:\Users\Norman\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.AceroBr3.resources
+C:\Users\Norman\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.AlturasEntrepiso.resources
+C:\Users\Norman\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.AnchoPlcont.resources
+C:\Users\Norman\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.BrSecc.resources
+C:\Users\Norman\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.BRsecc2.resources
+C:\Users\Norman\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.AceroBR2.resources
+C:\Users\Norman\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.BRAcero.resources
+C:\Users\Norman\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.BrSecc3.resources
+C:\Users\Norman\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.ConjMarcos.resources
+C:\Users\Norman\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.LongIncl.resources
+C:\Users\Norman\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.LongInclBr.resources
+C:\Users\Norman\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.MgDialog.resources
+C:\Users\Norman\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.MmntGusset.resources
+C:\Users\Norman\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.MomentoMpc.resources
+C:\Users\Norman\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.OpcionesDiseño.resources
+C:\Users\Norman\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.PanelZone.resources
+C:\Users\Norman\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.PatinReducido.resources
+C:\Users\Norman\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.SeccBR.resources
+C:\Users\Norman\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Norman\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.ADCAS.resources
+C:\Users\Norman\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.Secciones.resources
+C:\Users\Norman\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.SplashScreen1.resources
+C:\Users\Norman\Desktop\ADCAS\ADCAS 0.4\obj\Debug\ADCAS.vbproj.GenerateResource.Cache
+C:\Users\Norman\Desktop\ADCAS\ADCAS 0.4\bin\Debug\ADCAS.exe.config
+C:\Users\Norman\Desktop\ADCAS\ADCAS 0.4\bin\Debug\Aceros.accdb
+C:\Users\Norman\Desktop\ADCAS\ADCAS 0.4\bin\Debug\EncroachmentDB.accdb
+C:\Users\Norman\Desktop\ADCAS\ADCAS 0.4\bin\Debug\Secciones W.accdb
+C:\Users\Norman\Desktop\ADCAS\ADCAS 0.4\bin\Debug\Pernos.accdb
+C:\Users\Norman\Desktop\ADCAS\ADCAS 0.4\bin\Debug\ADCAS.exe
+C:\Users\Norman\Desktop\ADCAS\ADCAS 0.4\bin\Debug\ADCAS.pdb
+C:\Users\Norman\Desktop\ADCAS\ADCAS 0.4\bin\Debug\ADCAS.xml
+C:\Users\Norman\Desktop\ADCAS\ADCAS 0.4\obj\Debug\ADCAS.exe
+C:\Users\Norman\Desktop\ADCAS\ADCAS 0.4\obj\Debug\ADCAS.xml
+C:\Users\Norman\Desktop\ADCAS\ADCAS 0.4\obj\Debug\ADCAS.pdb
+C:\Users\Norman\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.BRAcero2.resources
+C:\Users\Norman\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.SeccBR2.resources
+C:\Users\Norman\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.CargasEBF2.resources
+C:\Users\Norman\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.Perfiles.resources
+C:\Users\Norman\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.Steel.resources
+C:\Users\Norman\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.Steel2.resources
+C:\Users\Norman\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.Perfiles2.resources
+D:\ADCAS\ADCAS 0.4\bin\Debug\ADCAS.exe.config
+D:\ADCAS\ADCAS 0.4\obj\Debug\ADCAS.xml
+D:\ADCAS\ADCAS 0.4\obj\Debug\ADCAS.pdb
+D:\ADCAS\ADCAS 0.4\bin\Debug\Aceros.accdb
+D:\ADCAS\ADCAS 0.4\bin\Debug\EncroachmentDB.accdb
+D:\ADCAS\ADCAS 0.4\bin\Debug\Secciones W.accdb
+D:\ADCAS\ADCAS 0.4\bin\Debug\Pernos.accdb
+D:\ADCAS\ADCAS 0.4\bin\Debug\ADCAS.exe
+D:\ADCAS\ADCAS 0.4\bin\Debug\ADCAS.pdb
+D:\ADCAS\ADCAS 0.4\bin\Debug\ADCAS.xml
+D:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.AboutBox1.resources
+D:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.Aceros.resources
+D:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.AceroBr.resources
+D:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.AceroBr3.resources
+D:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.AlturasEntrepiso.resources
+D:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.AnchoPlcont.resources
+D:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.BrSecc.resources
+D:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.BRsecc2.resources
+D:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.AceroBR2.resources
+D:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.BRAcero.resources
+D:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.BrSecc3.resources
+D:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.CargasEBF.resources
+D:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.CargasEBF2.resources
+D:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.Carriostre.resources
+D:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.Carriostre2.resources
+D:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.ConjMarcos.resources
+D:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.BRAcero2.resources
+D:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.Steel2.resources
+D:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.Perfiles2.resources
+D:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.Perfiles.resources
+D:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.SeccBR2.resources
+D:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.Cviga.resources
+D:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.LongIncl.resources
+D:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.LongInclBr.resources
+D:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.MgDialog.resources
+D:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.MmntGusset.resources
+D:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.MomentoMpc.resources
+D:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.OpcionesDiseño.resources
+D:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.PanelZone.resources
+D:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.PatinReducido.resources
+D:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.SeccBR.resources
+D:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.Resources.resources
+D:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.ADCAS.resources
+D:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.Secciones.resources
+D:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.SplashScreen1.resources
+D:\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.Steel.resources
+D:\ADCAS\ADCAS 0.4\obj\Debug\ADCAS.vbproj.GenerateResource.Cache
+D:\ADCAS\ADCAS 0.4\obj\Debug\ADCAS.exe
+C:\Users\Joel\Desktop\ADCAS\ADCAS 0.4\bin\Debug\ADCAS.exe.config
+C:\Users\Joel\Desktop\ADCAS\ADCAS 0.4\obj\Debug\ADCAS.exe
+C:\Users\Joel\Desktop\ADCAS\ADCAS 0.4\obj\Debug\ADCAS.xml
+C:\Users\Joel\Desktop\ADCAS\ADCAS 0.4\obj\Debug\ADCAS.pdb
+C:\Users\Joel\Desktop\ADCAS\ADCAS 0.4\bin\Debug\Aceros.accdb
+C:\Users\Joel\Desktop\ADCAS\ADCAS 0.4\bin\Debug\EncroachmentDB.accdb
+C:\Users\Joel\Desktop\ADCAS\ADCAS 0.4\bin\Debug\Secciones W.accdb
+C:\Users\Joel\Desktop\ADCAS\ADCAS 0.4\bin\Debug\Pernos.accdb
+C:\Users\Joel\Desktop\ADCAS\ADCAS 0.4\bin\Debug\ADCAS.exe
+C:\Users\Joel\Desktop\ADCAS\ADCAS 0.4\bin\Debug\ADCAS.pdb
+C:\Users\Joel\Desktop\ADCAS\ADCAS 0.4\bin\Debug\ADCAS.xml
+C:\Users\Joel\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.AboutBox1.resources
+C:\Users\Joel\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.Aceros.resources
+C:\Users\Joel\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.AceroBr.resources
+C:\Users\Joel\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.AceroBr3.resources
+C:\Users\Joel\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.AlturasEntrepiso.resources
+C:\Users\Joel\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.AnchoPlcont.resources
+C:\Users\Joel\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.BrSecc.resources
+C:\Users\Joel\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.BRsecc2.resources
+C:\Users\Joel\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.AceroBR2.resources
+C:\Users\Joel\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.BRAcero.resources
+C:\Users\Joel\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.BrSecc3.resources
+C:\Users\Joel\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.CargasEBF2.resources
+C:\Users\Joel\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.ConjMarcos.resources
+C:\Users\Joel\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.BRAcero2.resources
+C:\Users\Joel\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.Steel2.resources
+C:\Users\Joel\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.Perfiles2.resources
+C:\Users\Joel\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.Perfiles.resources
+C:\Users\Joel\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.SeccBR2.resources
+C:\Users\Joel\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.LongIncl.resources
+C:\Users\Joel\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.LongInclBr.resources
+C:\Users\Joel\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.MgDialog.resources
+C:\Users\Joel\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.MmntGusset.resources
+C:\Users\Joel\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.MomentoMpc.resources
+C:\Users\Joel\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.OpcionesDiseño.resources
+C:\Users\Joel\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.PanelZone.resources
+C:\Users\Joel\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.PatinReducido.resources
+C:\Users\Joel\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.SeccBR.resources
+C:\Users\Joel\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Joel\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.ADCAS.resources
+C:\Users\Joel\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.Secciones.resources
+C:\Users\Joel\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.SplashScreen1.resources
+C:\Users\Joel\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.Steel.resources
+C:\Users\Joel\Desktop\ADCAS\ADCAS 0.4\obj\Debug\ADCAS.vbproj.GenerateResource.Cache
+C:\Users\Joel\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.SteelBRBF.resources
+C:\Users\Joel\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.PerfilesBRBF.resources
+C:\Users\Norman\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.SteelBRBF.resources
+C:\Users\Norman\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.PerfilesBRBF.resources
+C:\Users\Norman\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.PerfilesBRBF2.resources
+C:\Users\Norman\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.SteelBRBF2.resources
+C:\Users\Joel\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.SteelBRBF2.resources
+C:\Users\Joel\Desktop\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.PerfilesBRBF2.resources
+C:\Users\Norman\Documents\Monografía\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.AceroBr.resources
+C:\Users\Norman\Documents\Monografía\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.AceroBr3.resources
+C:\Users\Norman\Documents\Monografía\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.AlturasEntrepiso.resources
+C:\Users\Norman\Documents\Monografía\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.AnchoPlcont.resources
+C:\Users\Norman\Documents\Monografía\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.BrSecc.resources
+C:\Users\Norman\Documents\Monografía\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.BrSecc3.resources
+C:\Users\Norman\Documents\Monografía\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.CargasEBF2.resources
+C:\Users\Norman\Documents\Monografía\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.ConjMarcos.resources
+C:\Users\Norman\Documents\Monografía\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.BRAcero2.resources
+C:\Users\Norman\Documents\Monografía\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.SteelBRBF2.resources
+C:\Users\Norman\Documents\Monografía\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.PerfilesBRBF2.resources
+C:\Users\Norman\Documents\Monografía\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.Perfiles.resources
+C:\Users\Norman\Documents\Monografía\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.SteelBRBF.resources
+C:\Users\Norman\Documents\Monografía\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.PerfilesBRBF.resources
+C:\Users\Norman\Documents\Monografía\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.Steel2.resources
+C:\Users\Norman\Documents\Monografía\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.Perfiles2.resources
+C:\Users\Norman\Documents\Monografía\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.SeccBR2.resources
+C:\Users\Norman\Documents\Monografía\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.LongIncl.resources
+C:\Users\Norman\Documents\Monografía\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.LongInclBr.resources
+C:\Users\Norman\Documents\Monografía\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.MgDialog.resources
+C:\Users\Norman\Documents\Monografía\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.MmntGusset.resources
+C:\Users\Norman\Documents\Monografía\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.MomentoMpc.resources
+C:\Users\Norman\Documents\Monografía\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.OpcionesDiseño.resources
+C:\Users\Norman\Documents\Monografía\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.PanelZone.resources
+C:\Users\Norman\Documents\Monografía\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.PatinReducido.resources
+C:\Users\Norman\Documents\Monografía\ADCAS\ADCAS 0.4\obj\Debug\WindowsApplication1.Steel.resources
