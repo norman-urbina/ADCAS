@@ -239,22 +239,6 @@
         AX7RAAAAAElFTkSuQmCC
 </value>
   </data>
-  <metadata name="LeminBFPBindingSource.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>148, 56</value>
-  </metadata>
-  <metadata name="PernosDataSet.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 56</value>
-  </metadata>
-  <data name="PictureBox124.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        iVBORw0KGgoAAAANSUhEUgAAACUAAAAOCAYAAACo9dX2AAAABGdBTUEAALGPC/xhBQAAARRJREFUSEu9
-        lQERgzAMRZEwDZOABiRMAxLwgAQ0IAENkzANSGD/lVIClN0VBv/u3ZKUdqVJQzYMQ0AqxUf0ohaV/20F
-        D+T2+avYBrKsE00kzgaf6/gVbAPjibwi8U3sKpaOTkJgPEzMpUy65ZRg6fiaWvm31JFl6YwFTaGH4rbj
-        Z5Eav+4vqvUkbl1p/NqO38VsqI4ERqgdKSl1UheLpzIbul2it4MpSFySNjY2IaWlT2LC7ptKuaBXAS8A
-        lRljQdYo1nNTQbwhhY1HkUebpFR43iZmbTb1l7YRDe4huVPyNhsMnV8KreQs0eAeEp8g11glUkXa2Byn
-        7VKPb+ccIRrcY/pjb5NymqtLmcQm8cPX4BhD9gUkHwZIQPuvtwAAAABJRU5ErkJggg==
-</value>
-  </data>
   <data name="PictureBox92.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAB0AAAAOCAYAAADT0Rc6AAAABGdBTUEAALGPC/xhBQAAAMpJREFUOE+1
@@ -309,6 +293,38 @@
         8kVNAAAAAElFTkSuQmCC
 </value>
   </data>
+  <data name="PictureBox124.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAACUAAAAOCAYAAACo9dX2AAAABGdBTUEAALGPC/xhBQAAARRJREFUSEu9
+        lQERgzAMRZEwDZOABiRMAxLwgAQ0IAENkzANSGD/lVIClN0VBv/u3ZKUdqVJQzYMQ0AqxUf0ohaV/20F
+        D+T2+avYBrKsE00kzgaf6/gVbAPjibwi8U3sKpaOTkJgPEzMpUy65ZRg6fiaWvm31JFl6YwFTaGH4rbj
+        Z5Eav+4vqvUkbl1p/NqO38VsqI4ERqgdKSl1UheLpzIbul2it4MpSFySNjY2IaWlT2LC7ptKuaBXAS8A
+        lRljQdYo1nNTQbwhhY1HkUebpFR43iZmbTb1l7YRDe4huVPyNhsMnV8KreQs0eAeEp8g11glUkXa2Byn
+        7VKPb+ccIRrcY/pjb5NymqtLmcQm8cPX4BhD9gUkHwZIQPuvtwAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="PictureBox72.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABkAAAAHCAYAAAD9NeaIAAAABGdBTUEAALGPC/xhBQAAAI5JREFUKFOt
+        kX8NgCAQhYlgBiOYwQhmIIIdjGAGIpjBCGYwAn4PhDHmHzp828eOH3dvdxjvfQD1sMB0s0GX7luISzTY
+        U1E0wFk+rEHuJTYlyMAWBdSJS/tWpA4U5dGgFbJpK9IIR3V4gEbYl+cl6Gk0T1gIxbIJkilhiH/pJi7G
+        zCoI+gt9usYV4jrhO95c7PR41UaQAJMAAAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="PictureBox65.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABgAAAALCAYAAABlNU3NAAAABGdBTUEAALGPC/xhBQAAAKFJREFUOE+t
+        0g0RhCAQBeAXwQwXwQxGMIMR7GAEMxjBDBfhsuB7ruAOcjN3ys58CLL8iQghgNHRW9Su6awAk/jOGs6K
+        naDznTVYATTEajnpCSuAnj7HU2Zq8uQ7rLAJl/QSGCW2c8r90RAHaPetm0AXnhZ8QnH5/oyVvp7gH4qW
+        0v/P2Bekl0/0GKXPUTLQPuHqBus+quxerLCVoj5Pui9gA92zfb7F2pq/AAAAAElFTkSuQmCC
+</value>
+  </data>
+  <metadata name="LeminBFPBindingSource.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>148, 56</value>
+  </metadata>
+  <metadata name="PernosDataSet.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 56</value>
+  </metadata>
   <data name="PictureBox90.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAACUAAAAOCAYAAACo9dX2AAAABGdBTUEAALGPC/xhBQAAARRJREFUSEu9
@@ -335,25 +351,6 @@
         zCoI+gt9usYV4jrhO95c7PR41UaQAJMAAAAASUVORK5CYII=
 </value>
   </data>
-  <data name="PictureBox72.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        iVBORw0KGgoAAAANSUhEUgAAABkAAAAHCAYAAAD9NeaIAAAABGdBTUEAALGPC/xhBQAAAI5JREFUKFOt
-        kX8NgCAQhYlgBiOYwQhmIIIdjGAGIpjBCGYwAn4PhDHmHzp828eOH3dvdxjvfQD1sMB0s0GX7luISzTY
-        U1E0wFk+rEHuJTYlyMAWBdSJS/tWpA4U5dGgFbJpK9IIR3V4gEbYl+cl6Gk0T1gIxbIJkilhiH/pJi7G
-        zCoI+gt9usYV4jrhO95c7PR41UaQAJMAAAAASUVORK5CYII=
-</value>
-  </data>
-  <data name="PictureBox65.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        iVBORw0KGgoAAAANSUhEUgAAABgAAAALCAYAAABlNU3NAAAABGdBTUEAALGPC/xhBQAAAKFJREFUOE+t
-        0g0RhCAQBeAXwQwXwQxGMIMR7GAEMxjBDBfhsuB7ruAOcjN3ys58CLL8iQghgNHRW9Su6awAk/jOGs6K
-        naDznTVYATTEajnpCSuAnj7HU2Zq8uQ7rLAJl/QSGCW2c8r90RAHaPetm0AXnhZ8QnH5/oyVvp7gH4qW
-        0v/P2Bekl0/0GKXPUTLQPuHqBus+quxerLCVoj5Pui9gA92zfb7F2pq/AAAAAElFTkSuQmCC
-</value>
-  </data>
-  <metadata name="GroupBox234.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
   <data name="Label20.Text" xml:space="preserve">
     <value>Adicionalmente a los límites númericos verificados aquí, se debe garantizar otras condiciones para que la conexión que está siendo diseñada se considere como una conexión precalificada de acuerdo al ANSI/AISC 358-10.
 
@@ -1343,6 +1340,9 @@ Una soldadura de ranura parcial PJP con refuerzo de filete también es aceptable
 
 </value>
   </data>
+  <metadata name="GroupBox234.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
   <metadata name="StatusStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>116, 17</value>
   </metadata>

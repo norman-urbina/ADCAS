@@ -145,7 +145,7 @@ Line7:
                         Apf = Val(ADCAS.TextBox43.Text) * Val(ADCAS.TextBox41.Text)
 
                         Dim Ra, Rb, Rc, Rd As Double 'cada caso de resistencia requerida considerado
-                        Dim Apw, Mpe As Double
+                        Dim Apw As Double
 
                         'Apw=tp*Wplaca-alma
                         Apw = Val(ADCAS.TextBox43.Text) * Val(ADCAS.TextBox44.Text)
@@ -225,16 +225,15 @@ Line7:
                         'd) Calculo de Rd
                         Dim Fyb As Double = Val(acerInst.TextBox1.Text)
                         Dim Ryb As Double = Val(acerInst.TextBox3.Text)
-                        Dim Zx As Double = Val(DeNuevoOtraInst.TextBox5.Text)
+                        Dim bfviga As Double = Val(DeNuevoOtraInst.TextBox4.Text)
                         If ADCAS.ComboBox1.SelectedItem = "2" Then
-                            Mpe = 2 * Fyb * Ryb * Zx
+                            Rd = 2 * Fyb * Ryb * bfviga * tfbViga
                         Else
-                            Mpe = Fyb * Ryb * Zx
+                            Rd = Fyb * Ryb * bfviga * tfbViga
                         End If
-                        Rd = Mpe / (dbViga - tfbViga)
 
                         Dim Rplcont As Double
-                        Rplcont = Math.Round(Math.Min(Math.Min(Ra, Rb), Math.Min(Rc, Rd)))
+                        Rplcont = Math.Round(Math.Min(Math.Min(Ra, Rb), Math.Min(Rc / 2, Rd / 2)))
                         ADCAS.TextBox49.Text = Rplcont.ToString
 
                         'Calculo del tamaño mínimo de soldadura de placa de continuidad

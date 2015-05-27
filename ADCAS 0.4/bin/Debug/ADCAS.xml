@@ -6,205 +6,7 @@ ADCAS
 </name>
 </assembly>
 <members>
-<member name="T:WindowsApplication1.AcerosDataSet.Acero_en_columnasDataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:WindowsApplication1.AcerosDataSet.Acero_en_placasDataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:WindowsApplication1.AcerosDataSet.Acero_en_vigasDataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:WindowsApplication1.AcerosDataSet.Acero_en_HSSDataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:WindowsApplication1.AcerosDataSet.Acero_en_PIPEDataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:WindowsApplication1.AcerosDataSet.Acero_en_placasBFPDataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:WindowsApplication1.AcerosDataSet.Acero_en_columnasRow">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:WindowsApplication1.AcerosDataSet.Acero_en_placasRow">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:WindowsApplication1.AcerosDataSet.Acero_en_vigasRow">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:WindowsApplication1.AcerosDataSet.Acero_en_HSSRow">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:WindowsApplication1.AcerosDataSet.Acero_en_PIPERow">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:WindowsApplication1.AcerosDataSet.Acero_en_placasBFPRow">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:WindowsApplication1.AcerosDataSet.Acero_en_columnasRowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:WindowsApplication1.AcerosDataSet.Acero_en_placasRowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:WindowsApplication1.AcerosDataSet.Acero_en_vigasRowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:WindowsApplication1.AcerosDataSet.Acero_en_HSSRowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:WindowsApplication1.AcerosDataSet.Acero_en_PIPERowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:WindowsApplication1.AcerosDataSet.Acero_en_placasBFPRowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:WindowsApplication1.AcerosDataSet">
-	<summary>
-Represents a strongly typed in-memory cache of data.
-</summary>
-</member><member name="T:WindowsApplication1.AcerosDataSetTableAdapters.Acero_en_columnasTableAdapter">
-	<summary>
-Represents the connection and commands used to retrieve and save data.
-</summary>
-</member><member name="T:WindowsApplication1.AcerosDataSetTableAdapters.Acero_en_placasTableAdapter">
-	<summary>
-Represents the connection and commands used to retrieve and save data.
-</summary>
-</member><member name="T:WindowsApplication1.AcerosDataSetTableAdapters.Acero_en_vigasTableAdapter">
-	<summary>
-Represents the connection and commands used to retrieve and save data.
-</summary>
-</member><member name="T:WindowsApplication1.AcerosDataSetTableAdapters.Acero_en_HSSTableAdapter">
-	<summary>
-Represents the connection and commands used to retrieve and save data.
-</summary>
-</member><member name="T:WindowsApplication1.AcerosDataSetTableAdapters.Acero_en_PIPETableAdapter">
-	<summary>
-Represents the connection and commands used to retrieve and save data.
-</summary>
-</member><member name="T:WindowsApplication1.AcerosDataSetTableAdapters.Acero_en_placasBFPTableAdapter">
-	<summary>
-Represents the connection and commands used to retrieve and save data.
-</summary>
-</member><member name="M:WindowsApplication1.AcerosDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(WindowsApplication1.AcerosDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
-	<summary>
-Update rows in top-down order.
-</summary>
-</member><member name="M:WindowsApplication1.AcerosDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(WindowsApplication1.AcerosDataSet,System.Collections.Generic.List{System.Data.DataRow})">
-	<summary>
-Insert rows in top-down order.
-</summary>
-</member><member name="M:WindowsApplication1.AcerosDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(WindowsApplication1.AcerosDataSet,System.Collections.Generic.List{System.Data.DataRow})">
-	<summary>
-Delete rows in bottom-up order.
-</summary>
-</member><member name="M:WindowsApplication1.AcerosDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
-	<summary>
-Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
-</summary>
-</member><member name="M:WindowsApplication1.AcerosDataSetTableAdapters.TableAdapterManager.UpdateAll(WindowsApplication1.AcerosDataSet)">
-	<summary>
-Update all changes to the dataset.
-</summary>
-</member><member name="T:WindowsApplication1.AcerosDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
-	<summary>
-Update Order Option
-</summary>
-</member><member name="T:WindowsApplication1.AcerosDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
-	<summary>
-Used to sort self-referenced table's rows
-</summary>
-</member><member name="T:WindowsApplication1.AcerosDataSetTableAdapters.TableAdapterManager">
-	<summary>
-TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
-</summary>
-</member><member name="T:WindowsApplication1.EncroachmentDBDataSet.FilletEncroachmentDataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:WindowsApplication1.EncroachmentDBDataSet.FilletEncroachmentRow">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:WindowsApplication1.EncroachmentDBDataSet.FilletEncroachmentRowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:WindowsApplication1.EncroachmentDBDataSet">
-	<summary>
-Represents a strongly typed in-memory cache of data.
-</summary>
-</member><member name="T:WindowsApplication1.EncroachmentDBDataSetTableAdapters.FilletEncroachmentTableAdapter">
-	<summary>
-Represents the connection and commands used to retrieve and save data.
-</summary>
-</member><member name="M:WindowsApplication1.EncroachmentDBDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(WindowsApplication1.EncroachmentDBDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
-	<summary>
-Update rows in top-down order.
-</summary>
-</member><member name="M:WindowsApplication1.EncroachmentDBDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(WindowsApplication1.EncroachmentDBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
-	<summary>
-Insert rows in top-down order.
-</summary>
-</member><member name="M:WindowsApplication1.EncroachmentDBDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(WindowsApplication1.EncroachmentDBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
-	<summary>
-Delete rows in bottom-up order.
-</summary>
-</member><member name="M:WindowsApplication1.EncroachmentDBDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
-	<summary>
-Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
-</summary>
-</member><member name="M:WindowsApplication1.EncroachmentDBDataSetTableAdapters.TableAdapterManager.UpdateAll(WindowsApplication1.EncroachmentDBDataSet)">
-	<summary>
-Update all changes to the dataset.
-</summary>
-</member><member name="T:WindowsApplication1.EncroachmentDBDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
-	<summary>
-Update Order Option
-</summary>
-</member><member name="T:WindowsApplication1.EncroachmentDBDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
-	<summary>
-Used to sort self-referenced table's rows
-</summary>
-</member><member name="T:WindowsApplication1.EncroachmentDBDataSetTableAdapters.TableAdapterManager">
-	<summary>
-TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
-</summary>
-</member><member name="M:WindowsApplication1.ADCAS.BytesToImage(System.Byte[])">
-	<summary>
- Convierte un array de Byte en un objeto Image.
- </summary>
-	<param name="data">Array de Byte que se desea convertir.</param>
-	<returns></returns>
-	<remarks></remarks>
-</member><member name="M:WindowsApplication1.ADCAS.ImageToBytes(System.Drawing.Image)">
-	<summary>
- Convierte un objeto Image en un array de Byte.
- </summary>
-	<param name="image">Objeto Image que se desea convertir.</param>
-	<returns></returns>
-	<remarks></remarks>
-</member><member name="P:WindowsApplication1.My.Resources.Resources.ResourceManager">
+<member name="P:WindowsApplication1.My.Resources.Resources.ResourceManager">
 	<summary>
   Returns the cached ResourceManager instance used by this class.
 </summary>
@@ -1073,6 +875,10 @@ TableAdapterManager is used to coordinate TableAdapters in the dataset to enable
 	<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.Lweldblancoigual">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
 </member><member name="P:WindowsApplication1.My.Resources.Resources.MarcoAisl">
 	<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
@@ -1633,89 +1439,6 @@ TableAdapterManager is used to coordinate TableAdapters in the dataset to enable
 	<summary>
   A strongly-typed resource class, for looking up localized strings, etc.
 </summary>
-</member><member name="M:WindowsApplication1.Datos.#ctor">
-	<summary>
- Crea una nueva instancia de la clase Persona.
- </summary>
-</member><member name="M:WindowsApplication1.Datos.#ctor(System.String)">
-	<summary>
- Crea una nueva instancia de la clase Persona.
- </summary>
-</member><member name="M:WindowsApplication1.Datos.ToString">
-	<summary>
- Devuelve una cadena alfanumérica resultante de la
- concatenación del identificador y el nombre del
- objeto Persona.
- </summary>
-	<returns></returns>
-	<remarks></remarks>
-</member><member name="M:WindowsApplication1.Datos.Open(System.String)">
-	<summary>
- Devuelve un objeto Persona con los datos existentes
- en el archivo especificado.
- </summary>
-	<param name="fileName">Ruta completa del archivo que contiene los datos.</param>
-	<returns></returns>
-	<remarks></remarks>
-</member><member name="M:WindowsApplication1.Datos.Save(WindowsApplication1.Datos,System.String)">
-	<summary>
- Guarda el objeto Persona en el archivo especificado.
- </summary>
-	<param name="dat">Objeto Persona que se desea guardar.</param>
-	<param name="fileName">Ruta completa del archivo donde se desean guardar los datos.</param>
-	<remarks></remarks>
-</member><member name="T:WindowsApplication1.Secciones_RDataSet.SeccionesRDataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:WindowsApplication1.Secciones_RDataSet.SeccionesRRow">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:WindowsApplication1.Secciones_RDataSet.SeccionesRRowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:WindowsApplication1.Secciones_RDataSet">
-	<summary>
-Represents a strongly typed in-memory cache of data.
-</summary>
-</member><member name="T:WindowsApplication1.Secciones_RDataSetTableAdapters.SeccionesRTableAdapter">
-	<summary>
-Represents the connection and commands used to retrieve and save data.
-</summary>
-</member><member name="M:WindowsApplication1.Secciones_RDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(WindowsApplication1.Secciones_RDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
-	<summary>
-Update rows in top-down order.
-</summary>
-</member><member name="M:WindowsApplication1.Secciones_RDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(WindowsApplication1.Secciones_RDataSet,System.Collections.Generic.List{System.Data.DataRow})">
-	<summary>
-Insert rows in top-down order.
-</summary>
-</member><member name="M:WindowsApplication1.Secciones_RDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(WindowsApplication1.Secciones_RDataSet,System.Collections.Generic.List{System.Data.DataRow})">
-	<summary>
-Delete rows in bottom-up order.
-</summary>
-</member><member name="M:WindowsApplication1.Secciones_RDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
-	<summary>
-Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
-</summary>
-</member><member name="M:WindowsApplication1.Secciones_RDataSetTableAdapters.TableAdapterManager.UpdateAll(WindowsApplication1.Secciones_RDataSet)">
-	<summary>
-Update all changes to the dataset.
-</summary>
-</member><member name="T:WindowsApplication1.Secciones_RDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
-	<summary>
-Update Order Option
-</summary>
-</member><member name="T:WindowsApplication1.Secciones_RDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
-	<summary>
-Used to sort self-referenced table's rows
-</summary>
-</member><member name="T:WindowsApplication1.Secciones_RDataSetTableAdapters.TableAdapterManager">
-	<summary>
-TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
-</summary>
 </member><member name="T:WindowsApplication1.PernosDataSet.DhAgujeroBFPDataTable">
 	<summary>
 Represents the strongly named DataTable class.
@@ -1816,6 +1539,235 @@ Used to sort self-referenced table's rows
 	<summary>
 TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
 </summary>
+</member><member name="M:WindowsApplication1.Datos.#ctor">
+	<summary>
+ Crea una nueva instancia de la clase Persona.
+ </summary>
+</member><member name="M:WindowsApplication1.Datos.#ctor(System.String)">
+	<summary>
+ Crea una nueva instancia de la clase Persona.
+ </summary>
+</member><member name="M:WindowsApplication1.Datos.ToString">
+	<summary>
+ Devuelve una cadena alfanumérica resultante de la
+ concatenación del identificador y el nombre del
+ objeto Persona.
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:WindowsApplication1.Datos.Open(System.String)">
+	<summary>
+ Devuelve un objeto Persona con los datos existentes
+ en el archivo especificado.
+ </summary>
+	<param name="fileName">Ruta completa del archivo que contiene los datos.</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:WindowsApplication1.Datos.Save(WindowsApplication1.Datos,System.String)">
+	<summary>
+ Guarda el objeto Persona en el archivo especificado.
+ </summary>
+	<param name="dat">Objeto Persona que se desea guardar.</param>
+	<param name="fileName">Ruta completa del archivo donde se desean guardar los datos.</param>
+	<remarks></remarks>
+</member><member name="T:WindowsApplication1.AcerosDataSet.Acero_en_columnasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:WindowsApplication1.AcerosDataSet.Acero_en_placasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:WindowsApplication1.AcerosDataSet.Acero_en_vigasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:WindowsApplication1.AcerosDataSet.Acero_en_HSSDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:WindowsApplication1.AcerosDataSet.Acero_en_PIPEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:WindowsApplication1.AcerosDataSet.Acero_en_placasBFPDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:WindowsApplication1.AcerosDataSet.Acero_en_columnasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:WindowsApplication1.AcerosDataSet.Acero_en_placasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:WindowsApplication1.AcerosDataSet.Acero_en_vigasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:WindowsApplication1.AcerosDataSet.Acero_en_HSSRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:WindowsApplication1.AcerosDataSet.Acero_en_PIPERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:WindowsApplication1.AcerosDataSet.Acero_en_placasBFPRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:WindowsApplication1.AcerosDataSet.Acero_en_columnasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:WindowsApplication1.AcerosDataSet.Acero_en_placasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:WindowsApplication1.AcerosDataSet.Acero_en_vigasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:WindowsApplication1.AcerosDataSet.Acero_en_HSSRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:WindowsApplication1.AcerosDataSet.Acero_en_PIPERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:WindowsApplication1.AcerosDataSet.Acero_en_placasBFPRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:WindowsApplication1.AcerosDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:WindowsApplication1.AcerosDataSetTableAdapters.Acero_en_columnasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:WindowsApplication1.AcerosDataSetTableAdapters.Acero_en_placasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:WindowsApplication1.AcerosDataSetTableAdapters.Acero_en_vigasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:WindowsApplication1.AcerosDataSetTableAdapters.Acero_en_HSSTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:WindowsApplication1.AcerosDataSetTableAdapters.Acero_en_PIPETableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:WindowsApplication1.AcerosDataSetTableAdapters.Acero_en_placasBFPTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:WindowsApplication1.AcerosDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(WindowsApplication1.AcerosDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:WindowsApplication1.AcerosDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(WindowsApplication1.AcerosDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:WindowsApplication1.AcerosDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(WindowsApplication1.AcerosDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:WindowsApplication1.AcerosDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:WindowsApplication1.AcerosDataSetTableAdapters.TableAdapterManager.UpdateAll(WindowsApplication1.AcerosDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:WindowsApplication1.AcerosDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:WindowsApplication1.AcerosDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:WindowsApplication1.AcerosDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:WindowsApplication1.EncroachmentDBDataSet.FilletEncroachmentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:WindowsApplication1.EncroachmentDBDataSet.FilletEncroachmentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:WindowsApplication1.EncroachmentDBDataSet.FilletEncroachmentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:WindowsApplication1.EncroachmentDBDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:WindowsApplication1.EncroachmentDBDataSetTableAdapters.FilletEncroachmentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:WindowsApplication1.EncroachmentDBDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(WindowsApplication1.EncroachmentDBDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:WindowsApplication1.EncroachmentDBDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(WindowsApplication1.EncroachmentDBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:WindowsApplication1.EncroachmentDBDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(WindowsApplication1.EncroachmentDBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:WindowsApplication1.EncroachmentDBDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:WindowsApplication1.EncroachmentDBDataSetTableAdapters.TableAdapterManager.UpdateAll(WindowsApplication1.EncroachmentDBDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:WindowsApplication1.EncroachmentDBDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:WindowsApplication1.EncroachmentDBDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:WindowsApplication1.EncroachmentDBDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="M:WindowsApplication1.ADCAS.BytesToImage(System.Byte[])">
+	<summary>
+ Convierte un array de Byte en un objeto Image.
+ </summary>
+	<param name="data">Array de Byte que se desea convertir.</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:WindowsApplication1.ADCAS.ImageToBytes(System.Drawing.Image)">
+	<summary>
+ Convierte un objeto Image en un array de Byte.
+ </summary>
+	<param name="image">Objeto Image que se desea convertir.</param>
+	<returns></returns>
+	<remarks></remarks>
 </member><member name="T:WindowsApplication1.Secciones_WDataSet.SeccWDataTable">
 	<summary>
 Represents the strongly named DataTable class.
@@ -1881,6 +1833,58 @@ Update Order Option
 Used to sort self-referenced table's rows
 </summary>
 </member><member name="T:WindowsApplication1.Secciones_WDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:WindowsApplication1.Secciones_RDataSet.SeccionesRDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:WindowsApplication1.Secciones_RDataSet.SeccionesRRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:WindowsApplication1.Secciones_RDataSet.SeccionesRRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:WindowsApplication1.Secciones_RDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:WindowsApplication1.Secciones_RDataSetTableAdapters.SeccionesRTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:WindowsApplication1.Secciones_RDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(WindowsApplication1.Secciones_RDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:WindowsApplication1.Secciones_RDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(WindowsApplication1.Secciones_RDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:WindowsApplication1.Secciones_RDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(WindowsApplication1.Secciones_RDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:WindowsApplication1.Secciones_RDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:WindowsApplication1.Secciones_RDataSetTableAdapters.TableAdapterManager.UpdateAll(WindowsApplication1.Secciones_RDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:WindowsApplication1.Secciones_RDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:WindowsApplication1.Secciones_RDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:WindowsApplication1.Secciones_RDataSetTableAdapters.TableAdapterManager">
 	<summary>
 TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
 </summary>

@@ -801,6 +801,7 @@
     <None Include="Resources\Rublancoigual.png" />
     <None Include="Resources\Placa Gusset X2.png" />
     <None Include="Resources\Placa Gusset X.png" />
+    <None Include="Resources\Lweldblancoigual.png" />
     <Content Include="Resources\SecciondeViga1.png" />
     <Content Include="Resources\SeccionHSS1.png" />
     <Content Include="Resources\SeccionPIPE1.png" />

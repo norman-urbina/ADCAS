@@ -2790,7 +2790,7 @@ Line0:
         limpiarcamposLabels(GroupBox250)
         limpiarcamposLabels(GroupBox251)
 
-        Label140.Text = ""
+        'Label140.Text = ""
         Label1538.Text = ""
         Label1541.Text = ""
         Label1537.Text = ""
@@ -7337,7 +7337,19 @@ Line0:
     End Sub
 
     Private Sub TabControlJ1_SelectedIndexChanged(sender As Object, e As EventArgs) Handles TabControlJ1.SelectedIndexChanged
-        labelStatusBar1.Text = "Revise los resultados de diseño y modifique según sea conveniente. Si modifica los Datos Iniciales de la izquierda, vuelva a calcular con F5"
+
+        If TabControlJ1.SelectedIndex = 3 And GroupBox21.Visible = True Then
+            labelStatusBar1.Text = "Revise los resultados de diseño y modifique según sea conveniente. Si modifica los Datos Iniciales de la izquierda, vuelva a calcular con F5"
+        ElseIf TabControlJ1.SelectedIndex = 2 And GroupBox15.Visible = True Then
+            labelStatusBar1.Text = "Revise los resultados de diseño y modifique según sea conveniente. Si modifica los Datos Iniciales de la izquierda, vuelva a calcular con F5"
+        ElseIf TabControlJ1.SelectedIndex = 2 And GroupBox15.Visible = False Then
+            labelStatusBar1.Text = "Presione clic izquierdo en cualquier lugar dentro de la pestaña para hacer la revisión de las placas de continuidad"
+        ElseIf TabControlJ1.SelectedIndex = 3 And GroupBox21.Visible = False Then
+            labelStatusBar1.Text = "Presione clic izquierdo en cualquier lugar dentro de la pestaña para hacer la revisión de la zona de panel nodal"
+        Else
+            labelStatusBar1.Text = "Revise los resultados de diseño y modifique según sea conveniente. Si modifica los Datos Iniciales de la izquierda, vuelva a calcular con F5"
+        End If
+
     End Sub
 
     Private Sub Precalificacion()
@@ -7533,6 +7545,7 @@ Line0:
         If ComboBox2.SelectedItem = "No" Then
                 If CONDICION = "Si placa" Then
                     MsgBox("La sección de la columna no es suficiente ante las demandas de carga de la conexión, por lo tanto las placas de continuidad son necesarias.", MsgBoxStyle.Exclamation, "Revisión")
+                    labelStatusBar1.Text = "Revise los resultados de diseño y modifique según sea conveniente. Si modifica los Datos Iniciales de la izquierda, vuelva a calcular con F5"
                     GroupBox15.Visible = True
                     GroupBox19.Visible = True
                     GroupBox36.Visible = False
@@ -7581,12 +7594,14 @@ Line0:
                     TextBox46.Text = RecAlma.ToString
                 Else
                     MsgBox("No se necesitan placas de continuidad, la sección de la columna es adecuada.", MsgBoxStyle.Information, "Revisión")
+                    labelStatusBar1.Text = "Presione clic izquierdo en cualquier lugar dentro de la pestaña para hacer la revisión de las placas de continuidad"
                     GroupBox15.Visible = False
                     GroupBox19.Visible = False
                     GroupBox36.Visible = False
                 End If
             Else
                 MsgBox("La conexión en el extremo de la columna requiere el uso de placas de continuidad en combinación con placa de tapa.", MsgBoxStyle.Information, "Revisión")
+                labelStatusBar1.Text = "Revise los resultados de diseño y modifique según sea conveniente. Si modifica los Datos Iniciales de la izquierda, vuelva a calcular con F5"
                 GroupBox15.Visible = True
                 GroupBox19.Visible = True
                 GroupBox36.Visible = True
@@ -7615,12 +7630,14 @@ Line0:
             If ComboBox2.SelectedItem = "No" Then
                 If tfPatin >= LimPLcont1 And tfPatin >= LimPLcont2 Then
                 MsgBox("No se necesitan placas de continuidad, el espesor de " & tfPatin & " pulg. para el patín de la columna es adecuado.", MsgBoxStyle.Information, "Revisión")
-                GroupBox15.Visible = False
-                GroupBox19.Visible = False
+                    labelStatusBar1.Text = "Presione clic izquierdo en cualquier lugar dentro de la pestaña para hacer la revisión de las placas de continuidad"
+                    GroupBox15.Visible = False
+                    GroupBox19.Visible = False
                 GroupBox36.Visible = False
             Else
                 MsgBox("Se necesitan placas de continuidad ya que el patín de la columna de " & tfPatin & " in no es adecuado. También puede elegir otra columna con un patín más grande para evitar el uso de placas de continuidad.", MsgBoxStyle.Exclamation, "Revisión")
-                GroupBox15.Visible = True
+                    labelStatusBar1.Text = "Revise los resultados de diseño y modifique según sea conveniente. Si modifica los Datos Iniciales de la izquierda, vuelva a calcular con F5"
+                    GroupBox15.Visible = True
                 GroupBox19.Visible = True
                     GroupBox36.Visible = False
                     Label287.Visible = False
@@ -7648,7 +7665,8 @@ Line0:
                 End If
         Else
             MsgBox("La conexión en el extremo de la columna requiere el uso de placas de continuidad en combinación con placa de tapa.", MsgBoxStyle.Information, "Revisión")
-            GroupBox15.Visible = True
+                labelStatusBar1.Text = "Revise los resultados de diseño y modifique según sea conveniente. Si modifica los Datos Iniciales de la izquierda, vuelva a calcular con F5"
+                GroupBox15.Visible = True
             GroupBox19.Visible = True
             GroupBox36.Visible = True
                 Label287.Visible = False
@@ -7785,7 +7803,7 @@ Line0:
                     Apf = Val(TextBox43.Text) * Val(TextBox41.Text)
 
                     Dim Ra, Rb, Rc, Rd As Double 'cada caso de resistencia requerida considerado
-                    Dim Apw, Mpe As Double
+                    Dim Apw As Double
 
                     'Apw=tp*Wplaca-alma
                     Apw = Val(TextBox43.Text) * Val(TextBox44.Text)
@@ -7865,16 +7883,16 @@ Line0:
                     'd) Calculo de Rd
                     Dim Fyb As Double = Val(acerInst.TextBox1.Text)
                     Dim Ryb As Double = Val(acerInst.TextBox3.Text)
-                    Dim Zx As Double = Val(DeNuevoOtraInst.TextBox5.Text)
+                    Dim bfviga As Double = Val(DeNuevoOtraInst.TextBox4.Text)
                     If ComboBox1.SelectedItem = "2" Then
-                        Mpe = 2 * Fyb * Ryb * Zx
+                        Rd = 2 * Fyb * Ryb * bfviga * tfbViga
                     Else
-                        Mpe = Fyb * Ryb * Zx
+                        Rd = Fyb * Ryb * bfviga * tfbViga
                     End If
-                    Rd = Mpe / (dbViga - tfbViga)
+
 
                     Dim Rplcont As Double
-                    Rplcont = Math.Round(Math.Min(Math.Min(Ra, Rb), Math.Min(Rc, Rd)))
+                    Rplcont = Math.Round(Math.Min(Math.Min(Ra, Rb), Math.Min(Rc / 2, Rd / 2)))
                     TextBox49.Text = Rplcont.ToString
 
                     'Calculo del tamaño mínimo de soldadura de placa de continuidad
@@ -7999,7 +8017,7 @@ Line0:
                 Apf = Val(TextBox43.Text) * Val(TextBox41.Text)
 
                 Dim Ra, Rb, Rc, Rd As Double 'cada caso de resistencia requerida considerado
-                Dim Apw, Mpe As Double
+                Dim Apw As Double
 
                 'Apw=tp*Wplaca-alma
                 Apw = Val(TextBox43.Text) * Val(TextBox44.Text)
@@ -8080,16 +8098,15 @@ Line0:
                 'd) Calculo de Rd
                 Dim Fyb As Double = Val(acerInst.TextBox1.Text)
                 Dim Ryb As Double = Val(acerInst.TextBox3.Text)
-                Dim Zx As Double = Val(OtraInst.TextBox5.Text)
+                Dim bfviga As Double = Val(OtraInst.TextBox4.Text)
                 If ComboBox1.SelectedItem = "2" Then
-                    Mpe = 2 * Fyb * Ryb * Zx
+                    Rd = 2 * Fyb * Ryb * bfviga * tfbViga
                 Else
-                    Mpe = Fyb * Ryb * Zx
+                    Rd = Fyb * Ryb * bfviga * tfbViga
                 End If
-                Rd = Mpe / (dbViga - tfbViga)
 
                 Dim Rplcont As Double
-                Rplcont = Math.Round(Math.Min(Math.Min(Ra, Rb), Math.Min(Rc, Rd)))
+                Rplcont = Math.Round(Math.Min(Math.Min(Ra, Rb), Math.Min(Rc / 2, Rd / 2)))
                 TextBox49.Text = Rplcont.ToString
 
                 'Calculo del tamaño mínimo de soldadura de placa de continuidad
@@ -8240,7 +8257,7 @@ Line0:
                     Apf = Val(TextBox43.Text) * Val(TextBox41.Text)
 
                     Dim Ra, Rb, Rc, Rd As Double 'cada caso de resistencia requerida considerado
-                    Dim Apw, Mpe As Double
+                    Dim Apw As Double
 
                     'Apw=tp*Wplaca-alma
                     Apw = Val(TextBox43.Text) * Val(TextBox44.Text)
@@ -8321,16 +8338,16 @@ Line0:
                     'd) Calculo de Rd
                     Dim Fyb As Double = Val(acerInst.TextBox1.Text)
                     Dim Ryb As Double = Val(acerInst.TextBox3.Text)
-                    Dim Zx As Double = Val(OtraInst.TextBox5.Text)
+                    Dim bfviga As Double = Val(OtraInst.TextBox4.Text)
                     If ComboBox1.SelectedItem = "2" Then
-                        Mpe = 2 * Fyb * Ryb * Zx
+                        Rd = 2 * Fyb * Ryb * bfviga * tfbViga
                     Else
-                        Mpe = Fyb * Ryb * Zx
+                        Rd = Fyb * Ryb * bfviga * tfbViga
                     End If
-                    Rd = Mpe / (dbViga - tfbViga)
+
 
                     Dim Rplcont As Double
-                    Rplcont = Math.Round(Math.Min(Math.Min(Ra, Rb), Math.Min(Rc, Rd)))
+                    Rplcont = Math.Round(Math.Min(Math.Min(Ra, Rb), Math.Min(Rc / 2, Rd / 2)))
                     TextBox49.Text = Rplcont.ToString
 
                     'Calculo del tamaño mínimo de soldadura de placa de continuidad
@@ -8951,7 +8968,7 @@ Line0:
             PictureBox48.Image = My.Resources.PlacaNodalSing
         End If
 
-
+        Label759.Visible = False
         TextBox53.Text = TextBox52.Text
         TextBox54.Text = TextBox53.Text
         TextBox68.Text = TextBox53.Text
@@ -9011,8 +9028,10 @@ Line0:
 
         If RadioButton4.Checked Then
             PictureBox48.Image = My.Resources.PlacaNodEspaciadaDob
+            Label759.Visible = False
         Else
             PictureBox48.Image = My.Resources.PlacaNodalDob
+            Label759.Visible = True
         End If
 
         If TextBox52.Text = "" Then
@@ -9165,6 +9184,7 @@ Line0:
         If Ru > Rn Then
             MsgBox("Se requiere refuerzo en la zona de panel. Puede intentar cambiar la sección de la columna para evitar el uso de placas de refuerzo nodal.", MsgBoxStyle.Exclamation, "Revisión")
             'conecEncroach() Cambié la apertura de esta conexión por errores que se presentaban, al inicio del formulario
+            labelStatusBar1.Text = "Revise los resultados de diseño y modifique según sea conveniente. Si modifica los Datos Iniciales de la izquierda, vuelva a calcular con F5"
             GroupBox21.Visible = True
             GroupBox22.Visible = True
             GroupBox25.Visible = True
@@ -9193,6 +9213,7 @@ Line0:
 
         Else
             MsgBox("No se necesita refuerzo en la zona de panel", MsgBoxStyle.Information, "Revisión")
+            labelStatusBar1.Text = "Presione clic izquierdo en cualquier lugar dentro de la pestaña para hacer la revisión de la zona de panel nodal"
             GroupBox21.Visible = False
             GroupBox22.Visible = False
             GroupBox25.Visible = False
@@ -9208,7 +9229,7 @@ Line0:
 
             If TextBox40.Text <> "" And TextBox45.Text <> "" Then
                 Dim Ra, Rb, Rc, Rd As Double 'cada caso de resistencia requerida considerado
-                Dim Apw, Mpe As Double
+                Dim Apw As Double
 
                 'Apw=tp*Wplaca-alma
                 Apw = Val(TextBox43.Text) * Val(TextBox44.Text)
@@ -9230,16 +9251,16 @@ Line0:
                 'd) Calculo de Rd
                 Dim Fyb As Double = Val(acerInst.TextBox1.Text)
                 Dim Ryb As Double = Val(acerInst.TextBox3.Text)
-                Dim Zx As Double = Val(instSecc1.TextBox5.Text)
+                Dim bfviga As Double = Val(instSecc1.TextBox4.Text)
+
                 If ComboBox1.SelectedItem = "2" Then
-                    Mpe = 2 * Fyb * Ryb * Zx
+                    Rd = 2 * Fyb * Ryb * bfviga * tfbViga
                 Else
-                    Mpe = Fyb * Ryb * Zx
+                    Rd = Fyb * Ryb * bfviga * tfbViga
                 End If
-                Rd = Mpe / (dbViga - tfbViga)
 
                 Dim Rplcont As Double
-                Rplcont = Math.Round(Math.Min(Math.Min(Ra, Rb), Math.Min(Rc, Rd)))
+                Rplcont = Math.Round(Math.Min(Math.Min(Ra, Rb), Math.Min(Rc / 2, Rd / 2)))
                 TextBox49.Text = Rplcont.ToString
 
                 'Calculo del tamaño mínimo de soldadura de placa de continuidad
@@ -9372,7 +9393,7 @@ Line0:
             'La menor entre a), b), c) y d)
             If TextBox40.Text <> "" And TextBox45.Text <> "" Then
                 Dim Ra, Rb, Rc, Rd As Double 'cada caso de resistencia requerida considerado
-                Dim Fy, Apf, Apw, Mpe As Double
+                Dim Fy, Apf, Apw As Double
                 Dim SeccInst As Secciones = Secciones.GetSingleton
                 Dim insTaceroPl As Aceros = Aceros.GetSingleton
                 Fy = Val(insTaceroPl.TextBox9.Text) 'Fy de la placa de continuidad
@@ -9427,16 +9448,15 @@ Line0:
                 'd) Calculo de Rd
                 Dim fyb As Double = Val(insTaceroPl.TextBox1.Text)
                 Dim Ryb As Double = Val(insTaceroPl.TextBox3.Text)
-                Dim Zx As Double = Val(SeccInst.TextBox5.Text)
+                Dim bfviga As Double = Val(SeccInst.TextBox4.Text)
                 If ComboBox1.SelectedItem = "2" Then
-                    Mpe = 2 * fyb * Ryb * Zx
+                    Rd = 2 * fyb * Ryb * bfviga * tfb
                 Else
-                    Mpe = fyb * Ryb * Zx
+                    Rd = fyb * Ryb * bfviga * tfb
                 End If
-                Rd = Mpe / (dbviga - tfb)
 
                 Dim Rplcont As Double
-                Rplcont = Math.Round(Math.Min(Math.Min(Ra, Rb), Math.Min(Rc, Rd)))
+                Rplcont = Math.Round(Math.Min(Math.Min(Ra, Rb), Math.Min(Rc / 2, Rd / 2)))
                 TextBox49.Text = Rplcont.ToString
 
                 'Calculo del tamaño mínimo de soldadura de placa de continuidad
@@ -9555,8 +9575,10 @@ Line0:
 
         If RadioButton1.Checked = True Then
             PictureBox48.Image = My.Resources.PlacaNodalSing
+            Label759.Visible = False
         Else
             PictureBox48.Image = My.Resources.PlacaNodalDob
+            Label759.Visible = True
         End If
 
         'SOLDADURA DE RANURA EN CONTACTO CON EL ALMA
@@ -9575,6 +9597,7 @@ Line0:
         End If
 
         'LO QUE OCURRE CUANDO EL RADIOBUTTON4 ES SELECCIONADO
+        Label759.Visible = False
         TextBox60.Visible = True
         TextBox58.Visible = True
         TextBox59.Visible = True
