@@ -49,7 +49,14 @@ Public Class Datos
 
     Public Property Losa As Integer
 
+    Public Property YesoNo_plconts As Boolean
+    'HAce saber si son necesarias o no, las placas de continuidad
+
     Public Property Conex_Extremo As Integer
+
+    Public Property FormAnchoPLcont As Boolean
+    'Controla para saber si el Formulario de ancho
+    'de Placa de continuidad fue abierto
 
     Public Property SeccViga As String
         Get

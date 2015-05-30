@@ -29,33 +29,48 @@
     End Sub
 
     Private Sub RadioButton1_CheckedChanged(sender As Object, e As EventArgs) Handles RadioButton1.CheckedChanged
-        PictureBox1.Image = My.Resources.PlcontCOMPLETA
-        Label1.Visible = False
-        TextBox1.ReadOnly = True
-        Twcol = Val(anchos.TextBox14.Text)
-        Bfcol = Val(anchos.TextBox12.Text)
-        Dim anchoCOMPLETO As Double
-        anchoCOMPLETO = (Bfcol / 2) - (Twcol / 2)
-        TextBox1.Text = anchoCOMPLETO.ToString
+        If RadioButton1.Checked Then
+            PictureBox1.Image = My.Resources.PlcontCOMPLETA
+            Label1.Visible = False
+            TextBox1.ReadOnly = True
+            Twcol = Val(anchos.TextBox14.Text)
+            Bfcol = Val(anchos.TextBox12.Text)
+            Dim anchoCOMPLETO As Double
+            anchoCOMPLETO = (Bfcol / 2) - (Twcol / 2)
+            TextBox1.Text = anchoCOMPLETO.ToString
+        Else
+            GoTo Line1
+        End If
+Line1:
     End Sub
 
     Private Sub RadioButton2_CheckedChanged(sender As Object, e As EventArgs) Handles RadioButton2.CheckedChanged
-        PictureBox1.Image = My.Resources.PlcontALINEADAVIGA
-        Label1.Visible = False
-        TextBox1.ReadOnly = True
-        Twcol = Val(anchos.TextBox14.Text)
-        Bfbeam = Val(anchos.TextBox4.Text)
-        Dim anchoVIGA As Double
-        anchoVIGA = (Bfbeam / 2) - (Twcol / 2)
-        TextBox1.Text = anchoVIGA.ToString
+        If RadioButton2.Checked Then
+            PictureBox1.Image = My.Resources.PlcontALINEADAVIGA
+            Label1.Visible = False
+            TextBox1.ReadOnly = True
+            Twcol = Val(anchos.TextBox14.Text)
+            Bfbeam = Val(anchos.TextBox4.Text)
+            Dim anchoVIGA As Double
+            anchoVIGA = (Bfbeam / 2) - (Twcol / 2)
+            TextBox1.Text = anchoVIGA.ToString
+        Else
+            GoTo Line2
+        End If
+Line2:
     End Sub
 
     Private Sub RadioButton3_CheckedChanged(sender As Object, e As EventArgs) Handles RadioButton3.CheckedChanged
-        PictureBox1.Image = My.Resources.PlcontANCHOCUALQUIERA
-        Label1.Visible = True
-        Label1.Text = "Especifique un ancho mayor a la proyección del patín de la viga"
-        TextBox1.ReadOnly = False
-        TextBox1.Clear()
+        If RadioButton3.Checked Then
+            PictureBox1.Image = My.Resources.PlcontANCHOCUALQUIERA
+            Label1.Visible = True
+            Label1.Text = "Especifique un ancho mayor a la proyección del patín de la viga"
+            TextBox1.ReadOnly = False
+            TextBox1.Clear()
+        Else
+            GoTo Line3
+        End If
+Line3:
     End Sub
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click

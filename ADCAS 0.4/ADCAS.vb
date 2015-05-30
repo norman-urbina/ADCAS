@@ -11,6 +11,7 @@ Public Class ADCAS
     Dim Sistema As String   'Define el sistema de marco
     Dim Calculate As Integer = 0 'Variable para saber si se corre el Diseño o no (igual a 0 si no se ha corrido, igual a 1 si se corrió al menos una vez)
     Dim LoadDB_SMF As Integer  'Variable para controlar la primera y única conexión a la Base de Datos de las SMF
+    Dim SiPLcont As Boolean  'Variable que estima saber si las placas de continuidad son necesarias en todo momento
 
     ' Campos de la clase
     '
@@ -556,6 +557,7 @@ Line0:
             d.Calc = Calculate
             d.Tipo_de_Conexion = Tipo
             d.Sistema = Sistema
+            d.YesoNo_plconts = SiPLcont
             'p.Sexo = If(rdbMale.Checked, 0, 1)
             Dim InstSecc As Secciones = Secciones.GetSingleton
             Dim InsAcero As Aceros = Aceros.GetSingleton
@@ -2137,6 +2139,7 @@ Line0:
         d.BfRBS_consid = OpcionesDiseño.BfredRBS
         d.Hsup_coL = AlturasEntrepiso.Hsup
         d.Hinf_coL = AlturasEntrepiso.Hinf
+        d.FormAnchoPLcont = OpenAnchPl
         d.Opcbp_PLcont = AnchoPlcont.OpcSelecc
         d.anchoProp_plcont = AnchoPlcont.TextoAnchoPl
 
@@ -2190,6 +2193,7 @@ Line0:
         '
         'Variables que inicialicen en cero
         Calculate = 0
+        SiPLcont = False
         OpcionesDiseño.Mgconsid = 0
         OpcionesDiseño.Vcconsid = 0
         OpcionesDiseño.VcMpcconsid = 0
@@ -2834,6 +2838,7 @@ Line0:
             Calculate = d.Calc
             Tipo = d.Tipo_de_Conexion
             Sistema = d.Sistema
+            SiPLcont = d.YesoNo_plconts
             'En dependencia del Sistema de Marco, se 
             'muestran los botones correspondientes
             'y se obtienen los datos pertinentes
@@ -4663,6 +4668,7 @@ Line0:
             OpcionesDiseño.BfredRBS = d.BfRBS_consid
             AlturasEntrepiso.Hsup = d.Hsup_coL
             AlturasEntrepiso.Hinf = d.Hinf_coL
+            OpenAnchPl = d.FormAnchoPLcont
             AnchoPlcont.OpcSelecc = d.Opcbp_PLcont
             AnchoPlcont.TextoAnchoPl = d.anchoProp_plcont
 
@@ -7460,44 +7466,53 @@ Line0:
 
     'Imagen de placa de continuidad segun RadioButton seleccionado
     Private Sub RadioButton9_CheckedChanged(sender As Object, e As EventArgs) Handles RadioButton9.CheckedChanged
-        PictureBox7.SendToBack()
-        If OpenAnchPl = True Then
-            Select Case AnchoPlcont.OpcSelecc
-                Case 0
-                    PictureBox7.Image = My.Resources.PlRecto
-                    Label232.Text = "Bisel Recto"
-                Case 1
-                    PictureBox7.Image = My.Resources.PrectaRED
-                    Label232.Text = "Bisel Recto"
-                Case 2
-                    PictureBox7.Image = My.Resources.PrectaRED
-                    Label232.Text = "Bisel Recto"
-            End Select
+        If RadioButton9.Checked Then
+            PictureBox7.SendToBack()
+            If OpenAnchPl = True Then
+                Select Case AnchoPlcont.OpcSelecc
+                    Case 0
+                        PictureBox7.Image = My.Resources.PlRecto
+                        Label232.Text = "Bisel Recto"
+                    Case 1
+                        PictureBox7.Image = My.Resources.PrectaRED
+                        Label232.Text = "Bisel Recto"
+                    Case 2
+                        PictureBox7.Image = My.Resources.PrectaRED
+                        Label232.Text = "Bisel Recto"
+                End Select
+            Else
+                PictureBox7.Image = My.Resources.PlRecto
+                Label232.Text = "Bisel Recto"
+            End If
         Else
-            PictureBox7.Image = My.Resources.PlRecto
-            Label232.Text = "Bisel Recto"
+            GoTo Line8
         End If
-
+Line8:
     End Sub
 
     Private Sub RadioButton10_CheckedChanged(sender As Object, e As EventArgs) Handles RadioButton10.CheckedChanged
-        PictureBox7.SendToBack()
-        If OpenAnchPl = True Then
-            Select Case AnchoPlcont.OpcSelecc
-                Case 0
-                    PictureBox7.Image = My.Resources.PlCurvo
-                    Label232.Text = "0.5"" radio mín."
-                Case 1
-                    PictureBox7.Image = My.Resources.PcurvaRED
-                    Label232.Text = "0.5"" radio mín."
-                Case 2
-                    PictureBox7.Image = My.Resources.PcurvaRED
-                    Label232.Text = "0.5"" radio mín."
-            End Select
+        If RadioButton10.Checked Then
+            PictureBox7.SendToBack()
+            If OpenAnchPl = True Then
+                Select Case AnchoPlcont.OpcSelecc
+                    Case 0
+                        PictureBox7.Image = My.Resources.PlCurvo
+                        Label232.Text = "0.5"" radio mín."
+                    Case 1
+                        PictureBox7.Image = My.Resources.PcurvaRED
+                        Label232.Text = "0.5"" radio mín."
+                    Case 2
+                        PictureBox7.Image = My.Resources.PcurvaRED
+                        Label232.Text = "0.5"" radio mín."
+                End Select
+            Else
+                PictureBox7.Image = My.Resources.PlCurvo
+                Label232.Text = "0.5"" radio mín."
+            End If
         Else
-            PictureBox7.Image = My.Resources.PlCurvo
-            Label232.Text = "0.5"" radio mín."
+            GoTo Line9
         End If
+Line9:
     End Sub
 
 
@@ -7542,10 +7557,11 @@ Line0:
                     CONDICION = "Si placa"
             End Select
 
-        If ComboBox2.SelectedItem = "No" Then
+            If ComboBox2.SelectedItem = "No" Then
                 If CONDICION = "Si placa" Then
                     MsgBox("La sección de la columna no es suficiente ante las demandas de carga de la conexión, por lo tanto las placas de continuidad son necesarias.", MsgBoxStyle.Exclamation, "Revisión")
                     labelStatusBar1.Text = "Revise los resultados de diseño y modifique según sea conveniente. Si modifica los Datos Iniciales de la izquierda, vuelva a calcular con F5"
+                    SiPLcont = True
                     GroupBox15.Visible = True
                     GroupBox19.Visible = True
                     GroupBox36.Visible = False
@@ -7595,6 +7611,8 @@ Line0:
                 Else
                     MsgBox("No se necesitan placas de continuidad, la sección de la columna es adecuada.", MsgBoxStyle.Information, "Revisión")
                     labelStatusBar1.Text = "Presione clic izquierdo en cualquier lugar dentro de la pestaña para hacer la revisión de las placas de continuidad"
+                    SiPLcont = False
+                    Label759.Visible = False
                     GroupBox15.Visible = False
                     GroupBox19.Visible = False
                     GroupBox36.Visible = False
@@ -7602,6 +7620,7 @@ Line0:
             Else
                 MsgBox("La conexión en el extremo de la columna requiere el uso de placas de continuidad en combinación con placa de tapa.", MsgBoxStyle.Information, "Revisión")
                 labelStatusBar1.Text = "Revise los resultados de diseño y modifique según sea conveniente. Si modifica los Datos Iniciales de la izquierda, vuelva a calcular con F5"
+                SiPLcont = True
                 GroupBox15.Visible = True
                 GroupBox19.Visible = True
                 GroupBox36.Visible = True
@@ -7629,16 +7648,19 @@ Line0:
         Else 'Casos donde la conexion es una RBS, BFP o WUF-W
             If ComboBox2.SelectedItem = "No" Then
                 If tfPatin >= LimPLcont1 And tfPatin >= LimPLcont2 Then
-                MsgBox("No se necesitan placas de continuidad, el espesor de " & tfPatin & " pulg. para el patín de la columna es adecuado.", MsgBoxStyle.Information, "Revisión")
+                    MsgBox("No se necesitan placas de continuidad, el espesor de " & tfPatin & " pulg. para el patín de la columna es adecuado.", MsgBoxStyle.Information, "Revisión")
                     labelStatusBar1.Text = "Presione clic izquierdo en cualquier lugar dentro de la pestaña para hacer la revisión de las placas de continuidad"
+                    SiPLcont = False
+                    Label759.Visible = False
                     GroupBox15.Visible = False
                     GroupBox19.Visible = False
-                GroupBox36.Visible = False
-            Else
-                MsgBox("Se necesitan placas de continuidad ya que el patín de la columna de " & tfPatin & " in no es adecuado. También puede elegir otra columna con un patín más grande para evitar el uso de placas de continuidad.", MsgBoxStyle.Exclamation, "Revisión")
+                    GroupBox36.Visible = False
+                Else
+                    MsgBox("Se necesitan placas de continuidad ya que el patín de la columna de " & tfPatin & " in no es adecuado. También puede elegir otra columna con un patín más grande para evitar el uso de placas de continuidad.", MsgBoxStyle.Exclamation, "Revisión")
                     labelStatusBar1.Text = "Revise los resultados de diseño y modifique según sea conveniente. Si modifica los Datos Iniciales de la izquierda, vuelva a calcular con F5"
+                    SiPLcont = True
                     GroupBox15.Visible = True
-                GroupBox19.Visible = True
+                    GroupBox19.Visible = True
                     GroupBox36.Visible = False
                     Label287.Visible = False
                     Label288.Visible = False
@@ -7654,7 +7676,7 @@ Line0:
                         tmin = tbf / 2
                     Else
                         tmin = tbf
-            End If
+                    End If
                     TextBox42.Text = tmin.ToString
                     'Recorte en la linea de contacto con el Patin
                     RecPatin = (K1col - twc / 2) + 0.5
@@ -7663,12 +7685,13 @@ Line0:
                     RecAlma = (Kdetc - tfPatin) + 1.5
                     TextBox46.Text = RecAlma.ToString
                 End If
-        Else
-            MsgBox("La conexión en el extremo de la columna requiere el uso de placas de continuidad en combinación con placa de tapa.", MsgBoxStyle.Information, "Revisión")
+            Else
+                MsgBox("La conexión en el extremo de la columna requiere el uso de placas de continuidad en combinación con placa de tapa.", MsgBoxStyle.Information, "Revisión")
                 labelStatusBar1.Text = "Revise los resultados de diseño y modifique según sea conveniente. Si modifica los Datos Iniciales de la izquierda, vuelva a calcular con F5"
+                SiPLcont = True
                 GroupBox15.Visible = True
-            GroupBox19.Visible = True
-            GroupBox36.Visible = True
+                GroupBox19.Visible = True
+                GroupBox36.Visible = True
                 Label287.Visible = False
                 Label288.Visible = False
                 Label289.Visible = False
@@ -8961,85 +8984,15 @@ Line0:
     'CALCULOS DE ZONA DE PANEL NODAL
     '--------------------------------
     Private Sub RadioButton1_CheckedChanged(sender As Object, e As EventArgs) Handles RadioButton1.CheckedChanged
-
-        If RadioButton4.Checked Then
-            PictureBox48.Image = My.Resources.PlacaNodEspaciadaSing
-        Else
-            PictureBox48.Image = My.Resources.PlacaNodalSing
-        End If
-
-        Label759.Visible = False
-        TextBox53.Text = TextBox52.Text
-        TextBox54.Text = TextBox53.Text
-        TextBox68.Text = TextBox53.Text
-        TextBox62.Text = TextBox53.Text
-
-        'comprobacion del espesor en la soldadura de filete
-        If TextBox61.Text <> "" Then
-            If Val(TextBox61.Text) > Val(TextBox62.Text) Then
-                TextBox61.BackColor = Color.Red
-                TextBox63.Enabled = False
-                TextBox63.Text = ""
-                TextBox64.Text = ""
-                TextBox65.Text = ""
-                Label104.Text = "No es posible soldar con soldadura de filete, puesto que el espesor de la placa de refuerzo nodal es insuficiente para acomodar el bisel." + vbCr + " " + vbCr + "Proponga un espesor que permita la hechura del bisel, o mejor aún opte por usar soldadura de ranura para unir la placa a los patines de la columna."
+        If RadioButton1.Checked Then
+            If RadioButton4.Checked Then
+                PictureBox48.Image = My.Resources.PlacaNodEspaciadaSing
             Else
-                TextBox61.BackColor = Color.WhiteSmoke
-                TextBox63.Enabled = True
-                TextBox64.Text = TextBox61.Text
-                Label104.Text = "Establezca un bisel de tal manera que sea el mínimo posible. Tenga en cuenta que entre mayor sea el bisel resultará en un tamaño de soldadura de filete más grande." + vbCr + " " + vbCr + "El máximo bisel posible está limitado al espesor de la placa de refuerzo nodal."
+                PictureBox48.Image = My.Resources.PlacaNodalSing
             End If
 
-        End If
-
-        'CONDICION PARA VER SI LOS ESPESORES CUMPLEN
-        If TextBox54.Text <> "" And Val(TextBox54.Text) < Val(TextBox56.Text) Then
-            TextBox54.BackColor = Color.Red
-            RadioButton4.Enabled = False
-            Label124.Visible = True
-            Label124.Text = "Se requiere soldaduras de tapón para interconectar la(s) placa(s) con el alma de la columna"
-            If RadioButton4.Checked = True Then
-                MessageBox.Show("No se puede establecer la disposición de placa nodal espaciada debido a que no reúne los requerimientos de espesor mínimo por pandeo", "Placa nodal espaciada", MessageBoxButtons.OK, MessageBoxIcon.Asterisk)
-                RadioButton3.Checked = True
-            End If
-        Else
-            If TextBox55.BackColor = Color.Red Then
-                TextBox54.BackColor = Color.WhiteSmoke
-                RadioButton4.Enabled = False
-                Label124.Visible = True
-                Label124.Text = "Se requiere soldaduras de tapón para interconectar la(s) placa(s) con el alma de la columna"
-            Else
-                TextBox54.BackColor = Color.White
-                RadioButton4.Enabled = True
-                Label124.Visible = False
-            End If
-        End If
-
-        'SI EL PANDEO OCURRE, HAY QUE SOLDAR LOS BORDES DE LA PLACA
-        If TextBox54.BackColor = Color.Red Then
-            Label108.Text = "Para limitar el pandeo local de la placa de refuerzo nodal es necesario soldar los bordes con el tamaño mínimo de soldadura dado en la Tabla J2.4 AISC 360-10." + vbCr + " " + vbCr + "Extender la placa nodal 6 in por encima y por debajo de la viga con mayor peralte, de acuerdo a como lo indica el AISC 341-10 E3.6.3(4)."
-        Else
-            Label108.Text = "Los bordes superior e inferior de la placa de refuerzo nodal no requieren ser soldados al alma de la columna." + vbCr + " " + vbCr + "Extender la placa nodal 6 in por encima y por debajo de la viga con mayor peralte, de acuerdo a como lo indica el AISC 341-10 E3.6.3(4)."
-        End If
-
-    End Sub
-
-    Private Sub RadioButton2_CheckedChanged(sender As Object, e As EventArgs) Handles RadioButton2.CheckedChanged
-
-        If RadioButton4.Checked Then
-            PictureBox48.Image = My.Resources.PlacaNodEspaciadaDob
             Label759.Visible = False
-        Else
-            PictureBox48.Image = My.Resources.PlacaNodalDob
-            Label759.Visible = True
-        End If
-
-        If TextBox52.Text = "" Then
-            If GroupBox21.Visible = True Then
-            MsgBox("Por favor, introduzca un valor para el espesor de refuerzo", MsgBoxStyle.Critical, "Error")
-            End If
-        Else
-            TextBox53.Text = (Double.Parse(TextBox52.Text)) / 2
+            TextBox53.Text = TextBox52.Text
             TextBox54.Text = TextBox53.Text
             TextBox68.Text = TextBox53.Text
             TextBox62.Text = TextBox53.Text
@@ -9055,11 +9008,9 @@ Line0:
                     Label104.Text = "No es posible soldar con soldadura de filete, puesto que el espesor de la placa de refuerzo nodal es insuficiente para acomodar el bisel." + vbCr + " " + vbCr + "Proponga un espesor que permita la hechura del bisel, o mejor aún opte por usar soldadura de ranura para unir la placa a los patines de la columna."
                 Else
                     TextBox61.BackColor = Color.WhiteSmoke
-                    TextBox61.BackColor = Color.WhiteSmoke
                     TextBox63.Enabled = True
                     TextBox64.Text = TextBox61.Text
                     Label104.Text = "Establezca un bisel de tal manera que sea el mínimo posible. Tenga en cuenta que entre mayor sea el bisel resultará en un tamaño de soldadura de filete más grande." + vbCr + " " + vbCr + "El máximo bisel posible está limitado al espesor de la placa de refuerzo nodal."
-
                 End If
 
             End If
@@ -9081,21 +9032,103 @@ Line0:
                     Label124.Visible = True
                     Label124.Text = "Se requiere soldaduras de tapón para interconectar la(s) placa(s) con el alma de la columna"
                 Else
-                    TextBox54.BackColor = Color.WhiteSmoke
+                    TextBox54.BackColor = Color.White
                     RadioButton4.Enabled = True
                     Label124.Visible = False
                 End If
             End If
 
-        End If
-
-        'SI EL PANDEO OCURRE, HAY QUE SOLDAR LOS BORDES DE LA PLACA
-        If TextBox54.BackColor = Color.Red Then
-            Label108.Text = "Para limitar el pandeo local de la placa de refuerzo nodal es necesario soldar los bordes con el tamaño mínimo de soldadura dado en la Tabla J2.4 AISC 360-10." + vbCr + " " + vbCr + "Extender la placa nodal 6 in por encima y por debajo de la viga con mayor peralte, de acuerdo a como lo indica el AISC 341-10 E3.6.3(4)."
+            'SI EL PANDEO OCURRE, HAY QUE SOLDAR LOS BORDES DE LA PLACA
+            If TextBox54.BackColor = Color.Red Then
+                Label108.Text = "Para limitar el pandeo local de la placa de refuerzo nodal es necesario soldar los bordes con el tamaño mínimo de soldadura dado en la Tabla J2.4 AISC 360-10." + vbCr + " " + vbCr + "Extender la placa nodal 6 in por encima y por debajo de la viga con mayor peralte, de acuerdo a como lo indica el AISC 341-10 E3.6.3(4)."
+            Else
+                Label108.Text = "Los bordes superior e inferior de la placa de refuerzo nodal no requieren ser soldados al alma de la columna." + vbCr + " " + vbCr + "Extender la placa nodal 6 in por encima y por debajo de la viga con mayor peralte, de acuerdo a como lo indica el AISC 341-10 E3.6.3(4)."
+            End If
         Else
-            Label108.Text = "Los bordes superior e inferior de la placa de refuerzo nodal no requieren ser soldados al alma de la columna." + vbCr + " " + vbCr + "Extender la placa nodal 6 in por encima y por debajo de la viga con mayor peralte, de acuerdo a como lo indica el AISC 341-10 E3.6.3(4)."
+            GoTo Line6
         End If
 
+Line6:
+    End Sub
+
+    Private Sub RadioButton2_CheckedChanged(sender As Object, e As EventArgs) Handles RadioButton2.CheckedChanged
+        If RadioButton2.Checked Then
+            'Esta condicional junto con el Line7 es para evitar que se ejecute el código del RadioButton al 'Deseleccionar' el checked
+            If RadioButton4.Checked Then
+                PictureBox48.Image = My.Resources.PlacaNodEspaciadaDob
+                Label759.Visible = False
+            Else
+                PictureBox48.Image = My.Resources.PlacaNodalDob
+                If SiPLcont = True Then
+                    Label759.Visible = True
+                End If
+            End If
+
+            If TextBox52.Text = "" Then
+                If GroupBox21.Visible = True Then
+                    MsgBox("Por favor, introduzca un valor para el espesor de refuerzo", MsgBoxStyle.Critical, "Error")
+                End If
+            Else
+                TextBox53.Text = (Double.Parse(TextBox52.Text)) / 2
+                TextBox54.Text = TextBox53.Text
+                TextBox68.Text = TextBox53.Text
+                TextBox62.Text = TextBox53.Text
+
+                'comprobacion del espesor en la soldadura de filete
+                If TextBox61.Text <> "" Then
+                    If Val(TextBox61.Text) > Val(TextBox62.Text) Then
+                        TextBox61.BackColor = Color.Red
+                        TextBox63.Enabled = False
+                        TextBox63.Text = ""
+                        TextBox64.Text = ""
+                        TextBox65.Text = ""
+                        Label104.Text = "No es posible soldar con soldadura de filete, puesto que el espesor de la placa de refuerzo nodal es insuficiente para acomodar el bisel." + vbCr + " " + vbCr + "Proponga un espesor que permita la hechura del bisel, o mejor aún opte por usar soldadura de ranura para unir la placa a los patines de la columna."
+                    Else
+                        TextBox61.BackColor = Color.WhiteSmoke
+                        TextBox61.BackColor = Color.WhiteSmoke
+                        TextBox63.Enabled = True
+                        TextBox64.Text = TextBox61.Text
+                        Label104.Text = "Establezca un bisel de tal manera que sea el mínimo posible. Tenga en cuenta que entre mayor sea el bisel resultará en un tamaño de soldadura de filete más grande." + vbCr + " " + vbCr + "El máximo bisel posible está limitado al espesor de la placa de refuerzo nodal."
+
+                    End If
+
+                End If
+
+                'CONDICION PARA VER SI LOS ESPESORES CUMPLEN
+                If TextBox54.Text <> "" And Val(TextBox54.Text) < Val(TextBox56.Text) Then
+                    TextBox54.BackColor = Color.Red
+                    RadioButton4.Enabled = False
+                    Label124.Visible = True
+                    Label124.Text = "Se requiere soldaduras de tapón para interconectar la(s) placa(s) con el alma de la columna"
+                    If RadioButton4.Checked = True Then
+                        MessageBox.Show("No se puede establecer la disposición de placa nodal espaciada debido a que no reúne los requerimientos de espesor mínimo por pandeo", "Placa nodal espaciada", MessageBoxButtons.OK, MessageBoxIcon.Asterisk)
+                        RadioButton3.Checked = True
+                    End If
+                Else
+                    If TextBox55.BackColor = Color.Red Then
+                        TextBox54.BackColor = Color.WhiteSmoke
+                        RadioButton4.Enabled = False
+                        Label124.Visible = True
+                        Label124.Text = "Se requiere soldaduras de tapón para interconectar la(s) placa(s) con el alma de la columna"
+                    Else
+                        TextBox54.BackColor = Color.WhiteSmoke
+                        RadioButton4.Enabled = True
+                        Label124.Visible = False
+                    End If
+                End If
+
+            End If
+
+            'SI EL PANDEO OCURRE, HAY QUE SOLDAR LOS BORDES DE LA PLACA
+            If TextBox54.BackColor = Color.Red Then
+                Label108.Text = "Para limitar el pandeo local de la placa de refuerzo nodal es necesario soldar los bordes con el tamaño mínimo de soldadura dado en la Tabla J2.4 AISC 360-10." + vbCr + " " + vbCr + "Extender la placa nodal 6 in por encima y por debajo de la viga con mayor peralte, de acuerdo a como lo indica el AISC 341-10 E3.6.3(4)."
+            Else
+                Label108.Text = "Los bordes superior e inferior de la placa de refuerzo nodal no requieren ser soldados al alma de la columna." + vbCr + " " + vbCr + "Extender la placa nodal 6 in por encima y por debajo de la viga con mayor peralte, de acuerdo a como lo indica el AISC 341-10 E3.6.3(4)."
+            End If
+        Else
+            GoTo Line7
+        End If
+Line7:
     End Sub
 
     Private Sub TabPage4_Click(sender As Object, e As EventArgs) Handles TabPage4.Click
@@ -9560,136 +9593,151 @@ Line0:
 
 
     Private Sub RadioButton3_CheckedChanged(sender As Object, e As EventArgs) Handles RadioButton3.CheckedChanged
+        If RadioButton3.Checked Then
+            TextBox60.Visible = False
+            TextBox58.Visible = False
+            TextBox59.Visible = False
+            Label94.Visible = False
+            Label95.Visible = False
+            Label96.Visible = False
+            Label97.Visible = False
+            Label98.Visible = False
+            PictureBox53.Visible = False
+            PictureBox54.Visible = False
+            RadioButton6.Enabled = True
 
-        TextBox60.Visible = False
-        TextBox58.Visible = False
-        TextBox59.Visible = False
-        Label94.Visible = False
-        Label95.Visible = False
-        Label96.Visible = False
-        Label97.Visible = False
-        Label98.Visible = False
-        PictureBox53.Visible = False
-        PictureBox54.Visible = False
-        RadioButton6.Enabled = True
+            If RadioButton1.Checked = True Then
+                PictureBox48.Image = My.Resources.PlacaNodalSing
+                Label759.Visible = False
+            Else
+                PictureBox48.Image = My.Resources.PlacaNodalDob
+                If SiPLcont = True Then
+                    Label759.Visible = True
+                End If
+            End If
 
-        If RadioButton1.Checked = True Then
-            PictureBox48.Image = My.Resources.PlacaNodalSing
-            Label759.Visible = False
+            'SOLDADURA DE RANURA EN CONTACTO CON EL ALMA
+            Label114.Visible = True
+            Label115.Visible = True
+            TextBox69.Visible = True
+            Label240.Visible = True
+            Label117.Text = "La placa nodal es soldada a los patines de la columna con soldadura de ranura de penetración completa CJP para desarrollar la resistencia total del espesor de la placa a cortante. No son necesarias revisiones adicionales de diseño para esta soldadura. Dado que la placa nodal está contacto con el alma de la columna, considere el ""Encroachment"" permitido para la sección de la columna y detalle un bisel de ser necesario." + vbCr + " " + vbCr + "Una soldadura de ranura parcial PJP con refuerzo de filete también es aceptable para el uso en esta unión."
         Else
-            PictureBox48.Image = My.Resources.PlacaNodalDob
-            Label759.Visible = True
+            GoTo Line5
         End If
 
-        'SOLDADURA DE RANURA EN CONTACTO CON EL ALMA
-        Label114.Visible = True
-        Label115.Visible = True
-        TextBox69.Visible = True
-        Label240.Visible = True
-        Label117.Text = "La placa nodal es soldada a los patines de la columna con soldadura de ranura de penetración completa CJP para desarrollar la resistencia total del espesor de la placa a cortante. No son necesarias revisiones adicionales de diseño para esta soldadura. Dado que la placa nodal está contacto con el alma de la columna, considere el ""Encroachment"" permitido para la sección de la columna y detalle un bisel de ser necesario." + vbCr + " " + vbCr + "Una soldadura de ranura parcial PJP con refuerzo de filete también es aceptable para el uso en esta unión."
+Line5:
     End Sub
 
     Private Sub RadioButton4_CheckedChanged(sender As Object, e As EventArgs) Handles RadioButton4.CheckedChanged
+        If RadioButton4.Checked Then
+            'ASEGURAR QUE LA SOLDADURA ESTANDO LA PLACA NODAL DISTANCIADA, SEA SOLO CJP Y NO DE FILETE
+            If RadioButton6.Checked = True Then
+                RadioButton5.Checked = True
+            End If
 
-        'ASEGURAR QUE LA SOLDADURA ESTANDO LA PLACA NODAL DISTANCIADA, SEA SOLO CJP Y NO DE FILETE
-        If RadioButton6.Checked = True Then
-            RadioButton5.Checked = True
-        End If
+            'LO QUE OCURRE CUANDO EL RADIOBUTTON4 ES SELECCIONADO
+            Label759.Visible = False
+            TextBox60.Visible = True
+            TextBox58.Visible = True
+            TextBox59.Visible = True
+            Label94.Visible = True
+            Label95.Visible = True
+            Label96.Visible = True
+            Label97.Visible = True
+            Label98.Visible = True
+            PictureBox53.Visible = True
+            PictureBox54.Visible = True
+            RadioButton6.Enabled = False
+            Label114.Visible = False
+            Label115.Visible = False
+            TextBox69.Visible = False
+            Label240.Visible = False
+            Label117.Text = "La placa nodal es soldada a los patines de la columna con soldadura de ranura de penetración completa CJP con el fin de desarrollar la resistencia total del espesor de la placa nodal a cortante. No son necesarias revisiones adicionales de diseño para esta soldadura." + vbCr + " " + vbCr + "Una soldadura de ranura parcial PJP con refuerzo de filete también es aceptable para el uso en esta unión."
 
-        'LO QUE OCURRE CUANDO EL RADIOBUTTON4 ES SELECCIONADO
-        Label759.Visible = False
-        TextBox60.Visible = True
-        TextBox58.Visible = True
-        TextBox59.Visible = True
-        Label94.Visible = True
-        Label95.Visible = True
-        Label96.Visible = True
-        Label97.Visible = True
-        Label98.Visible = True
-        PictureBox53.Visible = True
-        PictureBox54.Visible = True
-        RadioButton6.Enabled = False
-        Label114.Visible = False
-        Label115.Visible = False
-        TextBox69.Visible = False
-        Label240.Visible = False
-        Label117.Text = "La placa nodal es soldada a los patines de la columna con soldadura de ranura de penetración completa CJP con el fin de desarrollar la resistencia total del espesor de la placa nodal a cortante. No son necesarias revisiones adicionales de diseño para esta soldadura." + vbCr + " " + vbCr + "Una soldadura de ranura parcial PJP con refuerzo de filete también es aceptable para el uso en esta unión."
+            'Calculo de los espaciamientos mínimos y máximos
+            Dim Instanperfil As Secciones = Secciones.GetSingleton
+            Dim D, d1, d2 As Double
+            Dim bfbeam As Double = Val(Instanperfil.TextBox4.Text)
+            D = bfbeam / 2
+            d1 = Math.Round((1 / 3) * D, 3)
+            d2 = Math.Round((2 / 3) * D, 3)
+            TextBox58.Text = d1.ToString
+            TextBox59.Text = d2.ToString
 
-        'Calculo de los espaciamientos mínimos y máximos
-        Dim Instanperfil As Secciones = Secciones.GetSingleton
-        Dim D, d1, d2 As Double
-        Dim bfbeam As Double = Val(Instanperfil.TextBox4.Text)
-        D = bfbeam / 2
-        d1 = Math.Round((1 / 3) * D, 3)
-        d2 = Math.Round((2 / 3) * D, 3)
-        TextBox58.Text = d1.ToString
-        TextBox59.Text = d2.ToString
-
-        If RadioButton1.Checked = True Then
-            PictureBox48.Image = My.Resources.PlacaNodEspaciadaSing
+            If RadioButton1.Checked = True Then
+                PictureBox48.Image = My.Resources.PlacaNodEspaciadaSing
+            Else
+                PictureBox48.Image = My.Resources.PlacaNodEspaciadaDob
+            End If
         Else
-            PictureBox48.Image = My.Resources.PlacaNodEspaciadaDob
+            GoTo Line4
         End If
 
+Line4:
 
     End Sub
 
 
 
     Private Sub RadioButton6_CheckedChanged(sender As Object, e As EventArgs) Handles RadioButton6.CheckedChanged
-        If TextBox52.Text = "" Then
-            If GroupBox21.Visible = True Then
-                MsgBox("Por favor, introduzca un valor para el espesor de refuerzo", MsgBoxStyle.Critical, "Error")
-            End If
-            GroupBox28.Visible = False
-            Label99.Visible = False
-            PictureBox55.Visible = False
-            PictureBox77.Visible = False
-            Label100.Visible = False
-            Label101.Visible = False
-            TextBox61.Visible = False
-            TextBox62.Visible = False
-        Else
-        TextBox62.Text = TextBox53.Text
-        Label99.Visible = True
-        Label100.Visible = True
-        Label101.Visible = True
-        TextBox61.Visible = True
-        TextBox62.Visible = True
-        PictureBox55.Visible = True
-        PictureBox77.Visible = True
-        GroupBox28.Visible = True
-        GroupBox31.Visible = False
-
-            'Obtener Encroachment de la Base de Datos
-            Dim GetDatSecc As Secciones = Secciones.GetSingleton
-            Dim kdet, tfc As Double
-            kdet = Val(GetDatSecc.TextBox18.Text)
-            tfc = Val(GetDatSecc.TextBox13.Text)
-
-            Dim diferencia As Double
-            diferencia = redondear(kdet - tfc, 0.0625)
-            consultaEncroach(diferencia.ToString)
-            Dim tpmin As Double
-            tpmin = kdet - tfc - Encr   'Calculo del espesor minimo para Bisel
-            TextBox61.Text = tpmin.ToString
-            'Si el espesor minimo sobrepasa al espesor de la placa nodal NO SE PUEDE APLICAR SOLDADURA DE FILETE
-            'A menos que se modificque el espesor de la placa de refuerzo nodal
-            If tpmin > Val(TextBox62.Text) Then
-                TextBox61.BackColor = Color.Red
-                TextBox63.Enabled = False
-                TextBox63.Text = ""
-                TextBox64.Text = ""
-                TextBox65.Text = ""
-                Label104.Text = "No es posible soldar con soldadura de filete, puesto que el espesor de la placa de refuerzo nodal es insuficiente para acomodar el bisel." + vbCr + " " + vbCr + "Proponga un espesor que permita la hechura del bisel, o mejor aún opte por usar soldadura de ranura para unir la placa a los patines de la columna."
+        If RadioButton6.Checked Then
+            If TextBox52.Text = "" Then
+                If GroupBox21.Visible = True Then
+                    MsgBox("Por favor, introduzca un valor para el espesor de refuerzo", MsgBoxStyle.Critical, "Error")
+                End If
+                GroupBox28.Visible = False
+                Label99.Visible = False
+                PictureBox55.Visible = False
+                PictureBox77.Visible = False
+                Label100.Visible = False
+                Label101.Visible = False
+                TextBox61.Visible = False
+                TextBox62.Visible = False
             Else
-                TextBox61.BackColor = Color.WhiteSmoke
-                TextBox63.Enabled = True
-                TextBox64.Text = tpmin.ToString
-                Label104.Text = "Establezca un bisel de tal manera que sea el mínimo posible. Tenga en cuenta que entre mayor sea el bisel resultará en un tamaño de soldadura de filete más grande." + vbCr + " " + vbCr + "El máximo bisel posible está limitado al espesor de la placa de refuerzo nodal."
-            End If
-        End If
+                TextBox62.Text = TextBox53.Text
+                Label99.Visible = True
+                Label100.Visible = True
+                Label101.Visible = True
+                TextBox61.Visible = True
+                TextBox62.Visible = True
+                PictureBox55.Visible = True
+                PictureBox77.Visible = True
+                GroupBox28.Visible = True
+                GroupBox31.Visible = False
 
+                'Obtener Encroachment de la Base de Datos
+                Dim GetDatSecc As Secciones = Secciones.GetSingleton
+                Dim kdet, tfc As Double
+                kdet = Val(GetDatSecc.TextBox18.Text)
+                tfc = Val(GetDatSecc.TextBox13.Text)
+
+                Dim diferencia As Double
+                diferencia = redondear(kdet - tfc, 0.0625)
+                consultaEncroach(diferencia.ToString)
+                Dim tpmin As Double
+                tpmin = kdet - tfc - Encr   'Calculo del espesor minimo para Bisel
+                TextBox61.Text = tpmin.ToString
+                'Si el espesor minimo sobrepasa al espesor de la placa nodal NO SE PUEDE APLICAR SOLDADURA DE FILETE
+                'A menos que se modificque el espesor de la placa de refuerzo nodal
+                If tpmin > Val(TextBox62.Text) Then
+                    TextBox61.BackColor = Color.Red
+                    TextBox63.Enabled = False
+                    TextBox63.Text = ""
+                    TextBox64.Text = ""
+                    TextBox65.Text = ""
+                    Label104.Text = "No es posible soldar con soldadura de filete, puesto que el espesor de la placa de refuerzo nodal es insuficiente para acomodar el bisel." + vbCr + " " + vbCr + "Proponga un espesor que permita la hechura del bisel, o mejor aún opte por usar soldadura de ranura para unir la placa a los patines de la columna."
+                Else
+                    TextBox61.BackColor = Color.WhiteSmoke
+                    TextBox63.Enabled = True
+                    TextBox64.Text = tpmin.ToString
+                    Label104.Text = "Establezca un bisel de tal manera que sea el mínimo posible. Tenga en cuenta que entre mayor sea el bisel resultará en un tamaño de soldadura de filete más grande." + vbCr + " " + vbCr + "El máximo bisel posible está limitado al espesor de la placa de refuerzo nodal."
+                End If
+            End If
+        Else
+            GoTo Line3
+        End If
+Line3:
     End Sub
 
     Private Sub TextBox63_KeyPress(sender As Object, e As KeyPressEventArgs) Handles TextBox63.KeyPress
@@ -9748,85 +9796,99 @@ Line0:
     End Sub
 
     Private Sub RadioButton5_CheckedChanged(sender As Object, e As EventArgs) Handles RadioButton5.CheckedChanged
-        Label99.Visible = False
-        Label100.Visible = False
-        Label101.Visible = False
-        TextBox61.Visible = False
-        TextBox62.Visible = False
-        PictureBox55.Visible = False
-        PictureBox77.Visible = False
-        GroupBox28.Visible = False
-        GroupBox31.Visible = True
+        If RadioButton5.Checked Then
+            Label99.Visible = False
+            Label100.Visible = False
+            Label101.Visible = False
+            TextBox61.Visible = False
+            TextBox62.Visible = False
+            PictureBox55.Visible = False
+            PictureBox77.Visible = False
+            GroupBox28.Visible = False
+            GroupBox31.Visible = True
 
-        If RadioButton3.Checked = True Then
-            Dim instcualquiera As Secciones = Secciones.GetSingleton
-            Dim tcf, kdetc As Double
-            tcf = Val(instcualquiera.TextBox13.Text)
-            kdetc = Val(instcualquiera.TextBox18.Text)
-            Dim Busca As Double
-            Busca = redondear(kdetc - tcf, 0.0625)
+            If RadioButton3.Checked = True Then
+                Dim instcualquiera As Secciones = Secciones.GetSingleton
+                Dim tcf, kdetc As Double
+                tcf = Val(instcualquiera.TextBox13.Text)
+                kdetc = Val(instcualquiera.TextBox18.Text)
+                Dim Busca As Double
+                Busca = redondear(kdetc - tcf, 0.0625)
 
-            consultaEncroach(Busca.ToString)
-            TextBox69.Text = Encr
+                consultaEncroach(Busca.ToString)
+                TextBox69.Text = Encr
+            End If
+        Else
+            GoTo Line2
         End If
-
+Line2:
     End Sub
 
     Private Sub RadioButton7_CheckedChanged(sender As Object, e As EventArgs) Handles RadioButton7.CheckedChanged
-        TextBox68.Visible = False
-        TextBox67.Visible = False
-        Label112.Visible = False
-        Label110.Visible = False
-        PictureBox59.Visible = False
-        Label111.Width = 487
-        Label111.Height = 24
-        Label111.TextAlign = ContentAlignment.TopCenter
-        Label111.Location = New Point(213, 53)
-        Dim sold As Double
-        sold = Math.Round(Val(TextBox47.Text) / 16, 3)
+        If RadioButton7.Checked Then
+            TextBox68.Visible = False
+            TextBox67.Visible = False
+            Label112.Visible = False
+            Label110.Visible = False
+            PictureBox59.Visible = False
+            Label111.Width = 487
+            Label111.Height = 24
+            Label111.TextAlign = ContentAlignment.TopCenter
+            Label111.Location = New Point(213, 53)
+            Dim sold As Double
+            sold = Math.Round(Val(TextBox47.Text) / 16, 3)
 
-        Label111.Text = "La placa nodal es soldada a las placas de continuidad con " & sold & " in de soldadura de filete."
+            Label111.Text = "La placa nodal es soldada a las placas de continuidad con " & sold & " in de soldadura de filete."
+        Else
+            GoTo Line1
+        End If
+Line1:
     End Sub
 
     Private Sub RadioButton8_CheckedChanged(sender As Object, e As EventArgs) Handles RadioButton8.CheckedChanged
-        TextBox68.Visible = True
-        TextBox67.Visible = True
-        Label112.Visible = True
-        Label110.Visible = True
-        PictureBox59.Visible = True
-        Label111.Width = 487
-        Label111.Height = 100
-        Label111.TextAlign = ContentAlignment.TopLeft
-        Label111.Location = New Point(213, 36)
+        If RadioButton8.Checked Then
+            TextBox68.Visible = True
+            TextBox67.Visible = True
+            Label112.Visible = True
+            Label110.Visible = True
+            PictureBox59.Visible = True
+            Label111.Width = 487
+            Label111.Height = 100
+            Label111.TextAlign = ContentAlignment.TopLeft
+            Label111.Location = New Point(213, 36)
 
-        'INSTANCIA DEL SINGLETON PARA OBTENER Kdet Y DETERMINAR CUANTO DEBE SOBRESALIR LA PLACA= 2.5Kdet
-        Dim InstanciaKdet As Secciones
-        Dim Kdet, sobresale As Double
+            'INSTANCIA DEL SINGLETON PARA OBTENER Kdet Y DETERMINAR CUANTO DEBE SOBRESALIR LA PLACA= 2.5Kdet
+            Dim InstanciaKdet As Secciones
+            Dim Kdet, sobresale As Double
 
-        InstanciaKdet = Secciones.GetSingleton
-        Kdet = Double.Parse(InstanciaKdet.TextBox18.Text)
-        If LabelDiseño.Text = "Conexión de Momento con Placa Extrema Extendida sin Rigidizar" Or LabelDiseño.Text = "Conexión de Momento con Placa Extrema Extendida Rigidizada" Then
-            sobresale = (3 * Kdet) + Val(TextBox96.Text)
+            InstanciaKdet = Secciones.GetSingleton
+            Kdet = Double.Parse(InstanciaKdet.TextBox18.Text)
+            If LabelDiseño.Text = "Conexión de Momento con Placa Extrema Extendida sin Rigidizar" Or LabelDiseño.Text = "Conexión de Momento con Placa Extrema Extendida Rigidizada" Then
+                sobresale = (3 * Kdet) + Val(TextBox96.Text)
+            Else
+                sobresale = 2.5 * Kdet
+            End If
+
+            Label111.Text = "La placa nodal es soldada al alma de la columna con el tamaño mínimo de soldadura Tabla J2.4 de las Especificaciones del AISC. El espesor de la placa nodal es revisado para garantizar que sea capaz de desarrollar la resistencia requerida de la conexión alma-placa de continuidad." + vbCr + " " + vbCr + "La distancia que sobresale la placa nodal por encima y por debajo de cada placa de continuidad es de " + sobresale.ToString + " in."
+
+            'Calculo del espesor adecuado
+            Dim tadec, Rct_cw, wplac_alma As Double
+            Dim InstMaterial As Aceros = Aceros.GetSingleton
+            Dim Fyp As Integer = Val(InstMaterial.TextBox9.Text)
+
+            Rct_cw = Val(TextBox49.Text)
+            wplac_alma = Val(TextBox44.Text)
+            tadec = Math.Round(Rct_cw / (0.6 * Fyp * wplac_alma * 2), 3)
+            TextBox67.Text = tadec.ToString
+            If Val(TextBox68.Text) < tadec Then
+                TextBox68.BackColor = Color.Red
+            Else
+                TextBox68.BackColor = Color.WhiteSmoke
+            End If
         Else
-        sobresale = 2.5 * Kdet
+            GoTo Line0
         End If
-
-        Label111.Text = "La placa nodal es soldada al alma de la columna con el tamaño mínimo de soldadura Tabla J2.4 de las Especificaciones del AISC. El espesor de la placa nodal es revisado para garantizar que sea capaz de desarrollar la resistencia requerida de la conexión alma-placa de continuidad." + vbCr + " " + vbCr + "La distancia que sobresale la placa nodal por encima y por debajo de cada placa de continuidad es de " + sobresale.ToString + " in."
-
-        'Calculo del espesor adecuado
-        Dim tadec, Rct_cw, wplac_alma As Double
-        Dim InstMaterial As Aceros = Aceros.GetSingleton
-        Dim Fyp As Integer = Val(InstMaterial.TextBox9.Text)
-
-        Rct_cw = Val(TextBox49.Text)
-        wplac_alma = Val(TextBox44.Text)
-        tadec = Math.Round(Rct_cw / (0.6 * Fyp * wplac_alma * 2), 3)
-        TextBox67.Text = tadec.ToString
-        If Val(TextBox68.Text) < tadec Then
-            TextBox68.BackColor = Color.Red
-        Else
-            TextBox68.BackColor = Color.WhiteSmoke
-        End If
+Line0:
     End Sub
 
     Private Sub TextBox68_TextChanged(sender As Object, e As EventArgs) Handles TextBox68.TextChanged

@@ -752,6 +752,7 @@ Partial Class ADCAS
         Me.PictureBox334 = New System.Windows.Forms.PictureBox()
         Me.Label921 = New System.Windows.Forms.Label()
         Me.GroupBox172 = New System.Windows.Forms.GroupBox()
+        Me.PictureBox448 = New System.Windows.Forms.PictureBox()
         Me.PictureBox444 = New System.Windows.Forms.PictureBox()
         Me.Label922 = New System.Windows.Forms.Label()
         Me.Label923 = New System.Windows.Forms.Label()
@@ -788,6 +789,7 @@ Partial Class ADCAS
         Me.PictureBox329 = New System.Windows.Forms.PictureBox()
         Me.Label901 = New System.Windows.Forms.Label()
         Me.GroupBox168 = New System.Windows.Forms.GroupBox()
+        Me.PictureBox447 = New System.Windows.Forms.PictureBox()
         Me.PictureBox429 = New System.Windows.Forms.PictureBox()
         Me.Label902 = New System.Windows.Forms.Label()
         Me.Label903 = New System.Windows.Forms.Label()
@@ -2813,8 +2815,6 @@ Partial Class ADCAS
         Me.Label266N1 = New System.Windows.Forms.Label()
         Me.LabelDiseño = New System.Windows.Forms.Label()
         Me.Button13 = New System.Windows.Forms.Button()
-        Me.PictureBox447 = New System.Windows.Forms.PictureBox()
-        Me.PictureBox448 = New System.Windows.Forms.PictureBox()
         AceroLabel = New System.Windows.Forms.Label()
         Label315 = New System.Windows.Forms.Label()
         TipoLabel = New System.Windows.Forms.Label()
@@ -3020,6 +3020,7 @@ Partial Class ADCAS
         CType(Me.PictureBox333,System.ComponentModel.ISupportInitialize).BeginInit
         CType(Me.PictureBox334,System.ComponentModel.ISupportInitialize).BeginInit
         Me.GroupBox172.SuspendLayout
+        CType(Me.PictureBox448,System.ComponentModel.ISupportInitialize).BeginInit
         CType(Me.PictureBox444,System.ComponentModel.ISupportInitialize).BeginInit
         Me.GroupBox173.SuspendLayout
         CType(Me.PictureBox445,System.ComponentModel.ISupportInitialize).BeginInit
@@ -3032,6 +3033,7 @@ Partial Class ADCAS
         CType(Me.PictureBox328,System.ComponentModel.ISupportInitialize).BeginInit
         CType(Me.PictureBox329,System.ComponentModel.ISupportInitialize).BeginInit
         Me.GroupBox168.SuspendLayout
+        CType(Me.PictureBox447,System.ComponentModel.ISupportInitialize).BeginInit
         CType(Me.PictureBox429,System.ComponentModel.ISupportInitialize).BeginInit
         Me.GroupBox169.SuspendLayout
         CType(Me.PictureBox443,System.ComponentModel.ISupportInitialize).BeginInit
@@ -3582,8 +3584,6 @@ Partial Class ADCAS
         CType(Me.AcerosDataSet,System.ComponentModel.ISupportInitialize).BeginInit
         CType(Me.Acero_en_placasBFPBindingSource,System.ComponentModel.ISupportInitialize).BeginInit
         CType(Me.PictureBox101N1,System.ComponentModel.ISupportInitialize).BeginInit
-        CType(Me.PictureBox447,System.ComponentModel.ISupportInitialize).BeginInit
-        CType(Me.PictureBox448,System.ComponentModel.ISupportInitialize).BeginInit
         Me.SuspendLayout
         '
         'AceroLabel
@@ -3810,8 +3810,8 @@ Partial Class ADCAS
         'SplitContainer2.Panel2
         '
         Me.SplitContainer2.Panel2.BackColor = System.Drawing.Color.FromArgb(CType(CType(68,Byte),Integer), CType(CType(77,Byte),Integer), CType(CType(83,Byte),Integer))
-        Me.SplitContainer2.Panel2.Controls.Add(Me.TabControl1N)
         Me.SplitContainer2.Panel2.Controls.Add(Me.TabControlJ1)
+        Me.SplitContainer2.Panel2.Controls.Add(Me.TabControl1N)
         Me.SplitContainer2.Panel2.Controls.Add(Me.TabControl3)
         Me.SplitContainer2.Panel2.Controls.Add(Me.TabControl2)
         Me.SplitContainer2.Panel2.Controls.Add(Me.TabControl4)
@@ -11245,6 +11245,16 @@ Partial Class ADCAS
         Me.GroupBox172.Text = "Soldadura"
         Me.ToolTip1.SetToolTip(Me.GroupBox172, "Diseño de la soldadura: "&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AICS 360-10, J2.4")
         '
+        'PictureBox448
+        '
+        Me.PictureBox448.Image = Global.WindowsApplication1.My.Resources.Resources.Lweldblancoigual
+        Me.PictureBox448.Location = New System.Drawing.Point(27, 98)
+        Me.PictureBox448.Name = "PictureBox448"
+        Me.PictureBox448.Size = New System.Drawing.Size(57, 15)
+        Me.PictureBox448.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
+        Me.PictureBox448.TabIndex = 76
+        Me.PictureBox448.TabStop = false
+        '
         'PictureBox444
         '
         Me.PictureBox444.Image = Global.WindowsApplication1.My.Resources.Resources.Rublancoigual
@@ -11618,6 +11628,16 @@ Partial Class ADCAS
         Me.GroupBox168.TabStop = false
         Me.GroupBox168.Text = "Soldadura"
         Me.ToolTip1.SetToolTip(Me.GroupBox168, "Diseño de la soldadura: "&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AICS 360-10, J2.4")
+        '
+        'PictureBox447
+        '
+        Me.PictureBox447.Image = Global.WindowsApplication1.My.Resources.Resources.Lweldblancoigual
+        Me.PictureBox447.Location = New System.Drawing.Point(29, 100)
+        Me.PictureBox447.Name = "PictureBox447"
+        Me.PictureBox447.Size = New System.Drawing.Size(57, 15)
+        Me.PictureBox447.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
+        Me.PictureBox447.TabIndex = 75
+        Me.PictureBox447.TabStop = false
         '
         'PictureBox429
         '
@@ -32637,26 +32657,6 @@ Partial Class ADCAS
         Me.Button13.Text = "Elegir"
         Me.Button13.UseVisualStyleBackColor = true
         '
-        'PictureBox447
-        '
-        Me.PictureBox447.Image = Global.WindowsApplication1.My.Resources.Resources.Lweldblancoigual
-        Me.PictureBox447.Location = New System.Drawing.Point(29, 100)
-        Me.PictureBox447.Name = "PictureBox447"
-        Me.PictureBox447.Size = New System.Drawing.Size(57, 15)
-        Me.PictureBox447.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
-        Me.PictureBox447.TabIndex = 75
-        Me.PictureBox447.TabStop = false
-        '
-        'PictureBox448
-        '
-        Me.PictureBox448.Image = Global.WindowsApplication1.My.Resources.Resources.Lweldblancoigual
-        Me.PictureBox448.Location = New System.Drawing.Point(27, 98)
-        Me.PictureBox448.Name = "PictureBox448"
-        Me.PictureBox448.Size = New System.Drawing.Size(57, 15)
-        Me.PictureBox448.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
-        Me.PictureBox448.TabIndex = 76
-        Me.PictureBox448.TabStop = false
-        '
         'ADCAS
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6!, 13!)
@@ -32933,6 +32933,7 @@ Partial Class ADCAS
         CType(Me.PictureBox334,System.ComponentModel.ISupportInitialize).EndInit
         Me.GroupBox172.ResumeLayout(false)
         Me.GroupBox172.PerformLayout
+        CType(Me.PictureBox448,System.ComponentModel.ISupportInitialize).EndInit
         CType(Me.PictureBox444,System.ComponentModel.ISupportInitialize).EndInit
         Me.GroupBox173.ResumeLayout(false)
         Me.GroupBox173.PerformLayout
@@ -32949,6 +32950,7 @@ Partial Class ADCAS
         CType(Me.PictureBox329,System.ComponentModel.ISupportInitialize).EndInit
         Me.GroupBox168.ResumeLayout(false)
         Me.GroupBox168.PerformLayout
+        CType(Me.PictureBox447,System.ComponentModel.ISupportInitialize).EndInit
         CType(Me.PictureBox429,System.ComponentModel.ISupportInitialize).EndInit
         Me.GroupBox169.ResumeLayout(false)
         Me.GroupBox169.PerformLayout
@@ -33678,8 +33680,6 @@ Partial Class ADCAS
         CType(Me.AcerosDataSet,System.ComponentModel.ISupportInitialize).EndInit
         CType(Me.Acero_en_placasBFPBindingSource,System.ComponentModel.ISupportInitialize).EndInit
         CType(Me.PictureBox101N1,System.ComponentModel.ISupportInitialize).EndInit
-        CType(Me.PictureBox447,System.ComponentModel.ISupportInitialize).EndInit
-        CType(Me.PictureBox448,System.ComponentModel.ISupportInitialize).EndInit
         Me.ResumeLayout(false)
         Me.PerformLayout
 
