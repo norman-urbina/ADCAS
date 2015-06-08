@@ -24983,6 +24983,8 @@ Line0:
         Pu = Beta * Omega * Ry * Fysc * Asc
         Tu2 = Omega2 * Ry2 * Fysc2 * Asc2
         Pu2 = Beta2 * Omega2 * Ry2 * Fysc2 * Asc2
+        Pupb = Fysc * Asc
+        Pupb2 = Fysc2 * Asc2
 
         Dim factcomp As Double
 
@@ -25060,7 +25062,7 @@ Line0:
 
     Private Sub PernosBRBF(Cantidad As TextBox, Diámetro As ListBox, Superior As Boolean)
 
-        Dim Fnv, DiamBolt, NumBolts, Abolt, PhiRnBolts, CantReq As Double
+        Dim Fnv, DiamBolt, NumBolts, Abolt, PhiRnBolts, CantReq, PhiRnFrcc As Double
         Fnv = 84
         If Diámetro.SelectedIndex <> -1 Then
             DiamBolt = Val(Diámetro.Text)
@@ -25082,6 +25084,37 @@ Line0:
                     Cantidad.BackColor = Color.Red
                 Else
                     Cantidad.BackColor = Color.White
+                End If
+
+                'resistencia esperada a la fricción
+                PhiRnFrcc = Math.Round(0.3 * 1.13 * 1 * PhiRnBolts * NumBolts * 2 * 2, 2)
+
+                If Tipo = 17 Or Tipo = 19 Then
+                    If PhiRnFrcc > Pupb Then
+                        Label709.Text = "Resistencia al deslizamiento de los pernos: " + PhiRnFrcc.ToString + " kips" + " > " + Pupb.ToString + " kips"
+                        Label709.ForeColor = Color.White
+                    Else
+                        Label709.Text = "Resistencia al deslizamiento de los pernos: " + PhiRnFrcc.ToString + " kips" + " < " + Pupb.ToString + " kips"
+                        Label709.ForeColor = Color.Red
+                    End If
+                ElseIf (Tipo = 18 Or Tipo = 20) And Superior Then
+
+                    If PhiRnFrcc > Pupb Then
+                        Label711.Text = "Resistencia al deslizamiento de los pernos: " + PhiRnFrcc.ToString + " kips" + " > " + Pupb.ToString + " kips"
+                        Label711.ForeColor = Color.White
+                    Else
+                        Label711.Text = "Resistencia al deslizamiento de los pernos: " + PhiRnFrcc.ToString + " kips" + " < " + Pupb.ToString + " kips"
+                        Label711.ForeColor = Color.Red
+                    End If
+
+                ElseIf (Tipo = 18 Or Tipo = 20) And Superior = False Then
+                    If PhiRnFrcc > Pupb Then
+                        Label713.Text = "Resistencia al deslizamiento de los pernos: " + PhiRnFrcc.ToString + " kips" + " > " + Pupb2.ToString + " kips"
+                        Label713.ForeColor = Color.White
+                    Else
+                        Label713.Text = "Resistencia al deslizamiento de los pernos: " + PhiRnFrcc.ToString + " kips" + " < " + Pupb2.ToString + " kips"
+                        Label713.ForeColor = Color.Red
+                    End If
                 End If
 
             End If

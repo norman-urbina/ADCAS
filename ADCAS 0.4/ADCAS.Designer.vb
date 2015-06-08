@@ -552,414 +552,6 @@ Partial Class ADCAS
         Me.TextBox211 = New System.Windows.Forms.TextBox()
         Me.Label355 = New System.Windows.Forms.Label()
         Me.Button29N = New System.Windows.Forms.Button()
-        Me.TabControl1N = New System.Windows.Forms.TabControl()
-        Me.TabPage12N = New System.Windows.Forms.TabPage()
-        Me.GroupBox147N = New System.Windows.Forms.GroupBox()
-        Me.PictureBox318 = New System.Windows.Forms.PictureBox()
-        Me.GroupBox87 = New System.Windows.Forms.GroupBox()
-        Me.PictureBox256 = New System.Windows.Forms.PictureBox()
-        Me.Label383 = New System.Windows.Forms.Label()
-        Me.Label381 = New System.Windows.Forms.Label()
-        Me.PictureBox213 = New System.Windows.Forms.PictureBox()
-        Me.Label380 = New System.Windows.Forms.Label()
-        Me.Label379 = New System.Windows.Forms.Label()
-        Me.GroupBox148N = New System.Windows.Forms.GroupBox()
-        Me.Label432 = New System.Windows.Forms.Label()
-        Me.TextBox344 = New System.Windows.Forms.TextBox()
-        Me.Label378 = New System.Windows.Forms.Label()
-        Me.Label376 = New System.Windows.Forms.Label()
-        Me.Label374 = New System.Windows.Forms.Label()
-        Me.TextBox337 = New System.Windows.Forms.TextBox()
-        Me.TextBox336 = New System.Windows.Forms.TextBox()
-        Me.TextBox316 = New System.Windows.Forms.TextBox()
-        Me.Label377 = New System.Windows.Forms.Label()
-        Me.TextBox220 = New System.Windows.Forms.TextBox()
-        Me.Label375 = New System.Windows.Forms.Label()
-        Me.TextBox219 = New System.Windows.Forms.TextBox()
-        Me.Label372 = New System.Windows.Forms.Label()
-        Me.TextBox218 = New System.Windows.Forms.TextBox()
-        Me.Label370 = New System.Windows.Forms.Label()
-        Me.TextBox217 = New System.Windows.Forms.TextBox()
-        Me.Label368 = New System.Windows.Forms.Label()
-        Me.TextBox216 = New System.Windows.Forms.TextBox()
-        Me.Label367 = New System.Windows.Forms.Label()
-        Me.TextBox213 = New System.Windows.Forms.TextBox()
-        Me.Label360 = New System.Windows.Forms.Label()
-        Me.Label359 = New System.Windows.Forms.Label()
-        Me.Label358 = New System.Windows.Forms.Label()
-        Me.Label357 = New System.Windows.Forms.Label()
-        Me.TextBox207 = New System.Windows.Forms.TextBox()
-        Me.TextBox206 = New System.Windows.Forms.TextBox()
-        Me.TextBox205 = New System.Windows.Forms.TextBox()
-        Me.TextBox204 = New System.Windows.Forms.TextBox()
-        Me.PictureBox355 = New System.Windows.Forms.PictureBox()
-        Me.PictureBox247N = New System.Windows.Forms.PictureBox()
-        Me.GroupBox146N = New System.Windows.Forms.GroupBox()
-        Me.Label382 = New System.Windows.Forms.Label()
-        Me.Label657N = New System.Windows.Forms.Label()
-        Me.PictureBox317 = New System.Windows.Forms.PictureBox()
-        Me.Label373 = New System.Windows.Forms.Label()
-        Me.Label650N = New System.Windows.Forms.Label()
-        Me.GroupBox145N = New System.Windows.Forms.GroupBox()
-        Me.Label663N = New System.Windows.Forms.Label()
-        Me.PictureBox246N = New System.Windows.Forms.PictureBox()
-        Me.Label662N = New System.Windows.Forms.Label()
-        Me.Label661N = New System.Windows.Forms.Label()
-        Me.PictureBox245N = New System.Windows.Forms.PictureBox()
-        Me.Label660N = New System.Windows.Forms.Label()
-        Me.GroupBox144N = New System.Windows.Forms.GroupBox()
-        Me.Label664N = New System.Windows.Forms.Label()
-        Me.TextBox218N = New System.Windows.Forms.TextBox()
-        Me.Label665N = New System.Windows.Forms.Label()
-        Me.TextBox217N = New System.Windows.Forms.TextBox()
-        Me.Label659N = New System.Windows.Forms.Label()
-        Me.Label658N = New System.Windows.Forms.Label()
-        Me.GroupBox143N = New System.Windows.Forms.GroupBox()
-        Me.Label656N = New System.Windows.Forms.Label()
-        Me.PictureBox244N = New System.Windows.Forms.PictureBox()
-        Me.Label655N = New System.Windows.Forms.Label()
-        Me.TextBox216N = New System.Windows.Forms.TextBox()
-        Me.Label654N = New System.Windows.Forms.Label()
-        Me.Label653N = New System.Windows.Forms.Label()
-        Me.Label652N = New System.Windows.Forms.Label()
-        Me.TextBox215N = New System.Windows.Forms.TextBox()
-        Me.Label651N = New System.Windows.Forms.Label()
-        Me.Label649N = New System.Windows.Forms.Label()
-        Me.PictureBox243N = New System.Windows.Forms.PictureBox()
-        Me.Label648N = New System.Windows.Forms.Label()
-        Me.PictureBox242N = New System.Windows.Forms.PictureBox()
-        Me.TabPage9 = New System.Windows.Forms.TabPage()
-        Me.GroupBox96 = New System.Windows.Forms.GroupBox()
-        Me.GroupBox99 = New System.Windows.Forms.GroupBox()
-        Me.Label654 = New System.Windows.Forms.Label()
-        Me.Label655 = New System.Windows.Forms.Label()
-        Me.Label656 = New System.Windows.Forms.Label()
-        Me.Label657 = New System.Windows.Forms.Label()
-        Me.Label658 = New System.Windows.Forms.Label()
-        Me.Label659 = New System.Windows.Forms.Label()
-        Me.Label440 = New System.Windows.Forms.Label()
-        Me.PictureBox226 = New System.Windows.Forms.PictureBox()
-        Me.Label441 = New System.Windows.Forms.Label()
-        Me.Label442 = New System.Windows.Forms.Label()
-        Me.PictureBox227 = New System.Windows.Forms.PictureBox()
-        Me.Label443 = New System.Windows.Forms.Label()
-        Me.GroupBox97 = New System.Windows.Forms.GroupBox()
-        Me.Label645 = New System.Windows.Forms.Label()
-        Me.Label646 = New System.Windows.Forms.Label()
-        Me.Label647 = New System.Windows.Forms.Label()
-        Me.Label420 = New System.Windows.Forms.Label()
-        Me.PictureBox222 = New System.Windows.Forms.PictureBox()
-        Me.Label421 = New System.Windows.Forms.Label()
-        Me.Label422 = New System.Windows.Forms.Label()
-        Me.PictureBox223 = New System.Windows.Forms.PictureBox()
-        Me.Label423 = New System.Windows.Forms.Label()
-        Me.Label438 = New System.Windows.Forms.Label()
-        Me.GroupBox98 = New System.Windows.Forms.GroupBox()
-        Me.Label444 = New System.Windows.Forms.Label()
-        Me.Label445 = New System.Windows.Forms.Label()
-        Me.Label446 = New System.Windows.Forms.Label()
-        Me.Label424 = New System.Windows.Forms.Label()
-        Me.Label425 = New System.Windows.Forms.Label()
-        Me.Label426 = New System.Windows.Forms.Label()
-        Me.Label427 = New System.Windows.Forms.Label()
-        Me.TextBox223 = New System.Windows.Forms.TextBox()
-        Me.Label428 = New System.Windows.Forms.Label()
-        Me.Label429 = New System.Windows.Forms.Label()
-        Me.Label435 = New System.Windows.Forms.Label()
-        Me.Label436 = New System.Windows.Forms.Label()
-        Me.Label437 = New System.Windows.Forms.Label()
-        Me.PictureBox225 = New System.Windows.Forms.PictureBox()
-        Me.GroupBox92 = New System.Windows.Forms.GroupBox()
-        Me.GroupBox95 = New System.Windows.Forms.GroupBox()
-        Me.Label651 = New System.Windows.Forms.Label()
-        Me.Label652 = New System.Windows.Forms.Label()
-        Me.Label653 = New System.Windows.Forms.Label()
-        Me.Label648 = New System.Windows.Forms.Label()
-        Me.Label649 = New System.Windows.Forms.Label()
-        Me.Label650 = New System.Windows.Forms.Label()
-        Me.Label415 = New System.Windows.Forms.Label()
-        Me.PictureBox220 = New System.Windows.Forms.PictureBox()
-        Me.Label416 = New System.Windows.Forms.Label()
-        Me.Label433 = New System.Windows.Forms.Label()
-        Me.PictureBox224 = New System.Windows.Forms.PictureBox()
-        Me.Label434 = New System.Windows.Forms.Label()
-        Me.Label439 = New System.Windows.Forms.Label()
-        Me.GroupBox93 = New System.Windows.Forms.GroupBox()
-        Me.Label642 = New System.Windows.Forms.Label()
-        Me.Label643 = New System.Windows.Forms.Label()
-        Me.Label644 = New System.Windows.Forms.Label()
-        Me.Label402 = New System.Windows.Forms.Label()
-        Me.PictureBox218 = New System.Windows.Forms.PictureBox()
-        Me.Label403 = New System.Windows.Forms.Label()
-        Me.Label404 = New System.Windows.Forms.Label()
-        Me.PictureBox219 = New System.Windows.Forms.PictureBox()
-        Me.Label405 = New System.Windows.Forms.Label()
-        Me.GroupBox94 = New System.Windows.Forms.GroupBox()
-        Me.Label447 = New System.Windows.Forms.Label()
-        Me.Label448 = New System.Windows.Forms.Label()
-        Me.Label449 = New System.Windows.Forms.Label()
-        Me.Label406 = New System.Windows.Forms.Label()
-        Me.Label407 = New System.Windows.Forms.Label()
-        Me.Label408 = New System.Windows.Forms.Label()
-        Me.Label409 = New System.Windows.Forms.Label()
-        Me.TextBox222 = New System.Windows.Forms.TextBox()
-        Me.Label410 = New System.Windows.Forms.Label()
-        Me.Label411 = New System.Windows.Forms.Label()
-        Me.Label417 = New System.Windows.Forms.Label()
-        Me.Label418 = New System.Windows.Forms.Label()
-        Me.Label419 = New System.Windows.Forms.Label()
-        Me.PictureBox221 = New System.Windows.Forms.PictureBox()
-        Me.GroupBox88 = New System.Windows.Forms.GroupBox()
-        Me.GroupBox91 = New System.Windows.Forms.GroupBox()
-        Me.Label398 = New System.Windows.Forms.Label()
-        Me.PictureBox217 = New System.Windows.Forms.PictureBox()
-        Me.Label397 = New System.Windows.Forms.Label()
-        Me.Label396 = New System.Windows.Forms.Label()
-        Me.PictureBox216 = New System.Windows.Forms.PictureBox()
-        Me.Label395 = New System.Windows.Forms.Label()
-        Me.GroupBox90 = New System.Windows.Forms.GroupBox()
-        Me.Label450 = New System.Windows.Forms.Label()
-        Me.Label400 = New System.Windows.Forms.Label()
-        Me.Label401 = New System.Windows.Forms.Label()
-        Me.Label451 = New System.Windows.Forms.Label()
-        Me.Label399 = New System.Windows.Forms.Label()
-        Me.Label394 = New System.Windows.Forms.Label()
-        Me.Label452 = New System.Windows.Forms.Label()
-        Me.TextBox221 = New System.Windows.Forms.TextBox()
-        Me.Label393 = New System.Windows.Forms.Label()
-        Me.Label392 = New System.Windows.Forms.Label()
-        Me.GroupBox89 = New System.Windows.Forms.GroupBox()
-        Me.Label389 = New System.Windows.Forms.Label()
-        Me.PictureBox228 = New System.Windows.Forms.PictureBox()
-        Me.Label390 = New System.Windows.Forms.Label()
-        Me.Label388 = New System.Windows.Forms.Label()
-        Me.PictureBox215 = New System.Windows.Forms.PictureBox()
-        Me.Label387 = New System.Windows.Forms.Label()
-        Me.Label386 = New System.Windows.Forms.Label()
-        Me.Label385 = New System.Windows.Forms.Label()
-        Me.Label384 = New System.Windows.Forms.Label()
-        Me.PictureBox214 = New System.Windows.Forms.PictureBox()
-        Me.TabPage15 = New System.Windows.Forms.TabPage()
-        Me.GroupBox170 = New System.Windows.Forms.GroupBox()
-        Me.GroupBox171 = New System.Windows.Forms.GroupBox()
-        Me.PictureBox446 = New System.Windows.Forms.PictureBox()
-        Me.Label959 = New System.Windows.Forms.Label()
-        Me.Label961 = New System.Windows.Forms.Label()
-        Me.Label918 = New System.Windows.Forms.Label()
-        Me.PictureBox333 = New System.Windows.Forms.PictureBox()
-        Me.Label919 = New System.Windows.Forms.Label()
-        Me.Label920 = New System.Windows.Forms.Label()
-        Me.PictureBox334 = New System.Windows.Forms.PictureBox()
-        Me.Label921 = New System.Windows.Forms.Label()
-        Me.GroupBox172 = New System.Windows.Forms.GroupBox()
-        Me.PictureBox448 = New System.Windows.Forms.PictureBox()
-        Me.PictureBox444 = New System.Windows.Forms.PictureBox()
-        Me.Label922 = New System.Windows.Forms.Label()
-        Me.Label923 = New System.Windows.Forms.Label()
-        Me.Label926 = New System.Windows.Forms.Label()
-        Me.Label927 = New System.Windows.Forms.Label()
-        Me.Label928 = New System.Windows.Forms.Label()
-        Me.TextBox282 = New System.Windows.Forms.TextBox()
-        Me.Label929 = New System.Windows.Forms.Label()
-        Me.Label930 = New System.Windows.Forms.Label()
-        Me.GroupBox173 = New System.Windows.Forms.GroupBox()
-        Me.PictureBox445 = New System.Windows.Forms.PictureBox()
-        Me.Label956 = New System.Windows.Forms.Label()
-        Me.Label958 = New System.Windows.Forms.Label()
-        Me.Label931 = New System.Windows.Forms.Label()
-        Me.PictureBox335 = New System.Windows.Forms.PictureBox()
-        Me.Label932 = New System.Windows.Forms.Label()
-        Me.Label933 = New System.Windows.Forms.Label()
-        Me.PictureBox336 = New System.Windows.Forms.PictureBox()
-        Me.Label934 = New System.Windows.Forms.Label()
-        Me.Label935 = New System.Windows.Forms.Label()
-        Me.Label936 = New System.Windows.Forms.Label()
-        Me.Label937 = New System.Windows.Forms.Label()
-        Me.PictureBox337 = New System.Windows.Forms.PictureBox()
-        Me.GroupBox166 = New System.Windows.Forms.GroupBox()
-        Me.Label941 = New System.Windows.Forms.Label()
-        Me.GroupBox167 = New System.Windows.Forms.GroupBox()
-        Me.PictureBox438 = New System.Windows.Forms.PictureBox()
-        Me.Label950 = New System.Windows.Forms.Label()
-        Me.Label952 = New System.Windows.Forms.Label()
-        Me.Label898 = New System.Windows.Forms.Label()
-        Me.PictureBox328 = New System.Windows.Forms.PictureBox()
-        Me.Label899 = New System.Windows.Forms.Label()
-        Me.Label900 = New System.Windows.Forms.Label()
-        Me.PictureBox329 = New System.Windows.Forms.PictureBox()
-        Me.Label901 = New System.Windows.Forms.Label()
-        Me.GroupBox168 = New System.Windows.Forms.GroupBox()
-        Me.PictureBox447 = New System.Windows.Forms.PictureBox()
-        Me.PictureBox429 = New System.Windows.Forms.PictureBox()
-        Me.Label902 = New System.Windows.Forms.Label()
-        Me.Label903 = New System.Windows.Forms.Label()
-        Me.Label906 = New System.Windows.Forms.Label()
-        Me.Label907 = New System.Windows.Forms.Label()
-        Me.Label908 = New System.Windows.Forms.Label()
-        Me.TextBox279 = New System.Windows.Forms.TextBox()
-        Me.Label909 = New System.Windows.Forms.Label()
-        Me.Label910 = New System.Windows.Forms.Label()
-        Me.GroupBox169 = New System.Windows.Forms.GroupBox()
-        Me.PictureBox443 = New System.Windows.Forms.PictureBox()
-        Me.PictureBox442 = New System.Windows.Forms.PictureBox()
-        Me.Label881 = New System.Windows.Forms.Label()
-        Me.Label888 = New System.Windows.Forms.Label()
-        Me.Label953 = New System.Windows.Forms.Label()
-        Me.Label955 = New System.Windows.Forms.Label()
-        Me.Label911 = New System.Windows.Forms.Label()
-        Me.PictureBox330 = New System.Windows.Forms.PictureBox()
-        Me.Label912 = New System.Windows.Forms.Label()
-        Me.Label913 = New System.Windows.Forms.Label()
-        Me.PictureBox331 = New System.Windows.Forms.PictureBox()
-        Me.Label914 = New System.Windows.Forms.Label()
-        Me.Label915 = New System.Windows.Forms.Label()
-        Me.Label916 = New System.Windows.Forms.Label()
-        Me.Label917 = New System.Windows.Forms.Label()
-        Me.PictureBox332 = New System.Windows.Forms.PictureBox()
-        Me.GroupBox162 = New System.Windows.Forms.GroupBox()
-        Me.GroupBox165 = New System.Windows.Forms.GroupBox()
-        Me.Label863 = New System.Windows.Forms.Label()
-        Me.Label857 = New System.Windows.Forms.Label()
-        Me.Label890 = New System.Windows.Forms.Label()
-        Me.TextBox278 = New System.Windows.Forms.TextBox()
-        Me.Label891 = New System.Windows.Forms.Label()
-        Me.Label892 = New System.Windows.Forms.Label()
-        Me.Label893 = New System.Windows.Forms.Label()
-        Me.Label944 = New System.Windows.Forms.Label()
-        Me.Label945 = New System.Windows.Forms.Label()
-        Me.TextBox289 = New System.Windows.Forms.TextBox()
-        Me.Label962 = New System.Windows.Forms.Label()
-        Me.Label963 = New System.Windows.Forms.Label()
-        Me.Label947 = New System.Windows.Forms.Label()
-        Me.Label946 = New System.Windows.Forms.Label()
-        Me.Label871 = New System.Windows.Forms.Label()
-        Me.PictureBox320 = New System.Windows.Forms.PictureBox()
-        Me.GroupBox163 = New System.Windows.Forms.GroupBox()
-        Me.PictureBox420 = New System.Windows.Forms.PictureBox()
-        Me.PictureBox418 = New System.Windows.Forms.PictureBox()
-        Me.PictureBox416 = New System.Windows.Forms.PictureBox()
-        Me.PictureBox293 = New System.Windows.Forms.PictureBox()
-        Me.Label873 = New System.Windows.Forms.Label()
-        Me.Label877 = New System.Windows.Forms.Label()
-        Me.Label1096 = New System.Windows.Forms.Label()
-        Me.Label1097 = New System.Windows.Forms.Label()
-        Me.Label1098 = New System.Windows.Forms.Label()
-        Me.Label1099 = New System.Windows.Forms.Label()
-        Me.Label1100 = New System.Windows.Forms.Label()
-        Me.Label1101 = New System.Windows.Forms.Label()
-        Me.PictureBox321 = New System.Windows.Forms.PictureBox()
-        Me.PictureBox322 = New System.Windows.Forms.PictureBox()
-        Me.Label874 = New System.Windows.Forms.Label()
-        Me.Label875 = New System.Windows.Forms.Label()
-        Me.Label878 = New System.Windows.Forms.Label()
-        Me.Label880 = New System.Windows.Forms.Label()
-        Me.GroupBox164 = New System.Windows.Forms.GroupBox()
-        Me.PictureBox423 = New System.Windows.Forms.PictureBox()
-        Me.PictureBox422 = New System.Windows.Forms.PictureBox()
-        Me.PictureBox421 = New System.Windows.Forms.PictureBox()
-        Me.PictureBox285 = New System.Windows.Forms.PictureBox()
-        Me.Label1094 = New System.Windows.Forms.Label()
-        Me.Label1092 = New System.Windows.Forms.Label()
-        Me.Label1093 = New System.Windows.Forms.Label()
-        Me.Label1089 = New System.Windows.Forms.Label()
-        Me.PictureBox315 = New System.Windows.Forms.PictureBox()
-        Me.Label1091 = New System.Windows.Forms.Label()
-        Me.Label1087 = New System.Windows.Forms.Label()
-        Me.Label1088 = New System.Windows.Forms.Label()
-        Me.Label1090 = New System.Windows.Forms.Label()
-        Me.PictureBox314 = New System.Windows.Forms.PictureBox()
-        Me.Label1085 = New System.Windows.Forms.Label()
-        Me.Label884 = New System.Windows.Forms.Label()
-        Me.PictureBox325 = New System.Windows.Forms.PictureBox()
-        Me.Label885 = New System.Windows.Forms.Label()
-        Me.Label886 = New System.Windows.Forms.Label()
-        Me.Label887 = New System.Windows.Forms.Label()
-        Me.Label889 = New System.Windows.Forms.Label()
-        Me.Label879 = New System.Windows.Forms.Label()
-        Me.Label894 = New System.Windows.Forms.Label()
-        Me.Label895 = New System.Windows.Forms.Label()
-        Me.Label896 = New System.Windows.Forms.Label()
-        Me.Label897 = New System.Windows.Forms.Label()
-        Me.PictureBox327 = New System.Windows.Forms.PictureBox()
-        Me.GroupBox158 = New System.Windows.Forms.GroupBox()
-        Me.Label876 = New System.Windows.Forms.Label()
-        Me.Label939 = New System.Windows.Forms.Label()
-        Me.Label949 = New System.Windows.Forms.Label()
-        Me.Label948 = New System.Windows.Forms.Label()
-        Me.GroupBox174 = New System.Windows.Forms.GroupBox()
-        Me.ListBox5 = New System.Windows.Forms.ListBox()
-        Me.ListBox4 = New System.Windows.Forms.ListBox()
-        Me.ListBox3 = New System.Windows.Forms.ListBox()
-        Me.ListBox2 = New System.Windows.Forms.ListBox()
-        Me.ListBox1 = New System.Windows.Forms.ListBox()
-        Me.ComboBox19 = New System.Windows.Forms.ComboBox()
-        Me.Label940 = New System.Windows.Forms.Label()
-        Me.Label938 = New System.Windows.Forms.Label()
-        Me.TextBox287 = New System.Windows.Forms.TextBox()
-        Me.Label870 = New System.Windows.Forms.Label()
-        Me.PictureBox312 = New System.Windows.Forms.PictureBox()
-        Me.GroupBox161 = New System.Windows.Forms.GroupBox()
-        Me.PictureBox407 = New System.Windows.Forms.PictureBox()
-        Me.PictureBox356 = New System.Windows.Forms.PictureBox()
-        Me.PictureBox349 = New System.Windows.Forms.PictureBox()
-        Me.PictureBox313 = New System.Windows.Forms.PictureBox()
-        Me.PictureBox296 = New System.Windows.Forms.PictureBox()
-        Me.PictureBox295 = New System.Windows.Forms.PictureBox()
-        Me.Label864 = New System.Windows.Forms.Label()
-        Me.Label1084 = New System.Windows.Forms.Label()
-        Me.Label1083 = New System.Windows.Forms.Label()
-        Me.Label869 = New System.Windows.Forms.Label()
-        Me.Label1080 = New System.Windows.Forms.Label()
-        Me.Label867 = New System.Windows.Forms.Label()
-        Me.Label866 = New System.Windows.Forms.Label()
-        Me.Label1030 = New System.Windows.Forms.Label()
-        Me.Label858 = New System.Windows.Forms.Label()
-        Me.Label862 = New System.Windows.Forms.Label()
-        Me.Label856 = New System.Windows.Forms.Label()
-        Me.Label859 = New System.Windows.Forms.Label()
-        Me.GroupBox160 = New System.Windows.Forms.GroupBox()
-        Me.PictureBox415 = New System.Windows.Forms.PictureBox()
-        Me.PictureBox414 = New System.Windows.Forms.PictureBox()
-        Me.PictureBox413 = New System.Windows.Forms.PictureBox()
-        Me.PictureBox412 = New System.Windows.Forms.PictureBox()
-        Me.PictureBox411 = New System.Windows.Forms.PictureBox()
-        Me.PictureBox410 = New System.Windows.Forms.PictureBox()
-        Me.PictureBox409 = New System.Windows.Forms.PictureBox()
-        Me.PictureBox408 = New System.Windows.Forms.PictureBox()
-        Me.Label1081 = New System.Windows.Forms.Label()
-        Me.Label1082 = New System.Windows.Forms.Label()
-        Me.Label1078 = New System.Windows.Forms.Label()
-        Me.Label1079 = New System.Windows.Forms.Label()
-        Me.Label1032 = New System.Windows.Forms.Label()
-        Me.Label1077 = New System.Windows.Forms.Label()
-        Me.Label1031 = New System.Windows.Forms.Label()
-        Me.Label1029 = New System.Windows.Forms.Label()
-        Me.Label868 = New System.Windows.Forms.Label()
-        Me.Label860 = New System.Windows.Forms.Label()
-        Me.Label865 = New System.Windows.Forms.Label()
-        Me.Label855 = New System.Windows.Forms.Label()
-        Me.Label861 = New System.Windows.Forms.Label()
-        Me.Label854 = New System.Windows.Forms.Label()
-        Me.Label853 = New System.Windows.Forms.Label()
-        Me.Label852 = New System.Windows.Forms.Label()
-        Me.GroupBox159 = New System.Windows.Forms.GroupBox()
-        Me.Label964 = New System.Windows.Forms.Label()
-        Me.TextBox288 = New System.Windows.Forms.TextBox()
-        Me.Label965 = New System.Windows.Forms.Label()
-        Me.Label943 = New System.Windows.Forms.Label()
-        Me.Label942 = New System.Windows.Forms.Label()
-        Me.ComboBox15 = New System.Windows.Forms.ComboBox()
-        Me.Label851 = New System.Windows.Forms.Label()
-        Me.Label848 = New System.Windows.Forms.Label()
-        Me.TextBox265 = New System.Windows.Forms.TextBox()
-        Me.Label849 = New System.Windows.Forms.Label()
-        Me.ComboBox16 = New System.Windows.Forms.ComboBox()
-        Me.Label850 = New System.Windows.Forms.Label()
-        Me.Label847 = New System.Windows.Forms.Label()
-        Me.Label846 = New System.Windows.Forms.Label()
-        Me.Label845 = New System.Windows.Forms.Label()
-        Me.Label844 = New System.Windows.Forms.Label()
-        Me.PictureBox316 = New System.Windows.Forms.PictureBox()
         Me.TabControlJ1 = New System.Windows.Forms.TabControl()
         Me.TabPage1 = New System.Windows.Forms.TabPage()
         Me.GroupBox33 = New System.Windows.Forms.GroupBox()
@@ -1533,6 +1125,414 @@ Partial Class ADCAS
         Me.Label78 = New System.Windows.Forms.Label()
         Me.TextBox48 = New System.Windows.Forms.TextBox()
         Me.Label79 = New System.Windows.Forms.Label()
+        Me.TabControl1N = New System.Windows.Forms.TabControl()
+        Me.TabPage12N = New System.Windows.Forms.TabPage()
+        Me.GroupBox147N = New System.Windows.Forms.GroupBox()
+        Me.PictureBox318 = New System.Windows.Forms.PictureBox()
+        Me.GroupBox87 = New System.Windows.Forms.GroupBox()
+        Me.PictureBox256 = New System.Windows.Forms.PictureBox()
+        Me.Label383 = New System.Windows.Forms.Label()
+        Me.Label381 = New System.Windows.Forms.Label()
+        Me.PictureBox213 = New System.Windows.Forms.PictureBox()
+        Me.Label380 = New System.Windows.Forms.Label()
+        Me.Label379 = New System.Windows.Forms.Label()
+        Me.GroupBox148N = New System.Windows.Forms.GroupBox()
+        Me.Label432 = New System.Windows.Forms.Label()
+        Me.TextBox344 = New System.Windows.Forms.TextBox()
+        Me.Label378 = New System.Windows.Forms.Label()
+        Me.Label376 = New System.Windows.Forms.Label()
+        Me.Label374 = New System.Windows.Forms.Label()
+        Me.TextBox337 = New System.Windows.Forms.TextBox()
+        Me.TextBox336 = New System.Windows.Forms.TextBox()
+        Me.TextBox316 = New System.Windows.Forms.TextBox()
+        Me.Label377 = New System.Windows.Forms.Label()
+        Me.TextBox220 = New System.Windows.Forms.TextBox()
+        Me.Label375 = New System.Windows.Forms.Label()
+        Me.TextBox219 = New System.Windows.Forms.TextBox()
+        Me.Label372 = New System.Windows.Forms.Label()
+        Me.TextBox218 = New System.Windows.Forms.TextBox()
+        Me.Label370 = New System.Windows.Forms.Label()
+        Me.TextBox217 = New System.Windows.Forms.TextBox()
+        Me.Label368 = New System.Windows.Forms.Label()
+        Me.TextBox216 = New System.Windows.Forms.TextBox()
+        Me.Label367 = New System.Windows.Forms.Label()
+        Me.TextBox213 = New System.Windows.Forms.TextBox()
+        Me.Label360 = New System.Windows.Forms.Label()
+        Me.Label359 = New System.Windows.Forms.Label()
+        Me.Label358 = New System.Windows.Forms.Label()
+        Me.Label357 = New System.Windows.Forms.Label()
+        Me.TextBox207 = New System.Windows.Forms.TextBox()
+        Me.TextBox206 = New System.Windows.Forms.TextBox()
+        Me.TextBox205 = New System.Windows.Forms.TextBox()
+        Me.TextBox204 = New System.Windows.Forms.TextBox()
+        Me.PictureBox355 = New System.Windows.Forms.PictureBox()
+        Me.PictureBox247N = New System.Windows.Forms.PictureBox()
+        Me.GroupBox146N = New System.Windows.Forms.GroupBox()
+        Me.Label382 = New System.Windows.Forms.Label()
+        Me.Label657N = New System.Windows.Forms.Label()
+        Me.PictureBox317 = New System.Windows.Forms.PictureBox()
+        Me.Label373 = New System.Windows.Forms.Label()
+        Me.Label650N = New System.Windows.Forms.Label()
+        Me.GroupBox145N = New System.Windows.Forms.GroupBox()
+        Me.Label663N = New System.Windows.Forms.Label()
+        Me.PictureBox246N = New System.Windows.Forms.PictureBox()
+        Me.Label662N = New System.Windows.Forms.Label()
+        Me.Label661N = New System.Windows.Forms.Label()
+        Me.PictureBox245N = New System.Windows.Forms.PictureBox()
+        Me.Label660N = New System.Windows.Forms.Label()
+        Me.GroupBox144N = New System.Windows.Forms.GroupBox()
+        Me.Label664N = New System.Windows.Forms.Label()
+        Me.TextBox218N = New System.Windows.Forms.TextBox()
+        Me.Label665N = New System.Windows.Forms.Label()
+        Me.TextBox217N = New System.Windows.Forms.TextBox()
+        Me.Label659N = New System.Windows.Forms.Label()
+        Me.Label658N = New System.Windows.Forms.Label()
+        Me.GroupBox143N = New System.Windows.Forms.GroupBox()
+        Me.Label656N = New System.Windows.Forms.Label()
+        Me.PictureBox244N = New System.Windows.Forms.PictureBox()
+        Me.Label655N = New System.Windows.Forms.Label()
+        Me.TextBox216N = New System.Windows.Forms.TextBox()
+        Me.Label654N = New System.Windows.Forms.Label()
+        Me.Label653N = New System.Windows.Forms.Label()
+        Me.Label652N = New System.Windows.Forms.Label()
+        Me.TextBox215N = New System.Windows.Forms.TextBox()
+        Me.Label651N = New System.Windows.Forms.Label()
+        Me.Label649N = New System.Windows.Forms.Label()
+        Me.PictureBox243N = New System.Windows.Forms.PictureBox()
+        Me.Label648N = New System.Windows.Forms.Label()
+        Me.PictureBox242N = New System.Windows.Forms.PictureBox()
+        Me.TabPage9 = New System.Windows.Forms.TabPage()
+        Me.GroupBox96 = New System.Windows.Forms.GroupBox()
+        Me.GroupBox99 = New System.Windows.Forms.GroupBox()
+        Me.Label654 = New System.Windows.Forms.Label()
+        Me.Label655 = New System.Windows.Forms.Label()
+        Me.Label656 = New System.Windows.Forms.Label()
+        Me.Label657 = New System.Windows.Forms.Label()
+        Me.Label658 = New System.Windows.Forms.Label()
+        Me.Label659 = New System.Windows.Forms.Label()
+        Me.Label440 = New System.Windows.Forms.Label()
+        Me.PictureBox226 = New System.Windows.Forms.PictureBox()
+        Me.Label441 = New System.Windows.Forms.Label()
+        Me.Label442 = New System.Windows.Forms.Label()
+        Me.PictureBox227 = New System.Windows.Forms.PictureBox()
+        Me.Label443 = New System.Windows.Forms.Label()
+        Me.GroupBox97 = New System.Windows.Forms.GroupBox()
+        Me.Label645 = New System.Windows.Forms.Label()
+        Me.Label646 = New System.Windows.Forms.Label()
+        Me.Label647 = New System.Windows.Forms.Label()
+        Me.Label420 = New System.Windows.Forms.Label()
+        Me.PictureBox222 = New System.Windows.Forms.PictureBox()
+        Me.Label421 = New System.Windows.Forms.Label()
+        Me.Label422 = New System.Windows.Forms.Label()
+        Me.PictureBox223 = New System.Windows.Forms.PictureBox()
+        Me.Label423 = New System.Windows.Forms.Label()
+        Me.Label438 = New System.Windows.Forms.Label()
+        Me.GroupBox98 = New System.Windows.Forms.GroupBox()
+        Me.Label444 = New System.Windows.Forms.Label()
+        Me.Label445 = New System.Windows.Forms.Label()
+        Me.Label446 = New System.Windows.Forms.Label()
+        Me.Label424 = New System.Windows.Forms.Label()
+        Me.Label425 = New System.Windows.Forms.Label()
+        Me.Label426 = New System.Windows.Forms.Label()
+        Me.Label427 = New System.Windows.Forms.Label()
+        Me.TextBox223 = New System.Windows.Forms.TextBox()
+        Me.Label428 = New System.Windows.Forms.Label()
+        Me.Label429 = New System.Windows.Forms.Label()
+        Me.Label435 = New System.Windows.Forms.Label()
+        Me.Label436 = New System.Windows.Forms.Label()
+        Me.Label437 = New System.Windows.Forms.Label()
+        Me.PictureBox225 = New System.Windows.Forms.PictureBox()
+        Me.GroupBox92 = New System.Windows.Forms.GroupBox()
+        Me.GroupBox95 = New System.Windows.Forms.GroupBox()
+        Me.Label651 = New System.Windows.Forms.Label()
+        Me.Label652 = New System.Windows.Forms.Label()
+        Me.Label653 = New System.Windows.Forms.Label()
+        Me.Label648 = New System.Windows.Forms.Label()
+        Me.Label649 = New System.Windows.Forms.Label()
+        Me.Label650 = New System.Windows.Forms.Label()
+        Me.Label415 = New System.Windows.Forms.Label()
+        Me.PictureBox220 = New System.Windows.Forms.PictureBox()
+        Me.Label416 = New System.Windows.Forms.Label()
+        Me.Label433 = New System.Windows.Forms.Label()
+        Me.PictureBox224 = New System.Windows.Forms.PictureBox()
+        Me.Label434 = New System.Windows.Forms.Label()
+        Me.Label439 = New System.Windows.Forms.Label()
+        Me.GroupBox93 = New System.Windows.Forms.GroupBox()
+        Me.Label642 = New System.Windows.Forms.Label()
+        Me.Label643 = New System.Windows.Forms.Label()
+        Me.Label644 = New System.Windows.Forms.Label()
+        Me.Label402 = New System.Windows.Forms.Label()
+        Me.PictureBox218 = New System.Windows.Forms.PictureBox()
+        Me.Label403 = New System.Windows.Forms.Label()
+        Me.Label404 = New System.Windows.Forms.Label()
+        Me.PictureBox219 = New System.Windows.Forms.PictureBox()
+        Me.Label405 = New System.Windows.Forms.Label()
+        Me.GroupBox94 = New System.Windows.Forms.GroupBox()
+        Me.Label447 = New System.Windows.Forms.Label()
+        Me.Label448 = New System.Windows.Forms.Label()
+        Me.Label449 = New System.Windows.Forms.Label()
+        Me.Label406 = New System.Windows.Forms.Label()
+        Me.Label407 = New System.Windows.Forms.Label()
+        Me.Label408 = New System.Windows.Forms.Label()
+        Me.Label409 = New System.Windows.Forms.Label()
+        Me.TextBox222 = New System.Windows.Forms.TextBox()
+        Me.Label410 = New System.Windows.Forms.Label()
+        Me.Label411 = New System.Windows.Forms.Label()
+        Me.Label417 = New System.Windows.Forms.Label()
+        Me.Label418 = New System.Windows.Forms.Label()
+        Me.Label419 = New System.Windows.Forms.Label()
+        Me.PictureBox221 = New System.Windows.Forms.PictureBox()
+        Me.GroupBox88 = New System.Windows.Forms.GroupBox()
+        Me.GroupBox91 = New System.Windows.Forms.GroupBox()
+        Me.Label398 = New System.Windows.Forms.Label()
+        Me.PictureBox217 = New System.Windows.Forms.PictureBox()
+        Me.Label397 = New System.Windows.Forms.Label()
+        Me.Label396 = New System.Windows.Forms.Label()
+        Me.PictureBox216 = New System.Windows.Forms.PictureBox()
+        Me.Label395 = New System.Windows.Forms.Label()
+        Me.GroupBox90 = New System.Windows.Forms.GroupBox()
+        Me.Label450 = New System.Windows.Forms.Label()
+        Me.Label400 = New System.Windows.Forms.Label()
+        Me.Label401 = New System.Windows.Forms.Label()
+        Me.Label451 = New System.Windows.Forms.Label()
+        Me.Label399 = New System.Windows.Forms.Label()
+        Me.Label394 = New System.Windows.Forms.Label()
+        Me.Label452 = New System.Windows.Forms.Label()
+        Me.TextBox221 = New System.Windows.Forms.TextBox()
+        Me.Label393 = New System.Windows.Forms.Label()
+        Me.Label392 = New System.Windows.Forms.Label()
+        Me.GroupBox89 = New System.Windows.Forms.GroupBox()
+        Me.Label389 = New System.Windows.Forms.Label()
+        Me.PictureBox228 = New System.Windows.Forms.PictureBox()
+        Me.Label390 = New System.Windows.Forms.Label()
+        Me.Label388 = New System.Windows.Forms.Label()
+        Me.PictureBox215 = New System.Windows.Forms.PictureBox()
+        Me.Label387 = New System.Windows.Forms.Label()
+        Me.Label386 = New System.Windows.Forms.Label()
+        Me.Label385 = New System.Windows.Forms.Label()
+        Me.Label384 = New System.Windows.Forms.Label()
+        Me.PictureBox214 = New System.Windows.Forms.PictureBox()
+        Me.TabPage15 = New System.Windows.Forms.TabPage()
+        Me.GroupBox170 = New System.Windows.Forms.GroupBox()
+        Me.GroupBox171 = New System.Windows.Forms.GroupBox()
+        Me.PictureBox446 = New System.Windows.Forms.PictureBox()
+        Me.Label959 = New System.Windows.Forms.Label()
+        Me.Label961 = New System.Windows.Forms.Label()
+        Me.Label918 = New System.Windows.Forms.Label()
+        Me.PictureBox333 = New System.Windows.Forms.PictureBox()
+        Me.Label919 = New System.Windows.Forms.Label()
+        Me.Label920 = New System.Windows.Forms.Label()
+        Me.PictureBox334 = New System.Windows.Forms.PictureBox()
+        Me.Label921 = New System.Windows.Forms.Label()
+        Me.GroupBox172 = New System.Windows.Forms.GroupBox()
+        Me.PictureBox448 = New System.Windows.Forms.PictureBox()
+        Me.PictureBox444 = New System.Windows.Forms.PictureBox()
+        Me.Label922 = New System.Windows.Forms.Label()
+        Me.Label923 = New System.Windows.Forms.Label()
+        Me.Label926 = New System.Windows.Forms.Label()
+        Me.Label927 = New System.Windows.Forms.Label()
+        Me.Label928 = New System.Windows.Forms.Label()
+        Me.TextBox282 = New System.Windows.Forms.TextBox()
+        Me.Label929 = New System.Windows.Forms.Label()
+        Me.Label930 = New System.Windows.Forms.Label()
+        Me.GroupBox173 = New System.Windows.Forms.GroupBox()
+        Me.PictureBox445 = New System.Windows.Forms.PictureBox()
+        Me.Label956 = New System.Windows.Forms.Label()
+        Me.Label958 = New System.Windows.Forms.Label()
+        Me.Label931 = New System.Windows.Forms.Label()
+        Me.PictureBox335 = New System.Windows.Forms.PictureBox()
+        Me.Label932 = New System.Windows.Forms.Label()
+        Me.Label933 = New System.Windows.Forms.Label()
+        Me.PictureBox336 = New System.Windows.Forms.PictureBox()
+        Me.Label934 = New System.Windows.Forms.Label()
+        Me.Label935 = New System.Windows.Forms.Label()
+        Me.Label936 = New System.Windows.Forms.Label()
+        Me.Label937 = New System.Windows.Forms.Label()
+        Me.PictureBox337 = New System.Windows.Forms.PictureBox()
+        Me.GroupBox166 = New System.Windows.Forms.GroupBox()
+        Me.Label941 = New System.Windows.Forms.Label()
+        Me.GroupBox167 = New System.Windows.Forms.GroupBox()
+        Me.PictureBox438 = New System.Windows.Forms.PictureBox()
+        Me.Label950 = New System.Windows.Forms.Label()
+        Me.Label952 = New System.Windows.Forms.Label()
+        Me.Label898 = New System.Windows.Forms.Label()
+        Me.PictureBox328 = New System.Windows.Forms.PictureBox()
+        Me.Label899 = New System.Windows.Forms.Label()
+        Me.Label900 = New System.Windows.Forms.Label()
+        Me.PictureBox329 = New System.Windows.Forms.PictureBox()
+        Me.Label901 = New System.Windows.Forms.Label()
+        Me.GroupBox168 = New System.Windows.Forms.GroupBox()
+        Me.PictureBox447 = New System.Windows.Forms.PictureBox()
+        Me.PictureBox429 = New System.Windows.Forms.PictureBox()
+        Me.Label902 = New System.Windows.Forms.Label()
+        Me.Label903 = New System.Windows.Forms.Label()
+        Me.Label906 = New System.Windows.Forms.Label()
+        Me.Label907 = New System.Windows.Forms.Label()
+        Me.Label908 = New System.Windows.Forms.Label()
+        Me.TextBox279 = New System.Windows.Forms.TextBox()
+        Me.Label909 = New System.Windows.Forms.Label()
+        Me.Label910 = New System.Windows.Forms.Label()
+        Me.GroupBox169 = New System.Windows.Forms.GroupBox()
+        Me.PictureBox443 = New System.Windows.Forms.PictureBox()
+        Me.PictureBox442 = New System.Windows.Forms.PictureBox()
+        Me.Label881 = New System.Windows.Forms.Label()
+        Me.Label888 = New System.Windows.Forms.Label()
+        Me.Label953 = New System.Windows.Forms.Label()
+        Me.Label955 = New System.Windows.Forms.Label()
+        Me.Label911 = New System.Windows.Forms.Label()
+        Me.PictureBox330 = New System.Windows.Forms.PictureBox()
+        Me.Label912 = New System.Windows.Forms.Label()
+        Me.Label913 = New System.Windows.Forms.Label()
+        Me.PictureBox331 = New System.Windows.Forms.PictureBox()
+        Me.Label914 = New System.Windows.Forms.Label()
+        Me.Label915 = New System.Windows.Forms.Label()
+        Me.Label916 = New System.Windows.Forms.Label()
+        Me.Label917 = New System.Windows.Forms.Label()
+        Me.PictureBox332 = New System.Windows.Forms.PictureBox()
+        Me.GroupBox162 = New System.Windows.Forms.GroupBox()
+        Me.GroupBox165 = New System.Windows.Forms.GroupBox()
+        Me.Label863 = New System.Windows.Forms.Label()
+        Me.Label857 = New System.Windows.Forms.Label()
+        Me.Label890 = New System.Windows.Forms.Label()
+        Me.TextBox278 = New System.Windows.Forms.TextBox()
+        Me.Label891 = New System.Windows.Forms.Label()
+        Me.Label892 = New System.Windows.Forms.Label()
+        Me.Label893 = New System.Windows.Forms.Label()
+        Me.Label944 = New System.Windows.Forms.Label()
+        Me.Label945 = New System.Windows.Forms.Label()
+        Me.TextBox289 = New System.Windows.Forms.TextBox()
+        Me.Label962 = New System.Windows.Forms.Label()
+        Me.Label963 = New System.Windows.Forms.Label()
+        Me.Label947 = New System.Windows.Forms.Label()
+        Me.Label946 = New System.Windows.Forms.Label()
+        Me.Label871 = New System.Windows.Forms.Label()
+        Me.PictureBox320 = New System.Windows.Forms.PictureBox()
+        Me.GroupBox163 = New System.Windows.Forms.GroupBox()
+        Me.PictureBox420 = New System.Windows.Forms.PictureBox()
+        Me.PictureBox418 = New System.Windows.Forms.PictureBox()
+        Me.PictureBox416 = New System.Windows.Forms.PictureBox()
+        Me.PictureBox293 = New System.Windows.Forms.PictureBox()
+        Me.Label873 = New System.Windows.Forms.Label()
+        Me.Label877 = New System.Windows.Forms.Label()
+        Me.Label1096 = New System.Windows.Forms.Label()
+        Me.Label1097 = New System.Windows.Forms.Label()
+        Me.Label1098 = New System.Windows.Forms.Label()
+        Me.Label1099 = New System.Windows.Forms.Label()
+        Me.Label1100 = New System.Windows.Forms.Label()
+        Me.Label1101 = New System.Windows.Forms.Label()
+        Me.PictureBox321 = New System.Windows.Forms.PictureBox()
+        Me.PictureBox322 = New System.Windows.Forms.PictureBox()
+        Me.Label874 = New System.Windows.Forms.Label()
+        Me.Label875 = New System.Windows.Forms.Label()
+        Me.Label878 = New System.Windows.Forms.Label()
+        Me.Label880 = New System.Windows.Forms.Label()
+        Me.GroupBox164 = New System.Windows.Forms.GroupBox()
+        Me.PictureBox423 = New System.Windows.Forms.PictureBox()
+        Me.PictureBox422 = New System.Windows.Forms.PictureBox()
+        Me.PictureBox421 = New System.Windows.Forms.PictureBox()
+        Me.PictureBox285 = New System.Windows.Forms.PictureBox()
+        Me.Label1094 = New System.Windows.Forms.Label()
+        Me.Label1092 = New System.Windows.Forms.Label()
+        Me.Label1093 = New System.Windows.Forms.Label()
+        Me.Label1089 = New System.Windows.Forms.Label()
+        Me.PictureBox315 = New System.Windows.Forms.PictureBox()
+        Me.Label1091 = New System.Windows.Forms.Label()
+        Me.Label1087 = New System.Windows.Forms.Label()
+        Me.Label1088 = New System.Windows.Forms.Label()
+        Me.Label1090 = New System.Windows.Forms.Label()
+        Me.PictureBox314 = New System.Windows.Forms.PictureBox()
+        Me.Label1085 = New System.Windows.Forms.Label()
+        Me.Label884 = New System.Windows.Forms.Label()
+        Me.PictureBox325 = New System.Windows.Forms.PictureBox()
+        Me.Label885 = New System.Windows.Forms.Label()
+        Me.Label886 = New System.Windows.Forms.Label()
+        Me.Label887 = New System.Windows.Forms.Label()
+        Me.Label889 = New System.Windows.Forms.Label()
+        Me.Label879 = New System.Windows.Forms.Label()
+        Me.Label894 = New System.Windows.Forms.Label()
+        Me.Label895 = New System.Windows.Forms.Label()
+        Me.Label896 = New System.Windows.Forms.Label()
+        Me.Label897 = New System.Windows.Forms.Label()
+        Me.PictureBox327 = New System.Windows.Forms.PictureBox()
+        Me.GroupBox158 = New System.Windows.Forms.GroupBox()
+        Me.Label876 = New System.Windows.Forms.Label()
+        Me.Label939 = New System.Windows.Forms.Label()
+        Me.Label949 = New System.Windows.Forms.Label()
+        Me.Label948 = New System.Windows.Forms.Label()
+        Me.GroupBox174 = New System.Windows.Forms.GroupBox()
+        Me.ListBox5 = New System.Windows.Forms.ListBox()
+        Me.ListBox4 = New System.Windows.Forms.ListBox()
+        Me.ListBox3 = New System.Windows.Forms.ListBox()
+        Me.ListBox2 = New System.Windows.Forms.ListBox()
+        Me.ListBox1 = New System.Windows.Forms.ListBox()
+        Me.ComboBox19 = New System.Windows.Forms.ComboBox()
+        Me.Label940 = New System.Windows.Forms.Label()
+        Me.Label938 = New System.Windows.Forms.Label()
+        Me.TextBox287 = New System.Windows.Forms.TextBox()
+        Me.Label870 = New System.Windows.Forms.Label()
+        Me.PictureBox312 = New System.Windows.Forms.PictureBox()
+        Me.GroupBox161 = New System.Windows.Forms.GroupBox()
+        Me.PictureBox407 = New System.Windows.Forms.PictureBox()
+        Me.PictureBox356 = New System.Windows.Forms.PictureBox()
+        Me.PictureBox349 = New System.Windows.Forms.PictureBox()
+        Me.PictureBox313 = New System.Windows.Forms.PictureBox()
+        Me.PictureBox296 = New System.Windows.Forms.PictureBox()
+        Me.PictureBox295 = New System.Windows.Forms.PictureBox()
+        Me.Label864 = New System.Windows.Forms.Label()
+        Me.Label1084 = New System.Windows.Forms.Label()
+        Me.Label1083 = New System.Windows.Forms.Label()
+        Me.Label869 = New System.Windows.Forms.Label()
+        Me.Label1080 = New System.Windows.Forms.Label()
+        Me.Label867 = New System.Windows.Forms.Label()
+        Me.Label866 = New System.Windows.Forms.Label()
+        Me.Label1030 = New System.Windows.Forms.Label()
+        Me.Label858 = New System.Windows.Forms.Label()
+        Me.Label862 = New System.Windows.Forms.Label()
+        Me.Label856 = New System.Windows.Forms.Label()
+        Me.Label859 = New System.Windows.Forms.Label()
+        Me.GroupBox160 = New System.Windows.Forms.GroupBox()
+        Me.PictureBox415 = New System.Windows.Forms.PictureBox()
+        Me.PictureBox414 = New System.Windows.Forms.PictureBox()
+        Me.PictureBox413 = New System.Windows.Forms.PictureBox()
+        Me.PictureBox412 = New System.Windows.Forms.PictureBox()
+        Me.PictureBox411 = New System.Windows.Forms.PictureBox()
+        Me.PictureBox410 = New System.Windows.Forms.PictureBox()
+        Me.PictureBox409 = New System.Windows.Forms.PictureBox()
+        Me.PictureBox408 = New System.Windows.Forms.PictureBox()
+        Me.Label1081 = New System.Windows.Forms.Label()
+        Me.Label1082 = New System.Windows.Forms.Label()
+        Me.Label1078 = New System.Windows.Forms.Label()
+        Me.Label1079 = New System.Windows.Forms.Label()
+        Me.Label1032 = New System.Windows.Forms.Label()
+        Me.Label1077 = New System.Windows.Forms.Label()
+        Me.Label1031 = New System.Windows.Forms.Label()
+        Me.Label1029 = New System.Windows.Forms.Label()
+        Me.Label868 = New System.Windows.Forms.Label()
+        Me.Label860 = New System.Windows.Forms.Label()
+        Me.Label865 = New System.Windows.Forms.Label()
+        Me.Label855 = New System.Windows.Forms.Label()
+        Me.Label861 = New System.Windows.Forms.Label()
+        Me.Label854 = New System.Windows.Forms.Label()
+        Me.Label853 = New System.Windows.Forms.Label()
+        Me.Label852 = New System.Windows.Forms.Label()
+        Me.GroupBox159 = New System.Windows.Forms.GroupBox()
+        Me.Label964 = New System.Windows.Forms.Label()
+        Me.TextBox288 = New System.Windows.Forms.TextBox()
+        Me.Label965 = New System.Windows.Forms.Label()
+        Me.Label943 = New System.Windows.Forms.Label()
+        Me.Label942 = New System.Windows.Forms.Label()
+        Me.ComboBox15 = New System.Windows.Forms.ComboBox()
+        Me.Label851 = New System.Windows.Forms.Label()
+        Me.Label848 = New System.Windows.Forms.Label()
+        Me.TextBox265 = New System.Windows.Forms.TextBox()
+        Me.Label849 = New System.Windows.Forms.Label()
+        Me.ComboBox16 = New System.Windows.Forms.ComboBox()
+        Me.Label850 = New System.Windows.Forms.Label()
+        Me.Label847 = New System.Windows.Forms.Label()
+        Me.Label846 = New System.Windows.Forms.Label()
+        Me.Label845 = New System.Windows.Forms.Label()
+        Me.Label844 = New System.Windows.Forms.Label()
+        Me.PictureBox316 = New System.Windows.Forms.PictureBox()
         Me.TabControl3 = New System.Windows.Forms.TabControl()
         Me.TabPage16 = New System.Windows.Forms.TabPage()
         Me.GroupBox195 = New System.Windows.Forms.GroupBox()
@@ -2815,6 +2815,9 @@ Partial Class ADCAS
         Me.Label266N1 = New System.Windows.Forms.Label()
         Me.LabelDiseño = New System.Windows.Forms.Label()
         Me.Button13 = New System.Windows.Forms.Button()
+        Me.Label709 = New System.Windows.Forms.Label()
+        Me.Label711 = New System.Windows.Forms.Label()
+        Me.Label713 = New System.Windows.Forms.Label()
         AceroLabel = New System.Windows.Forms.Label()
         Label315 = New System.Windows.Forms.Label()
         TipoLabel = New System.Windows.Forms.Label()
@@ -2965,122 +2968,6 @@ Partial Class ADCAS
         Me.GroupBox140N.SuspendLayout
         Me.GroupBox150N.SuspendLayout
         Me.GroupBox149N.SuspendLayout
-        Me.TabControl1N.SuspendLayout
-        Me.TabPage12N.SuspendLayout
-        Me.GroupBox147N.SuspendLayout
-        CType(Me.PictureBox318,System.ComponentModel.ISupportInitialize).BeginInit
-        Me.GroupBox87.SuspendLayout
-        CType(Me.PictureBox256,System.ComponentModel.ISupportInitialize).BeginInit
-        CType(Me.PictureBox213,System.ComponentModel.ISupportInitialize).BeginInit
-        Me.GroupBox148N.SuspendLayout
-        CType(Me.PictureBox355,System.ComponentModel.ISupportInitialize).BeginInit
-        CType(Me.PictureBox247N,System.ComponentModel.ISupportInitialize).BeginInit
-        Me.GroupBox146N.SuspendLayout
-        CType(Me.PictureBox317,System.ComponentModel.ISupportInitialize).BeginInit
-        Me.GroupBox145N.SuspendLayout
-        CType(Me.PictureBox246N,System.ComponentModel.ISupportInitialize).BeginInit
-        CType(Me.PictureBox245N,System.ComponentModel.ISupportInitialize).BeginInit
-        Me.GroupBox144N.SuspendLayout
-        Me.GroupBox143N.SuspendLayout
-        CType(Me.PictureBox244N,System.ComponentModel.ISupportInitialize).BeginInit
-        CType(Me.PictureBox243N,System.ComponentModel.ISupportInitialize).BeginInit
-        CType(Me.PictureBox242N,System.ComponentModel.ISupportInitialize).BeginInit
-        Me.TabPage9.SuspendLayout
-        Me.GroupBox96.SuspendLayout
-        Me.GroupBox99.SuspendLayout
-        CType(Me.PictureBox226,System.ComponentModel.ISupportInitialize).BeginInit
-        CType(Me.PictureBox227,System.ComponentModel.ISupportInitialize).BeginInit
-        Me.GroupBox97.SuspendLayout
-        CType(Me.PictureBox222,System.ComponentModel.ISupportInitialize).BeginInit
-        CType(Me.PictureBox223,System.ComponentModel.ISupportInitialize).BeginInit
-        Me.GroupBox98.SuspendLayout
-        CType(Me.PictureBox225,System.ComponentModel.ISupportInitialize).BeginInit
-        Me.GroupBox92.SuspendLayout
-        Me.GroupBox95.SuspendLayout
-        CType(Me.PictureBox220,System.ComponentModel.ISupportInitialize).BeginInit
-        CType(Me.PictureBox224,System.ComponentModel.ISupportInitialize).BeginInit
-        Me.GroupBox93.SuspendLayout
-        CType(Me.PictureBox218,System.ComponentModel.ISupportInitialize).BeginInit
-        CType(Me.PictureBox219,System.ComponentModel.ISupportInitialize).BeginInit
-        Me.GroupBox94.SuspendLayout
-        CType(Me.PictureBox221,System.ComponentModel.ISupportInitialize).BeginInit
-        Me.GroupBox88.SuspendLayout
-        Me.GroupBox91.SuspendLayout
-        CType(Me.PictureBox217,System.ComponentModel.ISupportInitialize).BeginInit
-        CType(Me.PictureBox216,System.ComponentModel.ISupportInitialize).BeginInit
-        Me.GroupBox90.SuspendLayout
-        Me.GroupBox89.SuspendLayout
-        CType(Me.PictureBox228,System.ComponentModel.ISupportInitialize).BeginInit
-        CType(Me.PictureBox215,System.ComponentModel.ISupportInitialize).BeginInit
-        CType(Me.PictureBox214,System.ComponentModel.ISupportInitialize).BeginInit
-        Me.TabPage15.SuspendLayout
-        Me.GroupBox170.SuspendLayout
-        Me.GroupBox171.SuspendLayout
-        CType(Me.PictureBox446,System.ComponentModel.ISupportInitialize).BeginInit
-        CType(Me.PictureBox333,System.ComponentModel.ISupportInitialize).BeginInit
-        CType(Me.PictureBox334,System.ComponentModel.ISupportInitialize).BeginInit
-        Me.GroupBox172.SuspendLayout
-        CType(Me.PictureBox448,System.ComponentModel.ISupportInitialize).BeginInit
-        CType(Me.PictureBox444,System.ComponentModel.ISupportInitialize).BeginInit
-        Me.GroupBox173.SuspendLayout
-        CType(Me.PictureBox445,System.ComponentModel.ISupportInitialize).BeginInit
-        CType(Me.PictureBox335,System.ComponentModel.ISupportInitialize).BeginInit
-        CType(Me.PictureBox336,System.ComponentModel.ISupportInitialize).BeginInit
-        CType(Me.PictureBox337,System.ComponentModel.ISupportInitialize).BeginInit
-        Me.GroupBox166.SuspendLayout
-        Me.GroupBox167.SuspendLayout
-        CType(Me.PictureBox438,System.ComponentModel.ISupportInitialize).BeginInit
-        CType(Me.PictureBox328,System.ComponentModel.ISupportInitialize).BeginInit
-        CType(Me.PictureBox329,System.ComponentModel.ISupportInitialize).BeginInit
-        Me.GroupBox168.SuspendLayout
-        CType(Me.PictureBox447,System.ComponentModel.ISupportInitialize).BeginInit
-        CType(Me.PictureBox429,System.ComponentModel.ISupportInitialize).BeginInit
-        Me.GroupBox169.SuspendLayout
-        CType(Me.PictureBox443,System.ComponentModel.ISupportInitialize).BeginInit
-        CType(Me.PictureBox442,System.ComponentModel.ISupportInitialize).BeginInit
-        CType(Me.PictureBox330,System.ComponentModel.ISupportInitialize).BeginInit
-        CType(Me.PictureBox331,System.ComponentModel.ISupportInitialize).BeginInit
-        CType(Me.PictureBox332,System.ComponentModel.ISupportInitialize).BeginInit
-        Me.GroupBox162.SuspendLayout
-        Me.GroupBox165.SuspendLayout
-        CType(Me.PictureBox320,System.ComponentModel.ISupportInitialize).BeginInit
-        Me.GroupBox163.SuspendLayout
-        CType(Me.PictureBox420,System.ComponentModel.ISupportInitialize).BeginInit
-        CType(Me.PictureBox418,System.ComponentModel.ISupportInitialize).BeginInit
-        CType(Me.PictureBox416,System.ComponentModel.ISupportInitialize).BeginInit
-        CType(Me.PictureBox293,System.ComponentModel.ISupportInitialize).BeginInit
-        CType(Me.PictureBox321,System.ComponentModel.ISupportInitialize).BeginInit
-        CType(Me.PictureBox322,System.ComponentModel.ISupportInitialize).BeginInit
-        Me.GroupBox164.SuspendLayout
-        CType(Me.PictureBox423,System.ComponentModel.ISupportInitialize).BeginInit
-        CType(Me.PictureBox422,System.ComponentModel.ISupportInitialize).BeginInit
-        CType(Me.PictureBox421,System.ComponentModel.ISupportInitialize).BeginInit
-        CType(Me.PictureBox285,System.ComponentModel.ISupportInitialize).BeginInit
-        CType(Me.PictureBox315,System.ComponentModel.ISupportInitialize).BeginInit
-        CType(Me.PictureBox314,System.ComponentModel.ISupportInitialize).BeginInit
-        CType(Me.PictureBox325,System.ComponentModel.ISupportInitialize).BeginInit
-        CType(Me.PictureBox327,System.ComponentModel.ISupportInitialize).BeginInit
-        Me.GroupBox158.SuspendLayout
-        Me.GroupBox174.SuspendLayout
-        CType(Me.PictureBox312,System.ComponentModel.ISupportInitialize).BeginInit
-        Me.GroupBox161.SuspendLayout
-        CType(Me.PictureBox407,System.ComponentModel.ISupportInitialize).BeginInit
-        CType(Me.PictureBox356,System.ComponentModel.ISupportInitialize).BeginInit
-        CType(Me.PictureBox349,System.ComponentModel.ISupportInitialize).BeginInit
-        CType(Me.PictureBox313,System.ComponentModel.ISupportInitialize).BeginInit
-        CType(Me.PictureBox296,System.ComponentModel.ISupportInitialize).BeginInit
-        CType(Me.PictureBox295,System.ComponentModel.ISupportInitialize).BeginInit
-        Me.GroupBox160.SuspendLayout
-        CType(Me.PictureBox415,System.ComponentModel.ISupportInitialize).BeginInit
-        CType(Me.PictureBox414,System.ComponentModel.ISupportInitialize).BeginInit
-        CType(Me.PictureBox413,System.ComponentModel.ISupportInitialize).BeginInit
-        CType(Me.PictureBox412,System.ComponentModel.ISupportInitialize).BeginInit
-        CType(Me.PictureBox411,System.ComponentModel.ISupportInitialize).BeginInit
-        CType(Me.PictureBox410,System.ComponentModel.ISupportInitialize).BeginInit
-        CType(Me.PictureBox409,System.ComponentModel.ISupportInitialize).BeginInit
-        CType(Me.PictureBox408,System.ComponentModel.ISupportInitialize).BeginInit
-        Me.GroupBox159.SuspendLayout
-        CType(Me.PictureBox316,System.ComponentModel.ISupportInitialize).BeginInit
         Me.TabControlJ1.SuspendLayout
         Me.TabPage1.SuspendLayout
         Me.GroupBox33.SuspendLayout
@@ -3286,6 +3173,122 @@ Partial Class ADCAS
         CType(Me.PictureBox46,System.ComponentModel.ISupportInitialize).BeginInit
         Me.GroupBox23.SuspendLayout
         Me.GroupBox21.SuspendLayout
+        Me.TabControl1N.SuspendLayout
+        Me.TabPage12N.SuspendLayout
+        Me.GroupBox147N.SuspendLayout
+        CType(Me.PictureBox318,System.ComponentModel.ISupportInitialize).BeginInit
+        Me.GroupBox87.SuspendLayout
+        CType(Me.PictureBox256,System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox213,System.ComponentModel.ISupportInitialize).BeginInit
+        Me.GroupBox148N.SuspendLayout
+        CType(Me.PictureBox355,System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox247N,System.ComponentModel.ISupportInitialize).BeginInit
+        Me.GroupBox146N.SuspendLayout
+        CType(Me.PictureBox317,System.ComponentModel.ISupportInitialize).BeginInit
+        Me.GroupBox145N.SuspendLayout
+        CType(Me.PictureBox246N,System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox245N,System.ComponentModel.ISupportInitialize).BeginInit
+        Me.GroupBox144N.SuspendLayout
+        Me.GroupBox143N.SuspendLayout
+        CType(Me.PictureBox244N,System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox243N,System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox242N,System.ComponentModel.ISupportInitialize).BeginInit
+        Me.TabPage9.SuspendLayout
+        Me.GroupBox96.SuspendLayout
+        Me.GroupBox99.SuspendLayout
+        CType(Me.PictureBox226,System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox227,System.ComponentModel.ISupportInitialize).BeginInit
+        Me.GroupBox97.SuspendLayout
+        CType(Me.PictureBox222,System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox223,System.ComponentModel.ISupportInitialize).BeginInit
+        Me.GroupBox98.SuspendLayout
+        CType(Me.PictureBox225,System.ComponentModel.ISupportInitialize).BeginInit
+        Me.GroupBox92.SuspendLayout
+        Me.GroupBox95.SuspendLayout
+        CType(Me.PictureBox220,System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox224,System.ComponentModel.ISupportInitialize).BeginInit
+        Me.GroupBox93.SuspendLayout
+        CType(Me.PictureBox218,System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox219,System.ComponentModel.ISupportInitialize).BeginInit
+        Me.GroupBox94.SuspendLayout
+        CType(Me.PictureBox221,System.ComponentModel.ISupportInitialize).BeginInit
+        Me.GroupBox88.SuspendLayout
+        Me.GroupBox91.SuspendLayout
+        CType(Me.PictureBox217,System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox216,System.ComponentModel.ISupportInitialize).BeginInit
+        Me.GroupBox90.SuspendLayout
+        Me.GroupBox89.SuspendLayout
+        CType(Me.PictureBox228,System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox215,System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox214,System.ComponentModel.ISupportInitialize).BeginInit
+        Me.TabPage15.SuspendLayout
+        Me.GroupBox170.SuspendLayout
+        Me.GroupBox171.SuspendLayout
+        CType(Me.PictureBox446,System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox333,System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox334,System.ComponentModel.ISupportInitialize).BeginInit
+        Me.GroupBox172.SuspendLayout
+        CType(Me.PictureBox448,System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox444,System.ComponentModel.ISupportInitialize).BeginInit
+        Me.GroupBox173.SuspendLayout
+        CType(Me.PictureBox445,System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox335,System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox336,System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox337,System.ComponentModel.ISupportInitialize).BeginInit
+        Me.GroupBox166.SuspendLayout
+        Me.GroupBox167.SuspendLayout
+        CType(Me.PictureBox438,System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox328,System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox329,System.ComponentModel.ISupportInitialize).BeginInit
+        Me.GroupBox168.SuspendLayout
+        CType(Me.PictureBox447,System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox429,System.ComponentModel.ISupportInitialize).BeginInit
+        Me.GroupBox169.SuspendLayout
+        CType(Me.PictureBox443,System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox442,System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox330,System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox331,System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox332,System.ComponentModel.ISupportInitialize).BeginInit
+        Me.GroupBox162.SuspendLayout
+        Me.GroupBox165.SuspendLayout
+        CType(Me.PictureBox320,System.ComponentModel.ISupportInitialize).BeginInit
+        Me.GroupBox163.SuspendLayout
+        CType(Me.PictureBox420,System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox418,System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox416,System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox293,System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox321,System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox322,System.ComponentModel.ISupportInitialize).BeginInit
+        Me.GroupBox164.SuspendLayout
+        CType(Me.PictureBox423,System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox422,System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox421,System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox285,System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox315,System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox314,System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox325,System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox327,System.ComponentModel.ISupportInitialize).BeginInit
+        Me.GroupBox158.SuspendLayout
+        Me.GroupBox174.SuspendLayout
+        CType(Me.PictureBox312,System.ComponentModel.ISupportInitialize).BeginInit
+        Me.GroupBox161.SuspendLayout
+        CType(Me.PictureBox407,System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox356,System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox349,System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox313,System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox296,System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox295,System.ComponentModel.ISupportInitialize).BeginInit
+        Me.GroupBox160.SuspendLayout
+        CType(Me.PictureBox415,System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox414,System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox413,System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox412,System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox411,System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox410,System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox409,System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox408,System.ComponentModel.ISupportInitialize).BeginInit
+        Me.GroupBox159.SuspendLayout
+        CType(Me.PictureBox316,System.ComponentModel.ISupportInitialize).BeginInit
         Me.TabControl3.SuspendLayout
         Me.TabPage16.SuspendLayout
         Me.GroupBox195.SuspendLayout
@@ -3810,11 +3813,11 @@ Partial Class ADCAS
         'SplitContainer2.Panel2
         '
         Me.SplitContainer2.Panel2.BackColor = System.Drawing.Color.FromArgb(CType(CType(68,Byte),Integer), CType(CType(77,Byte),Integer), CType(CType(83,Byte),Integer))
+        Me.SplitContainer2.Panel2.Controls.Add(Me.TabControl4)
+        Me.SplitContainer2.Panel2.Controls.Add(Me.TabControl3)
         Me.SplitContainer2.Panel2.Controls.Add(Me.TabControlJ1)
         Me.SplitContainer2.Panel2.Controls.Add(Me.TabControl1N)
-        Me.SplitContainer2.Panel2.Controls.Add(Me.TabControl3)
         Me.SplitContainer2.Panel2.Controls.Add(Me.TabControl2)
-        Me.SplitContainer2.Panel2.Controls.Add(Me.TabControl4)
         Me.SplitContainer2.Panel2.Controls.Add(Me.TabControl1)
         Me.SplitContainer2.Panel2.Controls.Add(Me.StatusStrip1)
         Me.SplitContainer2.Size = New System.Drawing.Size(1189, 718)
@@ -9190,4174 +9193,6 @@ Partial Class ADCAS
         Me.Button29N.TabIndex = 11
         Me.Button29N.Text = "Elegir"
         Me.Button29N.UseVisualStyleBackColor = true
-        '
-        'TabControl1N
-        '
-        Me.TabControl1N.Controls.Add(Me.TabPage12N)
-        Me.TabControl1N.Controls.Add(Me.TabPage9)
-        Me.TabControl1N.Controls.Add(Me.TabPage15)
-        Me.TabControl1N.Dock = System.Windows.Forms.DockStyle.Fill
-        Me.TabControl1N.Location = New System.Drawing.Point(0, 0)
-        Me.TabControl1N.Name = "TabControl1N"
-        Me.TabControl1N.SelectedIndex = 0
-        Me.TabControl1N.Size = New System.Drawing.Size(643, 696)
-        Me.TabControl1N.TabIndex = 23
-        Me.TabControl1N.Visible = false
-        '
-        'TabPage12N
-        '
-        Me.TabPage12N.AutoScroll = true
-        Me.TabPage12N.BackColor = System.Drawing.Color.FromArgb(CType(CType(68,Byte),Integer), CType(CType(77,Byte),Integer), CType(CType(83,Byte),Integer))
-        Me.TabPage12N.Controls.Add(Me.GroupBox147N)
-        Me.TabPage12N.Controls.Add(Me.GroupBox146N)
-        Me.TabPage12N.Location = New System.Drawing.Point(4, 22)
-        Me.TabPage12N.Name = "TabPage12N"
-        Me.TabPage12N.Padding = New System.Windows.Forms.Padding(3)
-        Me.TabPage12N.Size = New System.Drawing.Size(635, 670)
-        Me.TabPage12N.TabIndex = 0
-        Me.TabPage12N.Text = "Conexión Arriostre-Placa Gusset"
-        '
-        'GroupBox147N
-        '
-        Me.GroupBox147N.Controls.Add(Me.PictureBox318)
-        Me.GroupBox147N.Controls.Add(Me.GroupBox87)
-        Me.GroupBox147N.Controls.Add(Me.GroupBox148N)
-        Me.GroupBox147N.Controls.Add(Me.PictureBox247N)
-        Me.GroupBox147N.ForeColor = System.Drawing.Color.White
-        Me.GroupBox147N.Location = New System.Drawing.Point(6, 284)
-        Me.GroupBox147N.Name = "GroupBox147N"
-        Me.GroupBox147N.Size = New System.Drawing.Size(950, 450)
-        Me.GroupBox147N.TabIndex = 23
-        Me.GroupBox147N.TabStop = false
-        Me.GroupBox147N.Text = "Placa Gusset"
-        '
-        'PictureBox318
-        '
-        Me.PictureBox318.Image = Global.WindowsApplication1.My.Resources.Resources.PlacaGusset2
-        Me.PictureBox318.Location = New System.Drawing.Point(520, 32)
-        Me.PictureBox318.Name = "PictureBox318"
-        Me.PictureBox318.Size = New System.Drawing.Size(250, 250)
-        Me.PictureBox318.TabIndex = 27
-        Me.PictureBox318.TabStop = false
-        '
-        'GroupBox87
-        '
-        Me.GroupBox87.Controls.Add(Me.PictureBox256)
-        Me.GroupBox87.Controls.Add(Me.Label383)
-        Me.GroupBox87.Controls.Add(Me.Label381)
-        Me.GroupBox87.Controls.Add(Me.PictureBox213)
-        Me.GroupBox87.Controls.Add(Me.Label380)
-        Me.GroupBox87.Controls.Add(Me.Label379)
-        Me.GroupBox87.ForeColor = System.Drawing.Color.White
-        Me.GroupBox87.Location = New System.Drawing.Point(265, 275)
-        Me.GroupBox87.Name = "GroupBox87"
-        Me.GroupBox87.Size = New System.Drawing.Size(225, 150)
-        Me.GroupBox87.TabIndex = 26
-        Me.GroupBox87.TabStop = false
-        Me.GroupBox87.Text = "Resistencia disponible a la compresión"
-        Me.ToolTip1.SetToolTip(Me.GroupBox87, "AISC 341-10,  F2.6c(2)")
-        '
-        'PictureBox256
-        '
-        Me.PictureBox256.Image = Global.WindowsApplication1.My.Resources.Resources.Publancoigual
-        Me.PictureBox256.Location = New System.Drawing.Point(70, 50)
-        Me.PictureBox256.Name = "PictureBox256"
-        Me.PictureBox256.Size = New System.Drawing.Size(36, 14)
-        Me.PictureBox256.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
-        Me.PictureBox256.TabIndex = 29
-        Me.PictureBox256.TabStop = false
-        '
-        'Label383
-        '
-        Me.Label383.AutoSize = true
-        Me.Label383.Location = New System.Drawing.Point(108, 50)
-        Me.Label383.Name = "Label383"
-        Me.Label383.Size = New System.Drawing.Size(51, 13)
-        Me.Label383.TabIndex = 28
-        Me.Label383.Text = "Label383"
-        '
-        'Label381
-        '
-        Me.Label381.AutoSize = true
-        Me.Label381.Location = New System.Drawing.Point(108, 116)
-        Me.Label381.Name = "Label381"
-        Me.Label381.Size = New System.Drawing.Size(51, 13)
-        Me.Label381.TabIndex = 16
-        Me.Label381.Text = "Label381"
-        '
-        'PictureBox213
-        '
-        Me.PictureBox213.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
-        Me.PictureBox213.Location = New System.Drawing.Point(60, 116)
-        Me.PictureBox213.Name = "PictureBox213"
-        Me.PictureBox213.Size = New System.Drawing.Size(48, 14)
-        Me.PictureBox213.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
-        Me.PictureBox213.TabIndex = 15
-        Me.PictureBox213.TabStop = false
-        '
-        'Label380
-        '
-        Me.Label380.AutoSize = true
-        Me.Label380.Location = New System.Drawing.Point(16, 23)
-        Me.Label380.Name = "Label380"
-        Me.Label380.Size = New System.Drawing.Size(112, 13)
-        Me.Label380.TabIndex = 1
-        Me.Label380.Text = "Resistencia requerida:"
-        '
-        'Label379
-        '
-        Me.Label379.Location = New System.Drawing.Point(16, 76)
-        Me.Label379.Name = "Label379"
-        Me.Label379.Size = New System.Drawing.Size(192, 31)
-        Me.Label379.TabIndex = 0
-        Me.Label379.Text = "Resistencia disponible al pandeo por compresión:"
-        '
-        'GroupBox148N
-        '
-        Me.GroupBox148N.Controls.Add(Me.Label432)
-        Me.GroupBox148N.Controls.Add(Me.TextBox344)
-        Me.GroupBox148N.Controls.Add(Me.Label378)
-        Me.GroupBox148N.Controls.Add(Me.Label376)
-        Me.GroupBox148N.Controls.Add(Me.Label374)
-        Me.GroupBox148N.Controls.Add(Me.TextBox337)
-        Me.GroupBox148N.Controls.Add(Me.TextBox336)
-        Me.GroupBox148N.Controls.Add(Me.TextBox316)
-        Me.GroupBox148N.Controls.Add(Me.Label377)
-        Me.GroupBox148N.Controls.Add(Me.TextBox220)
-        Me.GroupBox148N.Controls.Add(Me.Label375)
-        Me.GroupBox148N.Controls.Add(Me.TextBox219)
-        Me.GroupBox148N.Controls.Add(Me.Label372)
-        Me.GroupBox148N.Controls.Add(Me.TextBox218)
-        Me.GroupBox148N.Controls.Add(Me.Label370)
-        Me.GroupBox148N.Controls.Add(Me.TextBox217)
-        Me.GroupBox148N.Controls.Add(Me.Label368)
-        Me.GroupBox148N.Controls.Add(Me.TextBox216)
-        Me.GroupBox148N.Controls.Add(Me.Label367)
-        Me.GroupBox148N.Controls.Add(Me.TextBox213)
-        Me.GroupBox148N.Controls.Add(Me.Label360)
-        Me.GroupBox148N.Controls.Add(Me.Label359)
-        Me.GroupBox148N.Controls.Add(Me.Label358)
-        Me.GroupBox148N.Controls.Add(Me.Label357)
-        Me.GroupBox148N.Controls.Add(Me.TextBox207)
-        Me.GroupBox148N.Controls.Add(Me.TextBox206)
-        Me.GroupBox148N.Controls.Add(Me.TextBox205)
-        Me.GroupBox148N.Controls.Add(Me.TextBox204)
-        Me.GroupBox148N.Controls.Add(Me.PictureBox355)
-        Me.GroupBox148N.ForeColor = System.Drawing.Color.White
-        Me.GroupBox148N.Location = New System.Drawing.Point(59, 25)
-        Me.GroupBox148N.Name = "GroupBox148N"
-        Me.GroupBox148N.Size = New System.Drawing.Size(200, 400)
-        Me.GroupBox148N.TabIndex = 25
-        Me.GroupBox148N.TabStop = false
-        Me.GroupBox148N.Text = "Valores geométicos"
-        '
-        'Label432
-        '
-        Me.Label432.AutoSize = true
-        Me.Label432.Location = New System.Drawing.Point(117, 368)
-        Me.Label432.Name = "Label432"
-        Me.Label432.Size = New System.Drawing.Size(39, 13)
-        Me.Label432.TabIndex = 42
-        Me.Label432.Text = "grados"
-        '
-        'TextBox344
-        '
-        Me.TextBox344.Location = New System.Drawing.Point(80, 365)
-        Me.TextBox344.Name = "TextBox344"
-        Me.TextBox344.ReadOnly = true
-        Me.TextBox344.Size = New System.Drawing.Size(35, 20)
-        Me.TextBox344.TabIndex = 41
-        '
-        'Label378
-        '
-        Me.Label378.AutoSize = true
-        Me.Label378.Location = New System.Drawing.Point(117, 342)
-        Me.Label378.Name = "Label378"
-        Me.Label378.Size = New System.Drawing.Size(15, 13)
-        Me.Label378.TabIndex = 40
-        Me.Label378.Text = "in"
-        '
-        'Label376
-        '
-        Me.Label376.AutoSize = true
-        Me.Label376.Location = New System.Drawing.Point(117, 316)
-        Me.Label376.Name = "Label376"
-        Me.Label376.Size = New System.Drawing.Size(15, 13)
-        Me.Label376.TabIndex = 39
-        Me.Label376.Text = "in"
-        '
-        'Label374
-        '
-        Me.Label374.AutoSize = true
-        Me.Label374.Location = New System.Drawing.Point(117, 290)
-        Me.Label374.Name = "Label374"
-        Me.Label374.Size = New System.Drawing.Size(15, 13)
-        Me.Label374.TabIndex = 38
-        Me.Label374.Text = "in"
-        '
-        'TextBox337
-        '
-        Me.TextBox337.Location = New System.Drawing.Point(80, 157)
-        Me.TextBox337.Name = "TextBox337"
-        Me.TextBox337.Size = New System.Drawing.Size(35, 20)
-        Me.TextBox337.TabIndex = 37
-        '
-        'TextBox336
-        '
-        Me.TextBox336.Location = New System.Drawing.Point(80, 339)
-        Me.TextBox336.Name = "TextBox336"
-        Me.TextBox336.ReadOnly = true
-        Me.TextBox336.Size = New System.Drawing.Size(35, 20)
-        Me.TextBox336.TabIndex = 35
-        '
-        'TextBox316
-        '
-        Me.TextBox316.Location = New System.Drawing.Point(80, 313)
-        Me.TextBox316.Name = "TextBox316"
-        Me.TextBox316.ReadOnly = true
-        Me.TextBox316.Size = New System.Drawing.Size(35, 20)
-        Me.TextBox316.TabIndex = 34
-        '
-        'Label377
-        '
-        Me.Label377.AutoSize = true
-        Me.Label377.Location = New System.Drawing.Point(117, 160)
-        Me.Label377.Name = "Label377"
-        Me.Label377.Size = New System.Drawing.Size(15, 13)
-        Me.Label377.TabIndex = 33
-        Me.Label377.Text = "in"
-        '
-        'TextBox220
-        '
-        Me.TextBox220.Location = New System.Drawing.Point(80, 183)
-        Me.TextBox220.Name = "TextBox220"
-        Me.TextBox220.ReadOnly = true
-        Me.TextBox220.Size = New System.Drawing.Size(35, 20)
-        Me.TextBox220.TabIndex = 32
-        '
-        'Label375
-        '
-        Me.Label375.AutoSize = true
-        Me.Label375.Location = New System.Drawing.Point(117, 82)
-        Me.Label375.Name = "Label375"
-        Me.Label375.Size = New System.Drawing.Size(15, 13)
-        Me.Label375.TabIndex = 30
-        Me.Label375.Text = "in"
-        '
-        'TextBox219
-        '
-        Me.TextBox219.Location = New System.Drawing.Point(80, 79)
-        Me.TextBox219.Name = "TextBox219"
-        Me.TextBox219.Size = New System.Drawing.Size(35, 20)
-        Me.TextBox219.TabIndex = 29
-        '
-        'Label372
-        '
-        Me.Label372.AutoSize = true
-        Me.Label372.Location = New System.Drawing.Point(117, 264)
-        Me.Label372.Name = "Label372"
-        Me.Label372.Size = New System.Drawing.Size(15, 13)
-        Me.Label372.TabIndex = 27
-        Me.Label372.Text = "in"
-        '
-        'TextBox218
-        '
-        Me.TextBox218.Location = New System.Drawing.Point(80, 287)
-        Me.TextBox218.Name = "TextBox218"
-        Me.TextBox218.ReadOnly = true
-        Me.TextBox218.Size = New System.Drawing.Size(35, 20)
-        Me.TextBox218.TabIndex = 26
-        '
-        'Label370
-        '
-        Me.Label370.AutoSize = true
-        Me.Label370.Location = New System.Drawing.Point(117, 238)
-        Me.Label370.Name = "Label370"
-        Me.Label370.Size = New System.Drawing.Size(15, 13)
-        Me.Label370.TabIndex = 24
-        Me.Label370.Text = "in"
-        '
-        'TextBox217
-        '
-        Me.TextBox217.Location = New System.Drawing.Point(80, 261)
-        Me.TextBox217.Name = "TextBox217"
-        Me.TextBox217.ReadOnly = true
-        Me.TextBox217.Size = New System.Drawing.Size(35, 20)
-        Me.TextBox217.TabIndex = 23
-        '
-        'Label368
-        '
-        Me.Label368.AutoSize = true
-        Me.Label368.Location = New System.Drawing.Point(117, 213)
-        Me.Label368.Name = "Label368"
-        Me.Label368.Size = New System.Drawing.Size(15, 13)
-        Me.Label368.TabIndex = 21
-        Me.Label368.Text = "in"
-        '
-        'TextBox216
-        '
-        Me.TextBox216.Location = New System.Drawing.Point(80, 235)
-        Me.TextBox216.Name = "TextBox216"
-        Me.TextBox216.ReadOnly = true
-        Me.TextBox216.Size = New System.Drawing.Size(35, 20)
-        Me.TextBox216.TabIndex = 20
-        '
-        'Label367
-        '
-        Me.Label367.AutoSize = true
-        Me.Label367.Location = New System.Drawing.Point(117, 186)
-        Me.Label367.Name = "Label367"
-        Me.Label367.Size = New System.Drawing.Size(15, 13)
-        Me.Label367.TabIndex = 18
-        Me.Label367.Text = "in"
-        '
-        'TextBox213
-        '
-        Me.TextBox213.Location = New System.Drawing.Point(80, 209)
-        Me.TextBox213.Name = "TextBox213"
-        Me.TextBox213.ReadOnly = true
-        Me.TextBox213.Size = New System.Drawing.Size(35, 20)
-        Me.TextBox213.TabIndex = 17
-        '
-        'Label360
-        '
-        Me.Label360.AutoSize = true
-        Me.Label360.Location = New System.Drawing.Point(117, 56)
-        Me.Label360.Name = "Label360"
-        Me.Label360.Size = New System.Drawing.Size(39, 13)
-        Me.Label360.TabIndex = 15
-        Me.Label360.Text = "grados"
-        '
-        'Label359
-        '
-        Me.Label359.AutoSize = true
-        Me.Label359.Location = New System.Drawing.Point(117, 134)
-        Me.Label359.Name = "Label359"
-        Me.Label359.Size = New System.Drawing.Size(15, 13)
-        Me.Label359.TabIndex = 14
-        Me.Label359.Text = "in"
-        '
-        'Label358
-        '
-        Me.Label358.AutoSize = true
-        Me.Label358.Location = New System.Drawing.Point(117, 108)
-        Me.Label358.Name = "Label358"
-        Me.Label358.Size = New System.Drawing.Size(15, 13)
-        Me.Label358.TabIndex = 13
-        Me.Label358.Text = "in"
-        '
-        'Label357
-        '
-        Me.Label357.AutoSize = true
-        Me.Label357.Location = New System.Drawing.Point(117, 30)
-        Me.Label357.Name = "Label357"
-        Me.Label357.Size = New System.Drawing.Size(39, 13)
-        Me.Label357.TabIndex = 12
-        Me.Label357.Text = "grados"
-        '
-        'TextBox207
-        '
-        Me.TextBox207.Location = New System.Drawing.Point(80, 53)
-        Me.TextBox207.Name = "TextBox207"
-        Me.TextBox207.Size = New System.Drawing.Size(35, 20)
-        Me.TextBox207.TabIndex = 11
-        '
-        'TextBox206
-        '
-        Me.TextBox206.Location = New System.Drawing.Point(80, 131)
-        Me.TextBox206.Name = "TextBox206"
-        Me.TextBox206.Size = New System.Drawing.Size(35, 20)
-        Me.TextBox206.TabIndex = 10
-        '
-        'TextBox205
-        '
-        Me.TextBox205.Location = New System.Drawing.Point(80, 105)
-        Me.TextBox205.Name = "TextBox205"
-        Me.TextBox205.Size = New System.Drawing.Size(35, 20)
-        Me.TextBox205.TabIndex = 9
-        '
-        'TextBox204
-        '
-        Me.TextBox204.Location = New System.Drawing.Point(80, 27)
-        Me.TextBox204.Name = "TextBox204"
-        Me.TextBox204.Size = New System.Drawing.Size(35, 20)
-        Me.TextBox204.TabIndex = 8
-        '
-        'PictureBox355
-        '
-        Me.PictureBox355.Dock = System.Windows.Forms.DockStyle.Fill
-        Me.PictureBox355.Image = Global.WindowsApplication1.My.Resources.Resources.ValGeomGsst1
-        Me.PictureBox355.Location = New System.Drawing.Point(3, 16)
-        Me.PictureBox355.Name = "PictureBox355"
-        Me.PictureBox355.Size = New System.Drawing.Size(194, 381)
-        Me.PictureBox355.TabIndex = 36
-        Me.PictureBox355.TabStop = false
-        '
-        'PictureBox247N
-        '
-        Me.PictureBox247N.Image = Global.WindowsApplication1.My.Resources.Resources.PlacaGusset1
-        Me.PictureBox247N.Location = New System.Drawing.Point(265, 32)
-        Me.PictureBox247N.Name = "PictureBox247N"
-        Me.PictureBox247N.Size = New System.Drawing.Size(250, 250)
-        Me.PictureBox247N.TabIndex = 23
-        Me.PictureBox247N.TabStop = false
-        '
-        'GroupBox146N
-        '
-        Me.GroupBox146N.Controls.Add(Me.Label382)
-        Me.GroupBox146N.Controls.Add(Me.Label657N)
-        Me.GroupBox146N.Controls.Add(Me.PictureBox317)
-        Me.GroupBox146N.Controls.Add(Me.Label373)
-        Me.GroupBox146N.Controls.Add(Me.Label650N)
-        Me.GroupBox146N.Controls.Add(Me.GroupBox145N)
-        Me.GroupBox146N.Controls.Add(Me.GroupBox144N)
-        Me.GroupBox146N.Controls.Add(Me.GroupBox143N)
-        Me.GroupBox146N.Controls.Add(Me.PictureBox242N)
-        Me.GroupBox146N.ForeColor = System.Drawing.Color.White
-        Me.GroupBox146N.Location = New System.Drawing.Point(6, 4)
-        Me.GroupBox146N.Name = "GroupBox146N"
-        Me.GroupBox146N.Size = New System.Drawing.Size(950, 275)
-        Me.GroupBox146N.TabIndex = 22
-        Me.GroupBox146N.TabStop = false
-        Me.GroupBox146N.Text = "Conexión del Arriostre con la Placa"
-        '
-        'Label382
-        '
-        Me.Label382.Location = New System.Drawing.Point(758, 25)
-        Me.Label382.Name = "Label382"
-        Me.Label382.Size = New System.Drawing.Size(101, 35)
-        Me.Label382.TabIndex = 29
-        Me.Label382.Text = "Ancho de la placa:"
-        '
-        'Label657N
-        '
-        Me.Label657N.AutoSize = true
-        Me.Label657N.Location = New System.Drawing.Point(732, 235)
-        Me.Label657N.Name = "Label657N"
-        Me.Label657N.Size = New System.Drawing.Size(104, 13)
-        Me.Label657N.TabIndex = 21
-        Me.Label657N.Text = "Ancho de Withmore:"
-        '
-        'PictureBox317
-        '
-        Me.PictureBox317.Image = Global.WindowsApplication1.My.Resources.Resources.AnchodeWithmore
-        Me.PictureBox317.Location = New System.Drawing.Point(705, 43)
-        Me.PictureBox317.Name = "PictureBox317"
-        Me.PictureBox317.Size = New System.Drawing.Size(200, 200)
-        Me.PictureBox317.TabIndex = 28
-        Me.PictureBox317.TabStop = false
-        '
-        'Label373
-        '
-        Me.Label373.AutoSize = true
-        Me.Label373.Location = New System.Drawing.Point(23, 230)
-        Me.Label373.Name = "Label373"
-        Me.Label373.Size = New System.Drawing.Size(159, 13)
-        Me.Label373.TabIndex = 27
-        Me.Label373.Text = "Conexión con cuatro soldaduras"
-        '
-        'Label650N
-        '
-        Me.Label650N.AutoSize = true
-        Me.Label650N.Location = New System.Drawing.Point(110, 193)
-        Me.Label650N.Name = "Label650N"
-        Me.Label650N.Size = New System.Drawing.Size(59, 13)
-        Me.Label650N.TabIndex = 15
-        Me.Label650N.Text = "Label650N"
-        '
-        'GroupBox145N
-        '
-        Me.GroupBox145N.Controls.Add(Me.Label663N)
-        Me.GroupBox145N.Controls.Add(Me.PictureBox246N)
-        Me.GroupBox145N.Controls.Add(Me.Label662N)
-        Me.GroupBox145N.Controls.Add(Me.Label661N)
-        Me.GroupBox145N.Controls.Add(Me.PictureBox245N)
-        Me.GroupBox145N.Controls.Add(Me.Label660N)
-        Me.GroupBox145N.ForeColor = System.Drawing.Color.White
-        Me.GroupBox145N.Location = New System.Drawing.Point(408, 118)
-        Me.GroupBox145N.Name = "GroupBox145N"
-        Me.GroupBox145N.Size = New System.Drawing.Size(225, 141)
-        Me.GroupBox145N.TabIndex = 25
-        Me.GroupBox145N.TabStop = false
-        Me.GroupBox145N.Text = "Resistencias disponibles a la tensión"
-        Me.ToolTip1.SetToolTip(Me.GroupBox145N, "Ruptura por bloque de cortante:"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AISC 360-10, J4.3"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"Fluencia por tensión:"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AISC 3"& _ 
-        "60-10, J4.1")
-        '
-        'Label663N
-        '
-        Me.Label663N.AutoSize = true
-        Me.Label663N.Location = New System.Drawing.Point(113, 102)
-        Me.Label663N.Name = "Label663N"
-        Me.Label663N.Size = New System.Drawing.Size(59, 13)
-        Me.Label663N.TabIndex = 25
-        Me.Label663N.Text = "Label663N"
-        '
-        'PictureBox246N
-        '
-        Me.PictureBox246N.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
-        Me.PictureBox246N.Location = New System.Drawing.Point(62, 102)
-        Me.PictureBox246N.Name = "PictureBox246N"
-        Me.PictureBox246N.Size = New System.Drawing.Size(48, 14)
-        Me.PictureBox246N.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
-        Me.PictureBox246N.TabIndex = 24
-        Me.PictureBox246N.TabStop = false
-        '
-        'Label662N
-        '
-        Me.Label662N.AutoSize = true
-        Me.Label662N.Location = New System.Drawing.Point(113, 52)
-        Me.Label662N.Name = "Label662N"
-        Me.Label662N.Size = New System.Drawing.Size(59, 13)
-        Me.Label662N.TabIndex = 16
-        Me.Label662N.Text = "Label662N"
-        '
-        'Label661N
-        '
-        Me.Label661N.AutoSize = true
-        Me.Label661N.Location = New System.Drawing.Point(25, 76)
-        Me.Label661N.Name = "Label661N"
-        Me.Label661N.Size = New System.Drawing.Size(105, 13)
-        Me.Label661N.TabIndex = 23
-        Me.Label661N.Text = "Fluencia por tensión:"
-        '
-        'PictureBox245N
-        '
-        Me.PictureBox245N.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
-        Me.PictureBox245N.Location = New System.Drawing.Point(62, 51)
-        Me.PictureBox245N.Name = "PictureBox245N"
-        Me.PictureBox245N.Size = New System.Drawing.Size(48, 14)
-        Me.PictureBox245N.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
-        Me.PictureBox245N.TabIndex = 15
-        Me.PictureBox245N.TabStop = false
-        '
-        'Label660N
-        '
-        Me.Label660N.AutoSize = true
-        Me.Label660N.Location = New System.Drawing.Point(24, 25)
-        Me.Label660N.Name = "Label660N"
-        Me.Label660N.Size = New System.Drawing.Size(158, 13)
-        Me.Label660N.TabIndex = 22
-        Me.Label660N.Text = "Ruptura por bloque de cortante:"
-        '
-        'GroupBox144N
-        '
-        Me.GroupBox144N.Controls.Add(Me.Label664N)
-        Me.GroupBox144N.Controls.Add(Me.TextBox218N)
-        Me.GroupBox144N.Controls.Add(Me.Label665N)
-        Me.GroupBox144N.Controls.Add(Me.TextBox217N)
-        Me.GroupBox144N.Controls.Add(Me.Label659N)
-        Me.GroupBox144N.Controls.Add(Me.Label658N)
-        Me.GroupBox144N.ForeColor = System.Drawing.Color.White
-        Me.GroupBox144N.Location = New System.Drawing.Point(409, 15)
-        Me.GroupBox144N.Name = "GroupBox144N"
-        Me.GroupBox144N.Size = New System.Drawing.Size(225, 98)
-        Me.GroupBox144N.TabIndex = 24
-        Me.GroupBox144N.TabStop = false
-        Me.GroupBox144N.Text = "Ancho y espesor de la placa"
-        Me.ToolTip1.SetToolTip(Me.GroupBox144N, "AISC Manual Pt. 9")
-        '
-        'Label664N
-        '
-        Me.Label664N.AutoSize = true
-        Me.Label664N.Location = New System.Drawing.Point(127, 31)
-        Me.Label664N.Name = "Label664N"
-        Me.Label664N.Size = New System.Drawing.Size(59, 13)
-        Me.Label664N.TabIndex = 20
-        Me.Label664N.Text = "Label664N"
-        '
-        'TextBox218N
-        '
-        Me.TextBox218N.Location = New System.Drawing.Point(87, 57)
-        Me.TextBox218N.Name = "TextBox218N"
-        Me.TextBox218N.Size = New System.Drawing.Size(35, 20)
-        Me.TextBox218N.TabIndex = 19
-        '
-        'Label665N
-        '
-        Me.Label665N.AutoSize = true
-        Me.Label665N.Location = New System.Drawing.Point(127, 60)
-        Me.Label665N.Name = "Label665N"
-        Me.Label665N.Size = New System.Drawing.Size(59, 13)
-        Me.Label665N.TabIndex = 18
-        Me.Label665N.Text = "Label665N"
-        '
-        'TextBox217N
-        '
-        Me.TextBox217N.Location = New System.Drawing.Point(87, 28)
-        Me.TextBox217N.Name = "TextBox217N"
-        Me.TextBox217N.Size = New System.Drawing.Size(35, 20)
-        Me.TextBox217N.TabIndex = 17
-        '
-        'Label659N
-        '
-        Me.Label659N.AutoSize = true
-        Me.Label659N.Location = New System.Drawing.Point(42, 31)
-        Me.Label659N.Name = "Label659N"
-        Me.Label659N.Size = New System.Drawing.Size(41, 13)
-        Me.Label659N.TabIndex = 16
-        Me.Label659N.Text = "Ancho:"
-        '
-        'Label658N
-        '
-        Me.Label658N.AutoSize = true
-        Me.Label658N.Location = New System.Drawing.Point(35, 60)
-        Me.Label658N.Name = "Label658N"
-        Me.Label658N.Size = New System.Drawing.Size(48, 13)
-        Me.Label658N.TabIndex = 15
-        Me.Label658N.Text = "Espesor:"
-        '
-        'GroupBox143N
-        '
-        Me.GroupBox143N.Controls.Add(Me.Label656N)
-        Me.GroupBox143N.Controls.Add(Me.PictureBox244N)
-        Me.GroupBox143N.Controls.Add(Me.Label655N)
-        Me.GroupBox143N.Controls.Add(Me.TextBox216N)
-        Me.GroupBox143N.Controls.Add(Me.Label654N)
-        Me.GroupBox143N.Controls.Add(Me.Label653N)
-        Me.GroupBox143N.Controls.Add(Me.Label652N)
-        Me.GroupBox143N.Controls.Add(Me.TextBox215N)
-        Me.GroupBox143N.Controls.Add(Me.Label651N)
-        Me.GroupBox143N.Controls.Add(Me.Label649N)
-        Me.GroupBox143N.Controls.Add(Me.PictureBox243N)
-        Me.GroupBox143N.Controls.Add(Me.Label648N)
-        Me.GroupBox143N.ForeColor = System.Drawing.Color.White
-        Me.GroupBox143N.Location = New System.Drawing.Point(201, 15)
-        Me.GroupBox143N.Name = "GroupBox143N"
-        Me.GroupBox143N.Size = New System.Drawing.Size(200, 245)
-        Me.GroupBox143N.TabIndex = 23
-        Me.GroupBox143N.TabStop = false
-        Me.GroupBox143N.Text = "Soldaduras"
-        Me.ToolTip1.SetToolTip(Me.GroupBox143N, "Carga requerida:"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AISC 341-10, F2.6c"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"Diseño de la soldadura:"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AICS 360-10, J2.4")
-        '
-        'Label656N
-        '
-        Me.Label656N.AutoSize = true
-        Me.Label656N.Location = New System.Drawing.Point(82, 213)
-        Me.Label656N.Name = "Label656N"
-        Me.Label656N.Size = New System.Drawing.Size(62, 13)
-        Me.Label656N.TabIndex = 14
-        Me.Label656N.Text = " Label656N"
-        '
-        'PictureBox244N
-        '
-        Me.PictureBox244N.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
-        Me.PictureBox244N.Location = New System.Drawing.Point(32, 213)
-        Me.PictureBox244N.Name = "PictureBox244N"
-        Me.PictureBox244N.Size = New System.Drawing.Size(48, 14)
-        Me.PictureBox244N.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
-        Me.PictureBox244N.TabIndex = 13
-        Me.PictureBox244N.TabStop = false
-        '
-        'Label655N
-        '
-        Me.Label655N.Location = New System.Drawing.Point(21, 176)
-        Me.Label655N.Name = "Label655N"
-        Me.Label655N.Size = New System.Drawing.Size(163, 28)
-        Me.Label655N.TabIndex = 12
-        Me.Label655N.Text = "Resistencia disponible de las soldaduras:"
-        '
-        'TextBox216N
-        '
-        Me.TextBox216N.Location = New System.Drawing.Point(45, 148)
-        Me.TextBox216N.Name = "TextBox216N"
-        Me.TextBox216N.Size = New System.Drawing.Size(35, 20)
-        Me.TextBox216N.TabIndex = 11
-        '
-        'Label654N
-        '
-        Me.Label654N.AutoSize = true
-        Me.Label654N.Location = New System.Drawing.Point(82, 152)
-        Me.Label654N.Name = "Label654N"
-        Me.Label654N.Size = New System.Drawing.Size(59, 13)
-        Me.Label654N.TabIndex = 10
-        Me.Label654N.Text = "Label654N"
-        '
-        'Label653N
-        '
-        Me.Label653N.AutoSize = true
-        Me.Label653N.Location = New System.Drawing.Point(21, 126)
-        Me.Label653N.Name = "Label653N"
-        Me.Label653N.Size = New System.Drawing.Size(136, 13)
-        Me.Label653N.TabIndex = 9
-        Me.Label653N.Text = "Longitud de las soldaduras:"
-        '
-        'Label652N
-        '
-        Me.Label652N.AutoSize = true
-        Me.Label652N.Location = New System.Drawing.Point(82, 100)
-        Me.Label652N.Name = "Label652N"
-        Me.Label652N.Size = New System.Drawing.Size(59, 13)
-        Me.Label652N.TabIndex = 8
-        Me.Label652N.Text = "Label652N"
-        '
-        'TextBox215N
-        '
-        Me.TextBox215N.Location = New System.Drawing.Point(45, 96)
-        Me.TextBox215N.Name = "TextBox215N"
-        Me.TextBox215N.Size = New System.Drawing.Size(35, 20)
-        Me.TextBox215N.TabIndex = 7
-        '
-        'Label651N
-        '
-        Me.Label651N.AutoSize = true
-        Me.Label651N.Location = New System.Drawing.Point(21, 74)
-        Me.Label651N.Name = "Label651N"
-        Me.Label651N.Size = New System.Drawing.Size(134, 13)
-        Me.Label651N.TabIndex = 6
-        Me.Label651N.Text = "Tamaño de las soldaduras:"
-        '
-        'Label649N
-        '
-        Me.Label649N.AutoSize = true
-        Me.Label649N.Location = New System.Drawing.Point(82, 50)
-        Me.Label649N.Name = "Label649N"
-        Me.Label649N.Size = New System.Drawing.Size(59, 13)
-        Me.Label649N.TabIndex = 2
-        Me.Label649N.Text = "Label649N"
-        '
-        'PictureBox243N
-        '
-        Me.PictureBox243N.Image = Global.WindowsApplication1.My.Resources.Resources.Tublancoigual
-        Me.PictureBox243N.Location = New System.Drawing.Point(45, 50)
-        Me.PictureBox243N.Name = "PictureBox243N"
-        Me.PictureBox243N.Size = New System.Drawing.Size(35, 14)
-        Me.PictureBox243N.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
-        Me.PictureBox243N.TabIndex = 1
-        Me.PictureBox243N.TabStop = false
-        '
-        'Label648N
-        '
-        Me.Label648N.AutoSize = true
-        Me.Label648N.Location = New System.Drawing.Point(21, 24)
-        Me.Label648N.Name = "Label648N"
-        Me.Label648N.Size = New System.Drawing.Size(137, 13)
-        Me.Label648N.TabIndex = 0
-        Me.Label648N.Text = "Carga de tensión requerida:"
-        '
-        'PictureBox242N
-        '
-        Me.PictureBox242N.Image = Global.WindowsApplication1.My.Resources.Resources.LapMin
-        Me.PictureBox242N.Location = New System.Drawing.Point(3, 35)
-        Me.PictureBox242N.Name = "PictureBox242N"
-        Me.PictureBox242N.Size = New System.Drawing.Size(200, 200)
-        Me.PictureBox242N.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
-        Me.PictureBox242N.TabIndex = 22
-        Me.PictureBox242N.TabStop = false
-        Me.ToolTip1.SetToolTip(Me.PictureBox242N, "AISC 341-10, A3.2")
-        '
-        'TabPage9
-        '
-        Me.TabPage9.AutoScroll = true
-        Me.TabPage9.BackColor = System.Drawing.Color.FromArgb(CType(CType(68,Byte),Integer), CType(CType(77,Byte),Integer), CType(CType(83,Byte),Integer))
-        Me.TabPage9.Controls.Add(Me.GroupBox96)
-        Me.TabPage9.Controls.Add(Me.GroupBox92)
-        Me.TabPage9.Controls.Add(Me.GroupBox88)
-        Me.TabPage9.Location = New System.Drawing.Point(4, 22)
-        Me.TabPage9.Name = "TabPage9"
-        Me.TabPage9.Padding = New System.Windows.Forms.Padding(3)
-        Me.TabPage9.Size = New System.Drawing.Size(635, 670)
-        Me.TabPage9.TabIndex = 1
-        Me.TabPage9.Text = "Conexión Viga-Columna"
-        '
-        'GroupBox96
-        '
-        Me.GroupBox96.Controls.Add(Me.GroupBox99)
-        Me.GroupBox96.Controls.Add(Me.GroupBox97)
-        Me.GroupBox96.Controls.Add(Me.Label438)
-        Me.GroupBox96.Controls.Add(Me.GroupBox98)
-        Me.GroupBox96.Controls.Add(Me.Label435)
-        Me.GroupBox96.Controls.Add(Me.Label436)
-        Me.GroupBox96.Controls.Add(Me.Label437)
-        Me.GroupBox96.Controls.Add(Me.PictureBox225)
-        Me.GroupBox96.ForeColor = System.Drawing.Color.White
-        Me.GroupBox96.Location = New System.Drawing.Point(6, 791)
-        Me.GroupBox96.Name = "GroupBox96"
-        Me.GroupBox96.Size = New System.Drawing.Size(750, 400)
-        Me.GroupBox96.TabIndex = 2
-        Me.GroupBox96.TabStop = false
-        Me.GroupBox96.Text = "Conexión entre la placa gusset y el patín de la columna"
-        '
-        'GroupBox99
-        '
-        Me.GroupBox99.Controls.Add(Me.Label654)
-        Me.GroupBox99.Controls.Add(Me.Label655)
-        Me.GroupBox99.Controls.Add(Me.Label656)
-        Me.GroupBox99.Controls.Add(Me.Label657)
-        Me.GroupBox99.Controls.Add(Me.Label658)
-        Me.GroupBox99.Controls.Add(Me.Label659)
-        Me.GroupBox99.Controls.Add(Me.Label440)
-        Me.GroupBox99.Controls.Add(Me.PictureBox226)
-        Me.GroupBox99.Controls.Add(Me.Label441)
-        Me.GroupBox99.Controls.Add(Me.Label442)
-        Me.GroupBox99.Controls.Add(Me.PictureBox227)
-        Me.GroupBox99.Controls.Add(Me.Label443)
-        Me.GroupBox99.ForeColor = System.Drawing.Color.White
-        Me.GroupBox99.Location = New System.Drawing.Point(298, 235)
-        Me.GroupBox99.Name = "GroupBox99"
-        Me.GroupBox99.Size = New System.Drawing.Size(409, 150)
-        Me.GroupBox99.TabIndex = 21
-        Me.GroupBox99.TabStop = false
-        Me.GroupBox99.Text = "Placa gusset"
-        Me.ToolTip1.SetToolTip(Me.GroupBox99, "AISC 360-10, J4.1"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AISC 360-10, J4.2")
-        '
-        'Label654
-        '
-        Me.Label654.AutoSize = true
-        Me.Label654.Location = New System.Drawing.Point(71, 118)
-        Me.Label654.Name = "Label654"
-        Me.Label654.Size = New System.Drawing.Size(51, 13)
-        Me.Label654.TabIndex = 34
-        Me.Label654.Text = "Label654"
-        '
-        'Label655
-        '
-        Me.Label655.AutoSize = true
-        Me.Label655.Location = New System.Drawing.Point(43, 118)
-        Me.Label655.Name = "Label655"
-        Me.Label655.Size = New System.Drawing.Size(27, 13)
-        Me.Label655.TabIndex = 33
-        Me.Label655.Text = "Ru="
-        '
-        'Label656
-        '
-        Me.Label656.AutoSize = true
-        Me.Label656.Location = New System.Drawing.Point(19, 90)
-        Me.Label656.Name = "Label656"
-        Me.Label656.Size = New System.Drawing.Size(137, 13)
-        Me.Label656.TabIndex = 32
-        Me.Label656.Text = "Carga de tensión requerida:"
-        '
-        'Label657
-        '
-        Me.Label657.AutoSize = true
-        Me.Label657.Location = New System.Drawing.Point(71, 61)
-        Me.Label657.Name = "Label657"
-        Me.Label657.Size = New System.Drawing.Size(51, 13)
-        Me.Label657.TabIndex = 31
-        Me.Label657.Text = "Label657"
-        '
-        'Label658
-        '
-        Me.Label658.AutoSize = true
-        Me.Label658.Location = New System.Drawing.Point(43, 61)
-        Me.Label658.Name = "Label658"
-        Me.Label658.Size = New System.Drawing.Size(27, 13)
-        Me.Label658.TabIndex = 30
-        Me.Label658.Text = "Ru="
-        '
-        'Label659
-        '
-        Me.Label659.AutoSize = true
-        Me.Label659.Location = New System.Drawing.Point(19, 33)
-        Me.Label659.Name = "Label659"
-        Me.Label659.Size = New System.Drawing.Size(142, 13)
-        Me.Label659.TabIndex = 29
-        Me.Label659.Text = "Carga de cortante requerida:"
-        '
-        'Label440
-        '
-        Me.Label440.AutoSize = true
-        Me.Label440.Location = New System.Drawing.Point(316, 119)
-        Me.Label440.Name = "Label440"
-        Me.Label440.Size = New System.Drawing.Size(51, 13)
-        Me.Label440.TabIndex = 18
-        Me.Label440.Text = "Label440"
-        '
-        'PictureBox226
-        '
-        Me.PictureBox226.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
-        Me.PictureBox226.Location = New System.Drawing.Point(263, 119)
-        Me.PictureBox226.Name = "PictureBox226"
-        Me.PictureBox226.Size = New System.Drawing.Size(48, 14)
-        Me.PictureBox226.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
-        Me.PictureBox226.TabIndex = 19
-        Me.PictureBox226.TabStop = false
-        '
-        'Label441
-        '
-        Me.Label441.AutoSize = true
-        Me.Label441.Location = New System.Drawing.Point(233, 90)
-        Me.Label441.Name = "Label441"
-        Me.Label441.Size = New System.Drawing.Size(102, 13)
-        Me.Label441.TabIndex = 17
-        Me.Label441.Text = "Fluencia por tensión"
-        '
-        'Label442
-        '
-        Me.Label442.AutoSize = true
-        Me.Label442.Location = New System.Drawing.Point(316, 61)
-        Me.Label442.Name = "Label442"
-        Me.Label442.Size = New System.Drawing.Size(51, 13)
-        Me.Label442.TabIndex = 15
-        Me.Label442.Text = "Label442"
-        '
-        'PictureBox227
-        '
-        Me.PictureBox227.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
-        Me.PictureBox227.Location = New System.Drawing.Point(263, 61)
-        Me.PictureBox227.Name = "PictureBox227"
-        Me.PictureBox227.Size = New System.Drawing.Size(48, 14)
-        Me.PictureBox227.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
-        Me.PictureBox227.TabIndex = 16
-        Me.PictureBox227.TabStop = false
-        '
-        'Label443
-        '
-        Me.Label443.AutoSize = true
-        Me.Label443.Location = New System.Drawing.Point(233, 33)
-        Me.Label443.Name = "Label443"
-        Me.Label443.Size = New System.Drawing.Size(107, 13)
-        Me.Label443.TabIndex = 0
-        Me.Label443.Text = "Fluencia por cortante"
-        '
-        'GroupBox97
-        '
-        Me.GroupBox97.Controls.Add(Me.Label645)
-        Me.GroupBox97.Controls.Add(Me.Label646)
-        Me.GroupBox97.Controls.Add(Me.Label647)
-        Me.GroupBox97.Controls.Add(Me.Label420)
-        Me.GroupBox97.Controls.Add(Me.PictureBox222)
-        Me.GroupBox97.Controls.Add(Me.Label421)
-        Me.GroupBox97.Controls.Add(Me.Label422)
-        Me.GroupBox97.Controls.Add(Me.PictureBox223)
-        Me.GroupBox97.Controls.Add(Me.Label423)
-        Me.GroupBox97.ForeColor = System.Drawing.Color.White
-        Me.GroupBox97.Location = New System.Drawing.Point(507, 19)
-        Me.GroupBox97.Name = "GroupBox97"
-        Me.GroupBox97.Size = New System.Drawing.Size(200, 210)
-        Me.GroupBox97.TabIndex = 6
-        Me.GroupBox97.TabStop = false
-        Me.GroupBox97.Text = "Columna"
-        Me.ToolTip1.SetToolTip(Me.GroupBox97, "AISC 360-10, J10.2"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AISC 360-10, J10.3")
-        '
-        'Label645
-        '
-        Me.Label645.AutoSize = true
-        Me.Label645.Location = New System.Drawing.Point(77, 51)
-        Me.Label645.Name = "Label645"
-        Me.Label645.Size = New System.Drawing.Size(51, 13)
-        Me.Label645.TabIndex = 25
-        Me.Label645.Text = "Label645"
-        '
-        'Label646
-        '
-        Me.Label646.AutoSize = true
-        Me.Label646.Location = New System.Drawing.Point(49, 51)
-        Me.Label646.Name = "Label646"
-        Me.Label646.Size = New System.Drawing.Size(27, 13)
-        Me.Label646.TabIndex = 24
-        Me.Label646.Text = "Ru="
-        '
-        'Label647
-        '
-        Me.Label647.AutoSize = true
-        Me.Label647.Location = New System.Drawing.Point(25, 23)
-        Me.Label647.Name = "Label647"
-        Me.Label647.Size = New System.Drawing.Size(119, 13)
-        Me.Label647.TabIndex = 23
-        Me.Label647.Text = "Carga normal requerida:"
-        '
-        'Label420
-        '
-        Me.Label420.AutoSize = true
-        Me.Label420.Location = New System.Drawing.Point(107, 155)
-        Me.Label420.Name = "Label420"
-        Me.Label420.Size = New System.Drawing.Size(51, 13)
-        Me.Label420.TabIndex = 18
-        Me.Label420.Text = "Label420"
-        '
-        'PictureBox222
-        '
-        Me.PictureBox222.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
-        Me.PictureBox222.Location = New System.Drawing.Point(54, 155)
-        Me.PictureBox222.Name = "PictureBox222"
-        Me.PictureBox222.Size = New System.Drawing.Size(48, 14)
-        Me.PictureBox222.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
-        Me.PictureBox222.TabIndex = 19
-        Me.PictureBox222.TabStop = false
-        '
-        'Label421
-        '
-        Me.Label421.AutoSize = true
-        Me.Label421.Location = New System.Drawing.Point(24, 126)
-        Me.Label421.Name = "Label421"
-        Me.Label421.Size = New System.Drawing.Size(143, 13)
-        Me.Label421.TabIndex = 17
-        Me.Label421.Text = "Aplastamiento local del alma:"
-        '
-        'Label422
-        '
-        Me.Label422.AutoSize = true
-        Me.Label422.Location = New System.Drawing.Point(107, 97)
-        Me.Label422.Name = "Label422"
-        Me.Label422.Size = New System.Drawing.Size(51, 13)
-        Me.Label422.TabIndex = 15
-        Me.Label422.Text = "Label422"
-        '
-        'PictureBox223
-        '
-        Me.PictureBox223.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
-        Me.PictureBox223.Location = New System.Drawing.Point(54, 97)
-        Me.PictureBox223.Name = "PictureBox223"
-        Me.PictureBox223.Size = New System.Drawing.Size(48, 14)
-        Me.PictureBox223.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
-        Me.PictureBox223.TabIndex = 16
-        Me.PictureBox223.TabStop = false
-        '
-        'Label423
-        '
-        Me.Label423.AutoSize = true
-        Me.Label423.Location = New System.Drawing.Point(24, 69)
-        Me.Label423.Name = "Label423"
-        Me.Label423.Size = New System.Drawing.Size(117, 13)
-        Me.Label423.TabIndex = 0
-        Me.Label423.Text = "Fluencia local del alma:"
-        '
-        'Label438
-        '
-        Me.Label438.AutoSize = true
-        Me.Label438.Location = New System.Drawing.Point(56, 106)
-        Me.Label438.Name = "Label438"
-        Me.Label438.Size = New System.Drawing.Size(51, 13)
-        Me.Label438.TabIndex = 7
-        Me.Label438.Text = "Label438"
-        '
-        'GroupBox98
-        '
-        Me.GroupBox98.Controls.Add(Me.Label444)
-        Me.GroupBox98.Controls.Add(Me.Label445)
-        Me.GroupBox98.Controls.Add(Me.Label446)
-        Me.GroupBox98.Controls.Add(Me.Label424)
-        Me.GroupBox98.Controls.Add(Me.Label425)
-        Me.GroupBox98.Controls.Add(Me.Label426)
-        Me.GroupBox98.Controls.Add(Me.Label427)
-        Me.GroupBox98.Controls.Add(Me.TextBox223)
-        Me.GroupBox98.Controls.Add(Me.Label428)
-        Me.GroupBox98.Controls.Add(Me.Label429)
-        Me.GroupBox98.ForeColor = System.Drawing.Color.White
-        Me.GroupBox98.Location = New System.Drawing.Point(298, 19)
-        Me.GroupBox98.Name = "GroupBox98"
-        Me.GroupBox98.Size = New System.Drawing.Size(200, 210)
-        Me.GroupBox98.TabIndex = 5
-        Me.GroupBox98.TabStop = false
-        Me.GroupBox98.Text = "Soldadura"
-        Me.ToolTip1.SetToolTip(Me.GroupBox98, "Diseño de la soldadura: "&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AICS 360-10, J2.4")
-        '
-        'Label444
-        '
-        Me.Label444.AutoSize = true
-        Me.Label444.Location = New System.Drawing.Point(61, 93)
-        Me.Label444.Name = "Label444"
-        Me.Label444.Size = New System.Drawing.Size(51, 13)
-        Me.Label444.TabIndex = 13
-        Me.Label444.Text = "Label444"
-        '
-        'Label445
-        '
-        Me.Label445.AutoSize = true
-        Me.Label445.Location = New System.Drawing.Point(31, 93)
-        Me.Label445.Name = "Label445"
-        Me.Label445.Size = New System.Drawing.Size(27, 13)
-        Me.Label445.TabIndex = 12
-        Me.Label445.Text = "Lw="
-        '
-        'Label446
-        '
-        Me.Label446.AutoSize = true
-        Me.Label446.Location = New System.Drawing.Point(10, 69)
-        Me.Label446.Name = "Label446"
-        Me.Label446.Size = New System.Drawing.Size(115, 13)
-        Me.Label446.TabIndex = 11
-        Me.Label446.Text = "Longitud de soldadura:"
-        '
-        'Label424
-        '
-        Me.Label424.AutoSize = true
-        Me.Label424.Location = New System.Drawing.Point(61, 47)
-        Me.Label424.Name = "Label424"
-        Me.Label424.Size = New System.Drawing.Size(51, 13)
-        Me.Label424.TabIndex = 10
-        Me.Label424.Text = "Label424"
-        '
-        'Label425
-        '
-        Me.Label425.AutoSize = true
-        Me.Label425.Location = New System.Drawing.Point(31, 47)
-        Me.Label425.Name = "Label425"
-        Me.Label425.Size = New System.Drawing.Size(27, 13)
-        Me.Label425.TabIndex = 9
-        Me.Label425.Text = "Ru="
-        '
-        'Label426
-        '
-        Me.Label426.AutoSize = true
-        Me.Label426.Location = New System.Drawing.Point(10, 23)
-        Me.Label426.Name = "Label426"
-        Me.Label426.Size = New System.Drawing.Size(85, 13)
-        Me.Label426.TabIndex = 8
-        Me.Label426.Text = "Carga requerida:"
-        '
-        'Label427
-        '
-        Me.Label427.AutoSize = true
-        Me.Label427.Location = New System.Drawing.Point(95, 147)
-        Me.Label427.Name = "Label427"
-        Me.Label427.Size = New System.Drawing.Size(51, 13)
-        Me.Label427.TabIndex = 7
-        Me.Label427.Text = "Label427"
-        '
-        'TextBox223
-        '
-        Me.TextBox223.Location = New System.Drawing.Point(55, 143)
-        Me.TextBox223.Name = "TextBox223"
-        Me.TextBox223.Size = New System.Drawing.Size(40, 20)
-        Me.TextBox223.TabIndex = 6
-        '
-        'Label428
-        '
-        Me.Label428.AutoSize = true
-        Me.Label428.Location = New System.Drawing.Point(33, 147)
-        Me.Label428.Name = "Label428"
-        Me.Label428.Size = New System.Drawing.Size(21, 13)
-        Me.Label428.TabIndex = 5
-        Me.Label428.Text = "D="
-        '
-        'Label429
-        '
-        Me.Label429.AutoSize = true
-        Me.Label429.Location = New System.Drawing.Point(10, 117)
-        Me.Label429.Name = "Label429"
-        Me.Label429.Size = New System.Drawing.Size(130, 13)
-        Me.Label429.TabIndex = 4
-        Me.Label429.Text = "Dieciseisavos propuestos:"
-        '
-        'Label435
-        '
-        Me.Label435.AutoSize = true
-        Me.Label435.Location = New System.Drawing.Point(82, 303)
-        Me.Label435.Name = "Label435"
-        Me.Label435.Size = New System.Drawing.Size(112, 13)
-        Me.Label435.TabIndex = 3
-        Me.Label435.Text = "Cargas en la conexión"
-        '
-        'Label436
-        '
-        Me.Label436.AutoSize = true
-        Me.Label436.Location = New System.Drawing.Point(201, 185)
-        Me.Label436.Name = "Label436"
-        Me.Label436.Size = New System.Drawing.Size(51, 13)
-        Me.Label436.TabIndex = 2
-        Me.Label436.Text = "Label436"
-        '
-        'Label437
-        '
-        Me.Label437.AutoSize = true
-        Me.Label437.Location = New System.Drawing.Point(158, 144)
-        Me.Label437.Name = "Label437"
-        Me.Label437.Size = New System.Drawing.Size(51, 13)
-        Me.Label437.TabIndex = 1
-        Me.Label437.Text = "Label437"
-        '
-        'PictureBox225
-        '
-        Me.PictureBox225.Image = Global.WindowsApplication1.My.Resources.Resources.CargasGC7
-        Me.PictureBox225.Location = New System.Drawing.Point(13, 46)
-        Me.PictureBox225.Name = "PictureBox225"
-        Me.PictureBox225.Size = New System.Drawing.Size(250, 250)
-        Me.PictureBox225.TabIndex = 0
-        Me.PictureBox225.TabStop = false
-        Me.ToolTip1.SetToolTip(Me.PictureBox225, "AISC MANUAL, Pt. 13")
-        '
-        'GroupBox92
-        '
-        Me.GroupBox92.Controls.Add(Me.GroupBox95)
-        Me.GroupBox92.Controls.Add(Me.Label439)
-        Me.GroupBox92.Controls.Add(Me.GroupBox93)
-        Me.GroupBox92.Controls.Add(Me.GroupBox94)
-        Me.GroupBox92.Controls.Add(Me.Label417)
-        Me.GroupBox92.Controls.Add(Me.Label418)
-        Me.GroupBox92.Controls.Add(Me.Label419)
-        Me.GroupBox92.Controls.Add(Me.PictureBox221)
-        Me.GroupBox92.ForeColor = System.Drawing.Color.White
-        Me.GroupBox92.Location = New System.Drawing.Point(6, 386)
-        Me.GroupBox92.Name = "GroupBox92"
-        Me.GroupBox92.Size = New System.Drawing.Size(750, 400)
-        Me.GroupBox92.TabIndex = 1
-        Me.GroupBox92.TabStop = false
-        Me.GroupBox92.Text = "Conexión entre la placa gusset y el patín de la porción de viga"
-        '
-        'GroupBox95
-        '
-        Me.GroupBox95.Controls.Add(Me.Label651)
-        Me.GroupBox95.Controls.Add(Me.Label652)
-        Me.GroupBox95.Controls.Add(Me.Label653)
-        Me.GroupBox95.Controls.Add(Me.Label648)
-        Me.GroupBox95.Controls.Add(Me.Label649)
-        Me.GroupBox95.Controls.Add(Me.Label650)
-        Me.GroupBox95.Controls.Add(Me.Label415)
-        Me.GroupBox95.Controls.Add(Me.PictureBox220)
-        Me.GroupBox95.Controls.Add(Me.Label416)
-        Me.GroupBox95.Controls.Add(Me.Label433)
-        Me.GroupBox95.Controls.Add(Me.PictureBox224)
-        Me.GroupBox95.Controls.Add(Me.Label434)
-        Me.GroupBox95.ForeColor = System.Drawing.Color.White
-        Me.GroupBox95.Location = New System.Drawing.Point(298, 235)
-        Me.GroupBox95.Name = "GroupBox95"
-        Me.GroupBox95.Size = New System.Drawing.Size(409, 150)
-        Me.GroupBox95.TabIndex = 20
-        Me.GroupBox95.TabStop = false
-        Me.GroupBox95.Text = "Placa gusset"
-        Me.ToolTip1.SetToolTip(Me.GroupBox95, "AISC 360-10, J4.1"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AISC 360-10, J4.2")
-        '
-        'Label651
-        '
-        Me.Label651.AutoSize = true
-        Me.Label651.Location = New System.Drawing.Point(66, 115)
-        Me.Label651.Name = "Label651"
-        Me.Label651.Size = New System.Drawing.Size(51, 13)
-        Me.Label651.TabIndex = 28
-        Me.Label651.Text = "Label651"
-        '
-        'Label652
-        '
-        Me.Label652.AutoSize = true
-        Me.Label652.Location = New System.Drawing.Point(38, 115)
-        Me.Label652.Name = "Label652"
-        Me.Label652.Size = New System.Drawing.Size(27, 13)
-        Me.Label652.TabIndex = 27
-        Me.Label652.Text = "Ru="
-        '
-        'Label653
-        '
-        Me.Label653.AutoSize = true
-        Me.Label653.Location = New System.Drawing.Point(14, 87)
-        Me.Label653.Name = "Label653"
-        Me.Label653.Size = New System.Drawing.Size(137, 13)
-        Me.Label653.TabIndex = 26
-        Me.Label653.Text = "Carga de tensión requerida:"
-        '
-        'Label648
-        '
-        Me.Label648.AutoSize = true
-        Me.Label648.Location = New System.Drawing.Point(66, 58)
-        Me.Label648.Name = "Label648"
-        Me.Label648.Size = New System.Drawing.Size(51, 13)
-        Me.Label648.TabIndex = 25
-        Me.Label648.Text = "Label648"
-        '
-        'Label649
-        '
-        Me.Label649.AutoSize = true
-        Me.Label649.Location = New System.Drawing.Point(38, 58)
-        Me.Label649.Name = "Label649"
-        Me.Label649.Size = New System.Drawing.Size(27, 13)
-        Me.Label649.TabIndex = 24
-        Me.Label649.Text = "Ru="
-        '
-        'Label650
-        '
-        Me.Label650.AutoSize = true
-        Me.Label650.Location = New System.Drawing.Point(14, 30)
-        Me.Label650.Name = "Label650"
-        Me.Label650.Size = New System.Drawing.Size(142, 13)
-        Me.Label650.TabIndex = 23
-        Me.Label650.Text = "Carga de cortante requerida:"
-        '
-        'Label415
-        '
-        Me.Label415.AutoSize = true
-        Me.Label415.Location = New System.Drawing.Point(316, 116)
-        Me.Label415.Name = "Label415"
-        Me.Label415.Size = New System.Drawing.Size(51, 13)
-        Me.Label415.TabIndex = 18
-        Me.Label415.Text = "Label415"
-        '
-        'PictureBox220
-        '
-        Me.PictureBox220.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
-        Me.PictureBox220.Location = New System.Drawing.Point(263, 116)
-        Me.PictureBox220.Name = "PictureBox220"
-        Me.PictureBox220.Size = New System.Drawing.Size(48, 14)
-        Me.PictureBox220.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
-        Me.PictureBox220.TabIndex = 19
-        Me.PictureBox220.TabStop = false
-        '
-        'Label416
-        '
-        Me.Label416.AutoSize = true
-        Me.Label416.Location = New System.Drawing.Point(233, 87)
-        Me.Label416.Name = "Label416"
-        Me.Label416.Size = New System.Drawing.Size(102, 13)
-        Me.Label416.TabIndex = 17
-        Me.Label416.Text = "Fluencia por tensión"
-        '
-        'Label433
-        '
-        Me.Label433.AutoSize = true
-        Me.Label433.Location = New System.Drawing.Point(316, 58)
-        Me.Label433.Name = "Label433"
-        Me.Label433.Size = New System.Drawing.Size(51, 13)
-        Me.Label433.TabIndex = 15
-        Me.Label433.Text = "Label433"
-        '
-        'PictureBox224
-        '
-        Me.PictureBox224.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
-        Me.PictureBox224.Location = New System.Drawing.Point(263, 58)
-        Me.PictureBox224.Name = "PictureBox224"
-        Me.PictureBox224.Size = New System.Drawing.Size(48, 14)
-        Me.PictureBox224.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
-        Me.PictureBox224.TabIndex = 16
-        Me.PictureBox224.TabStop = false
-        '
-        'Label434
-        '
-        Me.Label434.AutoSize = true
-        Me.Label434.Location = New System.Drawing.Point(234, 30)
-        Me.Label434.Name = "Label434"
-        Me.Label434.Size = New System.Drawing.Size(110, 13)
-        Me.Label434.TabIndex = 0
-        Me.Label434.Text = "Fluencia por cortante:"
-        '
-        'Label439
-        '
-        Me.Label439.AutoSize = true
-        Me.Label439.Location = New System.Drawing.Point(51, 146)
-        Me.Label439.Name = "Label439"
-        Me.Label439.Size = New System.Drawing.Size(51, 13)
-        Me.Label439.TabIndex = 7
-        Me.Label439.Text = "Label439"
-        '
-        'GroupBox93
-        '
-        Me.GroupBox93.Controls.Add(Me.Label642)
-        Me.GroupBox93.Controls.Add(Me.Label643)
-        Me.GroupBox93.Controls.Add(Me.Label644)
-        Me.GroupBox93.Controls.Add(Me.Label402)
-        Me.GroupBox93.Controls.Add(Me.PictureBox218)
-        Me.GroupBox93.Controls.Add(Me.Label403)
-        Me.GroupBox93.Controls.Add(Me.Label404)
-        Me.GroupBox93.Controls.Add(Me.PictureBox219)
-        Me.GroupBox93.Controls.Add(Me.Label405)
-        Me.GroupBox93.ForeColor = System.Drawing.Color.White
-        Me.GroupBox93.Location = New System.Drawing.Point(507, 18)
-        Me.GroupBox93.Name = "GroupBox93"
-        Me.GroupBox93.Size = New System.Drawing.Size(200, 210)
-        Me.GroupBox93.TabIndex = 6
-        Me.GroupBox93.TabStop = false
-        Me.GroupBox93.Text = "Porción de viga"
-        Me.ToolTip1.SetToolTip(Me.GroupBox93, "AISC 360-10, J10.2"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AISC 360-10, J10.3")
-        '
-        'Label642
-        '
-        Me.Label642.AutoSize = true
-        Me.Label642.Location = New System.Drawing.Point(77, 55)
-        Me.Label642.Name = "Label642"
-        Me.Label642.Size = New System.Drawing.Size(51, 13)
-        Me.Label642.TabIndex = 22
-        Me.Label642.Text = "Label642"
-        '
-        'Label643
-        '
-        Me.Label643.AutoSize = true
-        Me.Label643.Location = New System.Drawing.Point(49, 55)
-        Me.Label643.Name = "Label643"
-        Me.Label643.Size = New System.Drawing.Size(27, 13)
-        Me.Label643.TabIndex = 21
-        Me.Label643.Text = "Ru="
-        '
-        'Label644
-        '
-        Me.Label644.AutoSize = true
-        Me.Label644.Location = New System.Drawing.Point(25, 27)
-        Me.Label644.Name = "Label644"
-        Me.Label644.Size = New System.Drawing.Size(119, 13)
-        Me.Label644.TabIndex = 20
-        Me.Label644.Text = "Carga normal requerida:"
-        '
-        'Label402
-        '
-        Me.Label402.AutoSize = true
-        Me.Label402.Location = New System.Drawing.Point(107, 173)
-        Me.Label402.Name = "Label402"
-        Me.Label402.Size = New System.Drawing.Size(51, 13)
-        Me.Label402.TabIndex = 18
-        Me.Label402.Text = "Label402"
-        '
-        'PictureBox218
-        '
-        Me.PictureBox218.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
-        Me.PictureBox218.Location = New System.Drawing.Point(54, 173)
-        Me.PictureBox218.Name = "PictureBox218"
-        Me.PictureBox218.Size = New System.Drawing.Size(48, 14)
-        Me.PictureBox218.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
-        Me.PictureBox218.TabIndex = 19
-        Me.PictureBox218.TabStop = false
-        '
-        'Label403
-        '
-        Me.Label403.AutoSize = true
-        Me.Label403.Location = New System.Drawing.Point(24, 144)
-        Me.Label403.Name = "Label403"
-        Me.Label403.Size = New System.Drawing.Size(143, 13)
-        Me.Label403.TabIndex = 17
-        Me.Label403.Text = "Aplastamiento local del alma:"
-        '
-        'Label404
-        '
-        Me.Label404.AutoSize = true
-        Me.Label404.Location = New System.Drawing.Point(107, 115)
-        Me.Label404.Name = "Label404"
-        Me.Label404.Size = New System.Drawing.Size(51, 13)
-        Me.Label404.TabIndex = 15
-        Me.Label404.Text = "Label404"
-        '
-        'PictureBox219
-        '
-        Me.PictureBox219.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
-        Me.PictureBox219.Location = New System.Drawing.Point(54, 115)
-        Me.PictureBox219.Name = "PictureBox219"
-        Me.PictureBox219.Size = New System.Drawing.Size(48, 14)
-        Me.PictureBox219.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
-        Me.PictureBox219.TabIndex = 16
-        Me.PictureBox219.TabStop = false
-        '
-        'Label405
-        '
-        Me.Label405.AutoSize = true
-        Me.Label405.Location = New System.Drawing.Point(24, 87)
-        Me.Label405.Name = "Label405"
-        Me.Label405.Size = New System.Drawing.Size(117, 13)
-        Me.Label405.TabIndex = 0
-        Me.Label405.Text = "Fluencia local del alma:"
-        '
-        'GroupBox94
-        '
-        Me.GroupBox94.Controls.Add(Me.Label447)
-        Me.GroupBox94.Controls.Add(Me.Label448)
-        Me.GroupBox94.Controls.Add(Me.Label449)
-        Me.GroupBox94.Controls.Add(Me.Label406)
-        Me.GroupBox94.Controls.Add(Me.Label407)
-        Me.GroupBox94.Controls.Add(Me.Label408)
-        Me.GroupBox94.Controls.Add(Me.Label409)
-        Me.GroupBox94.Controls.Add(Me.TextBox222)
-        Me.GroupBox94.Controls.Add(Me.Label410)
-        Me.GroupBox94.Controls.Add(Me.Label411)
-        Me.GroupBox94.ForeColor = System.Drawing.Color.White
-        Me.GroupBox94.Location = New System.Drawing.Point(298, 18)
-        Me.GroupBox94.Name = "GroupBox94"
-        Me.GroupBox94.Size = New System.Drawing.Size(200, 210)
-        Me.GroupBox94.TabIndex = 5
-        Me.GroupBox94.TabStop = false
-        Me.GroupBox94.Text = "Soldadura"
-        Me.ToolTip1.SetToolTip(Me.GroupBox94, "Diseño de la soldadura: "&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AICS 360-10, J2.4"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10))
-        '
-        'Label447
-        '
-        Me.Label447.AutoSize = true
-        Me.Label447.Location = New System.Drawing.Point(62, 98)
-        Me.Label447.Name = "Label447"
-        Me.Label447.Size = New System.Drawing.Size(51, 13)
-        Me.Label447.TabIndex = 13
-        Me.Label447.Text = "Label447"
-        '
-        'Label448
-        '
-        Me.Label448.AutoSize = true
-        Me.Label448.Location = New System.Drawing.Point(34, 98)
-        Me.Label448.Name = "Label448"
-        Me.Label448.Size = New System.Drawing.Size(27, 13)
-        Me.Label448.TabIndex = 12
-        Me.Label448.Text = "Lw="
-        '
-        'Label449
-        '
-        Me.Label449.AutoSize = true
-        Me.Label449.Location = New System.Drawing.Point(10, 68)
-        Me.Label449.Name = "Label449"
-        Me.Label449.Size = New System.Drawing.Size(126, 13)
-        Me.Label449.TabIndex = 11
-        Me.Label449.Text = "Longitud de la soldadura:"
-        '
-        'Label406
-        '
-        Me.Label406.AutoSize = true
-        Me.Label406.Location = New System.Drawing.Point(62, 47)
-        Me.Label406.Name = "Label406"
-        Me.Label406.Size = New System.Drawing.Size(51, 13)
-        Me.Label406.TabIndex = 10
-        Me.Label406.Text = "Label406"
-        '
-        'Label407
-        '
-        Me.Label407.AutoSize = true
-        Me.Label407.Location = New System.Drawing.Point(34, 47)
-        Me.Label407.Name = "Label407"
-        Me.Label407.Size = New System.Drawing.Size(27, 13)
-        Me.Label407.TabIndex = 9
-        Me.Label407.Text = "Ru="
-        '
-        'Label408
-        '
-        Me.Label408.AutoSize = true
-        Me.Label408.Location = New System.Drawing.Point(10, 23)
-        Me.Label408.Name = "Label408"
-        Me.Label408.Size = New System.Drawing.Size(85, 13)
-        Me.Label408.TabIndex = 8
-        Me.Label408.Text = "Carga requerida:"
-        '
-        'Label409
-        '
-        Me.Label409.AutoSize = true
-        Me.Label409.Location = New System.Drawing.Point(97, 154)
-        Me.Label409.Name = "Label409"
-        Me.Label409.Size = New System.Drawing.Size(51, 13)
-        Me.Label409.TabIndex = 7
-        Me.Label409.Text = "Label409"
-        '
-        'TextBox222
-        '
-        Me.TextBox222.Location = New System.Drawing.Point(56, 150)
-        Me.TextBox222.Name = "TextBox222"
-        Me.TextBox222.Size = New System.Drawing.Size(40, 20)
-        Me.TextBox222.TabIndex = 6
-        '
-        'Label410
-        '
-        Me.Label410.AutoSize = true
-        Me.Label410.Location = New System.Drawing.Point(35, 154)
-        Me.Label410.Name = "Label410"
-        Me.Label410.Size = New System.Drawing.Size(21, 13)
-        Me.Label410.TabIndex = 5
-        Me.Label410.Text = "D="
-        '
-        'Label411
-        '
-        Me.Label411.AutoSize = true
-        Me.Label411.Location = New System.Drawing.Point(10, 124)
-        Me.Label411.Name = "Label411"
-        Me.Label411.Size = New System.Drawing.Size(173, 13)
-        Me.Label411.TabIndex = 4
-        Me.Label411.Text = "Pulgadas de soldadura propuestas:"
-        '
-        'Label417
-        '
-        Me.Label417.AutoSize = true
-        Me.Label417.Location = New System.Drawing.Point(82, 303)
-        Me.Label417.Name = "Label417"
-        Me.Label417.Size = New System.Drawing.Size(112, 13)
-        Me.Label417.TabIndex = 3
-        Me.Label417.Text = "Cargas en la conexión"
-        '
-        'Label418
-        '
-        Me.Label418.AutoSize = true
-        Me.Label418.Location = New System.Drawing.Point(187, 119)
-        Me.Label418.Name = "Label418"
-        Me.Label418.Size = New System.Drawing.Size(51, 13)
-        Me.Label418.TabIndex = 2
-        Me.Label418.Text = "Label418"
-        '
-        'Label419
-        '
-        Me.Label419.AutoSize = true
-        Me.Label419.Location = New System.Drawing.Point(118, 65)
-        Me.Label419.Name = "Label419"
-        Me.Label419.Size = New System.Drawing.Size(51, 13)
-        Me.Label419.TabIndex = 1
-        Me.Label419.Text = "Label419"
-        '
-        'PictureBox221
-        '
-        Me.PictureBox221.Image = Global.WindowsApplication1.My.Resources.Resources.CargasGB7i
-        Me.PictureBox221.Location = New System.Drawing.Point(13, 46)
-        Me.PictureBox221.Name = "PictureBox221"
-        Me.PictureBox221.Size = New System.Drawing.Size(250, 250)
-        Me.PictureBox221.TabIndex = 0
-        Me.PictureBox221.TabStop = false
-        Me.ToolTip1.SetToolTip(Me.PictureBox221, "AISC MANUAL, Pt. 13")
-        '
-        'GroupBox88
-        '
-        Me.GroupBox88.Controls.Add(Me.GroupBox91)
-        Me.GroupBox88.Controls.Add(Me.GroupBox90)
-        Me.GroupBox88.Controls.Add(Me.GroupBox89)
-        Me.GroupBox88.Controls.Add(Me.Label386)
-        Me.GroupBox88.Controls.Add(Me.Label385)
-        Me.GroupBox88.Controls.Add(Me.Label384)
-        Me.GroupBox88.Controls.Add(Me.PictureBox214)
-        Me.GroupBox88.ForeColor = System.Drawing.Color.White
-        Me.GroupBox88.Location = New System.Drawing.Point(6, 4)
-        Me.GroupBox88.Name = "GroupBox88"
-        Me.GroupBox88.Size = New System.Drawing.Size(750, 375)
-        Me.GroupBox88.TabIndex = 0
-        Me.GroupBox88.TabStop = false
-        Me.GroupBox88.Text = "Conexión entre el alma de la porción de viga y el patín de la columna"
-        '
-        'GroupBox91
-        '
-        Me.GroupBox91.Controls.Add(Me.Label398)
-        Me.GroupBox91.Controls.Add(Me.PictureBox217)
-        Me.GroupBox91.Controls.Add(Me.Label397)
-        Me.GroupBox91.Controls.Add(Me.Label396)
-        Me.GroupBox91.Controls.Add(Me.PictureBox216)
-        Me.GroupBox91.Controls.Add(Me.Label395)
-        Me.GroupBox91.ForeColor = System.Drawing.Color.White
-        Me.GroupBox91.Location = New System.Drawing.Point(507, 46)
-        Me.GroupBox91.Name = "GroupBox91"
-        Me.GroupBox91.Size = New System.Drawing.Size(200, 150)
-        Me.GroupBox91.TabIndex = 6
-        Me.GroupBox91.TabStop = false
-        Me.GroupBox91.Text = "Columna"
-        Me.ToolTip1.SetToolTip(Me.GroupBox91, "AISC 360-10, J10.2"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AISC 360-10, J10.3")
-        '
-        'Label398
-        '
-        Me.Label398.AutoSize = true
-        Me.Label398.Location = New System.Drawing.Point(107, 113)
-        Me.Label398.Name = "Label398"
-        Me.Label398.Size = New System.Drawing.Size(51, 13)
-        Me.Label398.TabIndex = 18
-        Me.Label398.Text = "Label398"
-        '
-        'PictureBox217
-        '
-        Me.PictureBox217.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
-        Me.PictureBox217.Location = New System.Drawing.Point(54, 113)
-        Me.PictureBox217.Name = "PictureBox217"
-        Me.PictureBox217.Size = New System.Drawing.Size(48, 14)
-        Me.PictureBox217.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
-        Me.PictureBox217.TabIndex = 19
-        Me.PictureBox217.TabStop = false
-        '
-        'Label397
-        '
-        Me.Label397.AutoSize = true
-        Me.Label397.Location = New System.Drawing.Point(24, 84)
-        Me.Label397.Name = "Label397"
-        Me.Label397.Size = New System.Drawing.Size(143, 13)
-        Me.Label397.TabIndex = 17
-        Me.Label397.Text = "Aplastamiento local del alma:"
-        '
-        'Label396
-        '
-        Me.Label396.AutoSize = true
-        Me.Label396.Location = New System.Drawing.Point(107, 55)
-        Me.Label396.Name = "Label396"
-        Me.Label396.Size = New System.Drawing.Size(51, 13)
-        Me.Label396.TabIndex = 15
-        Me.Label396.Text = "Label396"
-        '
-        'PictureBox216
-        '
-        Me.PictureBox216.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
-        Me.PictureBox216.Location = New System.Drawing.Point(54, 55)
-        Me.PictureBox216.Name = "PictureBox216"
-        Me.PictureBox216.Size = New System.Drawing.Size(48, 14)
-        Me.PictureBox216.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
-        Me.PictureBox216.TabIndex = 16
-        Me.PictureBox216.TabStop = false
-        '
-        'Label395
-        '
-        Me.Label395.AutoSize = true
-        Me.Label395.Location = New System.Drawing.Point(24, 27)
-        Me.Label395.Name = "Label395"
-        Me.Label395.Size = New System.Drawing.Size(117, 13)
-        Me.Label395.TabIndex = 0
-        Me.Label395.Text = "Fluencia local del alma:"
-        '
-        'GroupBox90
-        '
-        Me.GroupBox90.Controls.Add(Me.Label450)
-        Me.GroupBox90.Controls.Add(Me.Label400)
-        Me.GroupBox90.Controls.Add(Me.Label401)
-        Me.GroupBox90.Controls.Add(Me.Label451)
-        Me.GroupBox90.Controls.Add(Me.Label399)
-        Me.GroupBox90.Controls.Add(Me.Label394)
-        Me.GroupBox90.Controls.Add(Me.Label452)
-        Me.GroupBox90.Controls.Add(Me.TextBox221)
-        Me.GroupBox90.Controls.Add(Me.Label393)
-        Me.GroupBox90.Controls.Add(Me.Label392)
-        Me.GroupBox90.ForeColor = System.Drawing.Color.White
-        Me.GroupBox90.Location = New System.Drawing.Point(301, 46)
-        Me.GroupBox90.Name = "GroupBox90"
-        Me.GroupBox90.Size = New System.Drawing.Size(200, 199)
-        Me.GroupBox90.TabIndex = 5
-        Me.GroupBox90.TabStop = false
-        Me.GroupBox90.Text = "Soldadura"
-        Me.ToolTip1.SetToolTip(Me.GroupBox90, "Diseño de la soldadura: "&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AICS 360-10, J2.4")
-        '
-        'Label450
-        '
-        Me.Label450.AutoSize = true
-        Me.Label450.Location = New System.Drawing.Point(59, 98)
-        Me.Label450.Name = "Label450"
-        Me.Label450.Size = New System.Drawing.Size(51, 13)
-        Me.Label450.TabIndex = 16
-        Me.Label450.Text = "Label450"
-        '
-        'Label400
-        '
-        Me.Label400.AutoSize = true
-        Me.Label400.Location = New System.Drawing.Point(59, 47)
-        Me.Label400.Name = "Label400"
-        Me.Label400.Size = New System.Drawing.Size(51, 13)
-        Me.Label400.TabIndex = 10
-        Me.Label400.Text = "Label400"
-        '
-        'Label401
-        '
-        Me.Label401.AutoSize = true
-        Me.Label401.Location = New System.Drawing.Point(31, 47)
-        Me.Label401.Name = "Label401"
-        Me.Label401.Size = New System.Drawing.Size(27, 13)
-        Me.Label401.TabIndex = 9
-        Me.Label401.Text = "Ru="
-        '
-        'Label451
-        '
-        Me.Label451.AutoSize = true
-        Me.Label451.Location = New System.Drawing.Point(31, 98)
-        Me.Label451.Name = "Label451"
-        Me.Label451.Size = New System.Drawing.Size(27, 13)
-        Me.Label451.TabIndex = 15
-        Me.Label451.Text = "Lw="
-        '
-        'Label399
-        '
-        Me.Label399.AutoSize = true
-        Me.Label399.Location = New System.Drawing.Point(10, 23)
-        Me.Label399.Name = "Label399"
-        Me.Label399.Size = New System.Drawing.Size(85, 13)
-        Me.Label399.TabIndex = 8
-        Me.Label399.Text = "Carga requerida:"
-        '
-        'Label394
-        '
-        Me.Label394.AutoSize = true
-        Me.Label394.Location = New System.Drawing.Point(99, 156)
-        Me.Label394.Name = "Label394"
-        Me.Label394.Size = New System.Drawing.Size(51, 13)
-        Me.Label394.TabIndex = 7
-        Me.Label394.Text = "Label394"
-        '
-        'Label452
-        '
-        Me.Label452.AutoSize = true
-        Me.Label452.Location = New System.Drawing.Point(10, 72)
-        Me.Label452.Name = "Label452"
-        Me.Label452.Size = New System.Drawing.Size(126, 13)
-        Me.Label452.TabIndex = 14
-        Me.Label452.Text = "Longitud de la soldadura:"
-        '
-        'TextBox221
-        '
-        Me.TextBox221.Location = New System.Drawing.Point(57, 152)
-        Me.TextBox221.Name = "TextBox221"
-        Me.TextBox221.Size = New System.Drawing.Size(40, 20)
-        Me.TextBox221.TabIndex = 6
-        '
-        'Label393
-        '
-        Me.Label393.AutoSize = true
-        Me.Label393.Location = New System.Drawing.Point(35, 156)
-        Me.Label393.Name = "Label393"
-        Me.Label393.Size = New System.Drawing.Size(21, 13)
-        Me.Label393.TabIndex = 5
-        Me.Label393.Text = "D="
-        '
-        'Label392
-        '
-        Me.Label392.AutoSize = true
-        Me.Label392.Location = New System.Drawing.Point(10, 126)
-        Me.Label392.Name = "Label392"
-        Me.Label392.Size = New System.Drawing.Size(173, 13)
-        Me.Label392.TabIndex = 4
-        Me.Label392.Text = "Pulgadas de soldadura propuestas:"
-        '
-        'GroupBox89
-        '
-        Me.GroupBox89.Controls.Add(Me.Label389)
-        Me.GroupBox89.Controls.Add(Me.PictureBox228)
-        Me.GroupBox89.Controls.Add(Me.Label390)
-        Me.GroupBox89.Controls.Add(Me.Label388)
-        Me.GroupBox89.Controls.Add(Me.PictureBox215)
-        Me.GroupBox89.Controls.Add(Me.Label387)
-        Me.GroupBox89.ForeColor = System.Drawing.Color.White
-        Me.GroupBox89.Location = New System.Drawing.Point(507, 202)
-        Me.GroupBox89.Name = "GroupBox89"
-        Me.GroupBox89.Size = New System.Drawing.Size(200, 136)
-        Me.GroupBox89.TabIndex = 4
-        Me.GroupBox89.TabStop = false
-        Me.GroupBox89.Text = "Porción de viga"
-        Me.ToolTip1.SetToolTip(Me.GroupBox89, "Resistencia al cortante:"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AISC 360-10 G2.1"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"Resistencia a la compresión:"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AISC 36"& _ 
-        "0-10 J4.4")
-        '
-        'Label389
-        '
-        Me.Label389.AutoSize = true
-        Me.Label389.Location = New System.Drawing.Point(106, 54)
-        Me.Label389.Name = "Label389"
-        Me.Label389.Size = New System.Drawing.Size(51, 13)
-        Me.Label389.TabIndex = 16
-        Me.Label389.Text = "Label389"
-        '
-        'PictureBox228
-        '
-        Me.PictureBox228.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
-        Me.PictureBox228.Location = New System.Drawing.Point(53, 54)
-        Me.PictureBox228.Name = "PictureBox228"
-        Me.PictureBox228.Size = New System.Drawing.Size(48, 14)
-        Me.PictureBox228.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
-        Me.PictureBox228.TabIndex = 17
-        Me.PictureBox228.TabStop = false
-        '
-        'Label390
-        '
-        Me.Label390.AutoSize = true
-        Me.Label390.Location = New System.Drawing.Point(25, 26)
-        Me.Label390.Name = "Label390"
-        Me.Label390.Size = New System.Drawing.Size(118, 13)
-        Me.Label390.TabIndex = 15
-        Me.Label390.Text = "Resistencia al cortante:"
-        '
-        'Label388
-        '
-        Me.Label388.AutoSize = true
-        Me.Label388.Location = New System.Drawing.Point(106, 110)
-        Me.Label388.Name = "Label388"
-        Me.Label388.Size = New System.Drawing.Size(51, 13)
-        Me.Label388.TabIndex = 5
-        Me.Label388.Text = "Label388"
-        '
-        'PictureBox215
-        '
-        Me.PictureBox215.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
-        Me.PictureBox215.Location = New System.Drawing.Point(53, 110)
-        Me.PictureBox215.Name = "PictureBox215"
-        Me.PictureBox215.Size = New System.Drawing.Size(48, 14)
-        Me.PictureBox215.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
-        Me.PictureBox215.TabIndex = 14
-        Me.PictureBox215.TabStop = false
-        '
-        'Label387
-        '
-        Me.Label387.AutoSize = true
-        Me.Label387.Location = New System.Drawing.Point(25, 82)
-        Me.Label387.Name = "Label387"
-        Me.Label387.Size = New System.Drawing.Size(142, 13)
-        Me.Label387.TabIndex = 0
-        Me.Label387.Text = "Resistencia a la compresión:"
-        '
-        'Label386
-        '
-        Me.Label386.AutoSize = true
-        Me.Label386.Location = New System.Drawing.Point(83, 305)
-        Me.Label386.Name = "Label386"
-        Me.Label386.Size = New System.Drawing.Size(112, 13)
-        Me.Label386.TabIndex = 3
-        Me.Label386.Text = "Cargas en la conexión"
-        '
-        'Label385
-        '
-        Me.Label385.AutoSize = true
-        Me.Label385.Location = New System.Drawing.Point(227, 91)
-        Me.Label385.Name = "Label385"
-        Me.Label385.Size = New System.Drawing.Size(51, 13)
-        Me.Label385.TabIndex = 2
-        Me.Label385.Text = "Label385"
-        '
-        'Label384
-        '
-        Me.Label384.AutoSize = true
-        Me.Label384.Location = New System.Drawing.Point(137, 46)
-        Me.Label384.Name = "Label384"
-        Me.Label384.Size = New System.Drawing.Size(51, 13)
-        Me.Label384.TabIndex = 1
-        Me.Label384.Text = "Label384"
-        '
-        'PictureBox214
-        '
-        Me.PictureBox214.Image = Global.WindowsApplication1.My.Resources.Resources.CargasBC7i
-        Me.PictureBox214.Location = New System.Drawing.Point(13, 46)
-        Me.PictureBox214.Name = "PictureBox214"
-        Me.PictureBox214.Size = New System.Drawing.Size(250, 250)
-        Me.PictureBox214.TabIndex = 0
-        Me.PictureBox214.TabStop = false
-        Me.ToolTip1.SetToolTip(Me.PictureBox214, "AISC MANUAL, Pt. 13")
-        '
-        'TabPage15
-        '
-        Me.TabPage15.AutoScroll = true
-        Me.TabPage15.BackColor = System.Drawing.Color.FromArgb(CType(CType(68,Byte),Integer), CType(CType(77,Byte),Integer), CType(CType(83,Byte),Integer))
-        Me.TabPage15.Controls.Add(Me.GroupBox170)
-        Me.TabPage15.Controls.Add(Me.GroupBox166)
-        Me.TabPage15.Controls.Add(Me.GroupBox162)
-        Me.TabPage15.Controls.Add(Me.GroupBox158)
-        Me.TabPage15.ForeColor = System.Drawing.Color.Black
-        Me.TabPage15.Location = New System.Drawing.Point(4, 22)
-        Me.TabPage15.Name = "TabPage15"
-        Me.TabPage15.Padding = New System.Windows.Forms.Padding(3)
-        Me.TabPage15.Size = New System.Drawing.Size(635, 670)
-        Me.TabPage15.TabIndex = 2
-        Me.TabPage15.Text = "Conexión Viga-Columna"
-        '
-        'GroupBox170
-        '
-        Me.GroupBox170.Controls.Add(Me.GroupBox171)
-        Me.GroupBox170.Controls.Add(Me.GroupBox172)
-        Me.GroupBox170.Controls.Add(Me.GroupBox173)
-        Me.GroupBox170.Controls.Add(Me.Label935)
-        Me.GroupBox170.Controls.Add(Me.Label936)
-        Me.GroupBox170.Controls.Add(Me.Label937)
-        Me.GroupBox170.Controls.Add(Me.PictureBox337)
-        Me.GroupBox170.ForeColor = System.Drawing.Color.White
-        Me.GroupBox170.Location = New System.Drawing.Point(6, 1491)
-        Me.GroupBox170.Name = "GroupBox170"
-        Me.GroupBox170.Size = New System.Drawing.Size(930, 350)
-        Me.GroupBox170.TabIndex = 4
-        Me.GroupBox170.TabStop = false
-        Me.GroupBox170.Text = "Conexión entre la placa simple y el patín de la columna"
-        '
-        'GroupBox171
-        '
-        Me.GroupBox171.Controls.Add(Me.PictureBox446)
-        Me.GroupBox171.Controls.Add(Me.Label959)
-        Me.GroupBox171.Controls.Add(Me.Label961)
-        Me.GroupBox171.Controls.Add(Me.Label918)
-        Me.GroupBox171.Controls.Add(Me.PictureBox333)
-        Me.GroupBox171.Controls.Add(Me.Label919)
-        Me.GroupBox171.Controls.Add(Me.Label920)
-        Me.GroupBox171.Controls.Add(Me.PictureBox334)
-        Me.GroupBox171.Controls.Add(Me.Label921)
-        Me.GroupBox171.ForeColor = System.Drawing.Color.White
-        Me.GroupBox171.Location = New System.Drawing.Point(714, 75)
-        Me.GroupBox171.Name = "GroupBox171"
-        Me.GroupBox171.Size = New System.Drawing.Size(200, 180)
-        Me.GroupBox171.TabIndex = 6
-        Me.GroupBox171.TabStop = false
-        Me.GroupBox171.Text = "Columna"
-        Me.ToolTip1.SetToolTip(Me.GroupBox171, "AISC 360-10, J10.2"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AISC 360-10, J10.3")
-        '
-        'PictureBox446
-        '
-        Me.PictureBox446.Image = Global.WindowsApplication1.My.Resources.Resources.Rublancoigual
-        Me.PictureBox446.Location = New System.Drawing.Point(27, 45)
-        Me.PictureBox446.Name = "PictureBox446"
-        Me.PictureBox446.Size = New System.Drawing.Size(38, 14)
-        Me.PictureBox446.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
-        Me.PictureBox446.TabIndex = 75
-        Me.PictureBox446.TabStop = false
-        '
-        'Label959
-        '
-        Me.Label959.AutoSize = true
-        Me.Label959.Location = New System.Drawing.Point(66, 46)
-        Me.Label959.Name = "Label959"
-        Me.Label959.Size = New System.Drawing.Size(51, 13)
-        Me.Label959.TabIndex = 23
-        Me.Label959.Text = "Label959"
-        '
-        'Label961
-        '
-        Me.Label961.AutoSize = true
-        Me.Label961.Location = New System.Drawing.Point(20, 19)
-        Me.Label961.Name = "Label961"
-        Me.Label961.Size = New System.Drawing.Size(85, 13)
-        Me.Label961.TabIndex = 21
-        Me.Label961.Text = "Carga requerida:"
-        '
-        'Label918
-        '
-        Me.Label918.AutoSize = true
-        Me.Label918.Location = New System.Drawing.Point(107, 156)
-        Me.Label918.Name = "Label918"
-        Me.Label918.Size = New System.Drawing.Size(51, 13)
-        Me.Label918.TabIndex = 18
-        Me.Label918.Text = "Label918"
-        '
-        'PictureBox333
-        '
-        Me.PictureBox333.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
-        Me.PictureBox333.Location = New System.Drawing.Point(54, 156)
-        Me.PictureBox333.Name = "PictureBox333"
-        Me.PictureBox333.Size = New System.Drawing.Size(48, 14)
-        Me.PictureBox333.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
-        Me.PictureBox333.TabIndex = 19
-        Me.PictureBox333.TabStop = false
-        '
-        'Label919
-        '
-        Me.Label919.AutoSize = true
-        Me.Label919.Location = New System.Drawing.Point(24, 126)
-        Me.Label919.Name = "Label919"
-        Me.Label919.Size = New System.Drawing.Size(143, 13)
-        Me.Label919.TabIndex = 17
-        Me.Label919.Text = "Aplastamiento local del alma:"
-        '
-        'Label920
-        '
-        Me.Label920.AutoSize = true
-        Me.Label920.Location = New System.Drawing.Point(107, 98)
-        Me.Label920.Name = "Label920"
-        Me.Label920.Size = New System.Drawing.Size(51, 13)
-        Me.Label920.TabIndex = 15
-        Me.Label920.Text = "Label920"
-        '
-        'PictureBox334
-        '
-        Me.PictureBox334.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
-        Me.PictureBox334.Location = New System.Drawing.Point(54, 98)
-        Me.PictureBox334.Name = "PictureBox334"
-        Me.PictureBox334.Size = New System.Drawing.Size(48, 14)
-        Me.PictureBox334.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
-        Me.PictureBox334.TabIndex = 16
-        Me.PictureBox334.TabStop = false
-        '
-        'Label921
-        '
-        Me.Label921.AutoSize = true
-        Me.Label921.Location = New System.Drawing.Point(24, 70)
-        Me.Label921.Name = "Label921"
-        Me.Label921.Size = New System.Drawing.Size(117, 13)
-        Me.Label921.TabIndex = 0
-        Me.Label921.Text = "Fluencia local del alma:"
-        '
-        'GroupBox172
-        '
-        Me.GroupBox172.Controls.Add(Me.PictureBox448)
-        Me.GroupBox172.Controls.Add(Me.PictureBox444)
-        Me.GroupBox172.Controls.Add(Me.Label922)
-        Me.GroupBox172.Controls.Add(Me.Label923)
-        Me.GroupBox172.Controls.Add(Me.Label926)
-        Me.GroupBox172.Controls.Add(Me.Label927)
-        Me.GroupBox172.Controls.Add(Me.Label928)
-        Me.GroupBox172.Controls.Add(Me.TextBox282)
-        Me.GroupBox172.Controls.Add(Me.Label929)
-        Me.GroupBox172.Controls.Add(Me.Label930)
-        Me.GroupBox172.ForeColor = System.Drawing.Color.White
-        Me.GroupBox172.Location = New System.Drawing.Point(301, 76)
-        Me.GroupBox172.Name = "GroupBox172"
-        Me.GroupBox172.Size = New System.Drawing.Size(200, 199)
-        Me.GroupBox172.TabIndex = 5
-        Me.GroupBox172.TabStop = false
-        Me.GroupBox172.Text = "Soldadura"
-        Me.ToolTip1.SetToolTip(Me.GroupBox172, "Diseño de la soldadura: "&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AICS 360-10, J2.4")
-        '
-        'PictureBox448
-        '
-        Me.PictureBox448.Image = Global.WindowsApplication1.My.Resources.Resources.Lweldblancoigual
-        Me.PictureBox448.Location = New System.Drawing.Point(27, 98)
-        Me.PictureBox448.Name = "PictureBox448"
-        Me.PictureBox448.Size = New System.Drawing.Size(57, 15)
-        Me.PictureBox448.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
-        Me.PictureBox448.TabIndex = 76
-        Me.PictureBox448.TabStop = false
-        '
-        'PictureBox444
-        '
-        Me.PictureBox444.Image = Global.WindowsApplication1.My.Resources.Resources.Rublancoigual
-        Me.PictureBox444.Location = New System.Drawing.Point(21, 47)
-        Me.PictureBox444.Name = "PictureBox444"
-        Me.PictureBox444.Size = New System.Drawing.Size(38, 14)
-        Me.PictureBox444.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
-        Me.PictureBox444.TabIndex = 75
-        Me.PictureBox444.TabStop = false
-        '
-        'Label922
-        '
-        Me.Label922.AutoSize = true
-        Me.Label922.Location = New System.Drawing.Point(89, 101)
-        Me.Label922.Name = "Label922"
-        Me.Label922.Size = New System.Drawing.Size(51, 13)
-        Me.Label922.TabIndex = 16
-        Me.Label922.Text = "Label922"
-        '
-        'Label923
-        '
-        Me.Label923.AutoSize = true
-        Me.Label923.Location = New System.Drawing.Point(59, 47)
-        Me.Label923.Name = "Label923"
-        Me.Label923.Size = New System.Drawing.Size(51, 13)
-        Me.Label923.TabIndex = 10
-        Me.Label923.Text = "Label923"
-        '
-        'Label926
-        '
-        Me.Label926.AutoSize = true
-        Me.Label926.Location = New System.Drawing.Point(10, 23)
-        Me.Label926.Name = "Label926"
-        Me.Label926.Size = New System.Drawing.Size(85, 13)
-        Me.Label926.TabIndex = 8
-        Me.Label926.Text = "Carga requerida:"
-        '
-        'Label927
-        '
-        Me.Label927.AutoSize = true
-        Me.Label927.Location = New System.Drawing.Point(96, 156)
-        Me.Label927.Name = "Label927"
-        Me.Label927.Size = New System.Drawing.Size(51, 13)
-        Me.Label927.TabIndex = 7
-        Me.Label927.Text = "Label927"
-        '
-        'Label928
-        '
-        Me.Label928.AutoSize = true
-        Me.Label928.Location = New System.Drawing.Point(10, 72)
-        Me.Label928.Name = "Label928"
-        Me.Label928.Size = New System.Drawing.Size(126, 13)
-        Me.Label928.TabIndex = 14
-        Me.Label928.Text = "Longitud de la soldadura:"
-        '
-        'TextBox282
-        '
-        Me.TextBox282.Location = New System.Drawing.Point(60, 152)
-        Me.TextBox282.Name = "TextBox282"
-        Me.TextBox282.Size = New System.Drawing.Size(35, 20)
-        Me.TextBox282.TabIndex = 6
-        '
-        'Label929
-        '
-        Me.Label929.AutoSize = true
-        Me.Label929.Location = New System.Drawing.Point(38, 156)
-        Me.Label929.Name = "Label929"
-        Me.Label929.Size = New System.Drawing.Size(21, 13)
-        Me.Label929.TabIndex = 5
-        Me.Label929.Text = "D="
-        '
-        'Label930
-        '
-        Me.Label930.AutoSize = true
-        Me.Label930.Location = New System.Drawing.Point(10, 126)
-        Me.Label930.Name = "Label930"
-        Me.Label930.Size = New System.Drawing.Size(173, 13)
-        Me.Label930.TabIndex = 4
-        Me.Label930.Text = "Pulgadas de soldadura propuestas:"
-        '
-        'GroupBox173
-        '
-        Me.GroupBox173.Controls.Add(Me.PictureBox445)
-        Me.GroupBox173.Controls.Add(Me.Label956)
-        Me.GroupBox173.Controls.Add(Me.Label958)
-        Me.GroupBox173.Controls.Add(Me.Label931)
-        Me.GroupBox173.Controls.Add(Me.PictureBox335)
-        Me.GroupBox173.Controls.Add(Me.Label932)
-        Me.GroupBox173.Controls.Add(Me.Label933)
-        Me.GroupBox173.Controls.Add(Me.PictureBox336)
-        Me.GroupBox173.Controls.Add(Me.Label934)
-        Me.GroupBox173.ForeColor = System.Drawing.Color.White
-        Me.GroupBox173.Location = New System.Drawing.Point(507, 76)
-        Me.GroupBox173.Name = "GroupBox173"
-        Me.GroupBox173.Size = New System.Drawing.Size(200, 180)
-        Me.GroupBox173.TabIndex = 4
-        Me.GroupBox173.TabStop = false
-        Me.GroupBox173.Text = "Placa Simple"
-        Me.ToolTip1.SetToolTip(Me.GroupBox173, "Fluencia por cortante:"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AISC 360-10, J4.2(a)"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"Ruptura por cortante:"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AISC 360-10,"& _ 
-        " J4.2(b)")
-        '
-        'PictureBox445
-        '
-        Me.PictureBox445.Image = Global.WindowsApplication1.My.Resources.Resources.Rublancoigual
-        Me.PictureBox445.Location = New System.Drawing.Point(36, 45)
-        Me.PictureBox445.Name = "PictureBox445"
-        Me.PictureBox445.Size = New System.Drawing.Size(38, 14)
-        Me.PictureBox445.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
-        Me.PictureBox445.TabIndex = 75
-        Me.PictureBox445.TabStop = false
-        '
-        'Label956
-        '
-        Me.Label956.AutoSize = true
-        Me.Label956.Location = New System.Drawing.Point(74, 46)
-        Me.Label956.Name = "Label956"
-        Me.Label956.Size = New System.Drawing.Size(51, 13)
-        Me.Label956.TabIndex = 20
-        Me.Label956.Text = "Label956"
-        '
-        'Label958
-        '
-        Me.Label958.AutoSize = true
-        Me.Label958.Location = New System.Drawing.Point(20, 22)
-        Me.Label958.Name = "Label958"
-        Me.Label958.Size = New System.Drawing.Size(85, 13)
-        Me.Label958.TabIndex = 18
-        Me.Label958.Text = "Carga requerida:"
-        '
-        'Label931
-        '
-        Me.Label931.AutoSize = true
-        Me.Label931.Location = New System.Drawing.Point(106, 97)
-        Me.Label931.Name = "Label931"
-        Me.Label931.Size = New System.Drawing.Size(51, 13)
-        Me.Label931.TabIndex = 16
-        Me.Label931.Text = "Label931"
-        '
-        'PictureBox335
-        '
-        Me.PictureBox335.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
-        Me.PictureBox335.Location = New System.Drawing.Point(53, 97)
-        Me.PictureBox335.Name = "PictureBox335"
-        Me.PictureBox335.Size = New System.Drawing.Size(48, 14)
-        Me.PictureBox335.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
-        Me.PictureBox335.TabIndex = 17
-        Me.PictureBox335.TabStop = false
-        '
-        'Label932
-        '
-        Me.Label932.AutoSize = true
-        Me.Label932.Location = New System.Drawing.Point(25, 69)
-        Me.Label932.Name = "Label932"
-        Me.Label932.Size = New System.Drawing.Size(110, 13)
-        Me.Label932.TabIndex = 15
-        Me.Label932.Text = "Fluencia por cortante:"
-        '
-        'Label933
-        '
-        Me.Label933.AutoSize = true
-        Me.Label933.Location = New System.Drawing.Point(106, 151)
-        Me.Label933.Name = "Label933"
-        Me.Label933.Size = New System.Drawing.Size(51, 13)
-        Me.Label933.TabIndex = 5
-        Me.Label933.Text = "Label933"
-        '
-        'PictureBox336
-        '
-        Me.PictureBox336.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
-        Me.PictureBox336.Location = New System.Drawing.Point(53, 151)
-        Me.PictureBox336.Name = "PictureBox336"
-        Me.PictureBox336.Size = New System.Drawing.Size(48, 14)
-        Me.PictureBox336.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
-        Me.PictureBox336.TabIndex = 14
-        Me.PictureBox336.TabStop = false
-        '
-        'Label934
-        '
-        Me.Label934.AutoSize = true
-        Me.Label934.Location = New System.Drawing.Point(25, 123)
-        Me.Label934.Name = "Label934"
-        Me.Label934.Size = New System.Drawing.Size(108, 13)
-        Me.Label934.TabIndex = 0
-        Me.Label934.Text = "Ruptura por cortante:"
-        '
-        'Label935
-        '
-        Me.Label935.AutoSize = true
-        Me.Label935.Location = New System.Drawing.Point(52, 303)
-        Me.Label935.Name = "Label935"
-        Me.Label935.Size = New System.Drawing.Size(173, 13)
-        Me.Label935.TabIndex = 3
-        Me.Label935.Text = "Cargas controlantes en la conexión"
-        '
-        'Label936
-        '
-        Me.Label936.AutoSize = true
-        Me.Label936.Location = New System.Drawing.Point(177, 125)
-        Me.Label936.Name = "Label936"
-        Me.Label936.Size = New System.Drawing.Size(51, 13)
-        Me.Label936.TabIndex = 2
-        Me.Label936.Text = "Label936"
-        '
-        'Label937
-        '
-        Me.Label937.AutoSize = true
-        Me.Label937.Location = New System.Drawing.Point(114, 163)
-        Me.Label937.Name = "Label937"
-        Me.Label937.Size = New System.Drawing.Size(51, 13)
-        Me.Label937.TabIndex = 1
-        Me.Label937.Text = "Label937"
-        '
-        'PictureBox337
-        '
-        Me.PictureBox337.Image = Global.WindowsApplication1.My.Resources.Resources.CargasPSi
-        Me.PictureBox337.Location = New System.Drawing.Point(13, 46)
-        Me.PictureBox337.Name = "PictureBox337"
-        Me.PictureBox337.Size = New System.Drawing.Size(250, 250)
-        Me.PictureBox337.TabIndex = 0
-        Me.PictureBox337.TabStop = false
-        Me.ToolTip1.SetToolTip(Me.PictureBox337, "AISC Manual, Pt. 13")
-        '
-        'GroupBox166
-        '
-        Me.GroupBox166.Controls.Add(Me.Label941)
-        Me.GroupBox166.Controls.Add(Me.GroupBox167)
-        Me.GroupBox166.Controls.Add(Me.GroupBox168)
-        Me.GroupBox166.Controls.Add(Me.GroupBox169)
-        Me.GroupBox166.Controls.Add(Me.Label915)
-        Me.GroupBox166.Controls.Add(Me.Label916)
-        Me.GroupBox166.Controls.Add(Me.Label917)
-        Me.GroupBox166.Controls.Add(Me.PictureBox332)
-        Me.GroupBox166.ForeColor = System.Drawing.Color.White
-        Me.GroupBox166.Location = New System.Drawing.Point(6, 1109)
-        Me.GroupBox166.Name = "GroupBox166"
-        Me.GroupBox166.Size = New System.Drawing.Size(930, 375)
-        Me.GroupBox166.TabIndex = 3
-        Me.GroupBox166.TabStop = false
-        Me.GroupBox166.Text = "Conexión entre la placa gusset y el patín de la viga"
-        '
-        'Label941
-        '
-        Me.Label941.AutoSize = true
-        Me.Label941.Location = New System.Drawing.Point(74, 146)
-        Me.Label941.Name = "Label941"
-        Me.Label941.Size = New System.Drawing.Size(51, 13)
-        Me.Label941.TabIndex = 7
-        Me.Label941.Text = "Label941"
-        '
-        'GroupBox167
-        '
-        Me.GroupBox167.Controls.Add(Me.PictureBox438)
-        Me.GroupBox167.Controls.Add(Me.Label950)
-        Me.GroupBox167.Controls.Add(Me.Label952)
-        Me.GroupBox167.Controls.Add(Me.Label898)
-        Me.GroupBox167.Controls.Add(Me.PictureBox328)
-        Me.GroupBox167.Controls.Add(Me.Label899)
-        Me.GroupBox167.Controls.Add(Me.Label900)
-        Me.GroupBox167.Controls.Add(Me.PictureBox329)
-        Me.GroupBox167.Controls.Add(Me.Label901)
-        Me.GroupBox167.ForeColor = System.Drawing.Color.White
-        Me.GroupBox167.Location = New System.Drawing.Point(478, 20)
-        Me.GroupBox167.Name = "GroupBox167"
-        Me.GroupBox167.Size = New System.Drawing.Size(220, 202)
-        Me.GroupBox167.TabIndex = 6
-        Me.GroupBox167.TabStop = false
-        Me.GroupBox167.Text = "Viga"
-        Me.ToolTip1.SetToolTip(Me.GroupBox167, "AISC 360-10, J10.2"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AISC 360-10, J10.3")
-        '
-        'PictureBox438
-        '
-        Me.PictureBox438.Image = Global.WindowsApplication1.My.Resources.Resources.Rublancoigual
-        Me.PictureBox438.Location = New System.Drawing.Point(46, 47)
-        Me.PictureBox438.Name = "PictureBox438"
-        Me.PictureBox438.Size = New System.Drawing.Size(38, 14)
-        Me.PictureBox438.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
-        Me.PictureBox438.TabIndex = 74
-        Me.PictureBox438.TabStop = false
-        '
-        'Label950
-        '
-        Me.Label950.AutoSize = true
-        Me.Label950.Location = New System.Drawing.Point(87, 47)
-        Me.Label950.Name = "Label950"
-        Me.Label950.Size = New System.Drawing.Size(51, 13)
-        Me.Label950.TabIndex = 22
-        Me.Label950.Text = "Label950"
-        '
-        'Label952
-        '
-        Me.Label952.AutoSize = true
-        Me.Label952.Location = New System.Drawing.Point(18, 24)
-        Me.Label952.Name = "Label952"
-        Me.Label952.Size = New System.Drawing.Size(85, 13)
-        Me.Label952.TabIndex = 20
-        Me.Label952.Text = "Carga requerida:"
-        '
-        'Label898
-        '
-        Me.Label898.AutoSize = true
-        Me.Label898.Location = New System.Drawing.Point(110, 158)
-        Me.Label898.Name = "Label898"
-        Me.Label898.Size = New System.Drawing.Size(51, 13)
-        Me.Label898.TabIndex = 18
-        Me.Label898.Text = "Label898"
-        '
-        'PictureBox328
-        '
-        Me.PictureBox328.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
-        Me.PictureBox328.Location = New System.Drawing.Point(61, 158)
-        Me.PictureBox328.Name = "PictureBox328"
-        Me.PictureBox328.Size = New System.Drawing.Size(48, 14)
-        Me.PictureBox328.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
-        Me.PictureBox328.TabIndex = 19
-        Me.PictureBox328.TabStop = false
-        '
-        'Label899
-        '
-        Me.Label899.AutoSize = true
-        Me.Label899.Location = New System.Drawing.Point(19, 130)
-        Me.Label899.Name = "Label899"
-        Me.Label899.Size = New System.Drawing.Size(143, 13)
-        Me.Label899.TabIndex = 17
-        Me.Label899.Text = "Aplastamiento local del alma:"
-        '
-        'Label900
-        '
-        Me.Label900.AutoSize = true
-        Me.Label900.Location = New System.Drawing.Point(110, 100)
-        Me.Label900.Name = "Label900"
-        Me.Label900.Size = New System.Drawing.Size(51, 13)
-        Me.Label900.TabIndex = 15
-        Me.Label900.Text = "Label900"
-        '
-        'PictureBox329
-        '
-        Me.PictureBox329.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
-        Me.PictureBox329.Location = New System.Drawing.Point(60, 100)
-        Me.PictureBox329.Name = "PictureBox329"
-        Me.PictureBox329.Size = New System.Drawing.Size(48, 14)
-        Me.PictureBox329.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
-        Me.PictureBox329.TabIndex = 16
-        Me.PictureBox329.TabStop = false
-        '
-        'Label901
-        '
-        Me.Label901.AutoSize = true
-        Me.Label901.Location = New System.Drawing.Point(22, 75)
-        Me.Label901.Name = "Label901"
-        Me.Label901.Size = New System.Drawing.Size(117, 13)
-        Me.Label901.TabIndex = 0
-        Me.Label901.Text = "Fluencia local del alma:"
-        '
-        'GroupBox168
-        '
-        Me.GroupBox168.Controls.Add(Me.PictureBox447)
-        Me.GroupBox168.Controls.Add(Me.PictureBox429)
-        Me.GroupBox168.Controls.Add(Me.Label902)
-        Me.GroupBox168.Controls.Add(Me.Label903)
-        Me.GroupBox168.Controls.Add(Me.Label906)
-        Me.GroupBox168.Controls.Add(Me.Label907)
-        Me.GroupBox168.Controls.Add(Me.Label908)
-        Me.GroupBox168.Controls.Add(Me.TextBox279)
-        Me.GroupBox168.Controls.Add(Me.Label909)
-        Me.GroupBox168.Controls.Add(Me.Label910)
-        Me.GroupBox168.ForeColor = System.Drawing.Color.White
-        Me.GroupBox168.Location = New System.Drawing.Point(272, 20)
-        Me.GroupBox168.Name = "GroupBox168"
-        Me.GroupBox168.Size = New System.Drawing.Size(200, 199)
-        Me.GroupBox168.TabIndex = 5
-        Me.GroupBox168.TabStop = false
-        Me.GroupBox168.Text = "Soldadura"
-        Me.ToolTip1.SetToolTip(Me.GroupBox168, "Diseño de la soldadura: "&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AICS 360-10, J2.4")
-        '
-        'PictureBox447
-        '
-        Me.PictureBox447.Image = Global.WindowsApplication1.My.Resources.Resources.Lweldblancoigual
-        Me.PictureBox447.Location = New System.Drawing.Point(29, 100)
-        Me.PictureBox447.Name = "PictureBox447"
-        Me.PictureBox447.Size = New System.Drawing.Size(57, 15)
-        Me.PictureBox447.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
-        Me.PictureBox447.TabIndex = 75
-        Me.PictureBox447.TabStop = false
-        '
-        'PictureBox429
-        '
-        Me.PictureBox429.Image = Global.WindowsApplication1.My.Resources.Resources.Rublancoigual
-        Me.PictureBox429.Location = New System.Drawing.Point(25, 50)
-        Me.PictureBox429.Name = "PictureBox429"
-        Me.PictureBox429.Size = New System.Drawing.Size(38, 14)
-        Me.PictureBox429.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
-        Me.PictureBox429.TabIndex = 74
-        Me.PictureBox429.TabStop = false
-        '
-        'Label902
-        '
-        Me.Label902.AutoSize = true
-        Me.Label902.Location = New System.Drawing.Point(88, 101)
-        Me.Label902.Name = "Label902"
-        Me.Label902.Size = New System.Drawing.Size(51, 13)
-        Me.Label902.TabIndex = 16
-        Me.Label902.Text = "Label902"
-        '
-        'Label903
-        '
-        Me.Label903.AutoSize = true
-        Me.Label903.Location = New System.Drawing.Point(62, 50)
-        Me.Label903.Name = "Label903"
-        Me.Label903.Size = New System.Drawing.Size(51, 13)
-        Me.Label903.TabIndex = 10
-        Me.Label903.Text = "Label903"
-        '
-        'Label906
-        '
-        Me.Label906.AutoSize = true
-        Me.Label906.Location = New System.Drawing.Point(13, 26)
-        Me.Label906.Name = "Label906"
-        Me.Label906.Size = New System.Drawing.Size(85, 13)
-        Me.Label906.TabIndex = 8
-        Me.Label906.Text = "Carga requerida:"
-        '
-        'Label907
-        '
-        Me.Label907.AutoSize = true
-        Me.Label907.Location = New System.Drawing.Point(99, 159)
-        Me.Label907.Name = "Label907"
-        Me.Label907.Size = New System.Drawing.Size(51, 13)
-        Me.Label907.TabIndex = 7
-        Me.Label907.Text = "Label907"
-        '
-        'Label908
-        '
-        Me.Label908.AutoSize = true
-        Me.Label908.Location = New System.Drawing.Point(13, 75)
-        Me.Label908.Name = "Label908"
-        Me.Label908.Size = New System.Drawing.Size(126, 13)
-        Me.Label908.TabIndex = 14
-        Me.Label908.Text = "Longitud de la soldadura:"
-        '
-        'TextBox279
-        '
-        Me.TextBox279.Location = New System.Drawing.Point(63, 155)
-        Me.TextBox279.Name = "TextBox279"
-        Me.TextBox279.Size = New System.Drawing.Size(35, 20)
-        Me.TextBox279.TabIndex = 6
-        '
-        'Label909
-        '
-        Me.Label909.AutoSize = true
-        Me.Label909.Location = New System.Drawing.Point(41, 158)
-        Me.Label909.Name = "Label909"
-        Me.Label909.Size = New System.Drawing.Size(21, 13)
-        Me.Label909.TabIndex = 5
-        Me.Label909.Text = "D="
-        '
-        'Label910
-        '
-        Me.Label910.AutoSize = true
-        Me.Label910.Location = New System.Drawing.Point(13, 129)
-        Me.Label910.Name = "Label910"
-        Me.Label910.Size = New System.Drawing.Size(173, 13)
-        Me.Label910.TabIndex = 4
-        Me.Label910.Text = "Pulgadas de soldadura propuestas:"
-        '
-        'GroupBox169
-        '
-        Me.GroupBox169.Controls.Add(Me.PictureBox443)
-        Me.GroupBox169.Controls.Add(Me.PictureBox442)
-        Me.GroupBox169.Controls.Add(Me.Label881)
-        Me.GroupBox169.Controls.Add(Me.Label888)
-        Me.GroupBox169.Controls.Add(Me.Label953)
-        Me.GroupBox169.Controls.Add(Me.Label955)
-        Me.GroupBox169.Controls.Add(Me.Label911)
-        Me.GroupBox169.Controls.Add(Me.PictureBox330)
-        Me.GroupBox169.Controls.Add(Me.Label912)
-        Me.GroupBox169.Controls.Add(Me.Label913)
-        Me.GroupBox169.Controls.Add(Me.PictureBox331)
-        Me.GroupBox169.Controls.Add(Me.Label914)
-        Me.GroupBox169.ForeColor = System.Drawing.Color.White
-        Me.GroupBox169.Location = New System.Drawing.Point(704, 20)
-        Me.GroupBox169.Name = "GroupBox169"
-        Me.GroupBox169.Size = New System.Drawing.Size(220, 255)
-        Me.GroupBox169.TabIndex = 4
-        Me.GroupBox169.TabStop = false
-        Me.GroupBox169.Text = "Placa Gusset"
-        Me.ToolTip1.SetToolTip(Me.GroupBox169, "AISC 360-10, J4.1"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AISC 360-10, J4.2")
-        '
-        'PictureBox443
-        '
-        Me.PictureBox443.Image = Global.WindowsApplication1.My.Resources.Resources.Rublancoigual
-        Me.PictureBox443.Location = New System.Drawing.Point(33, 162)
-        Me.PictureBox443.Name = "PictureBox443"
-        Me.PictureBox443.Size = New System.Drawing.Size(38, 14)
-        Me.PictureBox443.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
-        Me.PictureBox443.TabIndex = 76
-        Me.PictureBox443.TabStop = false
-        '
-        'PictureBox442
-        '
-        Me.PictureBox442.Image = Global.WindowsApplication1.My.Resources.Resources.Rublancoigual
-        Me.PictureBox442.Location = New System.Drawing.Point(33, 48)
-        Me.PictureBox442.Name = "PictureBox442"
-        Me.PictureBox442.Size = New System.Drawing.Size(38, 14)
-        Me.PictureBox442.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
-        Me.PictureBox442.TabIndex = 75
-        Me.PictureBox442.TabStop = false
-        '
-        'Label881
-        '
-        Me.Label881.AutoSize = true
-        Me.Label881.Location = New System.Drawing.Point(73, 162)
-        Me.Label881.Name = "Label881"
-        Me.Label881.Size = New System.Drawing.Size(51, 13)
-        Me.Label881.TabIndex = 23
-        Me.Label881.Text = "Label881"
-        '
-        'Label888
-        '
-        Me.Label888.AutoSize = true
-        Me.Label888.Location = New System.Drawing.Point(20, 133)
-        Me.Label888.Name = "Label888"
-        Me.Label888.Size = New System.Drawing.Size(142, 13)
-        Me.Label888.TabIndex = 21
-        Me.Label888.Text = "Carga de cortante requerida:"
-        '
-        'Label953
-        '
-        Me.Label953.AutoSize = true
-        Me.Label953.Location = New System.Drawing.Point(73, 49)
-        Me.Label953.Name = "Label953"
-        Me.Label953.Size = New System.Drawing.Size(51, 13)
-        Me.Label953.TabIndex = 20
-        Me.Label953.Text = "Label953"
-        '
-        'Label955
-        '
-        Me.Label955.AutoSize = true
-        Me.Label955.Location = New System.Drawing.Point(20, 23)
-        Me.Label955.Name = "Label955"
-        Me.Label955.Size = New System.Drawing.Size(137, 13)
-        Me.Label955.TabIndex = 18
-        Me.Label955.Text = "Carga de tensión requerida:"
-        '
-        'Label911
-        '
-        Me.Label911.AutoSize = true
-        Me.Label911.Location = New System.Drawing.Point(119, 219)
-        Me.Label911.Name = "Label911"
-        Me.Label911.Size = New System.Drawing.Size(51, 13)
-        Me.Label911.TabIndex = 16
-        Me.Label911.Text = "Label911"
-        '
-        'PictureBox330
-        '
-        Me.PictureBox330.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
-        Me.PictureBox330.Location = New System.Drawing.Point(66, 219)
-        Me.PictureBox330.Name = "PictureBox330"
-        Me.PictureBox330.Size = New System.Drawing.Size(48, 14)
-        Me.PictureBox330.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
-        Me.PictureBox330.TabIndex = 17
-        Me.PictureBox330.TabStop = false
-        '
-        'Label912
-        '
-        Me.Label912.AutoSize = true
-        Me.Label912.Location = New System.Drawing.Point(38, 193)
-        Me.Label912.Name = "Label912"
-        Me.Label912.Size = New System.Drawing.Size(168, 13)
-        Me.Label912.TabIndex = 15
-        Me.Label912.Text = "Resistencia disponible al cortante:"
-        '
-        'Label913
-        '
-        Me.Label913.AutoSize = true
-        Me.Label913.Location = New System.Drawing.Point(119, 104)
-        Me.Label913.Name = "Label913"
-        Me.Label913.Size = New System.Drawing.Size(51, 13)
-        Me.Label913.TabIndex = 5
-        Me.Label913.Text = "Label913"
-        '
-        'PictureBox331
-        '
-        Me.PictureBox331.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
-        Me.PictureBox331.Location = New System.Drawing.Point(66, 104)
-        Me.PictureBox331.Name = "PictureBox331"
-        Me.PictureBox331.Size = New System.Drawing.Size(48, 14)
-        Me.PictureBox331.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
-        Me.PictureBox331.TabIndex = 14
-        Me.PictureBox331.TabStop = false
-        '
-        'Label914
-        '
-        Me.Label914.AutoSize = true
-        Me.Label914.Location = New System.Drawing.Point(38, 76)
-        Me.Label914.Name = "Label914"
-        Me.Label914.Size = New System.Drawing.Size(172, 13)
-        Me.Label914.TabIndex = 0
-        Me.Label914.Text = "Resistencia disponible a la tensión:"
-        '
-        'Label915
-        '
-        Me.Label915.AutoSize = true
-        Me.Label915.Location = New System.Drawing.Point(51, 303)
-        Me.Label915.Name = "Label915"
-        Me.Label915.Size = New System.Drawing.Size(173, 13)
-        Me.Label915.TabIndex = 3
-        Me.Label915.Text = "Cargas controlantes en la conexión"
-        '
-        'Label916
-        '
-        Me.Label916.AutoSize = true
-        Me.Label916.Location = New System.Drawing.Point(137, 70)
-        Me.Label916.Name = "Label916"
-        Me.Label916.Size = New System.Drawing.Size(51, 13)
-        Me.Label916.TabIndex = 2
-        Me.Label916.Text = "Label916"
-        '
-        'Label917
-        '
-        Me.Label917.AutoSize = true
-        Me.Label917.Location = New System.Drawing.Point(215, 117)
-        Me.Label917.Name = "Label917"
-        Me.Label917.Size = New System.Drawing.Size(51, 13)
-        Me.Label917.TabIndex = 1
-        Me.Label917.Text = "Label917"
-        '
-        'PictureBox332
-        '
-        Me.PictureBox332.Image = Global.WindowsApplication1.My.Resources.Resources.CargasGB6i
-        Me.PictureBox332.Location = New System.Drawing.Point(12, 46)
-        Me.PictureBox332.Name = "PictureBox332"
-        Me.PictureBox332.Size = New System.Drawing.Size(250, 250)
-        Me.PictureBox332.TabIndex = 0
-        Me.PictureBox332.TabStop = false
-        Me.ToolTip1.SetToolTip(Me.PictureBox332, "AISC Manual, Pt. 13")
-        '
-        'GroupBox162
-        '
-        Me.GroupBox162.Controls.Add(Me.GroupBox165)
-        Me.GroupBox162.Controls.Add(Me.Label947)
-        Me.GroupBox162.Controls.Add(Me.Label946)
-        Me.GroupBox162.Controls.Add(Me.Label871)
-        Me.GroupBox162.Controls.Add(Me.PictureBox320)
-        Me.GroupBox162.Controls.Add(Me.GroupBox163)
-        Me.GroupBox162.Controls.Add(Me.GroupBox164)
-        Me.GroupBox162.Controls.Add(Me.Label879)
-        Me.GroupBox162.Controls.Add(Me.Label894)
-        Me.GroupBox162.Controls.Add(Me.Label895)
-        Me.GroupBox162.Controls.Add(Me.Label896)
-        Me.GroupBox162.Controls.Add(Me.Label897)
-        Me.GroupBox162.Controls.Add(Me.PictureBox327)
-        Me.GroupBox162.ForeColor = System.Drawing.Color.White
-        Me.GroupBox162.Location = New System.Drawing.Point(6, 564)
-        Me.GroupBox162.Name = "GroupBox162"
-        Me.GroupBox162.Size = New System.Drawing.Size(930, 540)
-        Me.GroupBox162.TabIndex = 2
-        Me.GroupBox162.TabStop = false
-        Me.GroupBox162.Text = "Conexión entre el alma de la viga y la placa simple"
-        '
-        'GroupBox165
-        '
-        Me.GroupBox165.Controls.Add(Me.Label863)
-        Me.GroupBox165.Controls.Add(Me.Label857)
-        Me.GroupBox165.Controls.Add(Me.Label890)
-        Me.GroupBox165.Controls.Add(Me.TextBox278)
-        Me.GroupBox165.Controls.Add(Me.Label891)
-        Me.GroupBox165.Controls.Add(Me.Label892)
-        Me.GroupBox165.Controls.Add(Me.Label893)
-        Me.GroupBox165.Controls.Add(Me.Label944)
-        Me.GroupBox165.Controls.Add(Me.Label945)
-        Me.GroupBox165.Controls.Add(Me.TextBox289)
-        Me.GroupBox165.Controls.Add(Me.Label962)
-        Me.GroupBox165.Controls.Add(Me.Label963)
-        Me.GroupBox165.ForeColor = System.Drawing.Color.White
-        Me.GroupBox165.Location = New System.Drawing.Point(272, 20)
-        Me.GroupBox165.Name = "GroupBox165"
-        Me.GroupBox165.Size = New System.Drawing.Size(200, 175)
-        Me.GroupBox165.TabIndex = 30
-        Me.GroupBox165.TabStop = false
-        Me.GroupBox165.Text = "Pernos"
-        Me.ToolTip1.SetToolTip(Me.GroupBox165, "Tipo de pernos:"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AISC 360-10, Tabla J3.2"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"Diámetros:"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AISC 360-10, Tabla J3.3"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"Di"& _ 
-        "stancia al borde mínima:"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AISC 360-10, Tabla J3.4")
-        '
-        'Label863
-        '
-        Me.Label863.AutoSize = true
-        Me.Label863.Location = New System.Drawing.Point(91, 80)
-        Me.Label863.Name = "Label863"
-        Me.Label863.Size = New System.Drawing.Size(51, 13)
-        Me.Label863.TabIndex = 20
-        Me.Label863.Text = "Label863"
-        '
-        'Label857
-        '
-        Me.Label857.AutoSize = true
-        Me.Label857.Location = New System.Drawing.Point(91, 54)
-        Me.Label857.Name = "Label857"
-        Me.Label857.Size = New System.Drawing.Size(51, 13)
-        Me.Label857.TabIndex = 19
-        Me.Label857.Text = "Label857"
-        '
-        'Label890
-        '
-        Me.Label890.AutoSize = true
-        Me.Label890.Location = New System.Drawing.Point(135, 133)
-        Me.Label890.Name = "Label890"
-        Me.Label890.Size = New System.Drawing.Size(51, 13)
-        Me.Label890.TabIndex = 18
-        Me.Label890.Text = "Label890"
-        '
-        'TextBox278
-        '
-        Me.TextBox278.Location = New System.Drawing.Point(94, 129)
-        Me.TextBox278.Name = "TextBox278"
-        Me.TextBox278.Size = New System.Drawing.Size(40, 20)
-        Me.TextBox278.TabIndex = 17
-        '
-        'Label891
-        '
-        Me.Label891.AutoSize = true
-        Me.Label891.Location = New System.Drawing.Point(12, 133)
-        Me.Label891.Name = "Label891"
-        Me.Label891.Size = New System.Drawing.Size(79, 13)
-        Me.Label891.TabIndex = 16
-        Me.Label891.Text = "Espaciamiento:"
-        '
-        'Label892
-        '
-        Me.Label892.AutoSize = true
-        Me.Label892.Location = New System.Drawing.Point(91, 26)
-        Me.Label892.Name = "Label892"
-        Me.Label892.Size = New System.Drawing.Size(51, 13)
-        Me.Label892.TabIndex = 13
-        Me.Label892.Text = "Label892"
-        '
-        'Label893
-        '
-        Me.Label893.AutoSize = true
-        Me.Label893.Location = New System.Drawing.Point(53, 26)
-        Me.Label893.Name = "Label893"
-        Me.Label893.Size = New System.Drawing.Size(38, 13)
-        Me.Label893.TabIndex = 12
-        Me.Label893.Text = "Carga:"
-        '
-        'Label944
-        '
-        Me.Label944.AutoSize = true
-        Me.Label944.Location = New System.Drawing.Point(135, 107)
-        Me.Label944.Name = "Label944"
-        Me.Label944.Size = New System.Drawing.Size(51, 13)
-        Me.Label944.TabIndex = 11
-        Me.Label944.Text = "Label944"
-        '
-        'Label945
-        '
-        Me.Label945.AutoSize = true
-        Me.Label945.Location = New System.Drawing.Point(15, 53)
-        Me.Label945.Name = "Label945"
-        Me.Label945.Size = New System.Drawing.Size(76, 13)
-        Me.Label945.TabIndex = 5
-        Me.Label945.Text = "Tipo de perno:"
-        '
-        'TextBox289
-        '
-        Me.TextBox289.Location = New System.Drawing.Point(94, 103)
-        Me.TextBox289.Name = "TextBox289"
-        Me.TextBox289.Size = New System.Drawing.Size(40, 20)
-        Me.TextBox289.TabIndex = 10
-        '
-        'Label962
-        '
-        Me.Label962.AutoSize = true
-        Me.Label962.Location = New System.Drawing.Point(39, 80)
-        Me.Label962.Name = "Label962"
-        Me.Label962.Size = New System.Drawing.Size(52, 13)
-        Me.Label962.TabIndex = 6
-        Me.Label962.Text = "Diámetro:"
-        '
-        'Label963
-        '
-        Me.Label963.AutoSize = true
-        Me.Label963.Location = New System.Drawing.Point(39, 107)
-        Me.Label963.Name = "Label963"
-        Me.Label963.Size = New System.Drawing.Size(52, 13)
-        Me.Label963.TabIndex = 7
-        Me.Label963.Text = "Cantidad:"
-        '
-        'Label947
-        '
-        Me.Label947.AutoSize = true
-        Me.Label947.Location = New System.Drawing.Point(379, 361)
-        Me.Label947.Name = "Label947"
-        Me.Label947.Size = New System.Drawing.Size(51, 13)
-        Me.Label947.TabIndex = 29
-        Me.Label947.Text = "Label947"
-        '
-        'Label946
-        '
-        Me.Label946.AutoSize = true
-        Me.Label946.Location = New System.Drawing.Point(246, 400)
-        Me.Label946.Name = "Label946"
-        Me.Label946.Size = New System.Drawing.Size(51, 13)
-        Me.Label946.TabIndex = 28
-        Me.Label946.Text = "Label946"
-        '
-        'Label871
-        '
-        Me.Label871.AutoSize = true
-        Me.Label871.Location = New System.Drawing.Point(276, 500)
-        Me.Label871.Name = "Label871"
-        Me.Label871.Size = New System.Drawing.Size(40, 13)
-        Me.Label871.TabIndex = 26
-        Me.Label871.Text = "Cargas"
-        '
-        'PictureBox320
-        '
-        Me.PictureBox320.Image = Global.WindowsApplication1.My.Resources.Resources.CargasBC6
-        Me.PictureBox320.Location = New System.Drawing.Point(170, 234)
-        Me.PictureBox320.Name = "PictureBox320"
-        Me.PictureBox320.Size = New System.Drawing.Size(250, 250)
-        Me.PictureBox320.TabIndex = 15
-        Me.PictureBox320.TabStop = false
-        Me.ToolTip1.SetToolTip(Me.PictureBox320, "AISC Manual, Pt. 13")
-        '
-        'GroupBox163
-        '
-        Me.GroupBox163.Controls.Add(Me.PictureBox420)
-        Me.GroupBox163.Controls.Add(Me.PictureBox418)
-        Me.GroupBox163.Controls.Add(Me.PictureBox416)
-        Me.GroupBox163.Controls.Add(Me.PictureBox293)
-        Me.GroupBox163.Controls.Add(Me.Label873)
-        Me.GroupBox163.Controls.Add(Me.Label877)
-        Me.GroupBox163.Controls.Add(Me.Label1096)
-        Me.GroupBox163.Controls.Add(Me.Label1097)
-        Me.GroupBox163.Controls.Add(Me.Label1098)
-        Me.GroupBox163.Controls.Add(Me.Label1099)
-        Me.GroupBox163.Controls.Add(Me.Label1100)
-        Me.GroupBox163.Controls.Add(Me.Label1101)
-        Me.GroupBox163.Controls.Add(Me.PictureBox321)
-        Me.GroupBox163.Controls.Add(Me.PictureBox322)
-        Me.GroupBox163.Controls.Add(Me.Label874)
-        Me.GroupBox163.Controls.Add(Me.Label875)
-        Me.GroupBox163.Controls.Add(Me.Label878)
-        Me.GroupBox163.Controls.Add(Me.Label880)
-        Me.GroupBox163.ForeColor = System.Drawing.Color.White
-        Me.GroupBox163.Location = New System.Drawing.Point(474, 20)
-        Me.GroupBox163.Name = "GroupBox163"
-        Me.GroupBox163.Size = New System.Drawing.Size(220, 385)
-        Me.GroupBox163.TabIndex = 14
-        Me.GroupBox163.TabStop = false
-        Me.GroupBox163.Text = "Placa Simple"
-        Me.ToolTip1.SetToolTip(Me.GroupBox163, "Aplastamiento de los pernos:"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AISC 360-10, J3.10"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"Ruptura por bloque de cortante:"& _ 
-        ""&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AISC 360-10, J4.3")
-        '
-        'PictureBox420
-        '
-        Me.PictureBox420.Image = Global.WindowsApplication1.My.Resources.Resources.Rublancoigual
-        Me.PictureBox420.Location = New System.Drawing.Point(52, 286)
-        Me.PictureBox420.Name = "PictureBox420"
-        Me.PictureBox420.Size = New System.Drawing.Size(38, 14)
-        Me.PictureBox420.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
-        Me.PictureBox420.TabIndex = 73
-        Me.PictureBox420.TabStop = false
-        '
-        'PictureBox418
-        '
-        Me.PictureBox418.Image = Global.WindowsApplication1.My.Resources.Resources.Rublancoigual
-        Me.PictureBox418.Location = New System.Drawing.Point(52, 173)
-        Me.PictureBox418.Name = "PictureBox418"
-        Me.PictureBox418.Size = New System.Drawing.Size(38, 14)
-        Me.PictureBox418.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
-        Me.PictureBox418.TabIndex = 72
-        Me.PictureBox418.TabStop = false
-        '
-        'PictureBox416
-        '
-        Me.PictureBox416.Image = Global.WindowsApplication1.My.Resources.Resources.Rublancoigual
-        Me.PictureBox416.Location = New System.Drawing.Point(52, 55)
-        Me.PictureBox416.Name = "PictureBox416"
-        Me.PictureBox416.Size = New System.Drawing.Size(38, 14)
-        Me.PictureBox416.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
-        Me.PictureBox416.TabIndex = 71
-        Me.PictureBox416.TabStop = false
-        '
-        'PictureBox293
-        '
-        Me.PictureBox293.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
-        Me.PictureBox293.Location = New System.Drawing.Point(67, 121)
-        Me.PictureBox293.Name = "PictureBox293"
-        Me.PictureBox293.Size = New System.Drawing.Size(48, 14)
-        Me.PictureBox293.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
-        Me.PictureBox293.TabIndex = 57
-        Me.PictureBox293.TabStop = false
-        '
-        'Label873
-        '
-        Me.Label873.AutoSize = true
-        Me.Label873.Location = New System.Drawing.Point(91, 287)
-        Me.Label873.Name = "Label873"
-        Me.Label873.Size = New System.Drawing.Size(51, 13)
-        Me.Label873.TabIndex = 56
-        Me.Label873.Text = "Label873"
-        '
-        'Label877
-        '
-        Me.Label877.AutoSize = true
-        Me.Label877.Location = New System.Drawing.Point(10, 258)
-        Me.Label877.Name = "Label877"
-        Me.Label877.Size = New System.Drawing.Size(134, 13)
-        Me.Label877.TabIndex = 55
-        Me.Label877.Text = "Carga resultante requerida:"
-        '
-        'Label1096
-        '
-        Me.Label1096.Location = New System.Drawing.Point(28, 196)
-        Me.Label1096.Name = "Label1096"
-        Me.Label1096.Size = New System.Drawing.Size(175, 32)
-        Me.Label1096.TabIndex = 54
-        Me.Label1096.Text = "Resistencia disponible a la ruptura por bloque de cortante:"
-        '
-        'Label1097
-        '
-        Me.Label1097.AutoSize = true
-        Me.Label1097.Location = New System.Drawing.Point(91, 173)
-        Me.Label1097.Name = "Label1097"
-        Me.Label1097.Size = New System.Drawing.Size(57, 13)
-        Me.Label1097.TabIndex = 53
-        Me.Label1097.Text = "Label1097"
-        '
-        'Label1098
-        '
-        Me.Label1098.AutoSize = true
-        Me.Label1098.Location = New System.Drawing.Point(10, 146)
-        Me.Label1098.Name = "Label1098"
-        Me.Label1098.Size = New System.Drawing.Size(142, 13)
-        Me.Label1098.TabIndex = 52
-        Me.Label1098.Text = "Carga de cortante requerida:"
-        '
-        'Label1099
-        '
-        Me.Label1099.Location = New System.Drawing.Point(28, 81)
-        Me.Label1099.Name = "Label1099"
-        Me.Label1099.Size = New System.Drawing.Size(175, 32)
-        Me.Label1099.TabIndex = 51
-        Me.Label1099.Text = "Resistencia disponible a la ruptura por bloque de cortante:"
-        '
-        'Label1100
-        '
-        Me.Label1100.AutoSize = true
-        Me.Label1100.Location = New System.Drawing.Point(10, 26)
-        Me.Label1100.Name = "Label1100"
-        Me.Label1100.Size = New System.Drawing.Size(119, 13)
-        Me.Label1100.TabIndex = 50
-        Me.Label1100.Text = "Carga normal requerida:"
-        '
-        'Label1101
-        '
-        Me.Label1101.AutoSize = true
-        Me.Label1101.Location = New System.Drawing.Point(115, 121)
-        Me.Label1101.Name = "Label1101"
-        Me.Label1101.Size = New System.Drawing.Size(57, 13)
-        Me.Label1101.TabIndex = 49
-        Me.Label1101.Text = "Label1101"
-        '
-        'PictureBox321
-        '
-        Me.PictureBox321.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
-        Me.PictureBox321.Location = New System.Drawing.Point(67, 233)
-        Me.PictureBox321.Name = "PictureBox321"
-        Me.PictureBox321.Size = New System.Drawing.Size(48, 14)
-        Me.PictureBox321.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
-        Me.PictureBox321.TabIndex = 32
-        Me.PictureBox321.TabStop = false
-        '
-        'PictureBox322
-        '
-        Me.PictureBox322.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
-        Me.PictureBox322.Location = New System.Drawing.Point(84, 352)
-        Me.PictureBox322.Name = "PictureBox322"
-        Me.PictureBox322.Size = New System.Drawing.Size(48, 14)
-        Me.PictureBox322.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
-        Me.PictureBox322.TabIndex = 31
-        Me.PictureBox322.TabStop = false
-        '
-        'Label874
-        '
-        Me.Label874.AutoSize = true
-        Me.Label874.Location = New System.Drawing.Point(134, 353)
-        Me.Label874.Name = "Label874"
-        Me.Label874.Size = New System.Drawing.Size(51, 13)
-        Me.Label874.TabIndex = 22
-        Me.Label874.Text = "Label874"
-        '
-        'Label875
-        '
-        Me.Label875.Location = New System.Drawing.Point(28, 313)
-        Me.Label875.Name = "Label875"
-        Me.Label875.Size = New System.Drawing.Size(170, 29)
-        Me.Label875.TabIndex = 24
-        Me.Label875.Text = "Resistencia disponible al aplastamiento de los pernos:"
-        '
-        'Label878
-        '
-        Me.Label878.AutoSize = true
-        Me.Label878.Location = New System.Drawing.Point(91, 55)
-        Me.Label878.Name = "Label878"
-        Me.Label878.Size = New System.Drawing.Size(51, 13)
-        Me.Label878.TabIndex = 20
-        Me.Label878.Text = "Label878"
-        '
-        'Label880
-        '
-        Me.Label880.AutoSize = true
-        Me.Label880.Location = New System.Drawing.Point(115, 233)
-        Me.Label880.Name = "Label880"
-        Me.Label880.Size = New System.Drawing.Size(51, 13)
-        Me.Label880.TabIndex = 19
-        Me.Label880.Text = "Label880"
-        '
-        'GroupBox164
-        '
-        Me.GroupBox164.Controls.Add(Me.PictureBox423)
-        Me.GroupBox164.Controls.Add(Me.PictureBox422)
-        Me.GroupBox164.Controls.Add(Me.PictureBox421)
-        Me.GroupBox164.Controls.Add(Me.PictureBox285)
-        Me.GroupBox164.Controls.Add(Me.Label1094)
-        Me.GroupBox164.Controls.Add(Me.Label1092)
-        Me.GroupBox164.Controls.Add(Me.Label1093)
-        Me.GroupBox164.Controls.Add(Me.Label1089)
-        Me.GroupBox164.Controls.Add(Me.PictureBox315)
-        Me.GroupBox164.Controls.Add(Me.Label1091)
-        Me.GroupBox164.Controls.Add(Me.Label1087)
-        Me.GroupBox164.Controls.Add(Me.Label1088)
-        Me.GroupBox164.Controls.Add(Me.Label1090)
-        Me.GroupBox164.Controls.Add(Me.PictureBox314)
-        Me.GroupBox164.Controls.Add(Me.Label1085)
-        Me.GroupBox164.Controls.Add(Me.Label884)
-        Me.GroupBox164.Controls.Add(Me.PictureBox325)
-        Me.GroupBox164.Controls.Add(Me.Label885)
-        Me.GroupBox164.Controls.Add(Me.Label886)
-        Me.GroupBox164.Controls.Add(Me.Label887)
-        Me.GroupBox164.Controls.Add(Me.Label889)
-        Me.GroupBox164.ForeColor = System.Drawing.Color.White
-        Me.GroupBox164.Location = New System.Drawing.Point(700, 20)
-        Me.GroupBox164.Name = "GroupBox164"
-        Me.GroupBox164.Size = New System.Drawing.Size(220, 450)
-        Me.GroupBox164.TabIndex = 13
-        Me.GroupBox164.TabStop = false
-        Me.GroupBox164.Text = "Alma de la viga"
-        Me.ToolTip1.SetToolTip(Me.GroupBox164, "Resistencia a la fluencia:"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AISC 360-10, J4.1"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"Aplastamiento de los pernos:"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AISC"& _ 
-        " 360-10, J3.10"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"Ruptura por bloque de cortante:"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AISC 360-10, J4.3")
-        '
-        'PictureBox423
-        '
-        Me.PictureBox423.Image = Global.WindowsApplication1.My.Resources.Resources.Rublancoigual
-        Me.PictureBox423.Location = New System.Drawing.Point(53, 347)
-        Me.PictureBox423.Name = "PictureBox423"
-        Me.PictureBox423.Size = New System.Drawing.Size(38, 14)
-        Me.PictureBox423.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
-        Me.PictureBox423.TabIndex = 74
-        Me.PictureBox423.TabStop = false
-        '
-        'PictureBox422
-        '
-        Me.PictureBox422.Image = Global.WindowsApplication1.My.Resources.Resources.Rublancoigual
-        Me.PictureBox422.Location = New System.Drawing.Point(52, 173)
-        Me.PictureBox422.Name = "PictureBox422"
-        Me.PictureBox422.Size = New System.Drawing.Size(38, 14)
-        Me.PictureBox422.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
-        Me.PictureBox422.TabIndex = 73
-        Me.PictureBox422.TabStop = false
-        '
-        'PictureBox421
-        '
-        Me.PictureBox421.Image = Global.WindowsApplication1.My.Resources.Resources.Rublancoigual
-        Me.PictureBox421.Location = New System.Drawing.Point(52, 55)
-        Me.PictureBox421.Name = "PictureBox421"
-        Me.PictureBox421.Size = New System.Drawing.Size(38, 14)
-        Me.PictureBox421.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
-        Me.PictureBox421.TabIndex = 72
-        Me.PictureBox421.TabStop = false
-        '
-        'PictureBox285
-        '
-        Me.PictureBox285.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
-        Me.PictureBox285.Location = New System.Drawing.Point(65, 294)
-        Me.PictureBox285.Name = "PictureBox285"
-        Me.PictureBox285.Size = New System.Drawing.Size(48, 14)
-        Me.PictureBox285.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
-        Me.PictureBox285.TabIndex = 60
-        Me.PictureBox285.TabStop = false
-        '
-        'Label1094
-        '
-        Me.Label1094.AutoSize = true
-        Me.Label1094.Location = New System.Drawing.Point(91, 173)
-        Me.Label1094.Name = "Label1094"
-        Me.Label1094.Size = New System.Drawing.Size(57, 13)
-        Me.Label1094.TabIndex = 58
-        Me.Label1094.Text = "Label1094"
-        '
-        'Label1092
-        '
-        Me.Label1092.AutoSize = true
-        Me.Label1092.Location = New System.Drawing.Point(88, 347)
-        Me.Label1092.Name = "Label1092"
-        Me.Label1092.Size = New System.Drawing.Size(57, 13)
-        Me.Label1092.TabIndex = 57
-        Me.Label1092.Text = "Label1092"
-        '
-        'Label1093
-        '
-        Me.Label1093.AutoSize = true
-        Me.Label1093.Location = New System.Drawing.Point(10, 319)
-        Me.Label1093.Name = "Label1093"
-        Me.Label1093.Size = New System.Drawing.Size(134, 13)
-        Me.Label1093.TabIndex = 56
-        Me.Label1093.Text = "Carga resultante requerida:"
-        '
-        'Label1089
-        '
-        Me.Label1089.Location = New System.Drawing.Point(28, 196)
-        Me.Label1089.Name = "Label1089"
-        Me.Label1089.Size = New System.Drawing.Size(175, 27)
-        Me.Label1089.TabIndex = 55
-        Me.Label1089.Text = "Resistencia disponible a la fluencia por cortante:"
-        '
-        'PictureBox315
-        '
-        Me.PictureBox315.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
-        Me.PictureBox315.Location = New System.Drawing.Point(67, 233)
-        Me.PictureBox315.Name = "PictureBox315"
-        Me.PictureBox315.Size = New System.Drawing.Size(48, 14)
-        Me.PictureBox315.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
-        Me.PictureBox315.TabIndex = 54
-        Me.PictureBox315.TabStop = false
-        '
-        'Label1091
-        '
-        Me.Label1091.AutoSize = true
-        Me.Label1091.Location = New System.Drawing.Point(115, 233)
-        Me.Label1091.Name = "Label1091"
-        Me.Label1091.Size = New System.Drawing.Size(57, 13)
-        Me.Label1091.TabIndex = 53
-        Me.Label1091.Text = "Label1091"
-        '
-        'Label1087
-        '
-        Me.Label1087.AutoSize = true
-        Me.Label1087.Location = New System.Drawing.Point(115, 294)
-        Me.Label1087.Name = "Label1087"
-        Me.Label1087.Size = New System.Drawing.Size(57, 13)
-        Me.Label1087.TabIndex = 52
-        Me.Label1087.Text = "Label1087"
-        '
-        'Label1088
-        '
-        Me.Label1088.Location = New System.Drawing.Point(28, 258)
-        Me.Label1088.Name = "Label1088"
-        Me.Label1088.Size = New System.Drawing.Size(175, 32)
-        Me.Label1088.TabIndex = 51
-        Me.Label1088.Text = "Resistencia disponible a la ruptura por bloque de cortante:"
-        '
-        'Label1090
-        '
-        Me.Label1090.AutoSize = true
-        Me.Label1090.Location = New System.Drawing.Point(10, 146)
-        Me.Label1090.Name = "Label1090"
-        Me.Label1090.Size = New System.Drawing.Size(142, 13)
-        Me.Label1090.TabIndex = 49
-        Me.Label1090.Text = "Carga de cortante requerida:"
-        '
-        'PictureBox314
-        '
-        Me.PictureBox314.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
-        Me.PictureBox314.Location = New System.Drawing.Point(67, 121)
-        Me.PictureBox314.Name = "PictureBox314"
-        Me.PictureBox314.Size = New System.Drawing.Size(48, 14)
-        Me.PictureBox314.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
-        Me.PictureBox314.TabIndex = 33
-        Me.PictureBox314.TabStop = false
-        '
-        'Label1085
-        '
-        Me.Label1085.Location = New System.Drawing.Point(28, 81)
-        Me.Label1085.Name = "Label1085"
-        Me.Label1085.Size = New System.Drawing.Size(175, 32)
-        Me.Label1085.TabIndex = 31
-        Me.Label1085.Text = "Resistencia disponible a la ruptura por bloque de cortante:"
-        '
-        'Label884
-        '
-        Me.Label884.AutoSize = true
-        Me.Label884.Location = New System.Drawing.Point(10, 26)
-        Me.Label884.Name = "Label884"
-        Me.Label884.Size = New System.Drawing.Size(116, 13)
-        Me.Label884.TabIndex = 25
-        Me.Label884.Text = "Carga normal requerida"
-        '
-        'PictureBox325
-        '
-        Me.PictureBox325.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
-        Me.PictureBox325.Location = New System.Drawing.Point(65, 415)
-        Me.PictureBox325.Name = "PictureBox325"
-        Me.PictureBox325.Size = New System.Drawing.Size(48, 14)
-        Me.PictureBox325.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
-        Me.PictureBox325.TabIndex = 24
-        Me.PictureBox325.TabStop = false
-        '
-        'Label885
-        '
-        Me.Label885.AutoSize = true
-        Me.Label885.Location = New System.Drawing.Point(115, 121)
-        Me.Label885.Name = "Label885"
-        Me.Label885.Size = New System.Drawing.Size(51, 13)
-        Me.Label885.TabIndex = 21
-        Me.Label885.Text = "Label885"
-        '
-        'Label886
-        '
-        Me.Label886.Location = New System.Drawing.Point(29, 372)
-        Me.Label886.Name = "Label886"
-        Me.Label886.Size = New System.Drawing.Size(154, 31)
-        Me.Label886.TabIndex = 21
-        Me.Label886.Text = "Resistencia disponible al aplastamiento de los pernos:"
-        '
-        'Label887
-        '
-        Me.Label887.AutoSize = true
-        Me.Label887.Location = New System.Drawing.Point(115, 416)
-        Me.Label887.Name = "Label887"
-        Me.Label887.Size = New System.Drawing.Size(51, 13)
-        Me.Label887.TabIndex = 18
-        Me.Label887.Text = "Label887"
-        '
-        'Label889
-        '
-        Me.Label889.AutoSize = true
-        Me.Label889.Location = New System.Drawing.Point(91, 55)
-        Me.Label889.Name = "Label889"
-        Me.Label889.Size = New System.Drawing.Size(51, 13)
-        Me.Label889.TabIndex = 16
-        Me.Label889.Text = "Label889"
-        '
-        'Label879
-        '
-        Me.Label879.AutoSize = true
-        Me.Label879.Location = New System.Drawing.Point(50, 381)
-        Me.Label879.Name = "Label879"
-        Me.Label879.Size = New System.Drawing.Size(68, 13)
-        Me.Label879.TabIndex = 31
-        Me.Label879.Text = "Placa Simple"
-        '
-        'Label894
-        '
-        Me.Label894.AutoSize = true
-        Me.Label894.Location = New System.Drawing.Point(70, 344)
-        Me.Label894.Name = "Label894"
-        Me.Label894.Size = New System.Drawing.Size(51, 13)
-        Me.Label894.TabIndex = 4
-        Me.Label894.Text = "Label894"
-        '
-        'Label895
-        '
-        Me.Label895.AutoSize = true
-        Me.Label895.Location = New System.Drawing.Point(114, 297)
-        Me.Label895.Name = "Label895"
-        Me.Label895.Size = New System.Drawing.Size(51, 13)
-        Me.Label895.TabIndex = 3
-        Me.Label895.Text = "Label895"
-        '
-        'Label896
-        '
-        Me.Label896.AutoSize = true
-        Me.Label896.Location = New System.Drawing.Point(114, 236)
-        Me.Label896.Name = "Label896"
-        Me.Label896.Size = New System.Drawing.Size(51, 13)
-        Me.Label896.TabIndex = 2
-        Me.Label896.Text = "Label896"
-        '
-        'Label897
-        '
-        Me.Label897.AutoSize = true
-        Me.Label897.Location = New System.Drawing.Point(6, 187)
-        Me.Label897.Name = "Label897"
-        Me.Label897.Size = New System.Drawing.Size(51, 13)
-        Me.Label897.TabIndex = 1
-        Me.Label897.Text = "Label897"
-        '
-        'PictureBox327
-        '
-        Me.PictureBox327.Image = Global.WindowsApplication1.My.Resources.Resources.PSBC
-        Me.PictureBox327.Location = New System.Drawing.Point(32, 24)
-        Me.PictureBox327.Name = "PictureBox327"
-        Me.PictureBox327.Size = New System.Drawing.Size(100, 350)
-        Me.PictureBox327.TabIndex = 0
-        Me.PictureBox327.TabStop = false
-        '
-        'GroupBox158
-        '
-        Me.GroupBox158.Controls.Add(Me.Label876)
-        Me.GroupBox158.Controls.Add(Me.Label939)
-        Me.GroupBox158.Controls.Add(Me.Label949)
-        Me.GroupBox158.Controls.Add(Me.Label948)
-        Me.GroupBox158.Controls.Add(Me.GroupBox174)
-        Me.GroupBox158.Controls.Add(Me.Label870)
-        Me.GroupBox158.Controls.Add(Me.PictureBox312)
-        Me.GroupBox158.Controls.Add(Me.GroupBox161)
-        Me.GroupBox158.Controls.Add(Me.GroupBox160)
-        Me.GroupBox158.Controls.Add(Me.GroupBox159)
-        Me.GroupBox158.Controls.Add(Me.Label847)
-        Me.GroupBox158.Controls.Add(Me.Label846)
-        Me.GroupBox158.Controls.Add(Me.Label845)
-        Me.GroupBox158.Controls.Add(Me.Label844)
-        Me.GroupBox158.Controls.Add(Me.PictureBox316)
-        Me.GroupBox158.ForeColor = System.Drawing.Color.White
-        Me.GroupBox158.Location = New System.Drawing.Point(6, 4)
-        Me.GroupBox158.Name = "GroupBox158"
-        Me.GroupBox158.Size = New System.Drawing.Size(930, 554)
-        Me.GroupBox158.TabIndex = 1
-        Me.GroupBox158.TabStop = false
-        Me.GroupBox158.Text = "Conexión entre la placa gusset y la placa simple"
-        '
-        'Label876
-        '
-        Me.Label876.AutoSize = true
-        Me.Label876.Location = New System.Drawing.Point(63, 520)
-        Me.Label876.Name = "Label876"
-        Me.Label876.Size = New System.Drawing.Size(68, 13)
-        Me.Label876.TabIndex = 26
-        Me.Label876.Text = "Placa Simple"
-        '
-        'Label939
-        '
-        Me.Label939.AutoSize = true
-        Me.Label939.Location = New System.Drawing.Point(270, 275)
-        Me.Label939.Name = "Label939"
-        Me.Label939.Size = New System.Drawing.Size(51, 13)
-        Me.Label939.TabIndex = 25
-        Me.Label939.Text = "Label939"
-        '
-        'Label949
-        '
-        Me.Label949.AutoSize = true
-        Me.Label949.Location = New System.Drawing.Point(384, 316)
-        Me.Label949.Name = "Label949"
-        Me.Label949.Size = New System.Drawing.Size(51, 13)
-        Me.Label949.TabIndex = 24
-        Me.Label949.Text = "Label949"
-        '
-        'Label948
-        '
-        Me.Label948.AutoSize = true
-        Me.Label948.Location = New System.Drawing.Point(241, 355)
-        Me.Label948.Name = "Label948"
-        Me.Label948.Size = New System.Drawing.Size(51, 13)
-        Me.Label948.TabIndex = 23
-        Me.Label948.Text = "Label948"
-        '
-        'GroupBox174
-        '
-        Me.GroupBox174.Controls.Add(Me.ListBox5)
-        Me.GroupBox174.Controls.Add(Me.ListBox4)
-        Me.GroupBox174.Controls.Add(Me.ListBox3)
-        Me.GroupBox174.Controls.Add(Me.ListBox2)
-        Me.GroupBox174.Controls.Add(Me.ListBox1)
-        Me.GroupBox174.Controls.Add(Me.ComboBox19)
-        Me.GroupBox174.Controls.Add(Me.Label940)
-        Me.GroupBox174.Controls.Add(Me.Label938)
-        Me.GroupBox174.Controls.Add(Me.TextBox287)
-        Me.GroupBox174.ForeColor = System.Drawing.Color.White
-        Me.GroupBox174.Location = New System.Drawing.Point(16, 16)
-        Me.GroupBox174.Name = "GroupBox174"
-        Me.GroupBox174.Size = New System.Drawing.Size(250, 125)
-        Me.GroupBox174.TabIndex = 22
-        Me.GroupBox174.TabStop = false
-        Me.GroupBox174.Text = "Dimensiones de la placa Simple"
-        '
-        'ListBox5
-        '
-        Me.ListBox5.FormattingEnabled = true
-        Me.ListBox5.Items.AddRange(New Object() {"0.5", "0.625", "0.75", "0.875", "1", "1.125", "1.25"})
-        Me.ListBox5.Location = New System.Drawing.Point(127, 97)
-        Me.ListBox5.Name = "ListBox5"
-        Me.ListBox5.Size = New System.Drawing.Size(20, 17)
-        Me.ListBox5.TabIndex = 26
-        Me.ListBox5.Visible = false
-        '
-        'ListBox4
-        '
-        Me.ListBox4.FormattingEnabled = true
-        Me.ListBox4.Items.AddRange(New Object() {"0.75", "0.875", "1", "1.125", "1.25", "1.5", "1.875"})
-        Me.ListBox4.Location = New System.Drawing.Point(214, 97)
-        Me.ListBox4.Name = "ListBox4"
-        Me.ListBox4.Size = New System.Drawing.Size(20, 17)
-        Me.ListBox4.TabIndex = 25
-        Me.ListBox4.Visible = false
-        '
-        'ListBox3
-        '
-        Me.ListBox3.FormattingEnabled = true
-        Me.ListBox3.Items.AddRange(New Object() {"3/4", "7/8", "1", "1 1/8", "1 1/4", "1 1/2", "1 5/8"})
-        Me.ListBox3.Location = New System.Drawing.Point(182, 96)
-        Me.ListBox3.Name = "ListBox3"
-        Me.ListBox3.Size = New System.Drawing.Size(20, 17)
-        Me.ListBox3.TabIndex = 24
-        Me.ListBox3.Visible = false
-        '
-        'ListBox2
-        '
-        Me.ListBox2.FormattingEnabled = true
-        Me.ListBox2.Items.AddRange(New Object() {"45", "90", "90", "113", "113"})
-        Me.ListBox2.Location = New System.Drawing.Point(67, 97)
-        Me.ListBox2.Name = "ListBox2"
-        Me.ListBox2.Size = New System.Drawing.Size(20, 17)
-        Me.ListBox2.TabIndex = 23
-        Me.ListBox2.Visible = false
-        '
-        'ListBox1
-        '
-        Me.ListBox1.FormattingEnabled = true
-        Me.ListBox1.Items.AddRange(New Object() {"2", "2.25", "2.5", "2.75", "3", "3.25", "3.5", "3.75", "4", "4.25", "4.5", "4.75", "5"})
-        Me.ListBox1.Location = New System.Drawing.Point(36, 97)
-        Me.ListBox1.Name = "ListBox1"
-        Me.ListBox1.Size = New System.Drawing.Size(20, 17)
-        Me.ListBox1.TabIndex = 22
-        Me.ListBox1.Visible = false
-        '
-        'ComboBox19
-        '
-        Me.ComboBox19.FormattingEnabled = true
-        Me.ComboBox19.Items.AddRange(New Object() {"2 in", "2.25 in", "2.5 in", "2.75 in", "3 in", "3.25 in", "3.5 in", "3.75 in", "4 in", "4.25 in", "4.5 in", "4.75 in", "5 in"})
-        Me.ComboBox19.Location = New System.Drawing.Point(161, 39)
-        Me.ComboBox19.Name = "ComboBox19"
-        Me.ComboBox19.Size = New System.Drawing.Size(65, 21)
-        Me.ComboBox19.TabIndex = 21
-        '
-        'Label940
-        '
-        Me.Label940.AutoSize = true
-        Me.Label940.Location = New System.Drawing.Point(31, 43)
-        Me.Label940.Name = "Label940"
-        Me.Label940.Size = New System.Drawing.Size(128, 13)
-        Me.Label940.TabIndex = 20
-        Me.Label940.Text = "Ancho de la placa simple:"
-        '
-        'Label938
-        '
-        Me.Label938.AutoSize = true
-        Me.Label938.Location = New System.Drawing.Point(24, 70)
-        Me.Label938.Name = "Label938"
-        Me.Label938.Size = New System.Drawing.Size(135, 13)
-        Me.Label938.TabIndex = 17
-        Me.Label938.Text = "Espesor de la placa simple:"
-        '
-        'TextBox287
-        '
-        Me.TextBox287.Location = New System.Drawing.Point(161, 66)
-        Me.TextBox287.Name = "TextBox287"
-        Me.TextBox287.Size = New System.Drawing.Size(40, 20)
-        Me.TextBox287.TabIndex = 18
-        '
-        'Label870
-        '
-        Me.Label870.AutoSize = true
-        Me.Label870.Location = New System.Drawing.Point(302, 477)
-        Me.Label870.Name = "Label870"
-        Me.Label870.Size = New System.Drawing.Size(40, 13)
-        Me.Label870.TabIndex = 16
-        Me.Label870.Text = "Cargas"
-        '
-        'PictureBox312
-        '
-        Me.PictureBox312.Image = Global.WindowsApplication1.My.Resources.Resources.CargasGC6
-        Me.PictureBox312.Location = New System.Drawing.Point(197, 217)
-        Me.PictureBox312.Name = "PictureBox312"
-        Me.PictureBox312.Size = New System.Drawing.Size(250, 250)
-        Me.PictureBox312.TabIndex = 15
-        Me.PictureBox312.TabStop = false
-        Me.ToolTip1.SetToolTip(Me.PictureBox312, "AISC Manual, Pt. 13")
-        '
-        'GroupBox161
-        '
-        Me.GroupBox161.Controls.Add(Me.PictureBox407)
-        Me.GroupBox161.Controls.Add(Me.PictureBox356)
-        Me.GroupBox161.Controls.Add(Me.PictureBox349)
-        Me.GroupBox161.Controls.Add(Me.PictureBox313)
-        Me.GroupBox161.Controls.Add(Me.PictureBox296)
-        Me.GroupBox161.Controls.Add(Me.PictureBox295)
-        Me.GroupBox161.Controls.Add(Me.Label864)
-        Me.GroupBox161.Controls.Add(Me.Label1084)
-        Me.GroupBox161.Controls.Add(Me.Label1083)
-        Me.GroupBox161.Controls.Add(Me.Label869)
-        Me.GroupBox161.Controls.Add(Me.Label1080)
-        Me.GroupBox161.Controls.Add(Me.Label867)
-        Me.GroupBox161.Controls.Add(Me.Label866)
-        Me.GroupBox161.Controls.Add(Me.Label1030)
-        Me.GroupBox161.Controls.Add(Me.Label858)
-        Me.GroupBox161.Controls.Add(Me.Label862)
-        Me.GroupBox161.Controls.Add(Me.Label856)
-        Me.GroupBox161.Controls.Add(Me.Label859)
-        Me.GroupBox161.ForeColor = System.Drawing.Color.White
-        Me.GroupBox161.Location = New System.Drawing.Point(476, 16)
-        Me.GroupBox161.Name = "GroupBox161"
-        Me.GroupBox161.Size = New System.Drawing.Size(220, 395)
-        Me.GroupBox161.TabIndex = 14
-        Me.GroupBox161.TabStop = false
-        Me.GroupBox161.Text = "Placa Simple"
-        Me.ToolTip1.SetToolTip(Me.GroupBox161, "Aplastamiento de los pernos:"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AISC 360-10, J3.10"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"Ruptura por bloque de cortante:"& _ 
-        ""&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AISC 360-10, J4.3"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10))
-        '
-        'PictureBox407
-        '
-        Me.PictureBox407.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
-        Me.PictureBox407.Location = New System.Drawing.Point(67, 358)
-        Me.PictureBox407.Name = "PictureBox407"
-        Me.PictureBox407.Size = New System.Drawing.Size(48, 14)
-        Me.PictureBox407.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
-        Me.PictureBox407.TabIndex = 63
-        Me.PictureBox407.TabStop = false
-        '
-        'PictureBox356
-        '
-        Me.PictureBox356.Image = Global.WindowsApplication1.My.Resources.Resources.Rublancoigual
-        Me.PictureBox356.Location = New System.Drawing.Point(52, 291)
-        Me.PictureBox356.Name = "PictureBox356"
-        Me.PictureBox356.Size = New System.Drawing.Size(38, 14)
-        Me.PictureBox356.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
-        Me.PictureBox356.TabIndex = 62
-        Me.PictureBox356.TabStop = false
-        '
-        'PictureBox349
-        '
-        Me.PictureBox349.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
-        Me.PictureBox349.Location = New System.Drawing.Point(67, 237)
-        Me.PictureBox349.Name = "PictureBox349"
-        Me.PictureBox349.Size = New System.Drawing.Size(48, 14)
-        Me.PictureBox349.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
-        Me.PictureBox349.TabIndex = 61
-        Me.PictureBox349.TabStop = false
-        '
-        'PictureBox313
-        '
-        Me.PictureBox313.Image = Global.WindowsApplication1.My.Resources.Resources.Rublancoigual
-        Me.PictureBox313.Location = New System.Drawing.Point(52, 172)
-        Me.PictureBox313.Name = "PictureBox313"
-        Me.PictureBox313.Size = New System.Drawing.Size(38, 14)
-        Me.PictureBox313.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
-        Me.PictureBox313.TabIndex = 60
-        Me.PictureBox313.TabStop = false
-        '
-        'PictureBox296
-        '
-        Me.PictureBox296.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
-        Me.PictureBox296.Location = New System.Drawing.Point(67, 120)
-        Me.PictureBox296.Name = "PictureBox296"
-        Me.PictureBox296.Size = New System.Drawing.Size(48, 14)
-        Me.PictureBox296.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
-        Me.PictureBox296.TabIndex = 59
-        Me.PictureBox296.TabStop = false
-        '
-        'PictureBox295
-        '
-        Me.PictureBox295.Image = Global.WindowsApplication1.My.Resources.Resources.Rublancoigual
-        Me.PictureBox295.Location = New System.Drawing.Point(52, 55)
-        Me.PictureBox295.Name = "PictureBox295"
-        Me.PictureBox295.Size = New System.Drawing.Size(38, 14)
-        Me.PictureBox295.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
-        Me.PictureBox295.TabIndex = 58
-        Me.PictureBox295.TabStop = false
-        '
-        'Label864
-        '
-        Me.Label864.Location = New System.Drawing.Point(28, 318)
-        Me.Label864.Name = "Label864"
-        Me.Label864.Size = New System.Drawing.Size(175, 31)
-        Me.Label864.TabIndex = 49
-        Me.Label864.Text = "Resistencia disponible al aplastamiento de los pernos:"
-        '
-        'Label1084
-        '
-        Me.Label1084.AutoSize = true
-        Me.Label1084.Location = New System.Drawing.Point(115, 238)
-        Me.Label1084.Name = "Label1084"
-        Me.Label1084.Size = New System.Drawing.Size(57, 13)
-        Me.Label1084.TabIndex = 48
-        Me.Label1084.Text = "Label1084"
-        '
-        'Label1083
-        '
-        Me.Label1083.Location = New System.Drawing.Point(28, 197)
-        Me.Label1083.Name = "Label1083"
-        Me.Label1083.Size = New System.Drawing.Size(175, 32)
-        Me.Label1083.TabIndex = 47
-        Me.Label1083.Text = "Resistencia disponible a la ruptura por bloque de cortante:"
-        '
-        'Label869
-        '
-        Me.Label869.AutoSize = true
-        Me.Label869.Location = New System.Drawing.Point(91, 172)
-        Me.Label869.Name = "Label869"
-        Me.Label869.Size = New System.Drawing.Size(51, 13)
-        Me.Label869.TabIndex = 46
-        Me.Label869.Text = "Label869"
-        '
-        'Label1080
-        '
-        Me.Label1080.AutoSize = true
-        Me.Label1080.Location = New System.Drawing.Point(10, 145)
-        Me.Label1080.Name = "Label1080"
-        Me.Label1080.Size = New System.Drawing.Size(142, 13)
-        Me.Label1080.TabIndex = 45
-        Me.Label1080.Text = "Carga de cortante requerida:"
-        '
-        'Label867
-        '
-        Me.Label867.Location = New System.Drawing.Point(28, 81)
-        Me.Label867.Name = "Label867"
-        Me.Label867.Size = New System.Drawing.Size(175, 32)
-        Me.Label867.TabIndex = 44
-        Me.Label867.Text = "Resistencia disponible a la ruptura por bloque de cortante:"
-        '
-        'Label866
-        '
-        Me.Label866.AutoSize = true
-        Me.Label866.Location = New System.Drawing.Point(91, 292)
-        Me.Label866.Name = "Label866"
-        Me.Label866.Size = New System.Drawing.Size(51, 13)
-        Me.Label866.TabIndex = 43
-        Me.Label866.Text = "Label866"
-        '
-        'Label1030
-        '
-        Me.Label1030.AutoSize = true
-        Me.Label1030.Location = New System.Drawing.Point(10, 264)
-        Me.Label1030.Name = "Label1030"
-        Me.Label1030.Size = New System.Drawing.Size(108, 13)
-        Me.Label1030.TabIndex = 42
-        Me.Label1030.Text = "Carga total requerida:"
-        '
-        'Label858
-        '
-        Me.Label858.AutoSize = true
-        Me.Label858.Location = New System.Drawing.Point(115, 358)
-        Me.Label858.Name = "Label858"
-        Me.Label858.Size = New System.Drawing.Size(51, 13)
-        Me.Label858.TabIndex = 22
-        Me.Label858.Text = "Label858"
-        '
-        'Label862
-        '
-        Me.Label862.AutoSize = true
-        Me.Label862.Location = New System.Drawing.Point(10, 26)
-        Me.Label862.Name = "Label862"
-        Me.Label862.Size = New System.Drawing.Size(119, 13)
-        Me.Label862.TabIndex = 22
-        Me.Label862.Text = "Carga normal requerida:"
-        '
-        'Label856
-        '
-        Me.Label856.AutoSize = true
-        Me.Label856.Location = New System.Drawing.Point(91, 55)
-        Me.Label856.Name = "Label856"
-        Me.Label856.Size = New System.Drawing.Size(54, 13)
-        Me.Label856.TabIndex = 20
-        Me.Label856.Text = " Label856"
-        '
-        'Label859
-        '
-        Me.Label859.AutoSize = true
-        Me.Label859.Location = New System.Drawing.Point(115, 120)
-        Me.Label859.Name = "Label859"
-        Me.Label859.Size = New System.Drawing.Size(51, 13)
-        Me.Label859.TabIndex = 19
-        Me.Label859.Text = "Label859"
-        '
-        'GroupBox160
-        '
-        Me.GroupBox160.Controls.Add(Me.PictureBox415)
-        Me.GroupBox160.Controls.Add(Me.PictureBox414)
-        Me.GroupBox160.Controls.Add(Me.PictureBox413)
-        Me.GroupBox160.Controls.Add(Me.PictureBox412)
-        Me.GroupBox160.Controls.Add(Me.PictureBox411)
-        Me.GroupBox160.Controls.Add(Me.PictureBox410)
-        Me.GroupBox160.Controls.Add(Me.PictureBox409)
-        Me.GroupBox160.Controls.Add(Me.PictureBox408)
-        Me.GroupBox160.Controls.Add(Me.Label1081)
-        Me.GroupBox160.Controls.Add(Me.Label1082)
-        Me.GroupBox160.Controls.Add(Me.Label1078)
-        Me.GroupBox160.Controls.Add(Me.Label1079)
-        Me.GroupBox160.Controls.Add(Me.Label1032)
-        Me.GroupBox160.Controls.Add(Me.Label1077)
-        Me.GroupBox160.Controls.Add(Me.Label1031)
-        Me.GroupBox160.Controls.Add(Me.Label1029)
-        Me.GroupBox160.Controls.Add(Me.Label868)
-        Me.GroupBox160.Controls.Add(Me.Label860)
-        Me.GroupBox160.Controls.Add(Me.Label865)
-        Me.GroupBox160.Controls.Add(Me.Label855)
-        Me.GroupBox160.Controls.Add(Me.Label861)
-        Me.GroupBox160.Controls.Add(Me.Label854)
-        Me.GroupBox160.Controls.Add(Me.Label853)
-        Me.GroupBox160.Controls.Add(Me.Label852)
-        Me.GroupBox160.ForeColor = System.Drawing.Color.White
-        Me.GroupBox160.Location = New System.Drawing.Point(702, 16)
-        Me.GroupBox160.Name = "GroupBox160"
-        Me.GroupBox160.Size = New System.Drawing.Size(220, 525)
-        Me.GroupBox160.TabIndex = 13
-        Me.GroupBox160.TabStop = false
-        Me.GroupBox160.Text = "Placa Gusset"
-        Me.ToolTip1.SetToolTip(Me.GroupBox160, "Resistencia a la fluencia:"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AISC 360-10, J4.1"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"Aplastamiento de los pernos:"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AISC"& _ 
-        " 360-10, J3.10"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"Ruptura por bloque de cortante:"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AISC 360-10, J4.3")
-        '
-        'PictureBox415
-        '
-        Me.PictureBox415.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
-        Me.PictureBox415.Location = New System.Drawing.Point(67, 493)
-        Me.PictureBox415.Name = "PictureBox415"
-        Me.PictureBox415.Size = New System.Drawing.Size(48, 14)
-        Me.PictureBox415.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
-        Me.PictureBox415.TabIndex = 71
-        Me.PictureBox415.TabStop = false
-        '
-        'PictureBox414
-        '
-        Me.PictureBox414.Image = Global.WindowsApplication1.My.Resources.Resources.Rublancoigual
-        Me.PictureBox414.Location = New System.Drawing.Point(52, 433)
-        Me.PictureBox414.Name = "PictureBox414"
-        Me.PictureBox414.Size = New System.Drawing.Size(38, 14)
-        Me.PictureBox414.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
-        Me.PictureBox414.TabIndex = 70
-        Me.PictureBox414.TabStop = false
-        '
-        'PictureBox413
-        '
-        Me.PictureBox413.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
-        Me.PictureBox413.Location = New System.Drawing.Point(67, 377)
-        Me.PictureBox413.Name = "PictureBox413"
-        Me.PictureBox413.Size = New System.Drawing.Size(48, 14)
-        Me.PictureBox413.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
-        Me.PictureBox413.TabIndex = 69
-        Me.PictureBox413.TabStop = false
-        '
-        'PictureBox412
-        '
-        Me.PictureBox412.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
-        Me.PictureBox412.Location = New System.Drawing.Point(67, 309)
-        Me.PictureBox412.Name = "PictureBox412"
-        Me.PictureBox412.Size = New System.Drawing.Size(48, 14)
-        Me.PictureBox412.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
-        Me.PictureBox412.TabIndex = 68
-        Me.PictureBox412.TabStop = false
-        '
-        'PictureBox411
-        '
-        Me.PictureBox411.Image = Global.WindowsApplication1.My.Resources.Resources.Rublancoigual
-        Me.PictureBox411.Location = New System.Drawing.Point(52, 243)
-        Me.PictureBox411.Name = "PictureBox411"
-        Me.PictureBox411.Size = New System.Drawing.Size(38, 14)
-        Me.PictureBox411.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
-        Me.PictureBox411.TabIndex = 67
-        Me.PictureBox411.TabStop = false
-        '
-        'PictureBox410
-        '
-        Me.PictureBox410.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
-        Me.PictureBox410.Location = New System.Drawing.Point(67, 186)
-        Me.PictureBox410.Name = "PictureBox410"
-        Me.PictureBox410.Size = New System.Drawing.Size(48, 14)
-        Me.PictureBox410.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
-        Me.PictureBox410.TabIndex = 66
-        Me.PictureBox410.TabStop = false
-        '
-        'PictureBox409
-        '
-        Me.PictureBox409.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
-        Me.PictureBox409.Location = New System.Drawing.Point(67, 120)
-        Me.PictureBox409.Name = "PictureBox409"
-        Me.PictureBox409.Size = New System.Drawing.Size(48, 14)
-        Me.PictureBox409.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
-        Me.PictureBox409.TabIndex = 65
-        Me.PictureBox409.TabStop = false
-        '
-        'PictureBox408
-        '
-        Me.PictureBox408.Image = Global.WindowsApplication1.My.Resources.Resources.Rublancoigual
-        Me.PictureBox408.Location = New System.Drawing.Point(52, 55)
-        Me.PictureBox408.Name = "PictureBox408"
-        Me.PictureBox408.Size = New System.Drawing.Size(38, 14)
-        Me.PictureBox408.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
-        Me.PictureBox408.TabIndex = 64
-        Me.PictureBox408.TabStop = false
-        '
-        'Label1081
-        '
-        Me.Label1081.AutoSize = true
-        Me.Label1081.Location = New System.Drawing.Point(91, 433)
-        Me.Label1081.Name = "Label1081"
-        Me.Label1081.Size = New System.Drawing.Size(57, 13)
-        Me.Label1081.TabIndex = 41
-        Me.Label1081.Text = "Label1081"
-        '
-        'Label1082
-        '
-        Me.Label1082.AutoSize = true
-        Me.Label1082.Location = New System.Drawing.Point(13, 405)
-        Me.Label1082.Name = "Label1082"
-        Me.Label1082.Size = New System.Drawing.Size(108, 13)
-        Me.Label1082.TabIndex = 40
-        Me.Label1082.Text = "Carga total requerida:"
-        '
-        'Label1078
-        '
-        Me.Label1078.Location = New System.Drawing.Point(28, 270)
-        Me.Label1078.Name = "Label1078"
-        Me.Label1078.Size = New System.Drawing.Size(175, 30)
-        Me.Label1078.TabIndex = 39
-        Me.Label1078.Text = "Resistencia disponible a la fluencia por cortante:"
-        '
-        'Label1079
-        '
-        Me.Label1079.AutoSize = true
-        Me.Label1079.Location = New System.Drawing.Point(115, 309)
-        Me.Label1079.Name = "Label1079"
-        Me.Label1079.Size = New System.Drawing.Size(57, 13)
-        Me.Label1079.TabIndex = 37
-        Me.Label1079.Text = "Label1079"
-        '
-        'Label1032
-        '
-        Me.Label1032.Location = New System.Drawing.Point(26, 337)
-        Me.Label1032.Name = "Label1032"
-        Me.Label1032.Size = New System.Drawing.Size(175, 32)
-        Me.Label1032.TabIndex = 35
-        Me.Label1032.Text = "Resistencia disponible a la ruptura por bloque de cortante:"
-        '
-        'Label1077
-        '
-        Me.Label1077.AutoSize = true
-        Me.Label1077.Location = New System.Drawing.Point(115, 377)
-        Me.Label1077.Name = "Label1077"
-        Me.Label1077.Size = New System.Drawing.Size(57, 13)
-        Me.Label1077.TabIndex = 34
-        Me.Label1077.Text = "Label1077"
-        '
-        'Label1031
-        '
-        Me.Label1031.AutoSize = true
-        Me.Label1031.Location = New System.Drawing.Point(91, 243)
-        Me.Label1031.Name = "Label1031"
-        Me.Label1031.Size = New System.Drawing.Size(57, 13)
-        Me.Label1031.TabIndex = 32
-        Me.Label1031.Text = "Label1031"
-        '
-        'Label1029
-        '
-        Me.Label1029.AutoSize = true
-        Me.Label1029.Location = New System.Drawing.Point(10, 216)
-        Me.Label1029.Name = "Label1029"
-        Me.Label1029.Size = New System.Drawing.Size(142, 13)
-        Me.Label1029.TabIndex = 31
-        Me.Label1029.Text = "Carga de cortante requerida:"
-        '
-        'Label868
-        '
-        Me.Label868.Location = New System.Drawing.Point(28, 81)
-        Me.Label868.Name = "Label868"
-        Me.Label868.Size = New System.Drawing.Size(175, 31)
-        Me.Label868.TabIndex = 30
-        Me.Label868.Text = "Resistencia disponible a la fluencia por tensión:"
-        '
-        'Label860
-        '
-        Me.Label860.Location = New System.Drawing.Point(28, 145)
-        Me.Label860.Name = "Label860"
-        Me.Label860.Size = New System.Drawing.Size(175, 32)
-        Me.Label860.TabIndex = 27
-        Me.Label860.Text = "Resistencia disponible a la ruptura por bloque de cortante:"
-        '
-        'Label865
-        '
-        Me.Label865.AutoSize = true
-        Me.Label865.Location = New System.Drawing.Point(10, 26)
-        Me.Label865.Name = "Label865"
-        Me.Label865.Size = New System.Drawing.Size(119, 13)
-        Me.Label865.TabIndex = 25
-        Me.Label865.Text = "Carga normal requerida:"
-        '
-        'Label855
-        '
-        Me.Label855.AutoSize = true
-        Me.Label855.Location = New System.Drawing.Point(115, 186)
-        Me.Label855.Name = "Label855"
-        Me.Label855.Size = New System.Drawing.Size(51, 13)
-        Me.Label855.TabIndex = 21
-        Me.Label855.Text = "Label855"
-        '
-        'Label861
-        '
-        Me.Label861.Location = New System.Drawing.Point(26, 455)
-        Me.Label861.Name = "Label861"
-        Me.Label861.Size = New System.Drawing.Size(175, 31)
-        Me.Label861.TabIndex = 21
-        Me.Label861.Text = "Resistencia disponible al aplastamiento de los pernos:"
-        '
-        'Label854
-        '
-        Me.Label854.AutoSize = true
-        Me.Label854.Location = New System.Drawing.Point(115, 493)
-        Me.Label854.Name = "Label854"
-        Me.Label854.Size = New System.Drawing.Size(51, 13)
-        Me.Label854.TabIndex = 18
-        Me.Label854.Text = "Label854"
-        '
-        'Label853
-        '
-        Me.Label853.AutoSize = true
-        Me.Label853.Location = New System.Drawing.Point(115, 120)
-        Me.Label853.Name = "Label853"
-        Me.Label853.Size = New System.Drawing.Size(51, 13)
-        Me.Label853.TabIndex = 17
-        Me.Label853.Text = "Label853"
-        '
-        'Label852
-        '
-        Me.Label852.AutoSize = true
-        Me.Label852.Location = New System.Drawing.Point(91, 55)
-        Me.Label852.Name = "Label852"
-        Me.Label852.Size = New System.Drawing.Size(51, 13)
-        Me.Label852.TabIndex = 16
-        Me.Label852.Text = "Label852"
-        '
-        'GroupBox159
-        '
-        Me.GroupBox159.Controls.Add(Me.Label964)
-        Me.GroupBox159.Controls.Add(Me.TextBox288)
-        Me.GroupBox159.Controls.Add(Me.Label965)
-        Me.GroupBox159.Controls.Add(Me.Label943)
-        Me.GroupBox159.Controls.Add(Me.Label942)
-        Me.GroupBox159.Controls.Add(Me.ComboBox15)
-        Me.GroupBox159.Controls.Add(Me.Label851)
-        Me.GroupBox159.Controls.Add(Me.Label848)
-        Me.GroupBox159.Controls.Add(Me.TextBox265)
-        Me.GroupBox159.Controls.Add(Me.Label849)
-        Me.GroupBox159.Controls.Add(Me.ComboBox16)
-        Me.GroupBox159.Controls.Add(Me.Label850)
-        Me.GroupBox159.ForeColor = System.Drawing.Color.White
-        Me.GroupBox159.Location = New System.Drawing.Point(270, 16)
-        Me.GroupBox159.Name = "GroupBox159"
-        Me.GroupBox159.Size = New System.Drawing.Size(200, 175)
-        Me.GroupBox159.TabIndex = 12
-        Me.GroupBox159.TabStop = false
-        Me.GroupBox159.Text = "Pernos"
-        Me.ToolTip1.SetToolTip(Me.GroupBox159, "Tipo de pernos:"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AISC 360-10, Tabla J3.2"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"Diámetros:"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AISC 360-10, Tabla J3.3"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"Di"& _ 
-        "stancia al borde mínima:"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AISC 360-10, Tabla J3.4")
-        '
-        'Label964
-        '
-        Me.Label964.AutoSize = true
-        Me.Label964.Location = New System.Drawing.Point(135, 133)
-        Me.Label964.Name = "Label964"
-        Me.Label964.Size = New System.Drawing.Size(51, 13)
-        Me.Label964.TabIndex = 18
-        Me.Label964.Text = "Label964"
-        '
-        'TextBox288
-        '
-        Me.TextBox288.Location = New System.Drawing.Point(94, 129)
-        Me.TextBox288.Name = "TextBox288"
-        Me.TextBox288.Size = New System.Drawing.Size(40, 20)
-        Me.TextBox288.TabIndex = 17
-        '
-        'Label965
-        '
-        Me.Label965.AutoSize = true
-        Me.Label965.Location = New System.Drawing.Point(12, 133)
-        Me.Label965.Name = "Label965"
-        Me.Label965.Size = New System.Drawing.Size(79, 13)
-        Me.Label965.TabIndex = 16
-        Me.Label965.Text = "Espaciamiento:"
-        '
-        'Label943
-        '
-        Me.Label943.AutoSize = true
-        Me.Label943.Location = New System.Drawing.Point(91, 26)
-        Me.Label943.Name = "Label943"
-        Me.Label943.Size = New System.Drawing.Size(51, 13)
-        Me.Label943.TabIndex = 13
-        Me.Label943.Text = "Label943"
-        '
-        'Label942
-        '
-        Me.Label942.AutoSize = true
-        Me.Label942.Location = New System.Drawing.Point(53, 26)
-        Me.Label942.Name = "Label942"
-        Me.Label942.Size = New System.Drawing.Size(38, 13)
-        Me.Label942.TabIndex = 12
-        Me.Label942.Text = "Carga:"
-        '
-        'ComboBox15
-        '
-        Me.ComboBox15.FormattingEnabled = true
-        Me.ComboBox15.Items.AddRange(New Object() {"A307", "A325", "A325X", "A490", "A490X"})
-        Me.ComboBox15.Location = New System.Drawing.Point(94, 49)
-        Me.ComboBox15.Name = "ComboBox15"
-        Me.ComboBox15.Size = New System.Drawing.Size(65, 21)
-        Me.ComboBox15.TabIndex = 8
-        '
-        'Label851
-        '
-        Me.Label851.AutoSize = true
-        Me.Label851.Location = New System.Drawing.Point(135, 107)
-        Me.Label851.Name = "Label851"
-        Me.Label851.Size = New System.Drawing.Size(51, 13)
-        Me.Label851.TabIndex = 11
-        Me.Label851.Text = "Label851"
-        '
-        'Label848
-        '
-        Me.Label848.AutoSize = true
-        Me.Label848.Location = New System.Drawing.Point(15, 53)
-        Me.Label848.Name = "Label848"
-        Me.Label848.Size = New System.Drawing.Size(76, 13)
-        Me.Label848.TabIndex = 5
-        Me.Label848.Text = "Tipo de perno:"
-        '
-        'TextBox265
-        '
-        Me.TextBox265.Location = New System.Drawing.Point(94, 103)
-        Me.TextBox265.Name = "TextBox265"
-        Me.TextBox265.Size = New System.Drawing.Size(40, 20)
-        Me.TextBox265.TabIndex = 10
-        '
-        'Label849
-        '
-        Me.Label849.AutoSize = true
-        Me.Label849.Location = New System.Drawing.Point(39, 80)
-        Me.Label849.Name = "Label849"
-        Me.Label849.Size = New System.Drawing.Size(52, 13)
-        Me.Label849.TabIndex = 6
-        Me.Label849.Text = "Diámetro:"
-        '
-        'ComboBox16
-        '
-        Me.ComboBox16.FormattingEnabled = true
-        Me.ComboBox16.Items.AddRange(New Object() {"1/2 in", "5/8 in", "3/4 in", "7/8 in", "1 in", "1 1/8 in", "1 1/4 in"})
-        Me.ComboBox16.Location = New System.Drawing.Point(94, 76)
-        Me.ComboBox16.Name = "ComboBox16"
-        Me.ComboBox16.Size = New System.Drawing.Size(65, 21)
-        Me.ComboBox16.TabIndex = 9
-        '
-        'Label850
-        '
-        Me.Label850.AutoSize = true
-        Me.Label850.Location = New System.Drawing.Point(39, 107)
-        Me.Label850.Name = "Label850"
-        Me.Label850.Size = New System.Drawing.Size(52, 13)
-        Me.Label850.TabIndex = 7
-        Me.Label850.Text = "Cantidad:"
-        '
-        'Label847
-        '
-        Me.Label847.AutoSize = true
-        Me.Label847.Location = New System.Drawing.Point(81, 167)
-        Me.Label847.Name = "Label847"
-        Me.Label847.Size = New System.Drawing.Size(51, 13)
-        Me.Label847.TabIndex = 4
-        Me.Label847.Text = "Label847"
-        '
-        'Label846
-        '
-        Me.Label846.AutoSize = true
-        Me.Label846.Location = New System.Drawing.Point(126, 213)
-        Me.Label846.Name = "Label846"
-        Me.Label846.Size = New System.Drawing.Size(51, 13)
-        Me.Label846.TabIndex = 3
-        Me.Label846.Text = "Label846"
-        '
-        'Label845
-        '
-        Me.Label845.AutoSize = true
-        Me.Label845.Location = New System.Drawing.Point(124, 275)
-        Me.Label845.Name = "Label845"
-        Me.Label845.Size = New System.Drawing.Size(51, 13)
-        Me.Label845.TabIndex = 2
-        Me.Label845.Text = "Label845"
-        '
-        'Label844
-        '
-        Me.Label844.AutoSize = true
-        Me.Label844.Location = New System.Drawing.Point(14, 323)
-        Me.Label844.Name = "Label844"
-        Me.Label844.Size = New System.Drawing.Size(51, 13)
-        Me.Label844.TabIndex = 1
-        Me.Label844.Text = "Label844"
-        '
-        'PictureBox316
-        '
-        Me.PictureBox316.Image = Global.WindowsApplication1.My.Resources.Resources.PSGC
-        Me.PictureBox316.Location = New System.Drawing.Point(42, 162)
-        Me.PictureBox316.Name = "PictureBox316"
-        Me.PictureBox316.Size = New System.Drawing.Size(100, 350)
-        Me.PictureBox316.TabIndex = 0
-        Me.PictureBox316.TabStop = false
         '
         'TabControlJ1
         '
@@ -19732,6 +15567,4174 @@ Partial Class ADCAS
         Me.Label79.TabIndex = 1
         Me.Label79.Text = "Cortante en la zona de panel"
         '
+        'TabControl1N
+        '
+        Me.TabControl1N.Controls.Add(Me.TabPage12N)
+        Me.TabControl1N.Controls.Add(Me.TabPage9)
+        Me.TabControl1N.Controls.Add(Me.TabPage15)
+        Me.TabControl1N.Dock = System.Windows.Forms.DockStyle.Fill
+        Me.TabControl1N.Location = New System.Drawing.Point(0, 0)
+        Me.TabControl1N.Name = "TabControl1N"
+        Me.TabControl1N.SelectedIndex = 0
+        Me.TabControl1N.Size = New System.Drawing.Size(643, 696)
+        Me.TabControl1N.TabIndex = 23
+        Me.TabControl1N.Visible = false
+        '
+        'TabPage12N
+        '
+        Me.TabPage12N.AutoScroll = true
+        Me.TabPage12N.BackColor = System.Drawing.Color.FromArgb(CType(CType(68,Byte),Integer), CType(CType(77,Byte),Integer), CType(CType(83,Byte),Integer))
+        Me.TabPage12N.Controls.Add(Me.GroupBox147N)
+        Me.TabPage12N.Controls.Add(Me.GroupBox146N)
+        Me.TabPage12N.Location = New System.Drawing.Point(4, 22)
+        Me.TabPage12N.Name = "TabPage12N"
+        Me.TabPage12N.Padding = New System.Windows.Forms.Padding(3)
+        Me.TabPage12N.Size = New System.Drawing.Size(635, 670)
+        Me.TabPage12N.TabIndex = 0
+        Me.TabPage12N.Text = "Conexión Arriostre-Placa Gusset"
+        '
+        'GroupBox147N
+        '
+        Me.GroupBox147N.Controls.Add(Me.PictureBox318)
+        Me.GroupBox147N.Controls.Add(Me.GroupBox87)
+        Me.GroupBox147N.Controls.Add(Me.GroupBox148N)
+        Me.GroupBox147N.Controls.Add(Me.PictureBox247N)
+        Me.GroupBox147N.ForeColor = System.Drawing.Color.White
+        Me.GroupBox147N.Location = New System.Drawing.Point(6, 284)
+        Me.GroupBox147N.Name = "GroupBox147N"
+        Me.GroupBox147N.Size = New System.Drawing.Size(950, 450)
+        Me.GroupBox147N.TabIndex = 23
+        Me.GroupBox147N.TabStop = false
+        Me.GroupBox147N.Text = "Placa Gusset"
+        '
+        'PictureBox318
+        '
+        Me.PictureBox318.Image = Global.WindowsApplication1.My.Resources.Resources.PlacaGusset2
+        Me.PictureBox318.Location = New System.Drawing.Point(520, 32)
+        Me.PictureBox318.Name = "PictureBox318"
+        Me.PictureBox318.Size = New System.Drawing.Size(250, 250)
+        Me.PictureBox318.TabIndex = 27
+        Me.PictureBox318.TabStop = false
+        '
+        'GroupBox87
+        '
+        Me.GroupBox87.Controls.Add(Me.PictureBox256)
+        Me.GroupBox87.Controls.Add(Me.Label383)
+        Me.GroupBox87.Controls.Add(Me.Label381)
+        Me.GroupBox87.Controls.Add(Me.PictureBox213)
+        Me.GroupBox87.Controls.Add(Me.Label380)
+        Me.GroupBox87.Controls.Add(Me.Label379)
+        Me.GroupBox87.ForeColor = System.Drawing.Color.White
+        Me.GroupBox87.Location = New System.Drawing.Point(265, 275)
+        Me.GroupBox87.Name = "GroupBox87"
+        Me.GroupBox87.Size = New System.Drawing.Size(225, 150)
+        Me.GroupBox87.TabIndex = 26
+        Me.GroupBox87.TabStop = false
+        Me.GroupBox87.Text = "Resistencia disponible a la compresión"
+        Me.ToolTip1.SetToolTip(Me.GroupBox87, "AISC 341-10,  F2.6c(2)")
+        '
+        'PictureBox256
+        '
+        Me.PictureBox256.Image = Global.WindowsApplication1.My.Resources.Resources.Publancoigual
+        Me.PictureBox256.Location = New System.Drawing.Point(70, 50)
+        Me.PictureBox256.Name = "PictureBox256"
+        Me.PictureBox256.Size = New System.Drawing.Size(36, 14)
+        Me.PictureBox256.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
+        Me.PictureBox256.TabIndex = 29
+        Me.PictureBox256.TabStop = false
+        '
+        'Label383
+        '
+        Me.Label383.AutoSize = true
+        Me.Label383.Location = New System.Drawing.Point(108, 50)
+        Me.Label383.Name = "Label383"
+        Me.Label383.Size = New System.Drawing.Size(51, 13)
+        Me.Label383.TabIndex = 28
+        Me.Label383.Text = "Label383"
+        '
+        'Label381
+        '
+        Me.Label381.AutoSize = true
+        Me.Label381.Location = New System.Drawing.Point(108, 116)
+        Me.Label381.Name = "Label381"
+        Me.Label381.Size = New System.Drawing.Size(51, 13)
+        Me.Label381.TabIndex = 16
+        Me.Label381.Text = "Label381"
+        '
+        'PictureBox213
+        '
+        Me.PictureBox213.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
+        Me.PictureBox213.Location = New System.Drawing.Point(60, 116)
+        Me.PictureBox213.Name = "PictureBox213"
+        Me.PictureBox213.Size = New System.Drawing.Size(48, 14)
+        Me.PictureBox213.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
+        Me.PictureBox213.TabIndex = 15
+        Me.PictureBox213.TabStop = false
+        '
+        'Label380
+        '
+        Me.Label380.AutoSize = true
+        Me.Label380.Location = New System.Drawing.Point(16, 23)
+        Me.Label380.Name = "Label380"
+        Me.Label380.Size = New System.Drawing.Size(112, 13)
+        Me.Label380.TabIndex = 1
+        Me.Label380.Text = "Resistencia requerida:"
+        '
+        'Label379
+        '
+        Me.Label379.Location = New System.Drawing.Point(16, 76)
+        Me.Label379.Name = "Label379"
+        Me.Label379.Size = New System.Drawing.Size(192, 31)
+        Me.Label379.TabIndex = 0
+        Me.Label379.Text = "Resistencia disponible al pandeo por compresión:"
+        '
+        'GroupBox148N
+        '
+        Me.GroupBox148N.Controls.Add(Me.Label432)
+        Me.GroupBox148N.Controls.Add(Me.TextBox344)
+        Me.GroupBox148N.Controls.Add(Me.Label378)
+        Me.GroupBox148N.Controls.Add(Me.Label376)
+        Me.GroupBox148N.Controls.Add(Me.Label374)
+        Me.GroupBox148N.Controls.Add(Me.TextBox337)
+        Me.GroupBox148N.Controls.Add(Me.TextBox336)
+        Me.GroupBox148N.Controls.Add(Me.TextBox316)
+        Me.GroupBox148N.Controls.Add(Me.Label377)
+        Me.GroupBox148N.Controls.Add(Me.TextBox220)
+        Me.GroupBox148N.Controls.Add(Me.Label375)
+        Me.GroupBox148N.Controls.Add(Me.TextBox219)
+        Me.GroupBox148N.Controls.Add(Me.Label372)
+        Me.GroupBox148N.Controls.Add(Me.TextBox218)
+        Me.GroupBox148N.Controls.Add(Me.Label370)
+        Me.GroupBox148N.Controls.Add(Me.TextBox217)
+        Me.GroupBox148N.Controls.Add(Me.Label368)
+        Me.GroupBox148N.Controls.Add(Me.TextBox216)
+        Me.GroupBox148N.Controls.Add(Me.Label367)
+        Me.GroupBox148N.Controls.Add(Me.TextBox213)
+        Me.GroupBox148N.Controls.Add(Me.Label360)
+        Me.GroupBox148N.Controls.Add(Me.Label359)
+        Me.GroupBox148N.Controls.Add(Me.Label358)
+        Me.GroupBox148N.Controls.Add(Me.Label357)
+        Me.GroupBox148N.Controls.Add(Me.TextBox207)
+        Me.GroupBox148N.Controls.Add(Me.TextBox206)
+        Me.GroupBox148N.Controls.Add(Me.TextBox205)
+        Me.GroupBox148N.Controls.Add(Me.TextBox204)
+        Me.GroupBox148N.Controls.Add(Me.PictureBox355)
+        Me.GroupBox148N.ForeColor = System.Drawing.Color.White
+        Me.GroupBox148N.Location = New System.Drawing.Point(59, 25)
+        Me.GroupBox148N.Name = "GroupBox148N"
+        Me.GroupBox148N.Size = New System.Drawing.Size(200, 400)
+        Me.GroupBox148N.TabIndex = 25
+        Me.GroupBox148N.TabStop = false
+        Me.GroupBox148N.Text = "Valores geométicos"
+        '
+        'Label432
+        '
+        Me.Label432.AutoSize = true
+        Me.Label432.Location = New System.Drawing.Point(117, 368)
+        Me.Label432.Name = "Label432"
+        Me.Label432.Size = New System.Drawing.Size(39, 13)
+        Me.Label432.TabIndex = 42
+        Me.Label432.Text = "grados"
+        '
+        'TextBox344
+        '
+        Me.TextBox344.Location = New System.Drawing.Point(80, 365)
+        Me.TextBox344.Name = "TextBox344"
+        Me.TextBox344.ReadOnly = true
+        Me.TextBox344.Size = New System.Drawing.Size(35, 20)
+        Me.TextBox344.TabIndex = 41
+        '
+        'Label378
+        '
+        Me.Label378.AutoSize = true
+        Me.Label378.Location = New System.Drawing.Point(117, 342)
+        Me.Label378.Name = "Label378"
+        Me.Label378.Size = New System.Drawing.Size(15, 13)
+        Me.Label378.TabIndex = 40
+        Me.Label378.Text = "in"
+        '
+        'Label376
+        '
+        Me.Label376.AutoSize = true
+        Me.Label376.Location = New System.Drawing.Point(117, 316)
+        Me.Label376.Name = "Label376"
+        Me.Label376.Size = New System.Drawing.Size(15, 13)
+        Me.Label376.TabIndex = 39
+        Me.Label376.Text = "in"
+        '
+        'Label374
+        '
+        Me.Label374.AutoSize = true
+        Me.Label374.Location = New System.Drawing.Point(117, 290)
+        Me.Label374.Name = "Label374"
+        Me.Label374.Size = New System.Drawing.Size(15, 13)
+        Me.Label374.TabIndex = 38
+        Me.Label374.Text = "in"
+        '
+        'TextBox337
+        '
+        Me.TextBox337.Location = New System.Drawing.Point(80, 157)
+        Me.TextBox337.Name = "TextBox337"
+        Me.TextBox337.Size = New System.Drawing.Size(35, 20)
+        Me.TextBox337.TabIndex = 37
+        '
+        'TextBox336
+        '
+        Me.TextBox336.Location = New System.Drawing.Point(80, 339)
+        Me.TextBox336.Name = "TextBox336"
+        Me.TextBox336.ReadOnly = true
+        Me.TextBox336.Size = New System.Drawing.Size(35, 20)
+        Me.TextBox336.TabIndex = 35
+        '
+        'TextBox316
+        '
+        Me.TextBox316.Location = New System.Drawing.Point(80, 313)
+        Me.TextBox316.Name = "TextBox316"
+        Me.TextBox316.ReadOnly = true
+        Me.TextBox316.Size = New System.Drawing.Size(35, 20)
+        Me.TextBox316.TabIndex = 34
+        '
+        'Label377
+        '
+        Me.Label377.AutoSize = true
+        Me.Label377.Location = New System.Drawing.Point(117, 160)
+        Me.Label377.Name = "Label377"
+        Me.Label377.Size = New System.Drawing.Size(15, 13)
+        Me.Label377.TabIndex = 33
+        Me.Label377.Text = "in"
+        '
+        'TextBox220
+        '
+        Me.TextBox220.Location = New System.Drawing.Point(80, 183)
+        Me.TextBox220.Name = "TextBox220"
+        Me.TextBox220.ReadOnly = true
+        Me.TextBox220.Size = New System.Drawing.Size(35, 20)
+        Me.TextBox220.TabIndex = 32
+        '
+        'Label375
+        '
+        Me.Label375.AutoSize = true
+        Me.Label375.Location = New System.Drawing.Point(117, 82)
+        Me.Label375.Name = "Label375"
+        Me.Label375.Size = New System.Drawing.Size(15, 13)
+        Me.Label375.TabIndex = 30
+        Me.Label375.Text = "in"
+        '
+        'TextBox219
+        '
+        Me.TextBox219.Location = New System.Drawing.Point(80, 79)
+        Me.TextBox219.Name = "TextBox219"
+        Me.TextBox219.Size = New System.Drawing.Size(35, 20)
+        Me.TextBox219.TabIndex = 29
+        '
+        'Label372
+        '
+        Me.Label372.AutoSize = true
+        Me.Label372.Location = New System.Drawing.Point(117, 264)
+        Me.Label372.Name = "Label372"
+        Me.Label372.Size = New System.Drawing.Size(15, 13)
+        Me.Label372.TabIndex = 27
+        Me.Label372.Text = "in"
+        '
+        'TextBox218
+        '
+        Me.TextBox218.Location = New System.Drawing.Point(80, 287)
+        Me.TextBox218.Name = "TextBox218"
+        Me.TextBox218.ReadOnly = true
+        Me.TextBox218.Size = New System.Drawing.Size(35, 20)
+        Me.TextBox218.TabIndex = 26
+        '
+        'Label370
+        '
+        Me.Label370.AutoSize = true
+        Me.Label370.Location = New System.Drawing.Point(117, 238)
+        Me.Label370.Name = "Label370"
+        Me.Label370.Size = New System.Drawing.Size(15, 13)
+        Me.Label370.TabIndex = 24
+        Me.Label370.Text = "in"
+        '
+        'TextBox217
+        '
+        Me.TextBox217.Location = New System.Drawing.Point(80, 261)
+        Me.TextBox217.Name = "TextBox217"
+        Me.TextBox217.ReadOnly = true
+        Me.TextBox217.Size = New System.Drawing.Size(35, 20)
+        Me.TextBox217.TabIndex = 23
+        '
+        'Label368
+        '
+        Me.Label368.AutoSize = true
+        Me.Label368.Location = New System.Drawing.Point(117, 213)
+        Me.Label368.Name = "Label368"
+        Me.Label368.Size = New System.Drawing.Size(15, 13)
+        Me.Label368.TabIndex = 21
+        Me.Label368.Text = "in"
+        '
+        'TextBox216
+        '
+        Me.TextBox216.Location = New System.Drawing.Point(80, 235)
+        Me.TextBox216.Name = "TextBox216"
+        Me.TextBox216.ReadOnly = true
+        Me.TextBox216.Size = New System.Drawing.Size(35, 20)
+        Me.TextBox216.TabIndex = 20
+        '
+        'Label367
+        '
+        Me.Label367.AutoSize = true
+        Me.Label367.Location = New System.Drawing.Point(117, 186)
+        Me.Label367.Name = "Label367"
+        Me.Label367.Size = New System.Drawing.Size(15, 13)
+        Me.Label367.TabIndex = 18
+        Me.Label367.Text = "in"
+        '
+        'TextBox213
+        '
+        Me.TextBox213.Location = New System.Drawing.Point(80, 209)
+        Me.TextBox213.Name = "TextBox213"
+        Me.TextBox213.ReadOnly = true
+        Me.TextBox213.Size = New System.Drawing.Size(35, 20)
+        Me.TextBox213.TabIndex = 17
+        '
+        'Label360
+        '
+        Me.Label360.AutoSize = true
+        Me.Label360.Location = New System.Drawing.Point(117, 56)
+        Me.Label360.Name = "Label360"
+        Me.Label360.Size = New System.Drawing.Size(39, 13)
+        Me.Label360.TabIndex = 15
+        Me.Label360.Text = "grados"
+        '
+        'Label359
+        '
+        Me.Label359.AutoSize = true
+        Me.Label359.Location = New System.Drawing.Point(117, 134)
+        Me.Label359.Name = "Label359"
+        Me.Label359.Size = New System.Drawing.Size(15, 13)
+        Me.Label359.TabIndex = 14
+        Me.Label359.Text = "in"
+        '
+        'Label358
+        '
+        Me.Label358.AutoSize = true
+        Me.Label358.Location = New System.Drawing.Point(117, 108)
+        Me.Label358.Name = "Label358"
+        Me.Label358.Size = New System.Drawing.Size(15, 13)
+        Me.Label358.TabIndex = 13
+        Me.Label358.Text = "in"
+        '
+        'Label357
+        '
+        Me.Label357.AutoSize = true
+        Me.Label357.Location = New System.Drawing.Point(117, 30)
+        Me.Label357.Name = "Label357"
+        Me.Label357.Size = New System.Drawing.Size(39, 13)
+        Me.Label357.TabIndex = 12
+        Me.Label357.Text = "grados"
+        '
+        'TextBox207
+        '
+        Me.TextBox207.Location = New System.Drawing.Point(80, 53)
+        Me.TextBox207.Name = "TextBox207"
+        Me.TextBox207.Size = New System.Drawing.Size(35, 20)
+        Me.TextBox207.TabIndex = 11
+        '
+        'TextBox206
+        '
+        Me.TextBox206.Location = New System.Drawing.Point(80, 131)
+        Me.TextBox206.Name = "TextBox206"
+        Me.TextBox206.Size = New System.Drawing.Size(35, 20)
+        Me.TextBox206.TabIndex = 10
+        '
+        'TextBox205
+        '
+        Me.TextBox205.Location = New System.Drawing.Point(80, 105)
+        Me.TextBox205.Name = "TextBox205"
+        Me.TextBox205.Size = New System.Drawing.Size(35, 20)
+        Me.TextBox205.TabIndex = 9
+        '
+        'TextBox204
+        '
+        Me.TextBox204.Location = New System.Drawing.Point(80, 27)
+        Me.TextBox204.Name = "TextBox204"
+        Me.TextBox204.Size = New System.Drawing.Size(35, 20)
+        Me.TextBox204.TabIndex = 8
+        '
+        'PictureBox355
+        '
+        Me.PictureBox355.Dock = System.Windows.Forms.DockStyle.Fill
+        Me.PictureBox355.Image = Global.WindowsApplication1.My.Resources.Resources.ValGeomGsst1
+        Me.PictureBox355.Location = New System.Drawing.Point(3, 16)
+        Me.PictureBox355.Name = "PictureBox355"
+        Me.PictureBox355.Size = New System.Drawing.Size(194, 381)
+        Me.PictureBox355.TabIndex = 36
+        Me.PictureBox355.TabStop = false
+        '
+        'PictureBox247N
+        '
+        Me.PictureBox247N.Image = Global.WindowsApplication1.My.Resources.Resources.PlacaGusset1
+        Me.PictureBox247N.Location = New System.Drawing.Point(265, 32)
+        Me.PictureBox247N.Name = "PictureBox247N"
+        Me.PictureBox247N.Size = New System.Drawing.Size(250, 250)
+        Me.PictureBox247N.TabIndex = 23
+        Me.PictureBox247N.TabStop = false
+        '
+        'GroupBox146N
+        '
+        Me.GroupBox146N.Controls.Add(Me.Label382)
+        Me.GroupBox146N.Controls.Add(Me.Label657N)
+        Me.GroupBox146N.Controls.Add(Me.PictureBox317)
+        Me.GroupBox146N.Controls.Add(Me.Label373)
+        Me.GroupBox146N.Controls.Add(Me.Label650N)
+        Me.GroupBox146N.Controls.Add(Me.GroupBox145N)
+        Me.GroupBox146N.Controls.Add(Me.GroupBox144N)
+        Me.GroupBox146N.Controls.Add(Me.GroupBox143N)
+        Me.GroupBox146N.Controls.Add(Me.PictureBox242N)
+        Me.GroupBox146N.ForeColor = System.Drawing.Color.White
+        Me.GroupBox146N.Location = New System.Drawing.Point(6, 4)
+        Me.GroupBox146N.Name = "GroupBox146N"
+        Me.GroupBox146N.Size = New System.Drawing.Size(950, 275)
+        Me.GroupBox146N.TabIndex = 22
+        Me.GroupBox146N.TabStop = false
+        Me.GroupBox146N.Text = "Conexión del Arriostre con la Placa"
+        '
+        'Label382
+        '
+        Me.Label382.Location = New System.Drawing.Point(758, 25)
+        Me.Label382.Name = "Label382"
+        Me.Label382.Size = New System.Drawing.Size(101, 35)
+        Me.Label382.TabIndex = 29
+        Me.Label382.Text = "Ancho de la placa:"
+        '
+        'Label657N
+        '
+        Me.Label657N.AutoSize = true
+        Me.Label657N.Location = New System.Drawing.Point(732, 235)
+        Me.Label657N.Name = "Label657N"
+        Me.Label657N.Size = New System.Drawing.Size(104, 13)
+        Me.Label657N.TabIndex = 21
+        Me.Label657N.Text = "Ancho de Withmore:"
+        '
+        'PictureBox317
+        '
+        Me.PictureBox317.Image = Global.WindowsApplication1.My.Resources.Resources.AnchodeWithmore
+        Me.PictureBox317.Location = New System.Drawing.Point(705, 43)
+        Me.PictureBox317.Name = "PictureBox317"
+        Me.PictureBox317.Size = New System.Drawing.Size(200, 200)
+        Me.PictureBox317.TabIndex = 28
+        Me.PictureBox317.TabStop = false
+        '
+        'Label373
+        '
+        Me.Label373.AutoSize = true
+        Me.Label373.Location = New System.Drawing.Point(23, 230)
+        Me.Label373.Name = "Label373"
+        Me.Label373.Size = New System.Drawing.Size(159, 13)
+        Me.Label373.TabIndex = 27
+        Me.Label373.Text = "Conexión con cuatro soldaduras"
+        '
+        'Label650N
+        '
+        Me.Label650N.AutoSize = true
+        Me.Label650N.Location = New System.Drawing.Point(110, 193)
+        Me.Label650N.Name = "Label650N"
+        Me.Label650N.Size = New System.Drawing.Size(59, 13)
+        Me.Label650N.TabIndex = 15
+        Me.Label650N.Text = "Label650N"
+        '
+        'GroupBox145N
+        '
+        Me.GroupBox145N.Controls.Add(Me.Label663N)
+        Me.GroupBox145N.Controls.Add(Me.PictureBox246N)
+        Me.GroupBox145N.Controls.Add(Me.Label662N)
+        Me.GroupBox145N.Controls.Add(Me.Label661N)
+        Me.GroupBox145N.Controls.Add(Me.PictureBox245N)
+        Me.GroupBox145N.Controls.Add(Me.Label660N)
+        Me.GroupBox145N.ForeColor = System.Drawing.Color.White
+        Me.GroupBox145N.Location = New System.Drawing.Point(408, 118)
+        Me.GroupBox145N.Name = "GroupBox145N"
+        Me.GroupBox145N.Size = New System.Drawing.Size(225, 141)
+        Me.GroupBox145N.TabIndex = 25
+        Me.GroupBox145N.TabStop = false
+        Me.GroupBox145N.Text = "Resistencias disponibles a la tensión"
+        Me.ToolTip1.SetToolTip(Me.GroupBox145N, "Ruptura por bloque de cortante:"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AISC 360-10, J4.3"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"Fluencia por tensión:"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AISC 3"& _ 
+        "60-10, J4.1")
+        '
+        'Label663N
+        '
+        Me.Label663N.AutoSize = true
+        Me.Label663N.Location = New System.Drawing.Point(113, 102)
+        Me.Label663N.Name = "Label663N"
+        Me.Label663N.Size = New System.Drawing.Size(59, 13)
+        Me.Label663N.TabIndex = 25
+        Me.Label663N.Text = "Label663N"
+        '
+        'PictureBox246N
+        '
+        Me.PictureBox246N.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
+        Me.PictureBox246N.Location = New System.Drawing.Point(62, 102)
+        Me.PictureBox246N.Name = "PictureBox246N"
+        Me.PictureBox246N.Size = New System.Drawing.Size(48, 14)
+        Me.PictureBox246N.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
+        Me.PictureBox246N.TabIndex = 24
+        Me.PictureBox246N.TabStop = false
+        '
+        'Label662N
+        '
+        Me.Label662N.AutoSize = true
+        Me.Label662N.Location = New System.Drawing.Point(113, 52)
+        Me.Label662N.Name = "Label662N"
+        Me.Label662N.Size = New System.Drawing.Size(59, 13)
+        Me.Label662N.TabIndex = 16
+        Me.Label662N.Text = "Label662N"
+        '
+        'Label661N
+        '
+        Me.Label661N.AutoSize = true
+        Me.Label661N.Location = New System.Drawing.Point(25, 76)
+        Me.Label661N.Name = "Label661N"
+        Me.Label661N.Size = New System.Drawing.Size(105, 13)
+        Me.Label661N.TabIndex = 23
+        Me.Label661N.Text = "Fluencia por tensión:"
+        '
+        'PictureBox245N
+        '
+        Me.PictureBox245N.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
+        Me.PictureBox245N.Location = New System.Drawing.Point(62, 51)
+        Me.PictureBox245N.Name = "PictureBox245N"
+        Me.PictureBox245N.Size = New System.Drawing.Size(48, 14)
+        Me.PictureBox245N.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
+        Me.PictureBox245N.TabIndex = 15
+        Me.PictureBox245N.TabStop = false
+        '
+        'Label660N
+        '
+        Me.Label660N.AutoSize = true
+        Me.Label660N.Location = New System.Drawing.Point(24, 25)
+        Me.Label660N.Name = "Label660N"
+        Me.Label660N.Size = New System.Drawing.Size(158, 13)
+        Me.Label660N.TabIndex = 22
+        Me.Label660N.Text = "Ruptura por bloque de cortante:"
+        '
+        'GroupBox144N
+        '
+        Me.GroupBox144N.Controls.Add(Me.Label664N)
+        Me.GroupBox144N.Controls.Add(Me.TextBox218N)
+        Me.GroupBox144N.Controls.Add(Me.Label665N)
+        Me.GroupBox144N.Controls.Add(Me.TextBox217N)
+        Me.GroupBox144N.Controls.Add(Me.Label659N)
+        Me.GroupBox144N.Controls.Add(Me.Label658N)
+        Me.GroupBox144N.ForeColor = System.Drawing.Color.White
+        Me.GroupBox144N.Location = New System.Drawing.Point(409, 15)
+        Me.GroupBox144N.Name = "GroupBox144N"
+        Me.GroupBox144N.Size = New System.Drawing.Size(225, 98)
+        Me.GroupBox144N.TabIndex = 24
+        Me.GroupBox144N.TabStop = false
+        Me.GroupBox144N.Text = "Ancho y espesor de la placa"
+        Me.ToolTip1.SetToolTip(Me.GroupBox144N, "AISC Manual Pt. 9")
+        '
+        'Label664N
+        '
+        Me.Label664N.AutoSize = true
+        Me.Label664N.Location = New System.Drawing.Point(127, 31)
+        Me.Label664N.Name = "Label664N"
+        Me.Label664N.Size = New System.Drawing.Size(59, 13)
+        Me.Label664N.TabIndex = 20
+        Me.Label664N.Text = "Label664N"
+        '
+        'TextBox218N
+        '
+        Me.TextBox218N.Location = New System.Drawing.Point(87, 57)
+        Me.TextBox218N.Name = "TextBox218N"
+        Me.TextBox218N.Size = New System.Drawing.Size(35, 20)
+        Me.TextBox218N.TabIndex = 19
+        '
+        'Label665N
+        '
+        Me.Label665N.AutoSize = true
+        Me.Label665N.Location = New System.Drawing.Point(127, 60)
+        Me.Label665N.Name = "Label665N"
+        Me.Label665N.Size = New System.Drawing.Size(59, 13)
+        Me.Label665N.TabIndex = 18
+        Me.Label665N.Text = "Label665N"
+        '
+        'TextBox217N
+        '
+        Me.TextBox217N.Location = New System.Drawing.Point(87, 28)
+        Me.TextBox217N.Name = "TextBox217N"
+        Me.TextBox217N.Size = New System.Drawing.Size(35, 20)
+        Me.TextBox217N.TabIndex = 17
+        '
+        'Label659N
+        '
+        Me.Label659N.AutoSize = true
+        Me.Label659N.Location = New System.Drawing.Point(42, 31)
+        Me.Label659N.Name = "Label659N"
+        Me.Label659N.Size = New System.Drawing.Size(41, 13)
+        Me.Label659N.TabIndex = 16
+        Me.Label659N.Text = "Ancho:"
+        '
+        'Label658N
+        '
+        Me.Label658N.AutoSize = true
+        Me.Label658N.Location = New System.Drawing.Point(35, 60)
+        Me.Label658N.Name = "Label658N"
+        Me.Label658N.Size = New System.Drawing.Size(48, 13)
+        Me.Label658N.TabIndex = 15
+        Me.Label658N.Text = "Espesor:"
+        '
+        'GroupBox143N
+        '
+        Me.GroupBox143N.Controls.Add(Me.Label656N)
+        Me.GroupBox143N.Controls.Add(Me.PictureBox244N)
+        Me.GroupBox143N.Controls.Add(Me.Label655N)
+        Me.GroupBox143N.Controls.Add(Me.TextBox216N)
+        Me.GroupBox143N.Controls.Add(Me.Label654N)
+        Me.GroupBox143N.Controls.Add(Me.Label653N)
+        Me.GroupBox143N.Controls.Add(Me.Label652N)
+        Me.GroupBox143N.Controls.Add(Me.TextBox215N)
+        Me.GroupBox143N.Controls.Add(Me.Label651N)
+        Me.GroupBox143N.Controls.Add(Me.Label649N)
+        Me.GroupBox143N.Controls.Add(Me.PictureBox243N)
+        Me.GroupBox143N.Controls.Add(Me.Label648N)
+        Me.GroupBox143N.ForeColor = System.Drawing.Color.White
+        Me.GroupBox143N.Location = New System.Drawing.Point(201, 15)
+        Me.GroupBox143N.Name = "GroupBox143N"
+        Me.GroupBox143N.Size = New System.Drawing.Size(200, 245)
+        Me.GroupBox143N.TabIndex = 23
+        Me.GroupBox143N.TabStop = false
+        Me.GroupBox143N.Text = "Soldaduras"
+        Me.ToolTip1.SetToolTip(Me.GroupBox143N, "Carga requerida:"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AISC 341-10, F2.6c"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"Diseño de la soldadura:"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AICS 360-10, J2.4")
+        '
+        'Label656N
+        '
+        Me.Label656N.AutoSize = true
+        Me.Label656N.Location = New System.Drawing.Point(82, 213)
+        Me.Label656N.Name = "Label656N"
+        Me.Label656N.Size = New System.Drawing.Size(62, 13)
+        Me.Label656N.TabIndex = 14
+        Me.Label656N.Text = " Label656N"
+        '
+        'PictureBox244N
+        '
+        Me.PictureBox244N.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
+        Me.PictureBox244N.Location = New System.Drawing.Point(32, 213)
+        Me.PictureBox244N.Name = "PictureBox244N"
+        Me.PictureBox244N.Size = New System.Drawing.Size(48, 14)
+        Me.PictureBox244N.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
+        Me.PictureBox244N.TabIndex = 13
+        Me.PictureBox244N.TabStop = false
+        '
+        'Label655N
+        '
+        Me.Label655N.Location = New System.Drawing.Point(21, 176)
+        Me.Label655N.Name = "Label655N"
+        Me.Label655N.Size = New System.Drawing.Size(163, 28)
+        Me.Label655N.TabIndex = 12
+        Me.Label655N.Text = "Resistencia disponible de las soldaduras:"
+        '
+        'TextBox216N
+        '
+        Me.TextBox216N.Location = New System.Drawing.Point(45, 148)
+        Me.TextBox216N.Name = "TextBox216N"
+        Me.TextBox216N.Size = New System.Drawing.Size(35, 20)
+        Me.TextBox216N.TabIndex = 11
+        '
+        'Label654N
+        '
+        Me.Label654N.AutoSize = true
+        Me.Label654N.Location = New System.Drawing.Point(82, 152)
+        Me.Label654N.Name = "Label654N"
+        Me.Label654N.Size = New System.Drawing.Size(59, 13)
+        Me.Label654N.TabIndex = 10
+        Me.Label654N.Text = "Label654N"
+        '
+        'Label653N
+        '
+        Me.Label653N.AutoSize = true
+        Me.Label653N.Location = New System.Drawing.Point(21, 126)
+        Me.Label653N.Name = "Label653N"
+        Me.Label653N.Size = New System.Drawing.Size(136, 13)
+        Me.Label653N.TabIndex = 9
+        Me.Label653N.Text = "Longitud de las soldaduras:"
+        '
+        'Label652N
+        '
+        Me.Label652N.AutoSize = true
+        Me.Label652N.Location = New System.Drawing.Point(82, 100)
+        Me.Label652N.Name = "Label652N"
+        Me.Label652N.Size = New System.Drawing.Size(59, 13)
+        Me.Label652N.TabIndex = 8
+        Me.Label652N.Text = "Label652N"
+        '
+        'TextBox215N
+        '
+        Me.TextBox215N.Location = New System.Drawing.Point(45, 96)
+        Me.TextBox215N.Name = "TextBox215N"
+        Me.TextBox215N.Size = New System.Drawing.Size(35, 20)
+        Me.TextBox215N.TabIndex = 7
+        '
+        'Label651N
+        '
+        Me.Label651N.AutoSize = true
+        Me.Label651N.Location = New System.Drawing.Point(21, 74)
+        Me.Label651N.Name = "Label651N"
+        Me.Label651N.Size = New System.Drawing.Size(134, 13)
+        Me.Label651N.TabIndex = 6
+        Me.Label651N.Text = "Tamaño de las soldaduras:"
+        '
+        'Label649N
+        '
+        Me.Label649N.AutoSize = true
+        Me.Label649N.Location = New System.Drawing.Point(82, 50)
+        Me.Label649N.Name = "Label649N"
+        Me.Label649N.Size = New System.Drawing.Size(59, 13)
+        Me.Label649N.TabIndex = 2
+        Me.Label649N.Text = "Label649N"
+        '
+        'PictureBox243N
+        '
+        Me.PictureBox243N.Image = Global.WindowsApplication1.My.Resources.Resources.Tublancoigual
+        Me.PictureBox243N.Location = New System.Drawing.Point(45, 50)
+        Me.PictureBox243N.Name = "PictureBox243N"
+        Me.PictureBox243N.Size = New System.Drawing.Size(35, 14)
+        Me.PictureBox243N.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
+        Me.PictureBox243N.TabIndex = 1
+        Me.PictureBox243N.TabStop = false
+        '
+        'Label648N
+        '
+        Me.Label648N.AutoSize = true
+        Me.Label648N.Location = New System.Drawing.Point(21, 24)
+        Me.Label648N.Name = "Label648N"
+        Me.Label648N.Size = New System.Drawing.Size(137, 13)
+        Me.Label648N.TabIndex = 0
+        Me.Label648N.Text = "Carga de tensión requerida:"
+        '
+        'PictureBox242N
+        '
+        Me.PictureBox242N.Image = Global.WindowsApplication1.My.Resources.Resources.LapMin
+        Me.PictureBox242N.Location = New System.Drawing.Point(3, 35)
+        Me.PictureBox242N.Name = "PictureBox242N"
+        Me.PictureBox242N.Size = New System.Drawing.Size(200, 200)
+        Me.PictureBox242N.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
+        Me.PictureBox242N.TabIndex = 22
+        Me.PictureBox242N.TabStop = false
+        Me.ToolTip1.SetToolTip(Me.PictureBox242N, "AISC 341-10, A3.2")
+        '
+        'TabPage9
+        '
+        Me.TabPage9.AutoScroll = true
+        Me.TabPage9.BackColor = System.Drawing.Color.FromArgb(CType(CType(68,Byte),Integer), CType(CType(77,Byte),Integer), CType(CType(83,Byte),Integer))
+        Me.TabPage9.Controls.Add(Me.GroupBox96)
+        Me.TabPage9.Controls.Add(Me.GroupBox92)
+        Me.TabPage9.Controls.Add(Me.GroupBox88)
+        Me.TabPage9.Location = New System.Drawing.Point(4, 22)
+        Me.TabPage9.Name = "TabPage9"
+        Me.TabPage9.Padding = New System.Windows.Forms.Padding(3)
+        Me.TabPage9.Size = New System.Drawing.Size(635, 670)
+        Me.TabPage9.TabIndex = 1
+        Me.TabPage9.Text = "Conexión Viga-Columna"
+        '
+        'GroupBox96
+        '
+        Me.GroupBox96.Controls.Add(Me.GroupBox99)
+        Me.GroupBox96.Controls.Add(Me.GroupBox97)
+        Me.GroupBox96.Controls.Add(Me.Label438)
+        Me.GroupBox96.Controls.Add(Me.GroupBox98)
+        Me.GroupBox96.Controls.Add(Me.Label435)
+        Me.GroupBox96.Controls.Add(Me.Label436)
+        Me.GroupBox96.Controls.Add(Me.Label437)
+        Me.GroupBox96.Controls.Add(Me.PictureBox225)
+        Me.GroupBox96.ForeColor = System.Drawing.Color.White
+        Me.GroupBox96.Location = New System.Drawing.Point(6, 791)
+        Me.GroupBox96.Name = "GroupBox96"
+        Me.GroupBox96.Size = New System.Drawing.Size(750, 400)
+        Me.GroupBox96.TabIndex = 2
+        Me.GroupBox96.TabStop = false
+        Me.GroupBox96.Text = "Conexión entre la placa gusset y el patín de la columna"
+        '
+        'GroupBox99
+        '
+        Me.GroupBox99.Controls.Add(Me.Label654)
+        Me.GroupBox99.Controls.Add(Me.Label655)
+        Me.GroupBox99.Controls.Add(Me.Label656)
+        Me.GroupBox99.Controls.Add(Me.Label657)
+        Me.GroupBox99.Controls.Add(Me.Label658)
+        Me.GroupBox99.Controls.Add(Me.Label659)
+        Me.GroupBox99.Controls.Add(Me.Label440)
+        Me.GroupBox99.Controls.Add(Me.PictureBox226)
+        Me.GroupBox99.Controls.Add(Me.Label441)
+        Me.GroupBox99.Controls.Add(Me.Label442)
+        Me.GroupBox99.Controls.Add(Me.PictureBox227)
+        Me.GroupBox99.Controls.Add(Me.Label443)
+        Me.GroupBox99.ForeColor = System.Drawing.Color.White
+        Me.GroupBox99.Location = New System.Drawing.Point(298, 235)
+        Me.GroupBox99.Name = "GroupBox99"
+        Me.GroupBox99.Size = New System.Drawing.Size(409, 150)
+        Me.GroupBox99.TabIndex = 21
+        Me.GroupBox99.TabStop = false
+        Me.GroupBox99.Text = "Placa gusset"
+        Me.ToolTip1.SetToolTip(Me.GroupBox99, "AISC 360-10, J4.1"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AISC 360-10, J4.2")
+        '
+        'Label654
+        '
+        Me.Label654.AutoSize = true
+        Me.Label654.Location = New System.Drawing.Point(71, 118)
+        Me.Label654.Name = "Label654"
+        Me.Label654.Size = New System.Drawing.Size(51, 13)
+        Me.Label654.TabIndex = 34
+        Me.Label654.Text = "Label654"
+        '
+        'Label655
+        '
+        Me.Label655.AutoSize = true
+        Me.Label655.Location = New System.Drawing.Point(43, 118)
+        Me.Label655.Name = "Label655"
+        Me.Label655.Size = New System.Drawing.Size(27, 13)
+        Me.Label655.TabIndex = 33
+        Me.Label655.Text = "Ru="
+        '
+        'Label656
+        '
+        Me.Label656.AutoSize = true
+        Me.Label656.Location = New System.Drawing.Point(19, 90)
+        Me.Label656.Name = "Label656"
+        Me.Label656.Size = New System.Drawing.Size(137, 13)
+        Me.Label656.TabIndex = 32
+        Me.Label656.Text = "Carga de tensión requerida:"
+        '
+        'Label657
+        '
+        Me.Label657.AutoSize = true
+        Me.Label657.Location = New System.Drawing.Point(71, 61)
+        Me.Label657.Name = "Label657"
+        Me.Label657.Size = New System.Drawing.Size(51, 13)
+        Me.Label657.TabIndex = 31
+        Me.Label657.Text = "Label657"
+        '
+        'Label658
+        '
+        Me.Label658.AutoSize = true
+        Me.Label658.Location = New System.Drawing.Point(43, 61)
+        Me.Label658.Name = "Label658"
+        Me.Label658.Size = New System.Drawing.Size(27, 13)
+        Me.Label658.TabIndex = 30
+        Me.Label658.Text = "Ru="
+        '
+        'Label659
+        '
+        Me.Label659.AutoSize = true
+        Me.Label659.Location = New System.Drawing.Point(19, 33)
+        Me.Label659.Name = "Label659"
+        Me.Label659.Size = New System.Drawing.Size(142, 13)
+        Me.Label659.TabIndex = 29
+        Me.Label659.Text = "Carga de cortante requerida:"
+        '
+        'Label440
+        '
+        Me.Label440.AutoSize = true
+        Me.Label440.Location = New System.Drawing.Point(316, 119)
+        Me.Label440.Name = "Label440"
+        Me.Label440.Size = New System.Drawing.Size(51, 13)
+        Me.Label440.TabIndex = 18
+        Me.Label440.Text = "Label440"
+        '
+        'PictureBox226
+        '
+        Me.PictureBox226.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
+        Me.PictureBox226.Location = New System.Drawing.Point(263, 119)
+        Me.PictureBox226.Name = "PictureBox226"
+        Me.PictureBox226.Size = New System.Drawing.Size(48, 14)
+        Me.PictureBox226.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
+        Me.PictureBox226.TabIndex = 19
+        Me.PictureBox226.TabStop = false
+        '
+        'Label441
+        '
+        Me.Label441.AutoSize = true
+        Me.Label441.Location = New System.Drawing.Point(233, 90)
+        Me.Label441.Name = "Label441"
+        Me.Label441.Size = New System.Drawing.Size(102, 13)
+        Me.Label441.TabIndex = 17
+        Me.Label441.Text = "Fluencia por tensión"
+        '
+        'Label442
+        '
+        Me.Label442.AutoSize = true
+        Me.Label442.Location = New System.Drawing.Point(316, 61)
+        Me.Label442.Name = "Label442"
+        Me.Label442.Size = New System.Drawing.Size(51, 13)
+        Me.Label442.TabIndex = 15
+        Me.Label442.Text = "Label442"
+        '
+        'PictureBox227
+        '
+        Me.PictureBox227.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
+        Me.PictureBox227.Location = New System.Drawing.Point(263, 61)
+        Me.PictureBox227.Name = "PictureBox227"
+        Me.PictureBox227.Size = New System.Drawing.Size(48, 14)
+        Me.PictureBox227.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
+        Me.PictureBox227.TabIndex = 16
+        Me.PictureBox227.TabStop = false
+        '
+        'Label443
+        '
+        Me.Label443.AutoSize = true
+        Me.Label443.Location = New System.Drawing.Point(233, 33)
+        Me.Label443.Name = "Label443"
+        Me.Label443.Size = New System.Drawing.Size(107, 13)
+        Me.Label443.TabIndex = 0
+        Me.Label443.Text = "Fluencia por cortante"
+        '
+        'GroupBox97
+        '
+        Me.GroupBox97.Controls.Add(Me.Label645)
+        Me.GroupBox97.Controls.Add(Me.Label646)
+        Me.GroupBox97.Controls.Add(Me.Label647)
+        Me.GroupBox97.Controls.Add(Me.Label420)
+        Me.GroupBox97.Controls.Add(Me.PictureBox222)
+        Me.GroupBox97.Controls.Add(Me.Label421)
+        Me.GroupBox97.Controls.Add(Me.Label422)
+        Me.GroupBox97.Controls.Add(Me.PictureBox223)
+        Me.GroupBox97.Controls.Add(Me.Label423)
+        Me.GroupBox97.ForeColor = System.Drawing.Color.White
+        Me.GroupBox97.Location = New System.Drawing.Point(507, 19)
+        Me.GroupBox97.Name = "GroupBox97"
+        Me.GroupBox97.Size = New System.Drawing.Size(200, 210)
+        Me.GroupBox97.TabIndex = 6
+        Me.GroupBox97.TabStop = false
+        Me.GroupBox97.Text = "Columna"
+        Me.ToolTip1.SetToolTip(Me.GroupBox97, "AISC 360-10, J10.2"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AISC 360-10, J10.3")
+        '
+        'Label645
+        '
+        Me.Label645.AutoSize = true
+        Me.Label645.Location = New System.Drawing.Point(77, 51)
+        Me.Label645.Name = "Label645"
+        Me.Label645.Size = New System.Drawing.Size(51, 13)
+        Me.Label645.TabIndex = 25
+        Me.Label645.Text = "Label645"
+        '
+        'Label646
+        '
+        Me.Label646.AutoSize = true
+        Me.Label646.Location = New System.Drawing.Point(49, 51)
+        Me.Label646.Name = "Label646"
+        Me.Label646.Size = New System.Drawing.Size(27, 13)
+        Me.Label646.TabIndex = 24
+        Me.Label646.Text = "Ru="
+        '
+        'Label647
+        '
+        Me.Label647.AutoSize = true
+        Me.Label647.Location = New System.Drawing.Point(25, 23)
+        Me.Label647.Name = "Label647"
+        Me.Label647.Size = New System.Drawing.Size(119, 13)
+        Me.Label647.TabIndex = 23
+        Me.Label647.Text = "Carga normal requerida:"
+        '
+        'Label420
+        '
+        Me.Label420.AutoSize = true
+        Me.Label420.Location = New System.Drawing.Point(107, 155)
+        Me.Label420.Name = "Label420"
+        Me.Label420.Size = New System.Drawing.Size(51, 13)
+        Me.Label420.TabIndex = 18
+        Me.Label420.Text = "Label420"
+        '
+        'PictureBox222
+        '
+        Me.PictureBox222.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
+        Me.PictureBox222.Location = New System.Drawing.Point(54, 155)
+        Me.PictureBox222.Name = "PictureBox222"
+        Me.PictureBox222.Size = New System.Drawing.Size(48, 14)
+        Me.PictureBox222.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
+        Me.PictureBox222.TabIndex = 19
+        Me.PictureBox222.TabStop = false
+        '
+        'Label421
+        '
+        Me.Label421.AutoSize = true
+        Me.Label421.Location = New System.Drawing.Point(24, 126)
+        Me.Label421.Name = "Label421"
+        Me.Label421.Size = New System.Drawing.Size(143, 13)
+        Me.Label421.TabIndex = 17
+        Me.Label421.Text = "Aplastamiento local del alma:"
+        '
+        'Label422
+        '
+        Me.Label422.AutoSize = true
+        Me.Label422.Location = New System.Drawing.Point(107, 97)
+        Me.Label422.Name = "Label422"
+        Me.Label422.Size = New System.Drawing.Size(51, 13)
+        Me.Label422.TabIndex = 15
+        Me.Label422.Text = "Label422"
+        '
+        'PictureBox223
+        '
+        Me.PictureBox223.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
+        Me.PictureBox223.Location = New System.Drawing.Point(54, 97)
+        Me.PictureBox223.Name = "PictureBox223"
+        Me.PictureBox223.Size = New System.Drawing.Size(48, 14)
+        Me.PictureBox223.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
+        Me.PictureBox223.TabIndex = 16
+        Me.PictureBox223.TabStop = false
+        '
+        'Label423
+        '
+        Me.Label423.AutoSize = true
+        Me.Label423.Location = New System.Drawing.Point(24, 69)
+        Me.Label423.Name = "Label423"
+        Me.Label423.Size = New System.Drawing.Size(117, 13)
+        Me.Label423.TabIndex = 0
+        Me.Label423.Text = "Fluencia local del alma:"
+        '
+        'Label438
+        '
+        Me.Label438.AutoSize = true
+        Me.Label438.Location = New System.Drawing.Point(56, 106)
+        Me.Label438.Name = "Label438"
+        Me.Label438.Size = New System.Drawing.Size(51, 13)
+        Me.Label438.TabIndex = 7
+        Me.Label438.Text = "Label438"
+        '
+        'GroupBox98
+        '
+        Me.GroupBox98.Controls.Add(Me.Label444)
+        Me.GroupBox98.Controls.Add(Me.Label445)
+        Me.GroupBox98.Controls.Add(Me.Label446)
+        Me.GroupBox98.Controls.Add(Me.Label424)
+        Me.GroupBox98.Controls.Add(Me.Label425)
+        Me.GroupBox98.Controls.Add(Me.Label426)
+        Me.GroupBox98.Controls.Add(Me.Label427)
+        Me.GroupBox98.Controls.Add(Me.TextBox223)
+        Me.GroupBox98.Controls.Add(Me.Label428)
+        Me.GroupBox98.Controls.Add(Me.Label429)
+        Me.GroupBox98.ForeColor = System.Drawing.Color.White
+        Me.GroupBox98.Location = New System.Drawing.Point(298, 19)
+        Me.GroupBox98.Name = "GroupBox98"
+        Me.GroupBox98.Size = New System.Drawing.Size(200, 210)
+        Me.GroupBox98.TabIndex = 5
+        Me.GroupBox98.TabStop = false
+        Me.GroupBox98.Text = "Soldadura"
+        Me.ToolTip1.SetToolTip(Me.GroupBox98, "Diseño de la soldadura: "&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AICS 360-10, J2.4")
+        '
+        'Label444
+        '
+        Me.Label444.AutoSize = true
+        Me.Label444.Location = New System.Drawing.Point(61, 93)
+        Me.Label444.Name = "Label444"
+        Me.Label444.Size = New System.Drawing.Size(51, 13)
+        Me.Label444.TabIndex = 13
+        Me.Label444.Text = "Label444"
+        '
+        'Label445
+        '
+        Me.Label445.AutoSize = true
+        Me.Label445.Location = New System.Drawing.Point(31, 93)
+        Me.Label445.Name = "Label445"
+        Me.Label445.Size = New System.Drawing.Size(27, 13)
+        Me.Label445.TabIndex = 12
+        Me.Label445.Text = "Lw="
+        '
+        'Label446
+        '
+        Me.Label446.AutoSize = true
+        Me.Label446.Location = New System.Drawing.Point(10, 69)
+        Me.Label446.Name = "Label446"
+        Me.Label446.Size = New System.Drawing.Size(115, 13)
+        Me.Label446.TabIndex = 11
+        Me.Label446.Text = "Longitud de soldadura:"
+        '
+        'Label424
+        '
+        Me.Label424.AutoSize = true
+        Me.Label424.Location = New System.Drawing.Point(61, 47)
+        Me.Label424.Name = "Label424"
+        Me.Label424.Size = New System.Drawing.Size(51, 13)
+        Me.Label424.TabIndex = 10
+        Me.Label424.Text = "Label424"
+        '
+        'Label425
+        '
+        Me.Label425.AutoSize = true
+        Me.Label425.Location = New System.Drawing.Point(31, 47)
+        Me.Label425.Name = "Label425"
+        Me.Label425.Size = New System.Drawing.Size(27, 13)
+        Me.Label425.TabIndex = 9
+        Me.Label425.Text = "Ru="
+        '
+        'Label426
+        '
+        Me.Label426.AutoSize = true
+        Me.Label426.Location = New System.Drawing.Point(10, 23)
+        Me.Label426.Name = "Label426"
+        Me.Label426.Size = New System.Drawing.Size(85, 13)
+        Me.Label426.TabIndex = 8
+        Me.Label426.Text = "Carga requerida:"
+        '
+        'Label427
+        '
+        Me.Label427.AutoSize = true
+        Me.Label427.Location = New System.Drawing.Point(95, 147)
+        Me.Label427.Name = "Label427"
+        Me.Label427.Size = New System.Drawing.Size(51, 13)
+        Me.Label427.TabIndex = 7
+        Me.Label427.Text = "Label427"
+        '
+        'TextBox223
+        '
+        Me.TextBox223.Location = New System.Drawing.Point(55, 143)
+        Me.TextBox223.Name = "TextBox223"
+        Me.TextBox223.Size = New System.Drawing.Size(40, 20)
+        Me.TextBox223.TabIndex = 6
+        '
+        'Label428
+        '
+        Me.Label428.AutoSize = true
+        Me.Label428.Location = New System.Drawing.Point(33, 147)
+        Me.Label428.Name = "Label428"
+        Me.Label428.Size = New System.Drawing.Size(21, 13)
+        Me.Label428.TabIndex = 5
+        Me.Label428.Text = "D="
+        '
+        'Label429
+        '
+        Me.Label429.AutoSize = true
+        Me.Label429.Location = New System.Drawing.Point(10, 117)
+        Me.Label429.Name = "Label429"
+        Me.Label429.Size = New System.Drawing.Size(130, 13)
+        Me.Label429.TabIndex = 4
+        Me.Label429.Text = "Dieciseisavos propuestos:"
+        '
+        'Label435
+        '
+        Me.Label435.AutoSize = true
+        Me.Label435.Location = New System.Drawing.Point(82, 303)
+        Me.Label435.Name = "Label435"
+        Me.Label435.Size = New System.Drawing.Size(112, 13)
+        Me.Label435.TabIndex = 3
+        Me.Label435.Text = "Cargas en la conexión"
+        '
+        'Label436
+        '
+        Me.Label436.AutoSize = true
+        Me.Label436.Location = New System.Drawing.Point(201, 185)
+        Me.Label436.Name = "Label436"
+        Me.Label436.Size = New System.Drawing.Size(51, 13)
+        Me.Label436.TabIndex = 2
+        Me.Label436.Text = "Label436"
+        '
+        'Label437
+        '
+        Me.Label437.AutoSize = true
+        Me.Label437.Location = New System.Drawing.Point(158, 144)
+        Me.Label437.Name = "Label437"
+        Me.Label437.Size = New System.Drawing.Size(51, 13)
+        Me.Label437.TabIndex = 1
+        Me.Label437.Text = "Label437"
+        '
+        'PictureBox225
+        '
+        Me.PictureBox225.Image = Global.WindowsApplication1.My.Resources.Resources.CargasGC7
+        Me.PictureBox225.Location = New System.Drawing.Point(13, 46)
+        Me.PictureBox225.Name = "PictureBox225"
+        Me.PictureBox225.Size = New System.Drawing.Size(250, 250)
+        Me.PictureBox225.TabIndex = 0
+        Me.PictureBox225.TabStop = false
+        Me.ToolTip1.SetToolTip(Me.PictureBox225, "AISC MANUAL, Pt. 13")
+        '
+        'GroupBox92
+        '
+        Me.GroupBox92.Controls.Add(Me.GroupBox95)
+        Me.GroupBox92.Controls.Add(Me.Label439)
+        Me.GroupBox92.Controls.Add(Me.GroupBox93)
+        Me.GroupBox92.Controls.Add(Me.GroupBox94)
+        Me.GroupBox92.Controls.Add(Me.Label417)
+        Me.GroupBox92.Controls.Add(Me.Label418)
+        Me.GroupBox92.Controls.Add(Me.Label419)
+        Me.GroupBox92.Controls.Add(Me.PictureBox221)
+        Me.GroupBox92.ForeColor = System.Drawing.Color.White
+        Me.GroupBox92.Location = New System.Drawing.Point(6, 386)
+        Me.GroupBox92.Name = "GroupBox92"
+        Me.GroupBox92.Size = New System.Drawing.Size(750, 400)
+        Me.GroupBox92.TabIndex = 1
+        Me.GroupBox92.TabStop = false
+        Me.GroupBox92.Text = "Conexión entre la placa gusset y el patín de la porción de viga"
+        '
+        'GroupBox95
+        '
+        Me.GroupBox95.Controls.Add(Me.Label651)
+        Me.GroupBox95.Controls.Add(Me.Label652)
+        Me.GroupBox95.Controls.Add(Me.Label653)
+        Me.GroupBox95.Controls.Add(Me.Label648)
+        Me.GroupBox95.Controls.Add(Me.Label649)
+        Me.GroupBox95.Controls.Add(Me.Label650)
+        Me.GroupBox95.Controls.Add(Me.Label415)
+        Me.GroupBox95.Controls.Add(Me.PictureBox220)
+        Me.GroupBox95.Controls.Add(Me.Label416)
+        Me.GroupBox95.Controls.Add(Me.Label433)
+        Me.GroupBox95.Controls.Add(Me.PictureBox224)
+        Me.GroupBox95.Controls.Add(Me.Label434)
+        Me.GroupBox95.ForeColor = System.Drawing.Color.White
+        Me.GroupBox95.Location = New System.Drawing.Point(298, 235)
+        Me.GroupBox95.Name = "GroupBox95"
+        Me.GroupBox95.Size = New System.Drawing.Size(409, 150)
+        Me.GroupBox95.TabIndex = 20
+        Me.GroupBox95.TabStop = false
+        Me.GroupBox95.Text = "Placa gusset"
+        Me.ToolTip1.SetToolTip(Me.GroupBox95, "AISC 360-10, J4.1"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AISC 360-10, J4.2")
+        '
+        'Label651
+        '
+        Me.Label651.AutoSize = true
+        Me.Label651.Location = New System.Drawing.Point(66, 115)
+        Me.Label651.Name = "Label651"
+        Me.Label651.Size = New System.Drawing.Size(51, 13)
+        Me.Label651.TabIndex = 28
+        Me.Label651.Text = "Label651"
+        '
+        'Label652
+        '
+        Me.Label652.AutoSize = true
+        Me.Label652.Location = New System.Drawing.Point(38, 115)
+        Me.Label652.Name = "Label652"
+        Me.Label652.Size = New System.Drawing.Size(27, 13)
+        Me.Label652.TabIndex = 27
+        Me.Label652.Text = "Ru="
+        '
+        'Label653
+        '
+        Me.Label653.AutoSize = true
+        Me.Label653.Location = New System.Drawing.Point(14, 87)
+        Me.Label653.Name = "Label653"
+        Me.Label653.Size = New System.Drawing.Size(137, 13)
+        Me.Label653.TabIndex = 26
+        Me.Label653.Text = "Carga de tensión requerida:"
+        '
+        'Label648
+        '
+        Me.Label648.AutoSize = true
+        Me.Label648.Location = New System.Drawing.Point(66, 58)
+        Me.Label648.Name = "Label648"
+        Me.Label648.Size = New System.Drawing.Size(51, 13)
+        Me.Label648.TabIndex = 25
+        Me.Label648.Text = "Label648"
+        '
+        'Label649
+        '
+        Me.Label649.AutoSize = true
+        Me.Label649.Location = New System.Drawing.Point(38, 58)
+        Me.Label649.Name = "Label649"
+        Me.Label649.Size = New System.Drawing.Size(27, 13)
+        Me.Label649.TabIndex = 24
+        Me.Label649.Text = "Ru="
+        '
+        'Label650
+        '
+        Me.Label650.AutoSize = true
+        Me.Label650.Location = New System.Drawing.Point(14, 30)
+        Me.Label650.Name = "Label650"
+        Me.Label650.Size = New System.Drawing.Size(142, 13)
+        Me.Label650.TabIndex = 23
+        Me.Label650.Text = "Carga de cortante requerida:"
+        '
+        'Label415
+        '
+        Me.Label415.AutoSize = true
+        Me.Label415.Location = New System.Drawing.Point(316, 116)
+        Me.Label415.Name = "Label415"
+        Me.Label415.Size = New System.Drawing.Size(51, 13)
+        Me.Label415.TabIndex = 18
+        Me.Label415.Text = "Label415"
+        '
+        'PictureBox220
+        '
+        Me.PictureBox220.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
+        Me.PictureBox220.Location = New System.Drawing.Point(263, 116)
+        Me.PictureBox220.Name = "PictureBox220"
+        Me.PictureBox220.Size = New System.Drawing.Size(48, 14)
+        Me.PictureBox220.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
+        Me.PictureBox220.TabIndex = 19
+        Me.PictureBox220.TabStop = false
+        '
+        'Label416
+        '
+        Me.Label416.AutoSize = true
+        Me.Label416.Location = New System.Drawing.Point(233, 87)
+        Me.Label416.Name = "Label416"
+        Me.Label416.Size = New System.Drawing.Size(102, 13)
+        Me.Label416.TabIndex = 17
+        Me.Label416.Text = "Fluencia por tensión"
+        '
+        'Label433
+        '
+        Me.Label433.AutoSize = true
+        Me.Label433.Location = New System.Drawing.Point(316, 58)
+        Me.Label433.Name = "Label433"
+        Me.Label433.Size = New System.Drawing.Size(51, 13)
+        Me.Label433.TabIndex = 15
+        Me.Label433.Text = "Label433"
+        '
+        'PictureBox224
+        '
+        Me.PictureBox224.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
+        Me.PictureBox224.Location = New System.Drawing.Point(263, 58)
+        Me.PictureBox224.Name = "PictureBox224"
+        Me.PictureBox224.Size = New System.Drawing.Size(48, 14)
+        Me.PictureBox224.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
+        Me.PictureBox224.TabIndex = 16
+        Me.PictureBox224.TabStop = false
+        '
+        'Label434
+        '
+        Me.Label434.AutoSize = true
+        Me.Label434.Location = New System.Drawing.Point(234, 30)
+        Me.Label434.Name = "Label434"
+        Me.Label434.Size = New System.Drawing.Size(110, 13)
+        Me.Label434.TabIndex = 0
+        Me.Label434.Text = "Fluencia por cortante:"
+        '
+        'Label439
+        '
+        Me.Label439.AutoSize = true
+        Me.Label439.Location = New System.Drawing.Point(51, 146)
+        Me.Label439.Name = "Label439"
+        Me.Label439.Size = New System.Drawing.Size(51, 13)
+        Me.Label439.TabIndex = 7
+        Me.Label439.Text = "Label439"
+        '
+        'GroupBox93
+        '
+        Me.GroupBox93.Controls.Add(Me.Label642)
+        Me.GroupBox93.Controls.Add(Me.Label643)
+        Me.GroupBox93.Controls.Add(Me.Label644)
+        Me.GroupBox93.Controls.Add(Me.Label402)
+        Me.GroupBox93.Controls.Add(Me.PictureBox218)
+        Me.GroupBox93.Controls.Add(Me.Label403)
+        Me.GroupBox93.Controls.Add(Me.Label404)
+        Me.GroupBox93.Controls.Add(Me.PictureBox219)
+        Me.GroupBox93.Controls.Add(Me.Label405)
+        Me.GroupBox93.ForeColor = System.Drawing.Color.White
+        Me.GroupBox93.Location = New System.Drawing.Point(507, 18)
+        Me.GroupBox93.Name = "GroupBox93"
+        Me.GroupBox93.Size = New System.Drawing.Size(200, 210)
+        Me.GroupBox93.TabIndex = 6
+        Me.GroupBox93.TabStop = false
+        Me.GroupBox93.Text = "Porción de viga"
+        Me.ToolTip1.SetToolTip(Me.GroupBox93, "AISC 360-10, J10.2"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AISC 360-10, J10.3")
+        '
+        'Label642
+        '
+        Me.Label642.AutoSize = true
+        Me.Label642.Location = New System.Drawing.Point(77, 55)
+        Me.Label642.Name = "Label642"
+        Me.Label642.Size = New System.Drawing.Size(51, 13)
+        Me.Label642.TabIndex = 22
+        Me.Label642.Text = "Label642"
+        '
+        'Label643
+        '
+        Me.Label643.AutoSize = true
+        Me.Label643.Location = New System.Drawing.Point(49, 55)
+        Me.Label643.Name = "Label643"
+        Me.Label643.Size = New System.Drawing.Size(27, 13)
+        Me.Label643.TabIndex = 21
+        Me.Label643.Text = "Ru="
+        '
+        'Label644
+        '
+        Me.Label644.AutoSize = true
+        Me.Label644.Location = New System.Drawing.Point(25, 27)
+        Me.Label644.Name = "Label644"
+        Me.Label644.Size = New System.Drawing.Size(119, 13)
+        Me.Label644.TabIndex = 20
+        Me.Label644.Text = "Carga normal requerida:"
+        '
+        'Label402
+        '
+        Me.Label402.AutoSize = true
+        Me.Label402.Location = New System.Drawing.Point(107, 173)
+        Me.Label402.Name = "Label402"
+        Me.Label402.Size = New System.Drawing.Size(51, 13)
+        Me.Label402.TabIndex = 18
+        Me.Label402.Text = "Label402"
+        '
+        'PictureBox218
+        '
+        Me.PictureBox218.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
+        Me.PictureBox218.Location = New System.Drawing.Point(54, 173)
+        Me.PictureBox218.Name = "PictureBox218"
+        Me.PictureBox218.Size = New System.Drawing.Size(48, 14)
+        Me.PictureBox218.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
+        Me.PictureBox218.TabIndex = 19
+        Me.PictureBox218.TabStop = false
+        '
+        'Label403
+        '
+        Me.Label403.AutoSize = true
+        Me.Label403.Location = New System.Drawing.Point(24, 144)
+        Me.Label403.Name = "Label403"
+        Me.Label403.Size = New System.Drawing.Size(143, 13)
+        Me.Label403.TabIndex = 17
+        Me.Label403.Text = "Aplastamiento local del alma:"
+        '
+        'Label404
+        '
+        Me.Label404.AutoSize = true
+        Me.Label404.Location = New System.Drawing.Point(107, 115)
+        Me.Label404.Name = "Label404"
+        Me.Label404.Size = New System.Drawing.Size(51, 13)
+        Me.Label404.TabIndex = 15
+        Me.Label404.Text = "Label404"
+        '
+        'PictureBox219
+        '
+        Me.PictureBox219.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
+        Me.PictureBox219.Location = New System.Drawing.Point(54, 115)
+        Me.PictureBox219.Name = "PictureBox219"
+        Me.PictureBox219.Size = New System.Drawing.Size(48, 14)
+        Me.PictureBox219.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
+        Me.PictureBox219.TabIndex = 16
+        Me.PictureBox219.TabStop = false
+        '
+        'Label405
+        '
+        Me.Label405.AutoSize = true
+        Me.Label405.Location = New System.Drawing.Point(24, 87)
+        Me.Label405.Name = "Label405"
+        Me.Label405.Size = New System.Drawing.Size(117, 13)
+        Me.Label405.TabIndex = 0
+        Me.Label405.Text = "Fluencia local del alma:"
+        '
+        'GroupBox94
+        '
+        Me.GroupBox94.Controls.Add(Me.Label447)
+        Me.GroupBox94.Controls.Add(Me.Label448)
+        Me.GroupBox94.Controls.Add(Me.Label449)
+        Me.GroupBox94.Controls.Add(Me.Label406)
+        Me.GroupBox94.Controls.Add(Me.Label407)
+        Me.GroupBox94.Controls.Add(Me.Label408)
+        Me.GroupBox94.Controls.Add(Me.Label409)
+        Me.GroupBox94.Controls.Add(Me.TextBox222)
+        Me.GroupBox94.Controls.Add(Me.Label410)
+        Me.GroupBox94.Controls.Add(Me.Label411)
+        Me.GroupBox94.ForeColor = System.Drawing.Color.White
+        Me.GroupBox94.Location = New System.Drawing.Point(298, 18)
+        Me.GroupBox94.Name = "GroupBox94"
+        Me.GroupBox94.Size = New System.Drawing.Size(200, 210)
+        Me.GroupBox94.TabIndex = 5
+        Me.GroupBox94.TabStop = false
+        Me.GroupBox94.Text = "Soldadura"
+        Me.ToolTip1.SetToolTip(Me.GroupBox94, "Diseño de la soldadura: "&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AICS 360-10, J2.4"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10))
+        '
+        'Label447
+        '
+        Me.Label447.AutoSize = true
+        Me.Label447.Location = New System.Drawing.Point(62, 98)
+        Me.Label447.Name = "Label447"
+        Me.Label447.Size = New System.Drawing.Size(51, 13)
+        Me.Label447.TabIndex = 13
+        Me.Label447.Text = "Label447"
+        '
+        'Label448
+        '
+        Me.Label448.AutoSize = true
+        Me.Label448.Location = New System.Drawing.Point(34, 98)
+        Me.Label448.Name = "Label448"
+        Me.Label448.Size = New System.Drawing.Size(27, 13)
+        Me.Label448.TabIndex = 12
+        Me.Label448.Text = "Lw="
+        '
+        'Label449
+        '
+        Me.Label449.AutoSize = true
+        Me.Label449.Location = New System.Drawing.Point(10, 68)
+        Me.Label449.Name = "Label449"
+        Me.Label449.Size = New System.Drawing.Size(126, 13)
+        Me.Label449.TabIndex = 11
+        Me.Label449.Text = "Longitud de la soldadura:"
+        '
+        'Label406
+        '
+        Me.Label406.AutoSize = true
+        Me.Label406.Location = New System.Drawing.Point(62, 47)
+        Me.Label406.Name = "Label406"
+        Me.Label406.Size = New System.Drawing.Size(51, 13)
+        Me.Label406.TabIndex = 10
+        Me.Label406.Text = "Label406"
+        '
+        'Label407
+        '
+        Me.Label407.AutoSize = true
+        Me.Label407.Location = New System.Drawing.Point(34, 47)
+        Me.Label407.Name = "Label407"
+        Me.Label407.Size = New System.Drawing.Size(27, 13)
+        Me.Label407.TabIndex = 9
+        Me.Label407.Text = "Ru="
+        '
+        'Label408
+        '
+        Me.Label408.AutoSize = true
+        Me.Label408.Location = New System.Drawing.Point(10, 23)
+        Me.Label408.Name = "Label408"
+        Me.Label408.Size = New System.Drawing.Size(85, 13)
+        Me.Label408.TabIndex = 8
+        Me.Label408.Text = "Carga requerida:"
+        '
+        'Label409
+        '
+        Me.Label409.AutoSize = true
+        Me.Label409.Location = New System.Drawing.Point(97, 154)
+        Me.Label409.Name = "Label409"
+        Me.Label409.Size = New System.Drawing.Size(51, 13)
+        Me.Label409.TabIndex = 7
+        Me.Label409.Text = "Label409"
+        '
+        'TextBox222
+        '
+        Me.TextBox222.Location = New System.Drawing.Point(56, 150)
+        Me.TextBox222.Name = "TextBox222"
+        Me.TextBox222.Size = New System.Drawing.Size(40, 20)
+        Me.TextBox222.TabIndex = 6
+        '
+        'Label410
+        '
+        Me.Label410.AutoSize = true
+        Me.Label410.Location = New System.Drawing.Point(35, 154)
+        Me.Label410.Name = "Label410"
+        Me.Label410.Size = New System.Drawing.Size(21, 13)
+        Me.Label410.TabIndex = 5
+        Me.Label410.Text = "D="
+        '
+        'Label411
+        '
+        Me.Label411.AutoSize = true
+        Me.Label411.Location = New System.Drawing.Point(10, 124)
+        Me.Label411.Name = "Label411"
+        Me.Label411.Size = New System.Drawing.Size(173, 13)
+        Me.Label411.TabIndex = 4
+        Me.Label411.Text = "Pulgadas de soldadura propuestas:"
+        '
+        'Label417
+        '
+        Me.Label417.AutoSize = true
+        Me.Label417.Location = New System.Drawing.Point(82, 303)
+        Me.Label417.Name = "Label417"
+        Me.Label417.Size = New System.Drawing.Size(112, 13)
+        Me.Label417.TabIndex = 3
+        Me.Label417.Text = "Cargas en la conexión"
+        '
+        'Label418
+        '
+        Me.Label418.AutoSize = true
+        Me.Label418.Location = New System.Drawing.Point(187, 119)
+        Me.Label418.Name = "Label418"
+        Me.Label418.Size = New System.Drawing.Size(51, 13)
+        Me.Label418.TabIndex = 2
+        Me.Label418.Text = "Label418"
+        '
+        'Label419
+        '
+        Me.Label419.AutoSize = true
+        Me.Label419.Location = New System.Drawing.Point(118, 65)
+        Me.Label419.Name = "Label419"
+        Me.Label419.Size = New System.Drawing.Size(51, 13)
+        Me.Label419.TabIndex = 1
+        Me.Label419.Text = "Label419"
+        '
+        'PictureBox221
+        '
+        Me.PictureBox221.Image = Global.WindowsApplication1.My.Resources.Resources.CargasGB7i
+        Me.PictureBox221.Location = New System.Drawing.Point(13, 46)
+        Me.PictureBox221.Name = "PictureBox221"
+        Me.PictureBox221.Size = New System.Drawing.Size(250, 250)
+        Me.PictureBox221.TabIndex = 0
+        Me.PictureBox221.TabStop = false
+        Me.ToolTip1.SetToolTip(Me.PictureBox221, "AISC MANUAL, Pt. 13")
+        '
+        'GroupBox88
+        '
+        Me.GroupBox88.Controls.Add(Me.GroupBox91)
+        Me.GroupBox88.Controls.Add(Me.GroupBox90)
+        Me.GroupBox88.Controls.Add(Me.GroupBox89)
+        Me.GroupBox88.Controls.Add(Me.Label386)
+        Me.GroupBox88.Controls.Add(Me.Label385)
+        Me.GroupBox88.Controls.Add(Me.Label384)
+        Me.GroupBox88.Controls.Add(Me.PictureBox214)
+        Me.GroupBox88.ForeColor = System.Drawing.Color.White
+        Me.GroupBox88.Location = New System.Drawing.Point(6, 4)
+        Me.GroupBox88.Name = "GroupBox88"
+        Me.GroupBox88.Size = New System.Drawing.Size(750, 375)
+        Me.GroupBox88.TabIndex = 0
+        Me.GroupBox88.TabStop = false
+        Me.GroupBox88.Text = "Conexión entre el alma de la porción de viga y el patín de la columna"
+        '
+        'GroupBox91
+        '
+        Me.GroupBox91.Controls.Add(Me.Label398)
+        Me.GroupBox91.Controls.Add(Me.PictureBox217)
+        Me.GroupBox91.Controls.Add(Me.Label397)
+        Me.GroupBox91.Controls.Add(Me.Label396)
+        Me.GroupBox91.Controls.Add(Me.PictureBox216)
+        Me.GroupBox91.Controls.Add(Me.Label395)
+        Me.GroupBox91.ForeColor = System.Drawing.Color.White
+        Me.GroupBox91.Location = New System.Drawing.Point(507, 46)
+        Me.GroupBox91.Name = "GroupBox91"
+        Me.GroupBox91.Size = New System.Drawing.Size(200, 150)
+        Me.GroupBox91.TabIndex = 6
+        Me.GroupBox91.TabStop = false
+        Me.GroupBox91.Text = "Columna"
+        Me.ToolTip1.SetToolTip(Me.GroupBox91, "AISC 360-10, J10.2"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AISC 360-10, J10.3")
+        '
+        'Label398
+        '
+        Me.Label398.AutoSize = true
+        Me.Label398.Location = New System.Drawing.Point(107, 113)
+        Me.Label398.Name = "Label398"
+        Me.Label398.Size = New System.Drawing.Size(51, 13)
+        Me.Label398.TabIndex = 18
+        Me.Label398.Text = "Label398"
+        '
+        'PictureBox217
+        '
+        Me.PictureBox217.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
+        Me.PictureBox217.Location = New System.Drawing.Point(54, 113)
+        Me.PictureBox217.Name = "PictureBox217"
+        Me.PictureBox217.Size = New System.Drawing.Size(48, 14)
+        Me.PictureBox217.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
+        Me.PictureBox217.TabIndex = 19
+        Me.PictureBox217.TabStop = false
+        '
+        'Label397
+        '
+        Me.Label397.AutoSize = true
+        Me.Label397.Location = New System.Drawing.Point(24, 84)
+        Me.Label397.Name = "Label397"
+        Me.Label397.Size = New System.Drawing.Size(143, 13)
+        Me.Label397.TabIndex = 17
+        Me.Label397.Text = "Aplastamiento local del alma:"
+        '
+        'Label396
+        '
+        Me.Label396.AutoSize = true
+        Me.Label396.Location = New System.Drawing.Point(107, 55)
+        Me.Label396.Name = "Label396"
+        Me.Label396.Size = New System.Drawing.Size(51, 13)
+        Me.Label396.TabIndex = 15
+        Me.Label396.Text = "Label396"
+        '
+        'PictureBox216
+        '
+        Me.PictureBox216.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
+        Me.PictureBox216.Location = New System.Drawing.Point(54, 55)
+        Me.PictureBox216.Name = "PictureBox216"
+        Me.PictureBox216.Size = New System.Drawing.Size(48, 14)
+        Me.PictureBox216.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
+        Me.PictureBox216.TabIndex = 16
+        Me.PictureBox216.TabStop = false
+        '
+        'Label395
+        '
+        Me.Label395.AutoSize = true
+        Me.Label395.Location = New System.Drawing.Point(24, 27)
+        Me.Label395.Name = "Label395"
+        Me.Label395.Size = New System.Drawing.Size(117, 13)
+        Me.Label395.TabIndex = 0
+        Me.Label395.Text = "Fluencia local del alma:"
+        '
+        'GroupBox90
+        '
+        Me.GroupBox90.Controls.Add(Me.Label450)
+        Me.GroupBox90.Controls.Add(Me.Label400)
+        Me.GroupBox90.Controls.Add(Me.Label401)
+        Me.GroupBox90.Controls.Add(Me.Label451)
+        Me.GroupBox90.Controls.Add(Me.Label399)
+        Me.GroupBox90.Controls.Add(Me.Label394)
+        Me.GroupBox90.Controls.Add(Me.Label452)
+        Me.GroupBox90.Controls.Add(Me.TextBox221)
+        Me.GroupBox90.Controls.Add(Me.Label393)
+        Me.GroupBox90.Controls.Add(Me.Label392)
+        Me.GroupBox90.ForeColor = System.Drawing.Color.White
+        Me.GroupBox90.Location = New System.Drawing.Point(301, 46)
+        Me.GroupBox90.Name = "GroupBox90"
+        Me.GroupBox90.Size = New System.Drawing.Size(200, 199)
+        Me.GroupBox90.TabIndex = 5
+        Me.GroupBox90.TabStop = false
+        Me.GroupBox90.Text = "Soldadura"
+        Me.ToolTip1.SetToolTip(Me.GroupBox90, "Diseño de la soldadura: "&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AICS 360-10, J2.4")
+        '
+        'Label450
+        '
+        Me.Label450.AutoSize = true
+        Me.Label450.Location = New System.Drawing.Point(59, 98)
+        Me.Label450.Name = "Label450"
+        Me.Label450.Size = New System.Drawing.Size(51, 13)
+        Me.Label450.TabIndex = 16
+        Me.Label450.Text = "Label450"
+        '
+        'Label400
+        '
+        Me.Label400.AutoSize = true
+        Me.Label400.Location = New System.Drawing.Point(59, 47)
+        Me.Label400.Name = "Label400"
+        Me.Label400.Size = New System.Drawing.Size(51, 13)
+        Me.Label400.TabIndex = 10
+        Me.Label400.Text = "Label400"
+        '
+        'Label401
+        '
+        Me.Label401.AutoSize = true
+        Me.Label401.Location = New System.Drawing.Point(31, 47)
+        Me.Label401.Name = "Label401"
+        Me.Label401.Size = New System.Drawing.Size(27, 13)
+        Me.Label401.TabIndex = 9
+        Me.Label401.Text = "Ru="
+        '
+        'Label451
+        '
+        Me.Label451.AutoSize = true
+        Me.Label451.Location = New System.Drawing.Point(31, 98)
+        Me.Label451.Name = "Label451"
+        Me.Label451.Size = New System.Drawing.Size(27, 13)
+        Me.Label451.TabIndex = 15
+        Me.Label451.Text = "Lw="
+        '
+        'Label399
+        '
+        Me.Label399.AutoSize = true
+        Me.Label399.Location = New System.Drawing.Point(10, 23)
+        Me.Label399.Name = "Label399"
+        Me.Label399.Size = New System.Drawing.Size(85, 13)
+        Me.Label399.TabIndex = 8
+        Me.Label399.Text = "Carga requerida:"
+        '
+        'Label394
+        '
+        Me.Label394.AutoSize = true
+        Me.Label394.Location = New System.Drawing.Point(99, 156)
+        Me.Label394.Name = "Label394"
+        Me.Label394.Size = New System.Drawing.Size(51, 13)
+        Me.Label394.TabIndex = 7
+        Me.Label394.Text = "Label394"
+        '
+        'Label452
+        '
+        Me.Label452.AutoSize = true
+        Me.Label452.Location = New System.Drawing.Point(10, 72)
+        Me.Label452.Name = "Label452"
+        Me.Label452.Size = New System.Drawing.Size(126, 13)
+        Me.Label452.TabIndex = 14
+        Me.Label452.Text = "Longitud de la soldadura:"
+        '
+        'TextBox221
+        '
+        Me.TextBox221.Location = New System.Drawing.Point(57, 152)
+        Me.TextBox221.Name = "TextBox221"
+        Me.TextBox221.Size = New System.Drawing.Size(40, 20)
+        Me.TextBox221.TabIndex = 6
+        '
+        'Label393
+        '
+        Me.Label393.AutoSize = true
+        Me.Label393.Location = New System.Drawing.Point(35, 156)
+        Me.Label393.Name = "Label393"
+        Me.Label393.Size = New System.Drawing.Size(21, 13)
+        Me.Label393.TabIndex = 5
+        Me.Label393.Text = "D="
+        '
+        'Label392
+        '
+        Me.Label392.AutoSize = true
+        Me.Label392.Location = New System.Drawing.Point(10, 126)
+        Me.Label392.Name = "Label392"
+        Me.Label392.Size = New System.Drawing.Size(173, 13)
+        Me.Label392.TabIndex = 4
+        Me.Label392.Text = "Pulgadas de soldadura propuestas:"
+        '
+        'GroupBox89
+        '
+        Me.GroupBox89.Controls.Add(Me.Label389)
+        Me.GroupBox89.Controls.Add(Me.PictureBox228)
+        Me.GroupBox89.Controls.Add(Me.Label390)
+        Me.GroupBox89.Controls.Add(Me.Label388)
+        Me.GroupBox89.Controls.Add(Me.PictureBox215)
+        Me.GroupBox89.Controls.Add(Me.Label387)
+        Me.GroupBox89.ForeColor = System.Drawing.Color.White
+        Me.GroupBox89.Location = New System.Drawing.Point(507, 202)
+        Me.GroupBox89.Name = "GroupBox89"
+        Me.GroupBox89.Size = New System.Drawing.Size(200, 136)
+        Me.GroupBox89.TabIndex = 4
+        Me.GroupBox89.TabStop = false
+        Me.GroupBox89.Text = "Porción de viga"
+        Me.ToolTip1.SetToolTip(Me.GroupBox89, "Resistencia al cortante:"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AISC 360-10 G2.1"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"Resistencia a la compresión:"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AISC 36"& _ 
+        "0-10 J4.4")
+        '
+        'Label389
+        '
+        Me.Label389.AutoSize = true
+        Me.Label389.Location = New System.Drawing.Point(106, 54)
+        Me.Label389.Name = "Label389"
+        Me.Label389.Size = New System.Drawing.Size(51, 13)
+        Me.Label389.TabIndex = 16
+        Me.Label389.Text = "Label389"
+        '
+        'PictureBox228
+        '
+        Me.PictureBox228.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
+        Me.PictureBox228.Location = New System.Drawing.Point(53, 54)
+        Me.PictureBox228.Name = "PictureBox228"
+        Me.PictureBox228.Size = New System.Drawing.Size(48, 14)
+        Me.PictureBox228.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
+        Me.PictureBox228.TabIndex = 17
+        Me.PictureBox228.TabStop = false
+        '
+        'Label390
+        '
+        Me.Label390.AutoSize = true
+        Me.Label390.Location = New System.Drawing.Point(25, 26)
+        Me.Label390.Name = "Label390"
+        Me.Label390.Size = New System.Drawing.Size(118, 13)
+        Me.Label390.TabIndex = 15
+        Me.Label390.Text = "Resistencia al cortante:"
+        '
+        'Label388
+        '
+        Me.Label388.AutoSize = true
+        Me.Label388.Location = New System.Drawing.Point(106, 110)
+        Me.Label388.Name = "Label388"
+        Me.Label388.Size = New System.Drawing.Size(51, 13)
+        Me.Label388.TabIndex = 5
+        Me.Label388.Text = "Label388"
+        '
+        'PictureBox215
+        '
+        Me.PictureBox215.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
+        Me.PictureBox215.Location = New System.Drawing.Point(53, 110)
+        Me.PictureBox215.Name = "PictureBox215"
+        Me.PictureBox215.Size = New System.Drawing.Size(48, 14)
+        Me.PictureBox215.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
+        Me.PictureBox215.TabIndex = 14
+        Me.PictureBox215.TabStop = false
+        '
+        'Label387
+        '
+        Me.Label387.AutoSize = true
+        Me.Label387.Location = New System.Drawing.Point(25, 82)
+        Me.Label387.Name = "Label387"
+        Me.Label387.Size = New System.Drawing.Size(142, 13)
+        Me.Label387.TabIndex = 0
+        Me.Label387.Text = "Resistencia a la compresión:"
+        '
+        'Label386
+        '
+        Me.Label386.AutoSize = true
+        Me.Label386.Location = New System.Drawing.Point(83, 305)
+        Me.Label386.Name = "Label386"
+        Me.Label386.Size = New System.Drawing.Size(112, 13)
+        Me.Label386.TabIndex = 3
+        Me.Label386.Text = "Cargas en la conexión"
+        '
+        'Label385
+        '
+        Me.Label385.AutoSize = true
+        Me.Label385.Location = New System.Drawing.Point(227, 91)
+        Me.Label385.Name = "Label385"
+        Me.Label385.Size = New System.Drawing.Size(51, 13)
+        Me.Label385.TabIndex = 2
+        Me.Label385.Text = "Label385"
+        '
+        'Label384
+        '
+        Me.Label384.AutoSize = true
+        Me.Label384.Location = New System.Drawing.Point(137, 46)
+        Me.Label384.Name = "Label384"
+        Me.Label384.Size = New System.Drawing.Size(51, 13)
+        Me.Label384.TabIndex = 1
+        Me.Label384.Text = "Label384"
+        '
+        'PictureBox214
+        '
+        Me.PictureBox214.Image = Global.WindowsApplication1.My.Resources.Resources.CargasBC7i
+        Me.PictureBox214.Location = New System.Drawing.Point(13, 46)
+        Me.PictureBox214.Name = "PictureBox214"
+        Me.PictureBox214.Size = New System.Drawing.Size(250, 250)
+        Me.PictureBox214.TabIndex = 0
+        Me.PictureBox214.TabStop = false
+        Me.ToolTip1.SetToolTip(Me.PictureBox214, "AISC MANUAL, Pt. 13")
+        '
+        'TabPage15
+        '
+        Me.TabPage15.AutoScroll = true
+        Me.TabPage15.BackColor = System.Drawing.Color.FromArgb(CType(CType(68,Byte),Integer), CType(CType(77,Byte),Integer), CType(CType(83,Byte),Integer))
+        Me.TabPage15.Controls.Add(Me.GroupBox170)
+        Me.TabPage15.Controls.Add(Me.GroupBox166)
+        Me.TabPage15.Controls.Add(Me.GroupBox162)
+        Me.TabPage15.Controls.Add(Me.GroupBox158)
+        Me.TabPage15.ForeColor = System.Drawing.Color.Black
+        Me.TabPage15.Location = New System.Drawing.Point(4, 22)
+        Me.TabPage15.Name = "TabPage15"
+        Me.TabPage15.Padding = New System.Windows.Forms.Padding(3)
+        Me.TabPage15.Size = New System.Drawing.Size(635, 670)
+        Me.TabPage15.TabIndex = 2
+        Me.TabPage15.Text = "Conexión Viga-Columna"
+        '
+        'GroupBox170
+        '
+        Me.GroupBox170.Controls.Add(Me.GroupBox171)
+        Me.GroupBox170.Controls.Add(Me.GroupBox172)
+        Me.GroupBox170.Controls.Add(Me.GroupBox173)
+        Me.GroupBox170.Controls.Add(Me.Label935)
+        Me.GroupBox170.Controls.Add(Me.Label936)
+        Me.GroupBox170.Controls.Add(Me.Label937)
+        Me.GroupBox170.Controls.Add(Me.PictureBox337)
+        Me.GroupBox170.ForeColor = System.Drawing.Color.White
+        Me.GroupBox170.Location = New System.Drawing.Point(6, 1491)
+        Me.GroupBox170.Name = "GroupBox170"
+        Me.GroupBox170.Size = New System.Drawing.Size(930, 350)
+        Me.GroupBox170.TabIndex = 4
+        Me.GroupBox170.TabStop = false
+        Me.GroupBox170.Text = "Conexión entre la placa simple y el patín de la columna"
+        '
+        'GroupBox171
+        '
+        Me.GroupBox171.Controls.Add(Me.PictureBox446)
+        Me.GroupBox171.Controls.Add(Me.Label959)
+        Me.GroupBox171.Controls.Add(Me.Label961)
+        Me.GroupBox171.Controls.Add(Me.Label918)
+        Me.GroupBox171.Controls.Add(Me.PictureBox333)
+        Me.GroupBox171.Controls.Add(Me.Label919)
+        Me.GroupBox171.Controls.Add(Me.Label920)
+        Me.GroupBox171.Controls.Add(Me.PictureBox334)
+        Me.GroupBox171.Controls.Add(Me.Label921)
+        Me.GroupBox171.ForeColor = System.Drawing.Color.White
+        Me.GroupBox171.Location = New System.Drawing.Point(714, 75)
+        Me.GroupBox171.Name = "GroupBox171"
+        Me.GroupBox171.Size = New System.Drawing.Size(200, 180)
+        Me.GroupBox171.TabIndex = 6
+        Me.GroupBox171.TabStop = false
+        Me.GroupBox171.Text = "Columna"
+        Me.ToolTip1.SetToolTip(Me.GroupBox171, "AISC 360-10, J10.2"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AISC 360-10, J10.3")
+        '
+        'PictureBox446
+        '
+        Me.PictureBox446.Image = Global.WindowsApplication1.My.Resources.Resources.Rublancoigual
+        Me.PictureBox446.Location = New System.Drawing.Point(27, 45)
+        Me.PictureBox446.Name = "PictureBox446"
+        Me.PictureBox446.Size = New System.Drawing.Size(38, 14)
+        Me.PictureBox446.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
+        Me.PictureBox446.TabIndex = 75
+        Me.PictureBox446.TabStop = false
+        '
+        'Label959
+        '
+        Me.Label959.AutoSize = true
+        Me.Label959.Location = New System.Drawing.Point(66, 46)
+        Me.Label959.Name = "Label959"
+        Me.Label959.Size = New System.Drawing.Size(51, 13)
+        Me.Label959.TabIndex = 23
+        Me.Label959.Text = "Label959"
+        '
+        'Label961
+        '
+        Me.Label961.AutoSize = true
+        Me.Label961.Location = New System.Drawing.Point(20, 19)
+        Me.Label961.Name = "Label961"
+        Me.Label961.Size = New System.Drawing.Size(85, 13)
+        Me.Label961.TabIndex = 21
+        Me.Label961.Text = "Carga requerida:"
+        '
+        'Label918
+        '
+        Me.Label918.AutoSize = true
+        Me.Label918.Location = New System.Drawing.Point(107, 156)
+        Me.Label918.Name = "Label918"
+        Me.Label918.Size = New System.Drawing.Size(51, 13)
+        Me.Label918.TabIndex = 18
+        Me.Label918.Text = "Label918"
+        '
+        'PictureBox333
+        '
+        Me.PictureBox333.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
+        Me.PictureBox333.Location = New System.Drawing.Point(54, 156)
+        Me.PictureBox333.Name = "PictureBox333"
+        Me.PictureBox333.Size = New System.Drawing.Size(48, 14)
+        Me.PictureBox333.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
+        Me.PictureBox333.TabIndex = 19
+        Me.PictureBox333.TabStop = false
+        '
+        'Label919
+        '
+        Me.Label919.AutoSize = true
+        Me.Label919.Location = New System.Drawing.Point(24, 126)
+        Me.Label919.Name = "Label919"
+        Me.Label919.Size = New System.Drawing.Size(143, 13)
+        Me.Label919.TabIndex = 17
+        Me.Label919.Text = "Aplastamiento local del alma:"
+        '
+        'Label920
+        '
+        Me.Label920.AutoSize = true
+        Me.Label920.Location = New System.Drawing.Point(107, 98)
+        Me.Label920.Name = "Label920"
+        Me.Label920.Size = New System.Drawing.Size(51, 13)
+        Me.Label920.TabIndex = 15
+        Me.Label920.Text = "Label920"
+        '
+        'PictureBox334
+        '
+        Me.PictureBox334.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
+        Me.PictureBox334.Location = New System.Drawing.Point(54, 98)
+        Me.PictureBox334.Name = "PictureBox334"
+        Me.PictureBox334.Size = New System.Drawing.Size(48, 14)
+        Me.PictureBox334.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
+        Me.PictureBox334.TabIndex = 16
+        Me.PictureBox334.TabStop = false
+        '
+        'Label921
+        '
+        Me.Label921.AutoSize = true
+        Me.Label921.Location = New System.Drawing.Point(24, 70)
+        Me.Label921.Name = "Label921"
+        Me.Label921.Size = New System.Drawing.Size(117, 13)
+        Me.Label921.TabIndex = 0
+        Me.Label921.Text = "Fluencia local del alma:"
+        '
+        'GroupBox172
+        '
+        Me.GroupBox172.Controls.Add(Me.PictureBox448)
+        Me.GroupBox172.Controls.Add(Me.PictureBox444)
+        Me.GroupBox172.Controls.Add(Me.Label922)
+        Me.GroupBox172.Controls.Add(Me.Label923)
+        Me.GroupBox172.Controls.Add(Me.Label926)
+        Me.GroupBox172.Controls.Add(Me.Label927)
+        Me.GroupBox172.Controls.Add(Me.Label928)
+        Me.GroupBox172.Controls.Add(Me.TextBox282)
+        Me.GroupBox172.Controls.Add(Me.Label929)
+        Me.GroupBox172.Controls.Add(Me.Label930)
+        Me.GroupBox172.ForeColor = System.Drawing.Color.White
+        Me.GroupBox172.Location = New System.Drawing.Point(301, 76)
+        Me.GroupBox172.Name = "GroupBox172"
+        Me.GroupBox172.Size = New System.Drawing.Size(200, 199)
+        Me.GroupBox172.TabIndex = 5
+        Me.GroupBox172.TabStop = false
+        Me.GroupBox172.Text = "Soldadura"
+        Me.ToolTip1.SetToolTip(Me.GroupBox172, "Diseño de la soldadura: "&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AICS 360-10, J2.4")
+        '
+        'PictureBox448
+        '
+        Me.PictureBox448.Image = Global.WindowsApplication1.My.Resources.Resources.Lweldblancoigual
+        Me.PictureBox448.Location = New System.Drawing.Point(27, 98)
+        Me.PictureBox448.Name = "PictureBox448"
+        Me.PictureBox448.Size = New System.Drawing.Size(57, 15)
+        Me.PictureBox448.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
+        Me.PictureBox448.TabIndex = 76
+        Me.PictureBox448.TabStop = false
+        '
+        'PictureBox444
+        '
+        Me.PictureBox444.Image = Global.WindowsApplication1.My.Resources.Resources.Rublancoigual
+        Me.PictureBox444.Location = New System.Drawing.Point(21, 47)
+        Me.PictureBox444.Name = "PictureBox444"
+        Me.PictureBox444.Size = New System.Drawing.Size(38, 14)
+        Me.PictureBox444.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
+        Me.PictureBox444.TabIndex = 75
+        Me.PictureBox444.TabStop = false
+        '
+        'Label922
+        '
+        Me.Label922.AutoSize = true
+        Me.Label922.Location = New System.Drawing.Point(89, 101)
+        Me.Label922.Name = "Label922"
+        Me.Label922.Size = New System.Drawing.Size(51, 13)
+        Me.Label922.TabIndex = 16
+        Me.Label922.Text = "Label922"
+        '
+        'Label923
+        '
+        Me.Label923.AutoSize = true
+        Me.Label923.Location = New System.Drawing.Point(59, 47)
+        Me.Label923.Name = "Label923"
+        Me.Label923.Size = New System.Drawing.Size(51, 13)
+        Me.Label923.TabIndex = 10
+        Me.Label923.Text = "Label923"
+        '
+        'Label926
+        '
+        Me.Label926.AutoSize = true
+        Me.Label926.Location = New System.Drawing.Point(10, 23)
+        Me.Label926.Name = "Label926"
+        Me.Label926.Size = New System.Drawing.Size(85, 13)
+        Me.Label926.TabIndex = 8
+        Me.Label926.Text = "Carga requerida:"
+        '
+        'Label927
+        '
+        Me.Label927.AutoSize = true
+        Me.Label927.Location = New System.Drawing.Point(96, 156)
+        Me.Label927.Name = "Label927"
+        Me.Label927.Size = New System.Drawing.Size(51, 13)
+        Me.Label927.TabIndex = 7
+        Me.Label927.Text = "Label927"
+        '
+        'Label928
+        '
+        Me.Label928.AutoSize = true
+        Me.Label928.Location = New System.Drawing.Point(10, 72)
+        Me.Label928.Name = "Label928"
+        Me.Label928.Size = New System.Drawing.Size(126, 13)
+        Me.Label928.TabIndex = 14
+        Me.Label928.Text = "Longitud de la soldadura:"
+        '
+        'TextBox282
+        '
+        Me.TextBox282.Location = New System.Drawing.Point(60, 152)
+        Me.TextBox282.Name = "TextBox282"
+        Me.TextBox282.Size = New System.Drawing.Size(35, 20)
+        Me.TextBox282.TabIndex = 6
+        '
+        'Label929
+        '
+        Me.Label929.AutoSize = true
+        Me.Label929.Location = New System.Drawing.Point(38, 156)
+        Me.Label929.Name = "Label929"
+        Me.Label929.Size = New System.Drawing.Size(21, 13)
+        Me.Label929.TabIndex = 5
+        Me.Label929.Text = "D="
+        '
+        'Label930
+        '
+        Me.Label930.AutoSize = true
+        Me.Label930.Location = New System.Drawing.Point(10, 126)
+        Me.Label930.Name = "Label930"
+        Me.Label930.Size = New System.Drawing.Size(173, 13)
+        Me.Label930.TabIndex = 4
+        Me.Label930.Text = "Pulgadas de soldadura propuestas:"
+        '
+        'GroupBox173
+        '
+        Me.GroupBox173.Controls.Add(Me.PictureBox445)
+        Me.GroupBox173.Controls.Add(Me.Label956)
+        Me.GroupBox173.Controls.Add(Me.Label958)
+        Me.GroupBox173.Controls.Add(Me.Label931)
+        Me.GroupBox173.Controls.Add(Me.PictureBox335)
+        Me.GroupBox173.Controls.Add(Me.Label932)
+        Me.GroupBox173.Controls.Add(Me.Label933)
+        Me.GroupBox173.Controls.Add(Me.PictureBox336)
+        Me.GroupBox173.Controls.Add(Me.Label934)
+        Me.GroupBox173.ForeColor = System.Drawing.Color.White
+        Me.GroupBox173.Location = New System.Drawing.Point(507, 76)
+        Me.GroupBox173.Name = "GroupBox173"
+        Me.GroupBox173.Size = New System.Drawing.Size(200, 180)
+        Me.GroupBox173.TabIndex = 4
+        Me.GroupBox173.TabStop = false
+        Me.GroupBox173.Text = "Placa Simple"
+        Me.ToolTip1.SetToolTip(Me.GroupBox173, "Fluencia por cortante:"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AISC 360-10, J4.2(a)"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"Ruptura por cortante:"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AISC 360-10,"& _ 
+        " J4.2(b)")
+        '
+        'PictureBox445
+        '
+        Me.PictureBox445.Image = Global.WindowsApplication1.My.Resources.Resources.Rublancoigual
+        Me.PictureBox445.Location = New System.Drawing.Point(36, 45)
+        Me.PictureBox445.Name = "PictureBox445"
+        Me.PictureBox445.Size = New System.Drawing.Size(38, 14)
+        Me.PictureBox445.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
+        Me.PictureBox445.TabIndex = 75
+        Me.PictureBox445.TabStop = false
+        '
+        'Label956
+        '
+        Me.Label956.AutoSize = true
+        Me.Label956.Location = New System.Drawing.Point(74, 46)
+        Me.Label956.Name = "Label956"
+        Me.Label956.Size = New System.Drawing.Size(51, 13)
+        Me.Label956.TabIndex = 20
+        Me.Label956.Text = "Label956"
+        '
+        'Label958
+        '
+        Me.Label958.AutoSize = true
+        Me.Label958.Location = New System.Drawing.Point(20, 22)
+        Me.Label958.Name = "Label958"
+        Me.Label958.Size = New System.Drawing.Size(85, 13)
+        Me.Label958.TabIndex = 18
+        Me.Label958.Text = "Carga requerida:"
+        '
+        'Label931
+        '
+        Me.Label931.AutoSize = true
+        Me.Label931.Location = New System.Drawing.Point(106, 97)
+        Me.Label931.Name = "Label931"
+        Me.Label931.Size = New System.Drawing.Size(51, 13)
+        Me.Label931.TabIndex = 16
+        Me.Label931.Text = "Label931"
+        '
+        'PictureBox335
+        '
+        Me.PictureBox335.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
+        Me.PictureBox335.Location = New System.Drawing.Point(53, 97)
+        Me.PictureBox335.Name = "PictureBox335"
+        Me.PictureBox335.Size = New System.Drawing.Size(48, 14)
+        Me.PictureBox335.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
+        Me.PictureBox335.TabIndex = 17
+        Me.PictureBox335.TabStop = false
+        '
+        'Label932
+        '
+        Me.Label932.AutoSize = true
+        Me.Label932.Location = New System.Drawing.Point(25, 69)
+        Me.Label932.Name = "Label932"
+        Me.Label932.Size = New System.Drawing.Size(110, 13)
+        Me.Label932.TabIndex = 15
+        Me.Label932.Text = "Fluencia por cortante:"
+        '
+        'Label933
+        '
+        Me.Label933.AutoSize = true
+        Me.Label933.Location = New System.Drawing.Point(106, 151)
+        Me.Label933.Name = "Label933"
+        Me.Label933.Size = New System.Drawing.Size(51, 13)
+        Me.Label933.TabIndex = 5
+        Me.Label933.Text = "Label933"
+        '
+        'PictureBox336
+        '
+        Me.PictureBox336.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
+        Me.PictureBox336.Location = New System.Drawing.Point(53, 151)
+        Me.PictureBox336.Name = "PictureBox336"
+        Me.PictureBox336.Size = New System.Drawing.Size(48, 14)
+        Me.PictureBox336.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
+        Me.PictureBox336.TabIndex = 14
+        Me.PictureBox336.TabStop = false
+        '
+        'Label934
+        '
+        Me.Label934.AutoSize = true
+        Me.Label934.Location = New System.Drawing.Point(25, 123)
+        Me.Label934.Name = "Label934"
+        Me.Label934.Size = New System.Drawing.Size(108, 13)
+        Me.Label934.TabIndex = 0
+        Me.Label934.Text = "Ruptura por cortante:"
+        '
+        'Label935
+        '
+        Me.Label935.AutoSize = true
+        Me.Label935.Location = New System.Drawing.Point(52, 303)
+        Me.Label935.Name = "Label935"
+        Me.Label935.Size = New System.Drawing.Size(173, 13)
+        Me.Label935.TabIndex = 3
+        Me.Label935.Text = "Cargas controlantes en la conexión"
+        '
+        'Label936
+        '
+        Me.Label936.AutoSize = true
+        Me.Label936.Location = New System.Drawing.Point(177, 125)
+        Me.Label936.Name = "Label936"
+        Me.Label936.Size = New System.Drawing.Size(51, 13)
+        Me.Label936.TabIndex = 2
+        Me.Label936.Text = "Label936"
+        '
+        'Label937
+        '
+        Me.Label937.AutoSize = true
+        Me.Label937.Location = New System.Drawing.Point(114, 163)
+        Me.Label937.Name = "Label937"
+        Me.Label937.Size = New System.Drawing.Size(51, 13)
+        Me.Label937.TabIndex = 1
+        Me.Label937.Text = "Label937"
+        '
+        'PictureBox337
+        '
+        Me.PictureBox337.Image = Global.WindowsApplication1.My.Resources.Resources.CargasPSi
+        Me.PictureBox337.Location = New System.Drawing.Point(13, 46)
+        Me.PictureBox337.Name = "PictureBox337"
+        Me.PictureBox337.Size = New System.Drawing.Size(250, 250)
+        Me.PictureBox337.TabIndex = 0
+        Me.PictureBox337.TabStop = false
+        Me.ToolTip1.SetToolTip(Me.PictureBox337, "AISC Manual, Pt. 13")
+        '
+        'GroupBox166
+        '
+        Me.GroupBox166.Controls.Add(Me.Label941)
+        Me.GroupBox166.Controls.Add(Me.GroupBox167)
+        Me.GroupBox166.Controls.Add(Me.GroupBox168)
+        Me.GroupBox166.Controls.Add(Me.GroupBox169)
+        Me.GroupBox166.Controls.Add(Me.Label915)
+        Me.GroupBox166.Controls.Add(Me.Label916)
+        Me.GroupBox166.Controls.Add(Me.Label917)
+        Me.GroupBox166.Controls.Add(Me.PictureBox332)
+        Me.GroupBox166.ForeColor = System.Drawing.Color.White
+        Me.GroupBox166.Location = New System.Drawing.Point(6, 1109)
+        Me.GroupBox166.Name = "GroupBox166"
+        Me.GroupBox166.Size = New System.Drawing.Size(930, 375)
+        Me.GroupBox166.TabIndex = 3
+        Me.GroupBox166.TabStop = false
+        Me.GroupBox166.Text = "Conexión entre la placa gusset y el patín de la viga"
+        '
+        'Label941
+        '
+        Me.Label941.AutoSize = true
+        Me.Label941.Location = New System.Drawing.Point(74, 146)
+        Me.Label941.Name = "Label941"
+        Me.Label941.Size = New System.Drawing.Size(51, 13)
+        Me.Label941.TabIndex = 7
+        Me.Label941.Text = "Label941"
+        '
+        'GroupBox167
+        '
+        Me.GroupBox167.Controls.Add(Me.PictureBox438)
+        Me.GroupBox167.Controls.Add(Me.Label950)
+        Me.GroupBox167.Controls.Add(Me.Label952)
+        Me.GroupBox167.Controls.Add(Me.Label898)
+        Me.GroupBox167.Controls.Add(Me.PictureBox328)
+        Me.GroupBox167.Controls.Add(Me.Label899)
+        Me.GroupBox167.Controls.Add(Me.Label900)
+        Me.GroupBox167.Controls.Add(Me.PictureBox329)
+        Me.GroupBox167.Controls.Add(Me.Label901)
+        Me.GroupBox167.ForeColor = System.Drawing.Color.White
+        Me.GroupBox167.Location = New System.Drawing.Point(478, 20)
+        Me.GroupBox167.Name = "GroupBox167"
+        Me.GroupBox167.Size = New System.Drawing.Size(220, 202)
+        Me.GroupBox167.TabIndex = 6
+        Me.GroupBox167.TabStop = false
+        Me.GroupBox167.Text = "Viga"
+        Me.ToolTip1.SetToolTip(Me.GroupBox167, "AISC 360-10, J10.2"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AISC 360-10, J10.3")
+        '
+        'PictureBox438
+        '
+        Me.PictureBox438.Image = Global.WindowsApplication1.My.Resources.Resources.Rublancoigual
+        Me.PictureBox438.Location = New System.Drawing.Point(46, 47)
+        Me.PictureBox438.Name = "PictureBox438"
+        Me.PictureBox438.Size = New System.Drawing.Size(38, 14)
+        Me.PictureBox438.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
+        Me.PictureBox438.TabIndex = 74
+        Me.PictureBox438.TabStop = false
+        '
+        'Label950
+        '
+        Me.Label950.AutoSize = true
+        Me.Label950.Location = New System.Drawing.Point(87, 47)
+        Me.Label950.Name = "Label950"
+        Me.Label950.Size = New System.Drawing.Size(51, 13)
+        Me.Label950.TabIndex = 22
+        Me.Label950.Text = "Label950"
+        '
+        'Label952
+        '
+        Me.Label952.AutoSize = true
+        Me.Label952.Location = New System.Drawing.Point(18, 24)
+        Me.Label952.Name = "Label952"
+        Me.Label952.Size = New System.Drawing.Size(85, 13)
+        Me.Label952.TabIndex = 20
+        Me.Label952.Text = "Carga requerida:"
+        '
+        'Label898
+        '
+        Me.Label898.AutoSize = true
+        Me.Label898.Location = New System.Drawing.Point(110, 158)
+        Me.Label898.Name = "Label898"
+        Me.Label898.Size = New System.Drawing.Size(51, 13)
+        Me.Label898.TabIndex = 18
+        Me.Label898.Text = "Label898"
+        '
+        'PictureBox328
+        '
+        Me.PictureBox328.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
+        Me.PictureBox328.Location = New System.Drawing.Point(61, 158)
+        Me.PictureBox328.Name = "PictureBox328"
+        Me.PictureBox328.Size = New System.Drawing.Size(48, 14)
+        Me.PictureBox328.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
+        Me.PictureBox328.TabIndex = 19
+        Me.PictureBox328.TabStop = false
+        '
+        'Label899
+        '
+        Me.Label899.AutoSize = true
+        Me.Label899.Location = New System.Drawing.Point(19, 130)
+        Me.Label899.Name = "Label899"
+        Me.Label899.Size = New System.Drawing.Size(143, 13)
+        Me.Label899.TabIndex = 17
+        Me.Label899.Text = "Aplastamiento local del alma:"
+        '
+        'Label900
+        '
+        Me.Label900.AutoSize = true
+        Me.Label900.Location = New System.Drawing.Point(110, 100)
+        Me.Label900.Name = "Label900"
+        Me.Label900.Size = New System.Drawing.Size(51, 13)
+        Me.Label900.TabIndex = 15
+        Me.Label900.Text = "Label900"
+        '
+        'PictureBox329
+        '
+        Me.PictureBox329.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
+        Me.PictureBox329.Location = New System.Drawing.Point(60, 100)
+        Me.PictureBox329.Name = "PictureBox329"
+        Me.PictureBox329.Size = New System.Drawing.Size(48, 14)
+        Me.PictureBox329.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
+        Me.PictureBox329.TabIndex = 16
+        Me.PictureBox329.TabStop = false
+        '
+        'Label901
+        '
+        Me.Label901.AutoSize = true
+        Me.Label901.Location = New System.Drawing.Point(22, 75)
+        Me.Label901.Name = "Label901"
+        Me.Label901.Size = New System.Drawing.Size(117, 13)
+        Me.Label901.TabIndex = 0
+        Me.Label901.Text = "Fluencia local del alma:"
+        '
+        'GroupBox168
+        '
+        Me.GroupBox168.Controls.Add(Me.PictureBox447)
+        Me.GroupBox168.Controls.Add(Me.PictureBox429)
+        Me.GroupBox168.Controls.Add(Me.Label902)
+        Me.GroupBox168.Controls.Add(Me.Label903)
+        Me.GroupBox168.Controls.Add(Me.Label906)
+        Me.GroupBox168.Controls.Add(Me.Label907)
+        Me.GroupBox168.Controls.Add(Me.Label908)
+        Me.GroupBox168.Controls.Add(Me.TextBox279)
+        Me.GroupBox168.Controls.Add(Me.Label909)
+        Me.GroupBox168.Controls.Add(Me.Label910)
+        Me.GroupBox168.ForeColor = System.Drawing.Color.White
+        Me.GroupBox168.Location = New System.Drawing.Point(272, 20)
+        Me.GroupBox168.Name = "GroupBox168"
+        Me.GroupBox168.Size = New System.Drawing.Size(200, 199)
+        Me.GroupBox168.TabIndex = 5
+        Me.GroupBox168.TabStop = false
+        Me.GroupBox168.Text = "Soldadura"
+        Me.ToolTip1.SetToolTip(Me.GroupBox168, "Diseño de la soldadura: "&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AICS 360-10, J2.4")
+        '
+        'PictureBox447
+        '
+        Me.PictureBox447.Image = Global.WindowsApplication1.My.Resources.Resources.Lweldblancoigual
+        Me.PictureBox447.Location = New System.Drawing.Point(29, 100)
+        Me.PictureBox447.Name = "PictureBox447"
+        Me.PictureBox447.Size = New System.Drawing.Size(57, 15)
+        Me.PictureBox447.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
+        Me.PictureBox447.TabIndex = 75
+        Me.PictureBox447.TabStop = false
+        '
+        'PictureBox429
+        '
+        Me.PictureBox429.Image = Global.WindowsApplication1.My.Resources.Resources.Rublancoigual
+        Me.PictureBox429.Location = New System.Drawing.Point(25, 50)
+        Me.PictureBox429.Name = "PictureBox429"
+        Me.PictureBox429.Size = New System.Drawing.Size(38, 14)
+        Me.PictureBox429.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
+        Me.PictureBox429.TabIndex = 74
+        Me.PictureBox429.TabStop = false
+        '
+        'Label902
+        '
+        Me.Label902.AutoSize = true
+        Me.Label902.Location = New System.Drawing.Point(88, 101)
+        Me.Label902.Name = "Label902"
+        Me.Label902.Size = New System.Drawing.Size(51, 13)
+        Me.Label902.TabIndex = 16
+        Me.Label902.Text = "Label902"
+        '
+        'Label903
+        '
+        Me.Label903.AutoSize = true
+        Me.Label903.Location = New System.Drawing.Point(62, 50)
+        Me.Label903.Name = "Label903"
+        Me.Label903.Size = New System.Drawing.Size(51, 13)
+        Me.Label903.TabIndex = 10
+        Me.Label903.Text = "Label903"
+        '
+        'Label906
+        '
+        Me.Label906.AutoSize = true
+        Me.Label906.Location = New System.Drawing.Point(13, 26)
+        Me.Label906.Name = "Label906"
+        Me.Label906.Size = New System.Drawing.Size(85, 13)
+        Me.Label906.TabIndex = 8
+        Me.Label906.Text = "Carga requerida:"
+        '
+        'Label907
+        '
+        Me.Label907.AutoSize = true
+        Me.Label907.Location = New System.Drawing.Point(99, 159)
+        Me.Label907.Name = "Label907"
+        Me.Label907.Size = New System.Drawing.Size(51, 13)
+        Me.Label907.TabIndex = 7
+        Me.Label907.Text = "Label907"
+        '
+        'Label908
+        '
+        Me.Label908.AutoSize = true
+        Me.Label908.Location = New System.Drawing.Point(13, 75)
+        Me.Label908.Name = "Label908"
+        Me.Label908.Size = New System.Drawing.Size(126, 13)
+        Me.Label908.TabIndex = 14
+        Me.Label908.Text = "Longitud de la soldadura:"
+        '
+        'TextBox279
+        '
+        Me.TextBox279.Location = New System.Drawing.Point(63, 155)
+        Me.TextBox279.Name = "TextBox279"
+        Me.TextBox279.Size = New System.Drawing.Size(35, 20)
+        Me.TextBox279.TabIndex = 6
+        '
+        'Label909
+        '
+        Me.Label909.AutoSize = true
+        Me.Label909.Location = New System.Drawing.Point(41, 158)
+        Me.Label909.Name = "Label909"
+        Me.Label909.Size = New System.Drawing.Size(21, 13)
+        Me.Label909.TabIndex = 5
+        Me.Label909.Text = "D="
+        '
+        'Label910
+        '
+        Me.Label910.AutoSize = true
+        Me.Label910.Location = New System.Drawing.Point(13, 129)
+        Me.Label910.Name = "Label910"
+        Me.Label910.Size = New System.Drawing.Size(173, 13)
+        Me.Label910.TabIndex = 4
+        Me.Label910.Text = "Pulgadas de soldadura propuestas:"
+        '
+        'GroupBox169
+        '
+        Me.GroupBox169.Controls.Add(Me.PictureBox443)
+        Me.GroupBox169.Controls.Add(Me.PictureBox442)
+        Me.GroupBox169.Controls.Add(Me.Label881)
+        Me.GroupBox169.Controls.Add(Me.Label888)
+        Me.GroupBox169.Controls.Add(Me.Label953)
+        Me.GroupBox169.Controls.Add(Me.Label955)
+        Me.GroupBox169.Controls.Add(Me.Label911)
+        Me.GroupBox169.Controls.Add(Me.PictureBox330)
+        Me.GroupBox169.Controls.Add(Me.Label912)
+        Me.GroupBox169.Controls.Add(Me.Label913)
+        Me.GroupBox169.Controls.Add(Me.PictureBox331)
+        Me.GroupBox169.Controls.Add(Me.Label914)
+        Me.GroupBox169.ForeColor = System.Drawing.Color.White
+        Me.GroupBox169.Location = New System.Drawing.Point(704, 20)
+        Me.GroupBox169.Name = "GroupBox169"
+        Me.GroupBox169.Size = New System.Drawing.Size(220, 255)
+        Me.GroupBox169.TabIndex = 4
+        Me.GroupBox169.TabStop = false
+        Me.GroupBox169.Text = "Placa Gusset"
+        Me.ToolTip1.SetToolTip(Me.GroupBox169, "AISC 360-10, J4.1"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AISC 360-10, J4.2")
+        '
+        'PictureBox443
+        '
+        Me.PictureBox443.Image = Global.WindowsApplication1.My.Resources.Resources.Rublancoigual
+        Me.PictureBox443.Location = New System.Drawing.Point(33, 162)
+        Me.PictureBox443.Name = "PictureBox443"
+        Me.PictureBox443.Size = New System.Drawing.Size(38, 14)
+        Me.PictureBox443.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
+        Me.PictureBox443.TabIndex = 76
+        Me.PictureBox443.TabStop = false
+        '
+        'PictureBox442
+        '
+        Me.PictureBox442.Image = Global.WindowsApplication1.My.Resources.Resources.Rublancoigual
+        Me.PictureBox442.Location = New System.Drawing.Point(33, 48)
+        Me.PictureBox442.Name = "PictureBox442"
+        Me.PictureBox442.Size = New System.Drawing.Size(38, 14)
+        Me.PictureBox442.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
+        Me.PictureBox442.TabIndex = 75
+        Me.PictureBox442.TabStop = false
+        '
+        'Label881
+        '
+        Me.Label881.AutoSize = true
+        Me.Label881.Location = New System.Drawing.Point(73, 162)
+        Me.Label881.Name = "Label881"
+        Me.Label881.Size = New System.Drawing.Size(51, 13)
+        Me.Label881.TabIndex = 23
+        Me.Label881.Text = "Label881"
+        '
+        'Label888
+        '
+        Me.Label888.AutoSize = true
+        Me.Label888.Location = New System.Drawing.Point(20, 133)
+        Me.Label888.Name = "Label888"
+        Me.Label888.Size = New System.Drawing.Size(142, 13)
+        Me.Label888.TabIndex = 21
+        Me.Label888.Text = "Carga de cortante requerida:"
+        '
+        'Label953
+        '
+        Me.Label953.AutoSize = true
+        Me.Label953.Location = New System.Drawing.Point(73, 49)
+        Me.Label953.Name = "Label953"
+        Me.Label953.Size = New System.Drawing.Size(51, 13)
+        Me.Label953.TabIndex = 20
+        Me.Label953.Text = "Label953"
+        '
+        'Label955
+        '
+        Me.Label955.AutoSize = true
+        Me.Label955.Location = New System.Drawing.Point(20, 23)
+        Me.Label955.Name = "Label955"
+        Me.Label955.Size = New System.Drawing.Size(137, 13)
+        Me.Label955.TabIndex = 18
+        Me.Label955.Text = "Carga de tensión requerida:"
+        '
+        'Label911
+        '
+        Me.Label911.AutoSize = true
+        Me.Label911.Location = New System.Drawing.Point(119, 219)
+        Me.Label911.Name = "Label911"
+        Me.Label911.Size = New System.Drawing.Size(51, 13)
+        Me.Label911.TabIndex = 16
+        Me.Label911.Text = "Label911"
+        '
+        'PictureBox330
+        '
+        Me.PictureBox330.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
+        Me.PictureBox330.Location = New System.Drawing.Point(66, 219)
+        Me.PictureBox330.Name = "PictureBox330"
+        Me.PictureBox330.Size = New System.Drawing.Size(48, 14)
+        Me.PictureBox330.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
+        Me.PictureBox330.TabIndex = 17
+        Me.PictureBox330.TabStop = false
+        '
+        'Label912
+        '
+        Me.Label912.AutoSize = true
+        Me.Label912.Location = New System.Drawing.Point(38, 193)
+        Me.Label912.Name = "Label912"
+        Me.Label912.Size = New System.Drawing.Size(168, 13)
+        Me.Label912.TabIndex = 15
+        Me.Label912.Text = "Resistencia disponible al cortante:"
+        '
+        'Label913
+        '
+        Me.Label913.AutoSize = true
+        Me.Label913.Location = New System.Drawing.Point(119, 104)
+        Me.Label913.Name = "Label913"
+        Me.Label913.Size = New System.Drawing.Size(51, 13)
+        Me.Label913.TabIndex = 5
+        Me.Label913.Text = "Label913"
+        '
+        'PictureBox331
+        '
+        Me.PictureBox331.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
+        Me.PictureBox331.Location = New System.Drawing.Point(66, 104)
+        Me.PictureBox331.Name = "PictureBox331"
+        Me.PictureBox331.Size = New System.Drawing.Size(48, 14)
+        Me.PictureBox331.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
+        Me.PictureBox331.TabIndex = 14
+        Me.PictureBox331.TabStop = false
+        '
+        'Label914
+        '
+        Me.Label914.AutoSize = true
+        Me.Label914.Location = New System.Drawing.Point(38, 76)
+        Me.Label914.Name = "Label914"
+        Me.Label914.Size = New System.Drawing.Size(172, 13)
+        Me.Label914.TabIndex = 0
+        Me.Label914.Text = "Resistencia disponible a la tensión:"
+        '
+        'Label915
+        '
+        Me.Label915.AutoSize = true
+        Me.Label915.Location = New System.Drawing.Point(51, 303)
+        Me.Label915.Name = "Label915"
+        Me.Label915.Size = New System.Drawing.Size(173, 13)
+        Me.Label915.TabIndex = 3
+        Me.Label915.Text = "Cargas controlantes en la conexión"
+        '
+        'Label916
+        '
+        Me.Label916.AutoSize = true
+        Me.Label916.Location = New System.Drawing.Point(137, 70)
+        Me.Label916.Name = "Label916"
+        Me.Label916.Size = New System.Drawing.Size(51, 13)
+        Me.Label916.TabIndex = 2
+        Me.Label916.Text = "Label916"
+        '
+        'Label917
+        '
+        Me.Label917.AutoSize = true
+        Me.Label917.Location = New System.Drawing.Point(215, 117)
+        Me.Label917.Name = "Label917"
+        Me.Label917.Size = New System.Drawing.Size(51, 13)
+        Me.Label917.TabIndex = 1
+        Me.Label917.Text = "Label917"
+        '
+        'PictureBox332
+        '
+        Me.PictureBox332.Image = Global.WindowsApplication1.My.Resources.Resources.CargasGB6i
+        Me.PictureBox332.Location = New System.Drawing.Point(12, 46)
+        Me.PictureBox332.Name = "PictureBox332"
+        Me.PictureBox332.Size = New System.Drawing.Size(250, 250)
+        Me.PictureBox332.TabIndex = 0
+        Me.PictureBox332.TabStop = false
+        Me.ToolTip1.SetToolTip(Me.PictureBox332, "AISC Manual, Pt. 13")
+        '
+        'GroupBox162
+        '
+        Me.GroupBox162.Controls.Add(Me.GroupBox165)
+        Me.GroupBox162.Controls.Add(Me.Label947)
+        Me.GroupBox162.Controls.Add(Me.Label946)
+        Me.GroupBox162.Controls.Add(Me.Label871)
+        Me.GroupBox162.Controls.Add(Me.PictureBox320)
+        Me.GroupBox162.Controls.Add(Me.GroupBox163)
+        Me.GroupBox162.Controls.Add(Me.GroupBox164)
+        Me.GroupBox162.Controls.Add(Me.Label879)
+        Me.GroupBox162.Controls.Add(Me.Label894)
+        Me.GroupBox162.Controls.Add(Me.Label895)
+        Me.GroupBox162.Controls.Add(Me.Label896)
+        Me.GroupBox162.Controls.Add(Me.Label897)
+        Me.GroupBox162.Controls.Add(Me.PictureBox327)
+        Me.GroupBox162.ForeColor = System.Drawing.Color.White
+        Me.GroupBox162.Location = New System.Drawing.Point(6, 564)
+        Me.GroupBox162.Name = "GroupBox162"
+        Me.GroupBox162.Size = New System.Drawing.Size(930, 540)
+        Me.GroupBox162.TabIndex = 2
+        Me.GroupBox162.TabStop = false
+        Me.GroupBox162.Text = "Conexión entre el alma de la viga y la placa simple"
+        '
+        'GroupBox165
+        '
+        Me.GroupBox165.Controls.Add(Me.Label863)
+        Me.GroupBox165.Controls.Add(Me.Label857)
+        Me.GroupBox165.Controls.Add(Me.Label890)
+        Me.GroupBox165.Controls.Add(Me.TextBox278)
+        Me.GroupBox165.Controls.Add(Me.Label891)
+        Me.GroupBox165.Controls.Add(Me.Label892)
+        Me.GroupBox165.Controls.Add(Me.Label893)
+        Me.GroupBox165.Controls.Add(Me.Label944)
+        Me.GroupBox165.Controls.Add(Me.Label945)
+        Me.GroupBox165.Controls.Add(Me.TextBox289)
+        Me.GroupBox165.Controls.Add(Me.Label962)
+        Me.GroupBox165.Controls.Add(Me.Label963)
+        Me.GroupBox165.ForeColor = System.Drawing.Color.White
+        Me.GroupBox165.Location = New System.Drawing.Point(272, 20)
+        Me.GroupBox165.Name = "GroupBox165"
+        Me.GroupBox165.Size = New System.Drawing.Size(200, 175)
+        Me.GroupBox165.TabIndex = 30
+        Me.GroupBox165.TabStop = false
+        Me.GroupBox165.Text = "Pernos"
+        Me.ToolTip1.SetToolTip(Me.GroupBox165, "Tipo de pernos:"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AISC 360-10, Tabla J3.2"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"Diámetros:"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AISC 360-10, Tabla J3.3"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"Di"& _ 
+        "stancia al borde mínima:"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AISC 360-10, Tabla J3.4")
+        '
+        'Label863
+        '
+        Me.Label863.AutoSize = true
+        Me.Label863.Location = New System.Drawing.Point(91, 80)
+        Me.Label863.Name = "Label863"
+        Me.Label863.Size = New System.Drawing.Size(51, 13)
+        Me.Label863.TabIndex = 20
+        Me.Label863.Text = "Label863"
+        '
+        'Label857
+        '
+        Me.Label857.AutoSize = true
+        Me.Label857.Location = New System.Drawing.Point(91, 54)
+        Me.Label857.Name = "Label857"
+        Me.Label857.Size = New System.Drawing.Size(51, 13)
+        Me.Label857.TabIndex = 19
+        Me.Label857.Text = "Label857"
+        '
+        'Label890
+        '
+        Me.Label890.AutoSize = true
+        Me.Label890.Location = New System.Drawing.Point(135, 133)
+        Me.Label890.Name = "Label890"
+        Me.Label890.Size = New System.Drawing.Size(51, 13)
+        Me.Label890.TabIndex = 18
+        Me.Label890.Text = "Label890"
+        '
+        'TextBox278
+        '
+        Me.TextBox278.Location = New System.Drawing.Point(94, 129)
+        Me.TextBox278.Name = "TextBox278"
+        Me.TextBox278.Size = New System.Drawing.Size(40, 20)
+        Me.TextBox278.TabIndex = 17
+        '
+        'Label891
+        '
+        Me.Label891.AutoSize = true
+        Me.Label891.Location = New System.Drawing.Point(12, 133)
+        Me.Label891.Name = "Label891"
+        Me.Label891.Size = New System.Drawing.Size(79, 13)
+        Me.Label891.TabIndex = 16
+        Me.Label891.Text = "Espaciamiento:"
+        '
+        'Label892
+        '
+        Me.Label892.AutoSize = true
+        Me.Label892.Location = New System.Drawing.Point(91, 26)
+        Me.Label892.Name = "Label892"
+        Me.Label892.Size = New System.Drawing.Size(51, 13)
+        Me.Label892.TabIndex = 13
+        Me.Label892.Text = "Label892"
+        '
+        'Label893
+        '
+        Me.Label893.AutoSize = true
+        Me.Label893.Location = New System.Drawing.Point(53, 26)
+        Me.Label893.Name = "Label893"
+        Me.Label893.Size = New System.Drawing.Size(38, 13)
+        Me.Label893.TabIndex = 12
+        Me.Label893.Text = "Carga:"
+        '
+        'Label944
+        '
+        Me.Label944.AutoSize = true
+        Me.Label944.Location = New System.Drawing.Point(135, 107)
+        Me.Label944.Name = "Label944"
+        Me.Label944.Size = New System.Drawing.Size(51, 13)
+        Me.Label944.TabIndex = 11
+        Me.Label944.Text = "Label944"
+        '
+        'Label945
+        '
+        Me.Label945.AutoSize = true
+        Me.Label945.Location = New System.Drawing.Point(15, 53)
+        Me.Label945.Name = "Label945"
+        Me.Label945.Size = New System.Drawing.Size(76, 13)
+        Me.Label945.TabIndex = 5
+        Me.Label945.Text = "Tipo de perno:"
+        '
+        'TextBox289
+        '
+        Me.TextBox289.Location = New System.Drawing.Point(94, 103)
+        Me.TextBox289.Name = "TextBox289"
+        Me.TextBox289.Size = New System.Drawing.Size(40, 20)
+        Me.TextBox289.TabIndex = 10
+        '
+        'Label962
+        '
+        Me.Label962.AutoSize = true
+        Me.Label962.Location = New System.Drawing.Point(39, 80)
+        Me.Label962.Name = "Label962"
+        Me.Label962.Size = New System.Drawing.Size(52, 13)
+        Me.Label962.TabIndex = 6
+        Me.Label962.Text = "Diámetro:"
+        '
+        'Label963
+        '
+        Me.Label963.AutoSize = true
+        Me.Label963.Location = New System.Drawing.Point(39, 107)
+        Me.Label963.Name = "Label963"
+        Me.Label963.Size = New System.Drawing.Size(52, 13)
+        Me.Label963.TabIndex = 7
+        Me.Label963.Text = "Cantidad:"
+        '
+        'Label947
+        '
+        Me.Label947.AutoSize = true
+        Me.Label947.Location = New System.Drawing.Point(379, 361)
+        Me.Label947.Name = "Label947"
+        Me.Label947.Size = New System.Drawing.Size(51, 13)
+        Me.Label947.TabIndex = 29
+        Me.Label947.Text = "Label947"
+        '
+        'Label946
+        '
+        Me.Label946.AutoSize = true
+        Me.Label946.Location = New System.Drawing.Point(246, 400)
+        Me.Label946.Name = "Label946"
+        Me.Label946.Size = New System.Drawing.Size(51, 13)
+        Me.Label946.TabIndex = 28
+        Me.Label946.Text = "Label946"
+        '
+        'Label871
+        '
+        Me.Label871.AutoSize = true
+        Me.Label871.Location = New System.Drawing.Point(276, 500)
+        Me.Label871.Name = "Label871"
+        Me.Label871.Size = New System.Drawing.Size(40, 13)
+        Me.Label871.TabIndex = 26
+        Me.Label871.Text = "Cargas"
+        '
+        'PictureBox320
+        '
+        Me.PictureBox320.Image = Global.WindowsApplication1.My.Resources.Resources.CargasBC6
+        Me.PictureBox320.Location = New System.Drawing.Point(170, 234)
+        Me.PictureBox320.Name = "PictureBox320"
+        Me.PictureBox320.Size = New System.Drawing.Size(250, 250)
+        Me.PictureBox320.TabIndex = 15
+        Me.PictureBox320.TabStop = false
+        Me.ToolTip1.SetToolTip(Me.PictureBox320, "AISC Manual, Pt. 13")
+        '
+        'GroupBox163
+        '
+        Me.GroupBox163.Controls.Add(Me.PictureBox420)
+        Me.GroupBox163.Controls.Add(Me.PictureBox418)
+        Me.GroupBox163.Controls.Add(Me.PictureBox416)
+        Me.GroupBox163.Controls.Add(Me.PictureBox293)
+        Me.GroupBox163.Controls.Add(Me.Label873)
+        Me.GroupBox163.Controls.Add(Me.Label877)
+        Me.GroupBox163.Controls.Add(Me.Label1096)
+        Me.GroupBox163.Controls.Add(Me.Label1097)
+        Me.GroupBox163.Controls.Add(Me.Label1098)
+        Me.GroupBox163.Controls.Add(Me.Label1099)
+        Me.GroupBox163.Controls.Add(Me.Label1100)
+        Me.GroupBox163.Controls.Add(Me.Label1101)
+        Me.GroupBox163.Controls.Add(Me.PictureBox321)
+        Me.GroupBox163.Controls.Add(Me.PictureBox322)
+        Me.GroupBox163.Controls.Add(Me.Label874)
+        Me.GroupBox163.Controls.Add(Me.Label875)
+        Me.GroupBox163.Controls.Add(Me.Label878)
+        Me.GroupBox163.Controls.Add(Me.Label880)
+        Me.GroupBox163.ForeColor = System.Drawing.Color.White
+        Me.GroupBox163.Location = New System.Drawing.Point(474, 20)
+        Me.GroupBox163.Name = "GroupBox163"
+        Me.GroupBox163.Size = New System.Drawing.Size(220, 385)
+        Me.GroupBox163.TabIndex = 14
+        Me.GroupBox163.TabStop = false
+        Me.GroupBox163.Text = "Placa Simple"
+        Me.ToolTip1.SetToolTip(Me.GroupBox163, "Aplastamiento de los pernos:"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AISC 360-10, J3.10"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"Ruptura por bloque de cortante:"& _ 
+        ""&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AISC 360-10, J4.3")
+        '
+        'PictureBox420
+        '
+        Me.PictureBox420.Image = Global.WindowsApplication1.My.Resources.Resources.Rublancoigual
+        Me.PictureBox420.Location = New System.Drawing.Point(52, 286)
+        Me.PictureBox420.Name = "PictureBox420"
+        Me.PictureBox420.Size = New System.Drawing.Size(38, 14)
+        Me.PictureBox420.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
+        Me.PictureBox420.TabIndex = 73
+        Me.PictureBox420.TabStop = false
+        '
+        'PictureBox418
+        '
+        Me.PictureBox418.Image = Global.WindowsApplication1.My.Resources.Resources.Rublancoigual
+        Me.PictureBox418.Location = New System.Drawing.Point(52, 173)
+        Me.PictureBox418.Name = "PictureBox418"
+        Me.PictureBox418.Size = New System.Drawing.Size(38, 14)
+        Me.PictureBox418.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
+        Me.PictureBox418.TabIndex = 72
+        Me.PictureBox418.TabStop = false
+        '
+        'PictureBox416
+        '
+        Me.PictureBox416.Image = Global.WindowsApplication1.My.Resources.Resources.Rublancoigual
+        Me.PictureBox416.Location = New System.Drawing.Point(52, 55)
+        Me.PictureBox416.Name = "PictureBox416"
+        Me.PictureBox416.Size = New System.Drawing.Size(38, 14)
+        Me.PictureBox416.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
+        Me.PictureBox416.TabIndex = 71
+        Me.PictureBox416.TabStop = false
+        '
+        'PictureBox293
+        '
+        Me.PictureBox293.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
+        Me.PictureBox293.Location = New System.Drawing.Point(67, 121)
+        Me.PictureBox293.Name = "PictureBox293"
+        Me.PictureBox293.Size = New System.Drawing.Size(48, 14)
+        Me.PictureBox293.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
+        Me.PictureBox293.TabIndex = 57
+        Me.PictureBox293.TabStop = false
+        '
+        'Label873
+        '
+        Me.Label873.AutoSize = true
+        Me.Label873.Location = New System.Drawing.Point(91, 287)
+        Me.Label873.Name = "Label873"
+        Me.Label873.Size = New System.Drawing.Size(51, 13)
+        Me.Label873.TabIndex = 56
+        Me.Label873.Text = "Label873"
+        '
+        'Label877
+        '
+        Me.Label877.AutoSize = true
+        Me.Label877.Location = New System.Drawing.Point(10, 258)
+        Me.Label877.Name = "Label877"
+        Me.Label877.Size = New System.Drawing.Size(134, 13)
+        Me.Label877.TabIndex = 55
+        Me.Label877.Text = "Carga resultante requerida:"
+        '
+        'Label1096
+        '
+        Me.Label1096.Location = New System.Drawing.Point(28, 196)
+        Me.Label1096.Name = "Label1096"
+        Me.Label1096.Size = New System.Drawing.Size(175, 32)
+        Me.Label1096.TabIndex = 54
+        Me.Label1096.Text = "Resistencia disponible a la ruptura por bloque de cortante:"
+        '
+        'Label1097
+        '
+        Me.Label1097.AutoSize = true
+        Me.Label1097.Location = New System.Drawing.Point(91, 173)
+        Me.Label1097.Name = "Label1097"
+        Me.Label1097.Size = New System.Drawing.Size(57, 13)
+        Me.Label1097.TabIndex = 53
+        Me.Label1097.Text = "Label1097"
+        '
+        'Label1098
+        '
+        Me.Label1098.AutoSize = true
+        Me.Label1098.Location = New System.Drawing.Point(10, 146)
+        Me.Label1098.Name = "Label1098"
+        Me.Label1098.Size = New System.Drawing.Size(142, 13)
+        Me.Label1098.TabIndex = 52
+        Me.Label1098.Text = "Carga de cortante requerida:"
+        '
+        'Label1099
+        '
+        Me.Label1099.Location = New System.Drawing.Point(28, 81)
+        Me.Label1099.Name = "Label1099"
+        Me.Label1099.Size = New System.Drawing.Size(175, 32)
+        Me.Label1099.TabIndex = 51
+        Me.Label1099.Text = "Resistencia disponible a la ruptura por bloque de cortante:"
+        '
+        'Label1100
+        '
+        Me.Label1100.AutoSize = true
+        Me.Label1100.Location = New System.Drawing.Point(10, 26)
+        Me.Label1100.Name = "Label1100"
+        Me.Label1100.Size = New System.Drawing.Size(119, 13)
+        Me.Label1100.TabIndex = 50
+        Me.Label1100.Text = "Carga normal requerida:"
+        '
+        'Label1101
+        '
+        Me.Label1101.AutoSize = true
+        Me.Label1101.Location = New System.Drawing.Point(115, 121)
+        Me.Label1101.Name = "Label1101"
+        Me.Label1101.Size = New System.Drawing.Size(57, 13)
+        Me.Label1101.TabIndex = 49
+        Me.Label1101.Text = "Label1101"
+        '
+        'PictureBox321
+        '
+        Me.PictureBox321.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
+        Me.PictureBox321.Location = New System.Drawing.Point(67, 233)
+        Me.PictureBox321.Name = "PictureBox321"
+        Me.PictureBox321.Size = New System.Drawing.Size(48, 14)
+        Me.PictureBox321.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
+        Me.PictureBox321.TabIndex = 32
+        Me.PictureBox321.TabStop = false
+        '
+        'PictureBox322
+        '
+        Me.PictureBox322.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
+        Me.PictureBox322.Location = New System.Drawing.Point(84, 352)
+        Me.PictureBox322.Name = "PictureBox322"
+        Me.PictureBox322.Size = New System.Drawing.Size(48, 14)
+        Me.PictureBox322.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
+        Me.PictureBox322.TabIndex = 31
+        Me.PictureBox322.TabStop = false
+        '
+        'Label874
+        '
+        Me.Label874.AutoSize = true
+        Me.Label874.Location = New System.Drawing.Point(134, 353)
+        Me.Label874.Name = "Label874"
+        Me.Label874.Size = New System.Drawing.Size(51, 13)
+        Me.Label874.TabIndex = 22
+        Me.Label874.Text = "Label874"
+        '
+        'Label875
+        '
+        Me.Label875.Location = New System.Drawing.Point(28, 313)
+        Me.Label875.Name = "Label875"
+        Me.Label875.Size = New System.Drawing.Size(170, 29)
+        Me.Label875.TabIndex = 24
+        Me.Label875.Text = "Resistencia disponible al aplastamiento de los pernos:"
+        '
+        'Label878
+        '
+        Me.Label878.AutoSize = true
+        Me.Label878.Location = New System.Drawing.Point(91, 55)
+        Me.Label878.Name = "Label878"
+        Me.Label878.Size = New System.Drawing.Size(51, 13)
+        Me.Label878.TabIndex = 20
+        Me.Label878.Text = "Label878"
+        '
+        'Label880
+        '
+        Me.Label880.AutoSize = true
+        Me.Label880.Location = New System.Drawing.Point(115, 233)
+        Me.Label880.Name = "Label880"
+        Me.Label880.Size = New System.Drawing.Size(51, 13)
+        Me.Label880.TabIndex = 19
+        Me.Label880.Text = "Label880"
+        '
+        'GroupBox164
+        '
+        Me.GroupBox164.Controls.Add(Me.PictureBox423)
+        Me.GroupBox164.Controls.Add(Me.PictureBox422)
+        Me.GroupBox164.Controls.Add(Me.PictureBox421)
+        Me.GroupBox164.Controls.Add(Me.PictureBox285)
+        Me.GroupBox164.Controls.Add(Me.Label1094)
+        Me.GroupBox164.Controls.Add(Me.Label1092)
+        Me.GroupBox164.Controls.Add(Me.Label1093)
+        Me.GroupBox164.Controls.Add(Me.Label1089)
+        Me.GroupBox164.Controls.Add(Me.PictureBox315)
+        Me.GroupBox164.Controls.Add(Me.Label1091)
+        Me.GroupBox164.Controls.Add(Me.Label1087)
+        Me.GroupBox164.Controls.Add(Me.Label1088)
+        Me.GroupBox164.Controls.Add(Me.Label1090)
+        Me.GroupBox164.Controls.Add(Me.PictureBox314)
+        Me.GroupBox164.Controls.Add(Me.Label1085)
+        Me.GroupBox164.Controls.Add(Me.Label884)
+        Me.GroupBox164.Controls.Add(Me.PictureBox325)
+        Me.GroupBox164.Controls.Add(Me.Label885)
+        Me.GroupBox164.Controls.Add(Me.Label886)
+        Me.GroupBox164.Controls.Add(Me.Label887)
+        Me.GroupBox164.Controls.Add(Me.Label889)
+        Me.GroupBox164.ForeColor = System.Drawing.Color.White
+        Me.GroupBox164.Location = New System.Drawing.Point(700, 20)
+        Me.GroupBox164.Name = "GroupBox164"
+        Me.GroupBox164.Size = New System.Drawing.Size(220, 450)
+        Me.GroupBox164.TabIndex = 13
+        Me.GroupBox164.TabStop = false
+        Me.GroupBox164.Text = "Alma de la viga"
+        Me.ToolTip1.SetToolTip(Me.GroupBox164, "Resistencia a la fluencia:"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AISC 360-10, J4.1"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"Aplastamiento de los pernos:"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AISC"& _ 
+        " 360-10, J3.10"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"Ruptura por bloque de cortante:"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AISC 360-10, J4.3")
+        '
+        'PictureBox423
+        '
+        Me.PictureBox423.Image = Global.WindowsApplication1.My.Resources.Resources.Rublancoigual
+        Me.PictureBox423.Location = New System.Drawing.Point(53, 347)
+        Me.PictureBox423.Name = "PictureBox423"
+        Me.PictureBox423.Size = New System.Drawing.Size(38, 14)
+        Me.PictureBox423.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
+        Me.PictureBox423.TabIndex = 74
+        Me.PictureBox423.TabStop = false
+        '
+        'PictureBox422
+        '
+        Me.PictureBox422.Image = Global.WindowsApplication1.My.Resources.Resources.Rublancoigual
+        Me.PictureBox422.Location = New System.Drawing.Point(52, 173)
+        Me.PictureBox422.Name = "PictureBox422"
+        Me.PictureBox422.Size = New System.Drawing.Size(38, 14)
+        Me.PictureBox422.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
+        Me.PictureBox422.TabIndex = 73
+        Me.PictureBox422.TabStop = false
+        '
+        'PictureBox421
+        '
+        Me.PictureBox421.Image = Global.WindowsApplication1.My.Resources.Resources.Rublancoigual
+        Me.PictureBox421.Location = New System.Drawing.Point(52, 55)
+        Me.PictureBox421.Name = "PictureBox421"
+        Me.PictureBox421.Size = New System.Drawing.Size(38, 14)
+        Me.PictureBox421.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
+        Me.PictureBox421.TabIndex = 72
+        Me.PictureBox421.TabStop = false
+        '
+        'PictureBox285
+        '
+        Me.PictureBox285.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
+        Me.PictureBox285.Location = New System.Drawing.Point(65, 294)
+        Me.PictureBox285.Name = "PictureBox285"
+        Me.PictureBox285.Size = New System.Drawing.Size(48, 14)
+        Me.PictureBox285.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
+        Me.PictureBox285.TabIndex = 60
+        Me.PictureBox285.TabStop = false
+        '
+        'Label1094
+        '
+        Me.Label1094.AutoSize = true
+        Me.Label1094.Location = New System.Drawing.Point(91, 173)
+        Me.Label1094.Name = "Label1094"
+        Me.Label1094.Size = New System.Drawing.Size(57, 13)
+        Me.Label1094.TabIndex = 58
+        Me.Label1094.Text = "Label1094"
+        '
+        'Label1092
+        '
+        Me.Label1092.AutoSize = true
+        Me.Label1092.Location = New System.Drawing.Point(88, 347)
+        Me.Label1092.Name = "Label1092"
+        Me.Label1092.Size = New System.Drawing.Size(57, 13)
+        Me.Label1092.TabIndex = 57
+        Me.Label1092.Text = "Label1092"
+        '
+        'Label1093
+        '
+        Me.Label1093.AutoSize = true
+        Me.Label1093.Location = New System.Drawing.Point(10, 319)
+        Me.Label1093.Name = "Label1093"
+        Me.Label1093.Size = New System.Drawing.Size(134, 13)
+        Me.Label1093.TabIndex = 56
+        Me.Label1093.Text = "Carga resultante requerida:"
+        '
+        'Label1089
+        '
+        Me.Label1089.Location = New System.Drawing.Point(28, 196)
+        Me.Label1089.Name = "Label1089"
+        Me.Label1089.Size = New System.Drawing.Size(175, 27)
+        Me.Label1089.TabIndex = 55
+        Me.Label1089.Text = "Resistencia disponible a la fluencia por cortante:"
+        '
+        'PictureBox315
+        '
+        Me.PictureBox315.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
+        Me.PictureBox315.Location = New System.Drawing.Point(67, 233)
+        Me.PictureBox315.Name = "PictureBox315"
+        Me.PictureBox315.Size = New System.Drawing.Size(48, 14)
+        Me.PictureBox315.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
+        Me.PictureBox315.TabIndex = 54
+        Me.PictureBox315.TabStop = false
+        '
+        'Label1091
+        '
+        Me.Label1091.AutoSize = true
+        Me.Label1091.Location = New System.Drawing.Point(115, 233)
+        Me.Label1091.Name = "Label1091"
+        Me.Label1091.Size = New System.Drawing.Size(57, 13)
+        Me.Label1091.TabIndex = 53
+        Me.Label1091.Text = "Label1091"
+        '
+        'Label1087
+        '
+        Me.Label1087.AutoSize = true
+        Me.Label1087.Location = New System.Drawing.Point(115, 294)
+        Me.Label1087.Name = "Label1087"
+        Me.Label1087.Size = New System.Drawing.Size(57, 13)
+        Me.Label1087.TabIndex = 52
+        Me.Label1087.Text = "Label1087"
+        '
+        'Label1088
+        '
+        Me.Label1088.Location = New System.Drawing.Point(28, 258)
+        Me.Label1088.Name = "Label1088"
+        Me.Label1088.Size = New System.Drawing.Size(175, 32)
+        Me.Label1088.TabIndex = 51
+        Me.Label1088.Text = "Resistencia disponible a la ruptura por bloque de cortante:"
+        '
+        'Label1090
+        '
+        Me.Label1090.AutoSize = true
+        Me.Label1090.Location = New System.Drawing.Point(10, 146)
+        Me.Label1090.Name = "Label1090"
+        Me.Label1090.Size = New System.Drawing.Size(142, 13)
+        Me.Label1090.TabIndex = 49
+        Me.Label1090.Text = "Carga de cortante requerida:"
+        '
+        'PictureBox314
+        '
+        Me.PictureBox314.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
+        Me.PictureBox314.Location = New System.Drawing.Point(67, 121)
+        Me.PictureBox314.Name = "PictureBox314"
+        Me.PictureBox314.Size = New System.Drawing.Size(48, 14)
+        Me.PictureBox314.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
+        Me.PictureBox314.TabIndex = 33
+        Me.PictureBox314.TabStop = false
+        '
+        'Label1085
+        '
+        Me.Label1085.Location = New System.Drawing.Point(28, 81)
+        Me.Label1085.Name = "Label1085"
+        Me.Label1085.Size = New System.Drawing.Size(175, 32)
+        Me.Label1085.TabIndex = 31
+        Me.Label1085.Text = "Resistencia disponible a la ruptura por bloque de cortante:"
+        '
+        'Label884
+        '
+        Me.Label884.AutoSize = true
+        Me.Label884.Location = New System.Drawing.Point(10, 26)
+        Me.Label884.Name = "Label884"
+        Me.Label884.Size = New System.Drawing.Size(116, 13)
+        Me.Label884.TabIndex = 25
+        Me.Label884.Text = "Carga normal requerida"
+        '
+        'PictureBox325
+        '
+        Me.PictureBox325.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
+        Me.PictureBox325.Location = New System.Drawing.Point(65, 415)
+        Me.PictureBox325.Name = "PictureBox325"
+        Me.PictureBox325.Size = New System.Drawing.Size(48, 14)
+        Me.PictureBox325.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
+        Me.PictureBox325.TabIndex = 24
+        Me.PictureBox325.TabStop = false
+        '
+        'Label885
+        '
+        Me.Label885.AutoSize = true
+        Me.Label885.Location = New System.Drawing.Point(115, 121)
+        Me.Label885.Name = "Label885"
+        Me.Label885.Size = New System.Drawing.Size(51, 13)
+        Me.Label885.TabIndex = 21
+        Me.Label885.Text = "Label885"
+        '
+        'Label886
+        '
+        Me.Label886.Location = New System.Drawing.Point(29, 372)
+        Me.Label886.Name = "Label886"
+        Me.Label886.Size = New System.Drawing.Size(154, 31)
+        Me.Label886.TabIndex = 21
+        Me.Label886.Text = "Resistencia disponible al aplastamiento de los pernos:"
+        '
+        'Label887
+        '
+        Me.Label887.AutoSize = true
+        Me.Label887.Location = New System.Drawing.Point(115, 416)
+        Me.Label887.Name = "Label887"
+        Me.Label887.Size = New System.Drawing.Size(51, 13)
+        Me.Label887.TabIndex = 18
+        Me.Label887.Text = "Label887"
+        '
+        'Label889
+        '
+        Me.Label889.AutoSize = true
+        Me.Label889.Location = New System.Drawing.Point(91, 55)
+        Me.Label889.Name = "Label889"
+        Me.Label889.Size = New System.Drawing.Size(51, 13)
+        Me.Label889.TabIndex = 16
+        Me.Label889.Text = "Label889"
+        '
+        'Label879
+        '
+        Me.Label879.AutoSize = true
+        Me.Label879.Location = New System.Drawing.Point(50, 381)
+        Me.Label879.Name = "Label879"
+        Me.Label879.Size = New System.Drawing.Size(68, 13)
+        Me.Label879.TabIndex = 31
+        Me.Label879.Text = "Placa Simple"
+        '
+        'Label894
+        '
+        Me.Label894.AutoSize = true
+        Me.Label894.Location = New System.Drawing.Point(70, 344)
+        Me.Label894.Name = "Label894"
+        Me.Label894.Size = New System.Drawing.Size(51, 13)
+        Me.Label894.TabIndex = 4
+        Me.Label894.Text = "Label894"
+        '
+        'Label895
+        '
+        Me.Label895.AutoSize = true
+        Me.Label895.Location = New System.Drawing.Point(114, 297)
+        Me.Label895.Name = "Label895"
+        Me.Label895.Size = New System.Drawing.Size(51, 13)
+        Me.Label895.TabIndex = 3
+        Me.Label895.Text = "Label895"
+        '
+        'Label896
+        '
+        Me.Label896.AutoSize = true
+        Me.Label896.Location = New System.Drawing.Point(114, 236)
+        Me.Label896.Name = "Label896"
+        Me.Label896.Size = New System.Drawing.Size(51, 13)
+        Me.Label896.TabIndex = 2
+        Me.Label896.Text = "Label896"
+        '
+        'Label897
+        '
+        Me.Label897.AutoSize = true
+        Me.Label897.Location = New System.Drawing.Point(6, 187)
+        Me.Label897.Name = "Label897"
+        Me.Label897.Size = New System.Drawing.Size(51, 13)
+        Me.Label897.TabIndex = 1
+        Me.Label897.Text = "Label897"
+        '
+        'PictureBox327
+        '
+        Me.PictureBox327.Image = Global.WindowsApplication1.My.Resources.Resources.PSBC
+        Me.PictureBox327.Location = New System.Drawing.Point(32, 24)
+        Me.PictureBox327.Name = "PictureBox327"
+        Me.PictureBox327.Size = New System.Drawing.Size(100, 350)
+        Me.PictureBox327.TabIndex = 0
+        Me.PictureBox327.TabStop = false
+        '
+        'GroupBox158
+        '
+        Me.GroupBox158.Controls.Add(Me.Label876)
+        Me.GroupBox158.Controls.Add(Me.Label939)
+        Me.GroupBox158.Controls.Add(Me.Label949)
+        Me.GroupBox158.Controls.Add(Me.Label948)
+        Me.GroupBox158.Controls.Add(Me.GroupBox174)
+        Me.GroupBox158.Controls.Add(Me.Label870)
+        Me.GroupBox158.Controls.Add(Me.PictureBox312)
+        Me.GroupBox158.Controls.Add(Me.GroupBox161)
+        Me.GroupBox158.Controls.Add(Me.GroupBox160)
+        Me.GroupBox158.Controls.Add(Me.GroupBox159)
+        Me.GroupBox158.Controls.Add(Me.Label847)
+        Me.GroupBox158.Controls.Add(Me.Label846)
+        Me.GroupBox158.Controls.Add(Me.Label845)
+        Me.GroupBox158.Controls.Add(Me.Label844)
+        Me.GroupBox158.Controls.Add(Me.PictureBox316)
+        Me.GroupBox158.ForeColor = System.Drawing.Color.White
+        Me.GroupBox158.Location = New System.Drawing.Point(6, 4)
+        Me.GroupBox158.Name = "GroupBox158"
+        Me.GroupBox158.Size = New System.Drawing.Size(930, 554)
+        Me.GroupBox158.TabIndex = 1
+        Me.GroupBox158.TabStop = false
+        Me.GroupBox158.Text = "Conexión entre la placa gusset y la placa simple"
+        '
+        'Label876
+        '
+        Me.Label876.AutoSize = true
+        Me.Label876.Location = New System.Drawing.Point(63, 520)
+        Me.Label876.Name = "Label876"
+        Me.Label876.Size = New System.Drawing.Size(68, 13)
+        Me.Label876.TabIndex = 26
+        Me.Label876.Text = "Placa Simple"
+        '
+        'Label939
+        '
+        Me.Label939.AutoSize = true
+        Me.Label939.Location = New System.Drawing.Point(270, 275)
+        Me.Label939.Name = "Label939"
+        Me.Label939.Size = New System.Drawing.Size(51, 13)
+        Me.Label939.TabIndex = 25
+        Me.Label939.Text = "Label939"
+        '
+        'Label949
+        '
+        Me.Label949.AutoSize = true
+        Me.Label949.Location = New System.Drawing.Point(384, 316)
+        Me.Label949.Name = "Label949"
+        Me.Label949.Size = New System.Drawing.Size(51, 13)
+        Me.Label949.TabIndex = 24
+        Me.Label949.Text = "Label949"
+        '
+        'Label948
+        '
+        Me.Label948.AutoSize = true
+        Me.Label948.Location = New System.Drawing.Point(241, 355)
+        Me.Label948.Name = "Label948"
+        Me.Label948.Size = New System.Drawing.Size(51, 13)
+        Me.Label948.TabIndex = 23
+        Me.Label948.Text = "Label948"
+        '
+        'GroupBox174
+        '
+        Me.GroupBox174.Controls.Add(Me.ListBox5)
+        Me.GroupBox174.Controls.Add(Me.ListBox4)
+        Me.GroupBox174.Controls.Add(Me.ListBox3)
+        Me.GroupBox174.Controls.Add(Me.ListBox2)
+        Me.GroupBox174.Controls.Add(Me.ListBox1)
+        Me.GroupBox174.Controls.Add(Me.ComboBox19)
+        Me.GroupBox174.Controls.Add(Me.Label940)
+        Me.GroupBox174.Controls.Add(Me.Label938)
+        Me.GroupBox174.Controls.Add(Me.TextBox287)
+        Me.GroupBox174.ForeColor = System.Drawing.Color.White
+        Me.GroupBox174.Location = New System.Drawing.Point(16, 16)
+        Me.GroupBox174.Name = "GroupBox174"
+        Me.GroupBox174.Size = New System.Drawing.Size(250, 125)
+        Me.GroupBox174.TabIndex = 22
+        Me.GroupBox174.TabStop = false
+        Me.GroupBox174.Text = "Dimensiones de la placa Simple"
+        '
+        'ListBox5
+        '
+        Me.ListBox5.FormattingEnabled = true
+        Me.ListBox5.Items.AddRange(New Object() {"0.5", "0.625", "0.75", "0.875", "1", "1.125", "1.25"})
+        Me.ListBox5.Location = New System.Drawing.Point(127, 97)
+        Me.ListBox5.Name = "ListBox5"
+        Me.ListBox5.Size = New System.Drawing.Size(20, 17)
+        Me.ListBox5.TabIndex = 26
+        Me.ListBox5.Visible = false
+        '
+        'ListBox4
+        '
+        Me.ListBox4.FormattingEnabled = true
+        Me.ListBox4.Items.AddRange(New Object() {"0.75", "0.875", "1", "1.125", "1.25", "1.5", "1.875"})
+        Me.ListBox4.Location = New System.Drawing.Point(214, 97)
+        Me.ListBox4.Name = "ListBox4"
+        Me.ListBox4.Size = New System.Drawing.Size(20, 17)
+        Me.ListBox4.TabIndex = 25
+        Me.ListBox4.Visible = false
+        '
+        'ListBox3
+        '
+        Me.ListBox3.FormattingEnabled = true
+        Me.ListBox3.Items.AddRange(New Object() {"3/4", "7/8", "1", "1 1/8", "1 1/4", "1 1/2", "1 5/8"})
+        Me.ListBox3.Location = New System.Drawing.Point(182, 96)
+        Me.ListBox3.Name = "ListBox3"
+        Me.ListBox3.Size = New System.Drawing.Size(20, 17)
+        Me.ListBox3.TabIndex = 24
+        Me.ListBox3.Visible = false
+        '
+        'ListBox2
+        '
+        Me.ListBox2.FormattingEnabled = true
+        Me.ListBox2.Items.AddRange(New Object() {"45", "90", "90", "113", "113"})
+        Me.ListBox2.Location = New System.Drawing.Point(67, 97)
+        Me.ListBox2.Name = "ListBox2"
+        Me.ListBox2.Size = New System.Drawing.Size(20, 17)
+        Me.ListBox2.TabIndex = 23
+        Me.ListBox2.Visible = false
+        '
+        'ListBox1
+        '
+        Me.ListBox1.FormattingEnabled = true
+        Me.ListBox1.Items.AddRange(New Object() {"2", "2.25", "2.5", "2.75", "3", "3.25", "3.5", "3.75", "4", "4.25", "4.5", "4.75", "5"})
+        Me.ListBox1.Location = New System.Drawing.Point(36, 97)
+        Me.ListBox1.Name = "ListBox1"
+        Me.ListBox1.Size = New System.Drawing.Size(20, 17)
+        Me.ListBox1.TabIndex = 22
+        Me.ListBox1.Visible = false
+        '
+        'ComboBox19
+        '
+        Me.ComboBox19.FormattingEnabled = true
+        Me.ComboBox19.Items.AddRange(New Object() {"2 in", "2.25 in", "2.5 in", "2.75 in", "3 in", "3.25 in", "3.5 in", "3.75 in", "4 in", "4.25 in", "4.5 in", "4.75 in", "5 in"})
+        Me.ComboBox19.Location = New System.Drawing.Point(161, 39)
+        Me.ComboBox19.Name = "ComboBox19"
+        Me.ComboBox19.Size = New System.Drawing.Size(65, 21)
+        Me.ComboBox19.TabIndex = 21
+        '
+        'Label940
+        '
+        Me.Label940.AutoSize = true
+        Me.Label940.Location = New System.Drawing.Point(31, 43)
+        Me.Label940.Name = "Label940"
+        Me.Label940.Size = New System.Drawing.Size(128, 13)
+        Me.Label940.TabIndex = 20
+        Me.Label940.Text = "Ancho de la placa simple:"
+        '
+        'Label938
+        '
+        Me.Label938.AutoSize = true
+        Me.Label938.Location = New System.Drawing.Point(24, 70)
+        Me.Label938.Name = "Label938"
+        Me.Label938.Size = New System.Drawing.Size(135, 13)
+        Me.Label938.TabIndex = 17
+        Me.Label938.Text = "Espesor de la placa simple:"
+        '
+        'TextBox287
+        '
+        Me.TextBox287.Location = New System.Drawing.Point(161, 66)
+        Me.TextBox287.Name = "TextBox287"
+        Me.TextBox287.Size = New System.Drawing.Size(40, 20)
+        Me.TextBox287.TabIndex = 18
+        '
+        'Label870
+        '
+        Me.Label870.AutoSize = true
+        Me.Label870.Location = New System.Drawing.Point(302, 477)
+        Me.Label870.Name = "Label870"
+        Me.Label870.Size = New System.Drawing.Size(40, 13)
+        Me.Label870.TabIndex = 16
+        Me.Label870.Text = "Cargas"
+        '
+        'PictureBox312
+        '
+        Me.PictureBox312.Image = Global.WindowsApplication1.My.Resources.Resources.CargasGC6
+        Me.PictureBox312.Location = New System.Drawing.Point(197, 217)
+        Me.PictureBox312.Name = "PictureBox312"
+        Me.PictureBox312.Size = New System.Drawing.Size(250, 250)
+        Me.PictureBox312.TabIndex = 15
+        Me.PictureBox312.TabStop = false
+        Me.ToolTip1.SetToolTip(Me.PictureBox312, "AISC Manual, Pt. 13")
+        '
+        'GroupBox161
+        '
+        Me.GroupBox161.Controls.Add(Me.PictureBox407)
+        Me.GroupBox161.Controls.Add(Me.PictureBox356)
+        Me.GroupBox161.Controls.Add(Me.PictureBox349)
+        Me.GroupBox161.Controls.Add(Me.PictureBox313)
+        Me.GroupBox161.Controls.Add(Me.PictureBox296)
+        Me.GroupBox161.Controls.Add(Me.PictureBox295)
+        Me.GroupBox161.Controls.Add(Me.Label864)
+        Me.GroupBox161.Controls.Add(Me.Label1084)
+        Me.GroupBox161.Controls.Add(Me.Label1083)
+        Me.GroupBox161.Controls.Add(Me.Label869)
+        Me.GroupBox161.Controls.Add(Me.Label1080)
+        Me.GroupBox161.Controls.Add(Me.Label867)
+        Me.GroupBox161.Controls.Add(Me.Label866)
+        Me.GroupBox161.Controls.Add(Me.Label1030)
+        Me.GroupBox161.Controls.Add(Me.Label858)
+        Me.GroupBox161.Controls.Add(Me.Label862)
+        Me.GroupBox161.Controls.Add(Me.Label856)
+        Me.GroupBox161.Controls.Add(Me.Label859)
+        Me.GroupBox161.ForeColor = System.Drawing.Color.White
+        Me.GroupBox161.Location = New System.Drawing.Point(476, 16)
+        Me.GroupBox161.Name = "GroupBox161"
+        Me.GroupBox161.Size = New System.Drawing.Size(220, 395)
+        Me.GroupBox161.TabIndex = 14
+        Me.GroupBox161.TabStop = false
+        Me.GroupBox161.Text = "Placa Simple"
+        Me.ToolTip1.SetToolTip(Me.GroupBox161, "Aplastamiento de los pernos:"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AISC 360-10, J3.10"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"Ruptura por bloque de cortante:"& _ 
+        ""&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AISC 360-10, J4.3"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10))
+        '
+        'PictureBox407
+        '
+        Me.PictureBox407.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
+        Me.PictureBox407.Location = New System.Drawing.Point(67, 358)
+        Me.PictureBox407.Name = "PictureBox407"
+        Me.PictureBox407.Size = New System.Drawing.Size(48, 14)
+        Me.PictureBox407.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
+        Me.PictureBox407.TabIndex = 63
+        Me.PictureBox407.TabStop = false
+        '
+        'PictureBox356
+        '
+        Me.PictureBox356.Image = Global.WindowsApplication1.My.Resources.Resources.Rublancoigual
+        Me.PictureBox356.Location = New System.Drawing.Point(52, 291)
+        Me.PictureBox356.Name = "PictureBox356"
+        Me.PictureBox356.Size = New System.Drawing.Size(38, 14)
+        Me.PictureBox356.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
+        Me.PictureBox356.TabIndex = 62
+        Me.PictureBox356.TabStop = false
+        '
+        'PictureBox349
+        '
+        Me.PictureBox349.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
+        Me.PictureBox349.Location = New System.Drawing.Point(67, 237)
+        Me.PictureBox349.Name = "PictureBox349"
+        Me.PictureBox349.Size = New System.Drawing.Size(48, 14)
+        Me.PictureBox349.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
+        Me.PictureBox349.TabIndex = 61
+        Me.PictureBox349.TabStop = false
+        '
+        'PictureBox313
+        '
+        Me.PictureBox313.Image = Global.WindowsApplication1.My.Resources.Resources.Rublancoigual
+        Me.PictureBox313.Location = New System.Drawing.Point(52, 172)
+        Me.PictureBox313.Name = "PictureBox313"
+        Me.PictureBox313.Size = New System.Drawing.Size(38, 14)
+        Me.PictureBox313.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
+        Me.PictureBox313.TabIndex = 60
+        Me.PictureBox313.TabStop = false
+        '
+        'PictureBox296
+        '
+        Me.PictureBox296.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
+        Me.PictureBox296.Location = New System.Drawing.Point(67, 120)
+        Me.PictureBox296.Name = "PictureBox296"
+        Me.PictureBox296.Size = New System.Drawing.Size(48, 14)
+        Me.PictureBox296.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
+        Me.PictureBox296.TabIndex = 59
+        Me.PictureBox296.TabStop = false
+        '
+        'PictureBox295
+        '
+        Me.PictureBox295.Image = Global.WindowsApplication1.My.Resources.Resources.Rublancoigual
+        Me.PictureBox295.Location = New System.Drawing.Point(52, 55)
+        Me.PictureBox295.Name = "PictureBox295"
+        Me.PictureBox295.Size = New System.Drawing.Size(38, 14)
+        Me.PictureBox295.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
+        Me.PictureBox295.TabIndex = 58
+        Me.PictureBox295.TabStop = false
+        '
+        'Label864
+        '
+        Me.Label864.Location = New System.Drawing.Point(28, 318)
+        Me.Label864.Name = "Label864"
+        Me.Label864.Size = New System.Drawing.Size(175, 31)
+        Me.Label864.TabIndex = 49
+        Me.Label864.Text = "Resistencia disponible al aplastamiento de los pernos:"
+        '
+        'Label1084
+        '
+        Me.Label1084.AutoSize = true
+        Me.Label1084.Location = New System.Drawing.Point(115, 238)
+        Me.Label1084.Name = "Label1084"
+        Me.Label1084.Size = New System.Drawing.Size(57, 13)
+        Me.Label1084.TabIndex = 48
+        Me.Label1084.Text = "Label1084"
+        '
+        'Label1083
+        '
+        Me.Label1083.Location = New System.Drawing.Point(28, 197)
+        Me.Label1083.Name = "Label1083"
+        Me.Label1083.Size = New System.Drawing.Size(175, 32)
+        Me.Label1083.TabIndex = 47
+        Me.Label1083.Text = "Resistencia disponible a la ruptura por bloque de cortante:"
+        '
+        'Label869
+        '
+        Me.Label869.AutoSize = true
+        Me.Label869.Location = New System.Drawing.Point(91, 172)
+        Me.Label869.Name = "Label869"
+        Me.Label869.Size = New System.Drawing.Size(51, 13)
+        Me.Label869.TabIndex = 46
+        Me.Label869.Text = "Label869"
+        '
+        'Label1080
+        '
+        Me.Label1080.AutoSize = true
+        Me.Label1080.Location = New System.Drawing.Point(10, 145)
+        Me.Label1080.Name = "Label1080"
+        Me.Label1080.Size = New System.Drawing.Size(142, 13)
+        Me.Label1080.TabIndex = 45
+        Me.Label1080.Text = "Carga de cortante requerida:"
+        '
+        'Label867
+        '
+        Me.Label867.Location = New System.Drawing.Point(28, 81)
+        Me.Label867.Name = "Label867"
+        Me.Label867.Size = New System.Drawing.Size(175, 32)
+        Me.Label867.TabIndex = 44
+        Me.Label867.Text = "Resistencia disponible a la ruptura por bloque de cortante:"
+        '
+        'Label866
+        '
+        Me.Label866.AutoSize = true
+        Me.Label866.Location = New System.Drawing.Point(91, 292)
+        Me.Label866.Name = "Label866"
+        Me.Label866.Size = New System.Drawing.Size(51, 13)
+        Me.Label866.TabIndex = 43
+        Me.Label866.Text = "Label866"
+        '
+        'Label1030
+        '
+        Me.Label1030.AutoSize = true
+        Me.Label1030.Location = New System.Drawing.Point(10, 264)
+        Me.Label1030.Name = "Label1030"
+        Me.Label1030.Size = New System.Drawing.Size(108, 13)
+        Me.Label1030.TabIndex = 42
+        Me.Label1030.Text = "Carga total requerida:"
+        '
+        'Label858
+        '
+        Me.Label858.AutoSize = true
+        Me.Label858.Location = New System.Drawing.Point(115, 358)
+        Me.Label858.Name = "Label858"
+        Me.Label858.Size = New System.Drawing.Size(51, 13)
+        Me.Label858.TabIndex = 22
+        Me.Label858.Text = "Label858"
+        '
+        'Label862
+        '
+        Me.Label862.AutoSize = true
+        Me.Label862.Location = New System.Drawing.Point(10, 26)
+        Me.Label862.Name = "Label862"
+        Me.Label862.Size = New System.Drawing.Size(119, 13)
+        Me.Label862.TabIndex = 22
+        Me.Label862.Text = "Carga normal requerida:"
+        '
+        'Label856
+        '
+        Me.Label856.AutoSize = true
+        Me.Label856.Location = New System.Drawing.Point(91, 55)
+        Me.Label856.Name = "Label856"
+        Me.Label856.Size = New System.Drawing.Size(54, 13)
+        Me.Label856.TabIndex = 20
+        Me.Label856.Text = " Label856"
+        '
+        'Label859
+        '
+        Me.Label859.AutoSize = true
+        Me.Label859.Location = New System.Drawing.Point(115, 120)
+        Me.Label859.Name = "Label859"
+        Me.Label859.Size = New System.Drawing.Size(51, 13)
+        Me.Label859.TabIndex = 19
+        Me.Label859.Text = "Label859"
+        '
+        'GroupBox160
+        '
+        Me.GroupBox160.Controls.Add(Me.PictureBox415)
+        Me.GroupBox160.Controls.Add(Me.PictureBox414)
+        Me.GroupBox160.Controls.Add(Me.PictureBox413)
+        Me.GroupBox160.Controls.Add(Me.PictureBox412)
+        Me.GroupBox160.Controls.Add(Me.PictureBox411)
+        Me.GroupBox160.Controls.Add(Me.PictureBox410)
+        Me.GroupBox160.Controls.Add(Me.PictureBox409)
+        Me.GroupBox160.Controls.Add(Me.PictureBox408)
+        Me.GroupBox160.Controls.Add(Me.Label1081)
+        Me.GroupBox160.Controls.Add(Me.Label1082)
+        Me.GroupBox160.Controls.Add(Me.Label1078)
+        Me.GroupBox160.Controls.Add(Me.Label1079)
+        Me.GroupBox160.Controls.Add(Me.Label1032)
+        Me.GroupBox160.Controls.Add(Me.Label1077)
+        Me.GroupBox160.Controls.Add(Me.Label1031)
+        Me.GroupBox160.Controls.Add(Me.Label1029)
+        Me.GroupBox160.Controls.Add(Me.Label868)
+        Me.GroupBox160.Controls.Add(Me.Label860)
+        Me.GroupBox160.Controls.Add(Me.Label865)
+        Me.GroupBox160.Controls.Add(Me.Label855)
+        Me.GroupBox160.Controls.Add(Me.Label861)
+        Me.GroupBox160.Controls.Add(Me.Label854)
+        Me.GroupBox160.Controls.Add(Me.Label853)
+        Me.GroupBox160.Controls.Add(Me.Label852)
+        Me.GroupBox160.ForeColor = System.Drawing.Color.White
+        Me.GroupBox160.Location = New System.Drawing.Point(702, 16)
+        Me.GroupBox160.Name = "GroupBox160"
+        Me.GroupBox160.Size = New System.Drawing.Size(220, 525)
+        Me.GroupBox160.TabIndex = 13
+        Me.GroupBox160.TabStop = false
+        Me.GroupBox160.Text = "Placa Gusset"
+        Me.ToolTip1.SetToolTip(Me.GroupBox160, "Resistencia a la fluencia:"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AISC 360-10, J4.1"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"Aplastamiento de los pernos:"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AISC"& _ 
+        " 360-10, J3.10"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"Ruptura por bloque de cortante:"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AISC 360-10, J4.3")
+        '
+        'PictureBox415
+        '
+        Me.PictureBox415.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
+        Me.PictureBox415.Location = New System.Drawing.Point(67, 493)
+        Me.PictureBox415.Name = "PictureBox415"
+        Me.PictureBox415.Size = New System.Drawing.Size(48, 14)
+        Me.PictureBox415.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
+        Me.PictureBox415.TabIndex = 71
+        Me.PictureBox415.TabStop = false
+        '
+        'PictureBox414
+        '
+        Me.PictureBox414.Image = Global.WindowsApplication1.My.Resources.Resources.Rublancoigual
+        Me.PictureBox414.Location = New System.Drawing.Point(52, 433)
+        Me.PictureBox414.Name = "PictureBox414"
+        Me.PictureBox414.Size = New System.Drawing.Size(38, 14)
+        Me.PictureBox414.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
+        Me.PictureBox414.TabIndex = 70
+        Me.PictureBox414.TabStop = false
+        '
+        'PictureBox413
+        '
+        Me.PictureBox413.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
+        Me.PictureBox413.Location = New System.Drawing.Point(67, 377)
+        Me.PictureBox413.Name = "PictureBox413"
+        Me.PictureBox413.Size = New System.Drawing.Size(48, 14)
+        Me.PictureBox413.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
+        Me.PictureBox413.TabIndex = 69
+        Me.PictureBox413.TabStop = false
+        '
+        'PictureBox412
+        '
+        Me.PictureBox412.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
+        Me.PictureBox412.Location = New System.Drawing.Point(67, 309)
+        Me.PictureBox412.Name = "PictureBox412"
+        Me.PictureBox412.Size = New System.Drawing.Size(48, 14)
+        Me.PictureBox412.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
+        Me.PictureBox412.TabIndex = 68
+        Me.PictureBox412.TabStop = false
+        '
+        'PictureBox411
+        '
+        Me.PictureBox411.Image = Global.WindowsApplication1.My.Resources.Resources.Rublancoigual
+        Me.PictureBox411.Location = New System.Drawing.Point(52, 243)
+        Me.PictureBox411.Name = "PictureBox411"
+        Me.PictureBox411.Size = New System.Drawing.Size(38, 14)
+        Me.PictureBox411.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
+        Me.PictureBox411.TabIndex = 67
+        Me.PictureBox411.TabStop = false
+        '
+        'PictureBox410
+        '
+        Me.PictureBox410.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
+        Me.PictureBox410.Location = New System.Drawing.Point(67, 186)
+        Me.PictureBox410.Name = "PictureBox410"
+        Me.PictureBox410.Size = New System.Drawing.Size(48, 14)
+        Me.PictureBox410.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
+        Me.PictureBox410.TabIndex = 66
+        Me.PictureBox410.TabStop = false
+        '
+        'PictureBox409
+        '
+        Me.PictureBox409.Image = Global.WindowsApplication1.My.Resources.Resources.phiRnblancoigual
+        Me.PictureBox409.Location = New System.Drawing.Point(67, 120)
+        Me.PictureBox409.Name = "PictureBox409"
+        Me.PictureBox409.Size = New System.Drawing.Size(48, 14)
+        Me.PictureBox409.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
+        Me.PictureBox409.TabIndex = 65
+        Me.PictureBox409.TabStop = false
+        '
+        'PictureBox408
+        '
+        Me.PictureBox408.Image = Global.WindowsApplication1.My.Resources.Resources.Rublancoigual
+        Me.PictureBox408.Location = New System.Drawing.Point(52, 55)
+        Me.PictureBox408.Name = "PictureBox408"
+        Me.PictureBox408.Size = New System.Drawing.Size(38, 14)
+        Me.PictureBox408.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
+        Me.PictureBox408.TabIndex = 64
+        Me.PictureBox408.TabStop = false
+        '
+        'Label1081
+        '
+        Me.Label1081.AutoSize = true
+        Me.Label1081.Location = New System.Drawing.Point(91, 433)
+        Me.Label1081.Name = "Label1081"
+        Me.Label1081.Size = New System.Drawing.Size(57, 13)
+        Me.Label1081.TabIndex = 41
+        Me.Label1081.Text = "Label1081"
+        '
+        'Label1082
+        '
+        Me.Label1082.AutoSize = true
+        Me.Label1082.Location = New System.Drawing.Point(13, 405)
+        Me.Label1082.Name = "Label1082"
+        Me.Label1082.Size = New System.Drawing.Size(108, 13)
+        Me.Label1082.TabIndex = 40
+        Me.Label1082.Text = "Carga total requerida:"
+        '
+        'Label1078
+        '
+        Me.Label1078.Location = New System.Drawing.Point(28, 270)
+        Me.Label1078.Name = "Label1078"
+        Me.Label1078.Size = New System.Drawing.Size(175, 30)
+        Me.Label1078.TabIndex = 39
+        Me.Label1078.Text = "Resistencia disponible a la fluencia por cortante:"
+        '
+        'Label1079
+        '
+        Me.Label1079.AutoSize = true
+        Me.Label1079.Location = New System.Drawing.Point(115, 309)
+        Me.Label1079.Name = "Label1079"
+        Me.Label1079.Size = New System.Drawing.Size(57, 13)
+        Me.Label1079.TabIndex = 37
+        Me.Label1079.Text = "Label1079"
+        '
+        'Label1032
+        '
+        Me.Label1032.Location = New System.Drawing.Point(26, 337)
+        Me.Label1032.Name = "Label1032"
+        Me.Label1032.Size = New System.Drawing.Size(175, 32)
+        Me.Label1032.TabIndex = 35
+        Me.Label1032.Text = "Resistencia disponible a la ruptura por bloque de cortante:"
+        '
+        'Label1077
+        '
+        Me.Label1077.AutoSize = true
+        Me.Label1077.Location = New System.Drawing.Point(115, 377)
+        Me.Label1077.Name = "Label1077"
+        Me.Label1077.Size = New System.Drawing.Size(57, 13)
+        Me.Label1077.TabIndex = 34
+        Me.Label1077.Text = "Label1077"
+        '
+        'Label1031
+        '
+        Me.Label1031.AutoSize = true
+        Me.Label1031.Location = New System.Drawing.Point(91, 243)
+        Me.Label1031.Name = "Label1031"
+        Me.Label1031.Size = New System.Drawing.Size(57, 13)
+        Me.Label1031.TabIndex = 32
+        Me.Label1031.Text = "Label1031"
+        '
+        'Label1029
+        '
+        Me.Label1029.AutoSize = true
+        Me.Label1029.Location = New System.Drawing.Point(10, 216)
+        Me.Label1029.Name = "Label1029"
+        Me.Label1029.Size = New System.Drawing.Size(142, 13)
+        Me.Label1029.TabIndex = 31
+        Me.Label1029.Text = "Carga de cortante requerida:"
+        '
+        'Label868
+        '
+        Me.Label868.Location = New System.Drawing.Point(28, 81)
+        Me.Label868.Name = "Label868"
+        Me.Label868.Size = New System.Drawing.Size(175, 31)
+        Me.Label868.TabIndex = 30
+        Me.Label868.Text = "Resistencia disponible a la fluencia por tensión:"
+        '
+        'Label860
+        '
+        Me.Label860.Location = New System.Drawing.Point(28, 145)
+        Me.Label860.Name = "Label860"
+        Me.Label860.Size = New System.Drawing.Size(175, 32)
+        Me.Label860.TabIndex = 27
+        Me.Label860.Text = "Resistencia disponible a la ruptura por bloque de cortante:"
+        '
+        'Label865
+        '
+        Me.Label865.AutoSize = true
+        Me.Label865.Location = New System.Drawing.Point(10, 26)
+        Me.Label865.Name = "Label865"
+        Me.Label865.Size = New System.Drawing.Size(119, 13)
+        Me.Label865.TabIndex = 25
+        Me.Label865.Text = "Carga normal requerida:"
+        '
+        'Label855
+        '
+        Me.Label855.AutoSize = true
+        Me.Label855.Location = New System.Drawing.Point(115, 186)
+        Me.Label855.Name = "Label855"
+        Me.Label855.Size = New System.Drawing.Size(51, 13)
+        Me.Label855.TabIndex = 21
+        Me.Label855.Text = "Label855"
+        '
+        'Label861
+        '
+        Me.Label861.Location = New System.Drawing.Point(26, 455)
+        Me.Label861.Name = "Label861"
+        Me.Label861.Size = New System.Drawing.Size(175, 31)
+        Me.Label861.TabIndex = 21
+        Me.Label861.Text = "Resistencia disponible al aplastamiento de los pernos:"
+        '
+        'Label854
+        '
+        Me.Label854.AutoSize = true
+        Me.Label854.Location = New System.Drawing.Point(115, 493)
+        Me.Label854.Name = "Label854"
+        Me.Label854.Size = New System.Drawing.Size(51, 13)
+        Me.Label854.TabIndex = 18
+        Me.Label854.Text = "Label854"
+        '
+        'Label853
+        '
+        Me.Label853.AutoSize = true
+        Me.Label853.Location = New System.Drawing.Point(115, 120)
+        Me.Label853.Name = "Label853"
+        Me.Label853.Size = New System.Drawing.Size(51, 13)
+        Me.Label853.TabIndex = 17
+        Me.Label853.Text = "Label853"
+        '
+        'Label852
+        '
+        Me.Label852.AutoSize = true
+        Me.Label852.Location = New System.Drawing.Point(91, 55)
+        Me.Label852.Name = "Label852"
+        Me.Label852.Size = New System.Drawing.Size(51, 13)
+        Me.Label852.TabIndex = 16
+        Me.Label852.Text = "Label852"
+        '
+        'GroupBox159
+        '
+        Me.GroupBox159.Controls.Add(Me.Label964)
+        Me.GroupBox159.Controls.Add(Me.TextBox288)
+        Me.GroupBox159.Controls.Add(Me.Label965)
+        Me.GroupBox159.Controls.Add(Me.Label943)
+        Me.GroupBox159.Controls.Add(Me.Label942)
+        Me.GroupBox159.Controls.Add(Me.ComboBox15)
+        Me.GroupBox159.Controls.Add(Me.Label851)
+        Me.GroupBox159.Controls.Add(Me.Label848)
+        Me.GroupBox159.Controls.Add(Me.TextBox265)
+        Me.GroupBox159.Controls.Add(Me.Label849)
+        Me.GroupBox159.Controls.Add(Me.ComboBox16)
+        Me.GroupBox159.Controls.Add(Me.Label850)
+        Me.GroupBox159.ForeColor = System.Drawing.Color.White
+        Me.GroupBox159.Location = New System.Drawing.Point(270, 16)
+        Me.GroupBox159.Name = "GroupBox159"
+        Me.GroupBox159.Size = New System.Drawing.Size(200, 175)
+        Me.GroupBox159.TabIndex = 12
+        Me.GroupBox159.TabStop = false
+        Me.GroupBox159.Text = "Pernos"
+        Me.ToolTip1.SetToolTip(Me.GroupBox159, "Tipo de pernos:"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AISC 360-10, Tabla J3.2"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"Diámetros:"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AISC 360-10, Tabla J3.3"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"Di"& _ 
+        "stancia al borde mínima:"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"AISC 360-10, Tabla J3.4")
+        '
+        'Label964
+        '
+        Me.Label964.AutoSize = true
+        Me.Label964.Location = New System.Drawing.Point(135, 133)
+        Me.Label964.Name = "Label964"
+        Me.Label964.Size = New System.Drawing.Size(51, 13)
+        Me.Label964.TabIndex = 18
+        Me.Label964.Text = "Label964"
+        '
+        'TextBox288
+        '
+        Me.TextBox288.Location = New System.Drawing.Point(94, 129)
+        Me.TextBox288.Name = "TextBox288"
+        Me.TextBox288.Size = New System.Drawing.Size(40, 20)
+        Me.TextBox288.TabIndex = 17
+        '
+        'Label965
+        '
+        Me.Label965.AutoSize = true
+        Me.Label965.Location = New System.Drawing.Point(12, 133)
+        Me.Label965.Name = "Label965"
+        Me.Label965.Size = New System.Drawing.Size(79, 13)
+        Me.Label965.TabIndex = 16
+        Me.Label965.Text = "Espaciamiento:"
+        '
+        'Label943
+        '
+        Me.Label943.AutoSize = true
+        Me.Label943.Location = New System.Drawing.Point(91, 26)
+        Me.Label943.Name = "Label943"
+        Me.Label943.Size = New System.Drawing.Size(51, 13)
+        Me.Label943.TabIndex = 13
+        Me.Label943.Text = "Label943"
+        '
+        'Label942
+        '
+        Me.Label942.AutoSize = true
+        Me.Label942.Location = New System.Drawing.Point(53, 26)
+        Me.Label942.Name = "Label942"
+        Me.Label942.Size = New System.Drawing.Size(38, 13)
+        Me.Label942.TabIndex = 12
+        Me.Label942.Text = "Carga:"
+        '
+        'ComboBox15
+        '
+        Me.ComboBox15.FormattingEnabled = true
+        Me.ComboBox15.Items.AddRange(New Object() {"A307", "A325", "A325X", "A490", "A490X"})
+        Me.ComboBox15.Location = New System.Drawing.Point(94, 49)
+        Me.ComboBox15.Name = "ComboBox15"
+        Me.ComboBox15.Size = New System.Drawing.Size(65, 21)
+        Me.ComboBox15.TabIndex = 8
+        '
+        'Label851
+        '
+        Me.Label851.AutoSize = true
+        Me.Label851.Location = New System.Drawing.Point(135, 107)
+        Me.Label851.Name = "Label851"
+        Me.Label851.Size = New System.Drawing.Size(51, 13)
+        Me.Label851.TabIndex = 11
+        Me.Label851.Text = "Label851"
+        '
+        'Label848
+        '
+        Me.Label848.AutoSize = true
+        Me.Label848.Location = New System.Drawing.Point(15, 53)
+        Me.Label848.Name = "Label848"
+        Me.Label848.Size = New System.Drawing.Size(76, 13)
+        Me.Label848.TabIndex = 5
+        Me.Label848.Text = "Tipo de perno:"
+        '
+        'TextBox265
+        '
+        Me.TextBox265.Location = New System.Drawing.Point(94, 103)
+        Me.TextBox265.Name = "TextBox265"
+        Me.TextBox265.Size = New System.Drawing.Size(40, 20)
+        Me.TextBox265.TabIndex = 10
+        '
+        'Label849
+        '
+        Me.Label849.AutoSize = true
+        Me.Label849.Location = New System.Drawing.Point(39, 80)
+        Me.Label849.Name = "Label849"
+        Me.Label849.Size = New System.Drawing.Size(52, 13)
+        Me.Label849.TabIndex = 6
+        Me.Label849.Text = "Diámetro:"
+        '
+        'ComboBox16
+        '
+        Me.ComboBox16.FormattingEnabled = true
+        Me.ComboBox16.Items.AddRange(New Object() {"1/2 in", "5/8 in", "3/4 in", "7/8 in", "1 in", "1 1/8 in", "1 1/4 in"})
+        Me.ComboBox16.Location = New System.Drawing.Point(94, 76)
+        Me.ComboBox16.Name = "ComboBox16"
+        Me.ComboBox16.Size = New System.Drawing.Size(65, 21)
+        Me.ComboBox16.TabIndex = 9
+        '
+        'Label850
+        '
+        Me.Label850.AutoSize = true
+        Me.Label850.Location = New System.Drawing.Point(39, 107)
+        Me.Label850.Name = "Label850"
+        Me.Label850.Size = New System.Drawing.Size(52, 13)
+        Me.Label850.TabIndex = 7
+        Me.Label850.Text = "Cantidad:"
+        '
+        'Label847
+        '
+        Me.Label847.AutoSize = true
+        Me.Label847.Location = New System.Drawing.Point(81, 167)
+        Me.Label847.Name = "Label847"
+        Me.Label847.Size = New System.Drawing.Size(51, 13)
+        Me.Label847.TabIndex = 4
+        Me.Label847.Text = "Label847"
+        '
+        'Label846
+        '
+        Me.Label846.AutoSize = true
+        Me.Label846.Location = New System.Drawing.Point(126, 213)
+        Me.Label846.Name = "Label846"
+        Me.Label846.Size = New System.Drawing.Size(51, 13)
+        Me.Label846.TabIndex = 3
+        Me.Label846.Text = "Label846"
+        '
+        'Label845
+        '
+        Me.Label845.AutoSize = true
+        Me.Label845.Location = New System.Drawing.Point(124, 275)
+        Me.Label845.Name = "Label845"
+        Me.Label845.Size = New System.Drawing.Size(51, 13)
+        Me.Label845.TabIndex = 2
+        Me.Label845.Text = "Label845"
+        '
+        'Label844
+        '
+        Me.Label844.AutoSize = true
+        Me.Label844.Location = New System.Drawing.Point(14, 323)
+        Me.Label844.Name = "Label844"
+        Me.Label844.Size = New System.Drawing.Size(51, 13)
+        Me.Label844.TabIndex = 1
+        Me.Label844.Text = "Label844"
+        '
+        'PictureBox316
+        '
+        Me.PictureBox316.Image = Global.WindowsApplication1.My.Resources.Resources.PSGC
+        Me.PictureBox316.Location = New System.Drawing.Point(42, 162)
+        Me.PictureBox316.Name = "PictureBox316"
+        Me.PictureBox316.Size = New System.Drawing.Size(100, 350)
+        Me.PictureBox316.TabIndex = 0
+        Me.PictureBox316.TabStop = false
+        '
         'TabControl3
         '
         Me.TabControl3.Controls.Add(Me.TabPage16)
@@ -23197,6 +23200,7 @@ Partial Class ADCAS
         '
         Me.TabPage17.AutoScroll = true
         Me.TabPage17.BackColor = System.Drawing.Color.FromArgb(CType(CType(68,Byte),Integer), CType(CType(77,Byte),Integer), CType(CType(83,Byte),Integer))
+        Me.TabPage17.Controls.Add(Me.Label709)
         Me.TabPage17.Controls.Add(Me.LinkLabel1)
         Me.TabPage17.Controls.Add(Me.GroupBox100)
         Me.TabPage17.Controls.Add(Me.ListBox7)
@@ -23931,6 +23935,8 @@ Partial Class ADCAS
         '
         Me.TabPage18.AutoScroll = true
         Me.TabPage18.BackColor = System.Drawing.Color.FromArgb(CType(CType(68,Byte),Integer), CType(CType(77,Byte),Integer), CType(CType(83,Byte),Integer))
+        Me.TabPage18.Controls.Add(Me.Label713)
+        Me.TabPage18.Controls.Add(Me.Label711)
         Me.TabPage18.Controls.Add(Me.ListBox11)
         Me.TabPage18.Controls.Add(Me.ListBox10)
         Me.TabPage18.Controls.Add(Me.GroupBox208)
@@ -32657,6 +32663,36 @@ Partial Class ADCAS
         Me.Button13.Text = "Elegir"
         Me.Button13.UseVisualStyleBackColor = true
         '
+        'Label709
+        '
+        Me.Label709.AutoSize = true
+        Me.Label709.ForeColor = System.Drawing.Color.White
+        Me.Label709.Location = New System.Drawing.Point(423, 328)
+        Me.Label709.Name = "Label709"
+        Me.Label709.Size = New System.Drawing.Size(208, 13)
+        Me.Label709.TabIndex = 35
+        Me.Label709.Text = "Resistencia al deslizamiento de los pernos:"
+        '
+        'Label711
+        '
+        Me.Label711.AutoSize = true
+        Me.Label711.ForeColor = System.Drawing.Color.White
+        Me.Label711.Location = New System.Drawing.Point(424, 330)
+        Me.Label711.Name = "Label711"
+        Me.Label711.Size = New System.Drawing.Size(208, 13)
+        Me.Label711.TabIndex = 73
+        Me.Label711.Text = "Resistencia al deslizamiento de los pernos:"
+        '
+        'Label713
+        '
+        Me.Label713.AutoSize = true
+        Me.Label713.ForeColor = System.Drawing.Color.White
+        Me.Label713.Location = New System.Drawing.Point(412, 732)
+        Me.Label713.Name = "Label713"
+        Me.Label713.Size = New System.Drawing.Size(208, 13)
+        Me.Label713.TabIndex = 74
+        Me.Label713.Text = "Resistencia al deslizamiento de los pernos:"
+        '
         'ADCAS
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6!, 13!)
@@ -32857,157 +32893,6 @@ Partial Class ADCAS
         Me.GroupBox150N.PerformLayout
         Me.GroupBox149N.ResumeLayout(false)
         Me.GroupBox149N.PerformLayout
-        Me.TabControl1N.ResumeLayout(false)
-        Me.TabPage12N.ResumeLayout(false)
-        Me.GroupBox147N.ResumeLayout(false)
-        CType(Me.PictureBox318,System.ComponentModel.ISupportInitialize).EndInit
-        Me.GroupBox87.ResumeLayout(false)
-        Me.GroupBox87.PerformLayout
-        CType(Me.PictureBox256,System.ComponentModel.ISupportInitialize).EndInit
-        CType(Me.PictureBox213,System.ComponentModel.ISupportInitialize).EndInit
-        Me.GroupBox148N.ResumeLayout(false)
-        Me.GroupBox148N.PerformLayout
-        CType(Me.PictureBox355,System.ComponentModel.ISupportInitialize).EndInit
-        CType(Me.PictureBox247N,System.ComponentModel.ISupportInitialize).EndInit
-        Me.GroupBox146N.ResumeLayout(false)
-        Me.GroupBox146N.PerformLayout
-        CType(Me.PictureBox317,System.ComponentModel.ISupportInitialize).EndInit
-        Me.GroupBox145N.ResumeLayout(false)
-        Me.GroupBox145N.PerformLayout
-        CType(Me.PictureBox246N,System.ComponentModel.ISupportInitialize).EndInit
-        CType(Me.PictureBox245N,System.ComponentModel.ISupportInitialize).EndInit
-        Me.GroupBox144N.ResumeLayout(false)
-        Me.GroupBox144N.PerformLayout
-        Me.GroupBox143N.ResumeLayout(false)
-        Me.GroupBox143N.PerformLayout
-        CType(Me.PictureBox244N,System.ComponentModel.ISupportInitialize).EndInit
-        CType(Me.PictureBox243N,System.ComponentModel.ISupportInitialize).EndInit
-        CType(Me.PictureBox242N,System.ComponentModel.ISupportInitialize).EndInit
-        Me.TabPage9.ResumeLayout(false)
-        Me.GroupBox96.ResumeLayout(false)
-        Me.GroupBox96.PerformLayout
-        Me.GroupBox99.ResumeLayout(false)
-        Me.GroupBox99.PerformLayout
-        CType(Me.PictureBox226,System.ComponentModel.ISupportInitialize).EndInit
-        CType(Me.PictureBox227,System.ComponentModel.ISupportInitialize).EndInit
-        Me.GroupBox97.ResumeLayout(false)
-        Me.GroupBox97.PerformLayout
-        CType(Me.PictureBox222,System.ComponentModel.ISupportInitialize).EndInit
-        CType(Me.PictureBox223,System.ComponentModel.ISupportInitialize).EndInit
-        Me.GroupBox98.ResumeLayout(false)
-        Me.GroupBox98.PerformLayout
-        CType(Me.PictureBox225,System.ComponentModel.ISupportInitialize).EndInit
-        Me.GroupBox92.ResumeLayout(false)
-        Me.GroupBox92.PerformLayout
-        Me.GroupBox95.ResumeLayout(false)
-        Me.GroupBox95.PerformLayout
-        CType(Me.PictureBox220,System.ComponentModel.ISupportInitialize).EndInit
-        CType(Me.PictureBox224,System.ComponentModel.ISupportInitialize).EndInit
-        Me.GroupBox93.ResumeLayout(false)
-        Me.GroupBox93.PerformLayout
-        CType(Me.PictureBox218,System.ComponentModel.ISupportInitialize).EndInit
-        CType(Me.PictureBox219,System.ComponentModel.ISupportInitialize).EndInit
-        Me.GroupBox94.ResumeLayout(false)
-        Me.GroupBox94.PerformLayout
-        CType(Me.PictureBox221,System.ComponentModel.ISupportInitialize).EndInit
-        Me.GroupBox88.ResumeLayout(false)
-        Me.GroupBox88.PerformLayout
-        Me.GroupBox91.ResumeLayout(false)
-        Me.GroupBox91.PerformLayout
-        CType(Me.PictureBox217,System.ComponentModel.ISupportInitialize).EndInit
-        CType(Me.PictureBox216,System.ComponentModel.ISupportInitialize).EndInit
-        Me.GroupBox90.ResumeLayout(false)
-        Me.GroupBox90.PerformLayout
-        Me.GroupBox89.ResumeLayout(false)
-        Me.GroupBox89.PerformLayout
-        CType(Me.PictureBox228,System.ComponentModel.ISupportInitialize).EndInit
-        CType(Me.PictureBox215,System.ComponentModel.ISupportInitialize).EndInit
-        CType(Me.PictureBox214,System.ComponentModel.ISupportInitialize).EndInit
-        Me.TabPage15.ResumeLayout(false)
-        Me.GroupBox170.ResumeLayout(false)
-        Me.GroupBox170.PerformLayout
-        Me.GroupBox171.ResumeLayout(false)
-        Me.GroupBox171.PerformLayout
-        CType(Me.PictureBox446,System.ComponentModel.ISupportInitialize).EndInit
-        CType(Me.PictureBox333,System.ComponentModel.ISupportInitialize).EndInit
-        CType(Me.PictureBox334,System.ComponentModel.ISupportInitialize).EndInit
-        Me.GroupBox172.ResumeLayout(false)
-        Me.GroupBox172.PerformLayout
-        CType(Me.PictureBox448,System.ComponentModel.ISupportInitialize).EndInit
-        CType(Me.PictureBox444,System.ComponentModel.ISupportInitialize).EndInit
-        Me.GroupBox173.ResumeLayout(false)
-        Me.GroupBox173.PerformLayout
-        CType(Me.PictureBox445,System.ComponentModel.ISupportInitialize).EndInit
-        CType(Me.PictureBox335,System.ComponentModel.ISupportInitialize).EndInit
-        CType(Me.PictureBox336,System.ComponentModel.ISupportInitialize).EndInit
-        CType(Me.PictureBox337,System.ComponentModel.ISupportInitialize).EndInit
-        Me.GroupBox166.ResumeLayout(false)
-        Me.GroupBox166.PerformLayout
-        Me.GroupBox167.ResumeLayout(false)
-        Me.GroupBox167.PerformLayout
-        CType(Me.PictureBox438,System.ComponentModel.ISupportInitialize).EndInit
-        CType(Me.PictureBox328,System.ComponentModel.ISupportInitialize).EndInit
-        CType(Me.PictureBox329,System.ComponentModel.ISupportInitialize).EndInit
-        Me.GroupBox168.ResumeLayout(false)
-        Me.GroupBox168.PerformLayout
-        CType(Me.PictureBox447,System.ComponentModel.ISupportInitialize).EndInit
-        CType(Me.PictureBox429,System.ComponentModel.ISupportInitialize).EndInit
-        Me.GroupBox169.ResumeLayout(false)
-        Me.GroupBox169.PerformLayout
-        CType(Me.PictureBox443,System.ComponentModel.ISupportInitialize).EndInit
-        CType(Me.PictureBox442,System.ComponentModel.ISupportInitialize).EndInit
-        CType(Me.PictureBox330,System.ComponentModel.ISupportInitialize).EndInit
-        CType(Me.PictureBox331,System.ComponentModel.ISupportInitialize).EndInit
-        CType(Me.PictureBox332,System.ComponentModel.ISupportInitialize).EndInit
-        Me.GroupBox162.ResumeLayout(false)
-        Me.GroupBox162.PerformLayout
-        Me.GroupBox165.ResumeLayout(false)
-        Me.GroupBox165.PerformLayout
-        CType(Me.PictureBox320,System.ComponentModel.ISupportInitialize).EndInit
-        Me.GroupBox163.ResumeLayout(false)
-        Me.GroupBox163.PerformLayout
-        CType(Me.PictureBox420,System.ComponentModel.ISupportInitialize).EndInit
-        CType(Me.PictureBox418,System.ComponentModel.ISupportInitialize).EndInit
-        CType(Me.PictureBox416,System.ComponentModel.ISupportInitialize).EndInit
-        CType(Me.PictureBox293,System.ComponentModel.ISupportInitialize).EndInit
-        CType(Me.PictureBox321,System.ComponentModel.ISupportInitialize).EndInit
-        CType(Me.PictureBox322,System.ComponentModel.ISupportInitialize).EndInit
-        Me.GroupBox164.ResumeLayout(false)
-        Me.GroupBox164.PerformLayout
-        CType(Me.PictureBox423,System.ComponentModel.ISupportInitialize).EndInit
-        CType(Me.PictureBox422,System.ComponentModel.ISupportInitialize).EndInit
-        CType(Me.PictureBox421,System.ComponentModel.ISupportInitialize).EndInit
-        CType(Me.PictureBox285,System.ComponentModel.ISupportInitialize).EndInit
-        CType(Me.PictureBox315,System.ComponentModel.ISupportInitialize).EndInit
-        CType(Me.PictureBox314,System.ComponentModel.ISupportInitialize).EndInit
-        CType(Me.PictureBox325,System.ComponentModel.ISupportInitialize).EndInit
-        CType(Me.PictureBox327,System.ComponentModel.ISupportInitialize).EndInit
-        Me.GroupBox158.ResumeLayout(false)
-        Me.GroupBox158.PerformLayout
-        Me.GroupBox174.ResumeLayout(false)
-        Me.GroupBox174.PerformLayout
-        CType(Me.PictureBox312,System.ComponentModel.ISupportInitialize).EndInit
-        Me.GroupBox161.ResumeLayout(false)
-        Me.GroupBox161.PerformLayout
-        CType(Me.PictureBox407,System.ComponentModel.ISupportInitialize).EndInit
-        CType(Me.PictureBox356,System.ComponentModel.ISupportInitialize).EndInit
-        CType(Me.PictureBox349,System.ComponentModel.ISupportInitialize).EndInit
-        CType(Me.PictureBox313,System.ComponentModel.ISupportInitialize).EndInit
-        CType(Me.PictureBox296,System.ComponentModel.ISupportInitialize).EndInit
-        CType(Me.PictureBox295,System.ComponentModel.ISupportInitialize).EndInit
-        Me.GroupBox160.ResumeLayout(false)
-        Me.GroupBox160.PerformLayout
-        CType(Me.PictureBox415,System.ComponentModel.ISupportInitialize).EndInit
-        CType(Me.PictureBox414,System.ComponentModel.ISupportInitialize).EndInit
-        CType(Me.PictureBox413,System.ComponentModel.ISupportInitialize).EndInit
-        CType(Me.PictureBox412,System.ComponentModel.ISupportInitialize).EndInit
-        CType(Me.PictureBox411,System.ComponentModel.ISupportInitialize).EndInit
-        CType(Me.PictureBox410,System.ComponentModel.ISupportInitialize).EndInit
-        CType(Me.PictureBox409,System.ComponentModel.ISupportInitialize).EndInit
-        CType(Me.PictureBox408,System.ComponentModel.ISupportInitialize).EndInit
-        Me.GroupBox159.ResumeLayout(false)
-        Me.GroupBox159.PerformLayout
-        CType(Me.PictureBox316,System.ComponentModel.ISupportInitialize).EndInit
         Me.TabControlJ1.ResumeLayout(false)
         Me.TabPage1.ResumeLayout(false)
         Me.GroupBox33.ResumeLayout(false)
@@ -33267,6 +33152,157 @@ Partial Class ADCAS
         Me.GroupBox23.PerformLayout
         Me.GroupBox21.ResumeLayout(false)
         Me.GroupBox21.PerformLayout
+        Me.TabControl1N.ResumeLayout(false)
+        Me.TabPage12N.ResumeLayout(false)
+        Me.GroupBox147N.ResumeLayout(false)
+        CType(Me.PictureBox318,System.ComponentModel.ISupportInitialize).EndInit
+        Me.GroupBox87.ResumeLayout(false)
+        Me.GroupBox87.PerformLayout
+        CType(Me.PictureBox256,System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox213,System.ComponentModel.ISupportInitialize).EndInit
+        Me.GroupBox148N.ResumeLayout(false)
+        Me.GroupBox148N.PerformLayout
+        CType(Me.PictureBox355,System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox247N,System.ComponentModel.ISupportInitialize).EndInit
+        Me.GroupBox146N.ResumeLayout(false)
+        Me.GroupBox146N.PerformLayout
+        CType(Me.PictureBox317,System.ComponentModel.ISupportInitialize).EndInit
+        Me.GroupBox145N.ResumeLayout(false)
+        Me.GroupBox145N.PerformLayout
+        CType(Me.PictureBox246N,System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox245N,System.ComponentModel.ISupportInitialize).EndInit
+        Me.GroupBox144N.ResumeLayout(false)
+        Me.GroupBox144N.PerformLayout
+        Me.GroupBox143N.ResumeLayout(false)
+        Me.GroupBox143N.PerformLayout
+        CType(Me.PictureBox244N,System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox243N,System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox242N,System.ComponentModel.ISupportInitialize).EndInit
+        Me.TabPage9.ResumeLayout(false)
+        Me.GroupBox96.ResumeLayout(false)
+        Me.GroupBox96.PerformLayout
+        Me.GroupBox99.ResumeLayout(false)
+        Me.GroupBox99.PerformLayout
+        CType(Me.PictureBox226,System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox227,System.ComponentModel.ISupportInitialize).EndInit
+        Me.GroupBox97.ResumeLayout(false)
+        Me.GroupBox97.PerformLayout
+        CType(Me.PictureBox222,System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox223,System.ComponentModel.ISupportInitialize).EndInit
+        Me.GroupBox98.ResumeLayout(false)
+        Me.GroupBox98.PerformLayout
+        CType(Me.PictureBox225,System.ComponentModel.ISupportInitialize).EndInit
+        Me.GroupBox92.ResumeLayout(false)
+        Me.GroupBox92.PerformLayout
+        Me.GroupBox95.ResumeLayout(false)
+        Me.GroupBox95.PerformLayout
+        CType(Me.PictureBox220,System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox224,System.ComponentModel.ISupportInitialize).EndInit
+        Me.GroupBox93.ResumeLayout(false)
+        Me.GroupBox93.PerformLayout
+        CType(Me.PictureBox218,System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox219,System.ComponentModel.ISupportInitialize).EndInit
+        Me.GroupBox94.ResumeLayout(false)
+        Me.GroupBox94.PerformLayout
+        CType(Me.PictureBox221,System.ComponentModel.ISupportInitialize).EndInit
+        Me.GroupBox88.ResumeLayout(false)
+        Me.GroupBox88.PerformLayout
+        Me.GroupBox91.ResumeLayout(false)
+        Me.GroupBox91.PerformLayout
+        CType(Me.PictureBox217,System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox216,System.ComponentModel.ISupportInitialize).EndInit
+        Me.GroupBox90.ResumeLayout(false)
+        Me.GroupBox90.PerformLayout
+        Me.GroupBox89.ResumeLayout(false)
+        Me.GroupBox89.PerformLayout
+        CType(Me.PictureBox228,System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox215,System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox214,System.ComponentModel.ISupportInitialize).EndInit
+        Me.TabPage15.ResumeLayout(false)
+        Me.GroupBox170.ResumeLayout(false)
+        Me.GroupBox170.PerformLayout
+        Me.GroupBox171.ResumeLayout(false)
+        Me.GroupBox171.PerformLayout
+        CType(Me.PictureBox446,System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox333,System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox334,System.ComponentModel.ISupportInitialize).EndInit
+        Me.GroupBox172.ResumeLayout(false)
+        Me.GroupBox172.PerformLayout
+        CType(Me.PictureBox448,System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox444,System.ComponentModel.ISupportInitialize).EndInit
+        Me.GroupBox173.ResumeLayout(false)
+        Me.GroupBox173.PerformLayout
+        CType(Me.PictureBox445,System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox335,System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox336,System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox337,System.ComponentModel.ISupportInitialize).EndInit
+        Me.GroupBox166.ResumeLayout(false)
+        Me.GroupBox166.PerformLayout
+        Me.GroupBox167.ResumeLayout(false)
+        Me.GroupBox167.PerformLayout
+        CType(Me.PictureBox438,System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox328,System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox329,System.ComponentModel.ISupportInitialize).EndInit
+        Me.GroupBox168.ResumeLayout(false)
+        Me.GroupBox168.PerformLayout
+        CType(Me.PictureBox447,System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox429,System.ComponentModel.ISupportInitialize).EndInit
+        Me.GroupBox169.ResumeLayout(false)
+        Me.GroupBox169.PerformLayout
+        CType(Me.PictureBox443,System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox442,System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox330,System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox331,System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox332,System.ComponentModel.ISupportInitialize).EndInit
+        Me.GroupBox162.ResumeLayout(false)
+        Me.GroupBox162.PerformLayout
+        Me.GroupBox165.ResumeLayout(false)
+        Me.GroupBox165.PerformLayout
+        CType(Me.PictureBox320,System.ComponentModel.ISupportInitialize).EndInit
+        Me.GroupBox163.ResumeLayout(false)
+        Me.GroupBox163.PerformLayout
+        CType(Me.PictureBox420,System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox418,System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox416,System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox293,System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox321,System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox322,System.ComponentModel.ISupportInitialize).EndInit
+        Me.GroupBox164.ResumeLayout(false)
+        Me.GroupBox164.PerformLayout
+        CType(Me.PictureBox423,System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox422,System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox421,System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox285,System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox315,System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox314,System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox325,System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox327,System.ComponentModel.ISupportInitialize).EndInit
+        Me.GroupBox158.ResumeLayout(false)
+        Me.GroupBox158.PerformLayout
+        Me.GroupBox174.ResumeLayout(false)
+        Me.GroupBox174.PerformLayout
+        CType(Me.PictureBox312,System.ComponentModel.ISupportInitialize).EndInit
+        Me.GroupBox161.ResumeLayout(false)
+        Me.GroupBox161.PerformLayout
+        CType(Me.PictureBox407,System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox356,System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox349,System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox313,System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox296,System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox295,System.ComponentModel.ISupportInitialize).EndInit
+        Me.GroupBox160.ResumeLayout(false)
+        Me.GroupBox160.PerformLayout
+        CType(Me.PictureBox415,System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox414,System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox413,System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox412,System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox411,System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox410,System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox409,System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox408,System.ComponentModel.ISupportInitialize).EndInit
+        Me.GroupBox159.ResumeLayout(false)
+        Me.GroupBox159.PerformLayout
+        CType(Me.PictureBox316,System.ComponentModel.ISupportInitialize).EndInit
         Me.TabControl3.ResumeLayout(false)
         Me.TabPage16.ResumeLayout(false)
         Me.GroupBox195.ResumeLayout(false)
@@ -36484,4 +36520,7 @@ End Sub
     Friend WithEvents PictureBox442 As System.Windows.Forms.PictureBox
     Friend WithEvents PictureBox448 As System.Windows.Forms.PictureBox
     Friend WithEvents PictureBox447 As System.Windows.Forms.PictureBox
+    Friend WithEvents Label709 As System.Windows.Forms.Label
+    Friend WithEvents Label713 As System.Windows.Forms.Label
+    Friend WithEvents Label711 As System.Windows.Forms.Label
 End Class
