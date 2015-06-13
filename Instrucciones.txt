@@ -1,1 +1,1 @@
-Para instalar, correr el archivo \Setup1\Setup1\Express\DVD-5\DiskImages\DISK1\Setup.exe
+Para instalar, correr el archivo \Setup1\Setup\Express\DVD-5\DiskImages\DISK1\Setup.exe
