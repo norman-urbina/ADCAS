@@ -1,0 +1,17 @@
+ADCAS requiere dos condiciones para ser instalado y funcione correctamente en su sistema.
+
+1. Requiere NET Framework 4.5. Si acostumbra a actualizar su windows regularmente, o si cuenta con la última versión del sistema operativo, lo más probable es que cumpla con este requisito. En el caso que no cuente con esta versión de NET Framework 4.5, el instalador de ADCAS le hará saber que necesita instalarlo antes. Para ello, abra el enlace a continuación: https://www.microsoft.com/es-es/download/confirmation.aspx?id=30653 y siga las sencillas instrucciones de la página de descarga.
+
+Después de instalar el NET Framework 4.5 reinicie su computadora y continúe con la instalación de ADCAS.
+
+2. Sistema operativo de 64 bits. ADCAS puede ser instalado tanto en windows de 32 bits como de 64 bits. Sin embargo, para un sistema operativo de 64 bits se requiere la instalación de un controlador de office, que permite al programa consultar las bases de datos incorporadas en los archivos de la aplicación sin generar errores. Para windows de 32 bits no se requiere instalar este módulo.
+
+Debe contar con Microsoft Office 2007, 2010 o 2013. Para cualquiera de estas versiones, y si su sistema es de 64 bits, visite el siguiente enlace: https://www.microsoft.com/es-es/download/confirmation.aspx?id=30653 presione el botón 'Descargar' y siga las sencillas instrucciones de instalación que le brinda la página de descarga. Después de instalado, puede proceder a la instalación de ADCAS de 64 bits.
+
+INSTRUCCIONES DE INSTALACIÓN
+Si reúne los requisitos anteriores, puede proceder a instalar ADCAS como sigue: 
+
+1. Ir hasta la carpeta DISK1 siguiendo la ruta “Setup1\Setup\Express\DVD-5\DiskImages\DISK1”
+2. Dentro de esta carpeta localice el archivo "setup"
+3. Ejecute como administrador, para ello presione clic derecho sobre "setup" y seleccione Ejecutar como administrador. Windows le pedirá confirmación de la ejecución, acepte dando que Sí. El sistema se preparará para iniciar la instalación.
+4. Seguido, verá la ventana del asistente de instalación. Presione el botón Siguiente.En la siguiente ventana, presione el botón Instalar. Espere mientras el proceso termine.
